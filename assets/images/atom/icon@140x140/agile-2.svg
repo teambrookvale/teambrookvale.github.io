@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="132" fill="none" viewBox="0 0 132 132">
+    <path fill="#fff" d="M0 0h132v132H0z"/>
+    <path stroke="#E61786" stroke-width="6" d="M66 27c21.54 0 39 17.46 39 39s-17.46 39-39 39-39-17.46-39-39 17.46-39 39-39z"/>
+    <path fill="url(#a)" fill-rule="evenodd" d="M76.004 100.592L76.5 102l3.78 3.51A41.91 41.91 0 0 1 66 108c-23.196 0-42-18.804-42-42 0-17.575 10.795-32.63 26.117-38.893l1.997 5.669C39.126 38.21 30 51.039 30 66c0 19.882 16.118 36 36 36 3.471 0 6.828-.491 10.004-1.408z" clip-rule="evenodd"/>
+    <path fill="#E61786" fill-rule="evenodd" d="M79.132 87L73.44 99.79 71 105.272l5.482 2.44 12.79 5.692 2.44-5.482-12.79-5.692 5.692-12.79L79.132 87z" clip-rule="evenodd"/>
+    <path fill="#E61786" d="M66 60a6 6 0 1 1 0 12 6 6 0 0 1 0-12z"/>
+    <path fill="#E6B8D0" d="M64 78h4v12h-4zM64 42h4v12h-4zM54 64v4H42v-4zM90 64v4H78v-4zM78.657 52l1.414 1.414-5.657 5.657L73 57.657zM55.657 75l1.414 1.414-5.657 5.657L50 80.657zM49 53.414L50.414 52l5.657 5.657-1.414 1.414zM73 76.414L74.414 75l5.657 5.657-1.414 1.414z"/>
+    <defs>
+        <linearGradient id="a" x1="80" x2="45.5" y1="105.5" y2="29.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity=".6"/>
+            <stop offset="1" stop-color="#0081F2" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+</svg>

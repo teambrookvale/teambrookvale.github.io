@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<article class="">
+    <div class="articlehero block {{ page.boxclassname }}">
+        <div class="inner">    
+            <div class="small"><div class="sep"></div> {{ page.topic }}</div>
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="lead">
+        <div class="inner flex sb">
+            <div>
+                <h2 class="leadheadline">{{ page.leadhead }}</h2>
+                <p>{{ page.leadtext }}</p>
+            </div>
+            <div class="props">
+                <div class="small">Topic</div>
+                <div class="gray">{{ page.topic }}</div>
+                <div class="small">Author</div>
+                <div class="gray">{{ page.author }}</div>
+            </div>
+        </div>
+    </div>
+
+    {{ page.content }}
+
+</article>
+
+<div class="projects">
+    <hr>
+    <div class="flex sb">
+        <div>
+            <h2>{{ site.data.text.home.doyouliketitle }}</h2>
+            <p class="gray">{{ site.data.text.home.doyoulikedescription }}</p>
+        </div>
+        <div>
+            <button onclick="top.location.href = '/contact'">{{ site.data.text.home.letsmakebuttontext}}</button>
+        </div>
+    </div>
+</div>

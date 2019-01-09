@@ -1,0 +1,748 @@
+---
+---
+@import "main";
+
+nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 5;
+    height: 96px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.12);
+    background-color: white;
+}
+.logo {
+    height: 56px;
+    float: left;
+    margin-top: 20px;
+}
+.hamburg,
+.closer {
+    float: right;
+    margin: 34px 0 0 0;
+}
+.closer {
+    font-size: 50px;
+    font-weight: 300;
+    margin-top: 3px;
+    cursor: pointer;
+}
+.inner {
+    width: 1200px;
+    margin: 0 auto;
+}
+nav .inner,
+.global.inner,
+.articlespage .inner,
+.contactpage .inner,
+footer .inner,
+#bignav .inner {
+    width: 1160px;
+}
+h1.herotext {
+    line-height: 64px
+}
+
+.inner.hero {
+    position: relative;
+}
+.inner.hero img {
+    width: 709px; height: 709px;
+    position: absolute; top: 0; right: -100px;
+}
+.hero .textblock {
+    width: 620px;
+    padding: 150px 30px;
+}
+.hero .textblock p {
+    margin-bottom: 50px;
+}
+.pagehero,
+.lead {
+    width: auto;
+    box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.12);
+    margin-bottom: 80px;
+}
+.pagehero .inner {
+    margin: 0 auto;
+    width: 1160px;
+    height: 480px;
+}
+.pagehero .inner > div:first-child {
+    padding-top: 100px;
+}
+.pagehero p {
+    width: 560px;
+}
+.shadowbox {
+    margin: 0 auto;
+    width: 1200px;
+    height: 188px;
+    padding: 60px 64px 64px 64px;
+    box-shadow: 0 12px 48px 0 rgba(0, 0, 0, 0.08);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.6;
+    border-radius: 4px;
+    text-align: center;
+    position: relative; z-index: 2;
+    background-color: white;
+}
+.global {
+    padding: 120px 0 100px 0;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+.global div {
+    text-align: center;
+    flex: 0 1 auto;
+    width: 360px;
+}
+.global div h4 {
+    margin: 15px;
+}
+.articles h1,
+.inner.services {
+    width: 1160px;
+    margin: 0 auto;
+}
+.articles h1 {
+    margin-bottom: 10px;
+}
+.scrollcontainer {
+    padding: 15px 0 40px 0;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+.scrollcontainer .box {
+    display: inline-block;
+    vertical-align: top;
+    width: 1160px;
+    height: 372px;
+    padding: 40px 40px 40px 50px;
+    border-radius: 4px;
+    box-shadow: 0 12px 32px 0 rgba(34, 31, 32, 0.12);
+}
+.scrollcontainer .box:not(:first-child) {
+    margin-left: 40px;
+}
+.scrollcontainer .box:first-child {
+    margin-left: calc((100vw - 1160px) / 2);
+}
+.scrollcontainer .box:last-child {
+    margin-right: calc((100vw - 1160px) / 2);
+}
+.scrollcontainer .box .text {
+    width: 520px;
+    white-space: normal
+}
+.scrollcontainer .box .img {
+    width: 520px; height: 290px;
+    background-color: transparent !important;
+    opacity: .3;
+}
+.scrollcontainer .box .img > img {
+    max-width: 100%;
+    max-height: 100%;
+    float: right;
+}
+.inner.services {
+    margin-top: 130px
+}
+.inner.services h1,
+.inner.services h4,
+.inner.services p {
+    margin-top: 0
+}
+.inner.services p {
+    margin-bottom: 40px;
+}
+.inner.services h4 {
+    position: relative;
+    padding-left: 40px;
+    font-size: 16px;
+}
+.inner.services h4 img {
+    position: absolute; left: 0;
+    width: 24px; height: 24px;
+}
+.services > div > div {
+    width: 50%;
+}
+.services div.flex {
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+.services div.flex div.flex > div {
+    width: 260px;
+}
+.services img.big {
+    width: 560px;
+}
+
+.technologies {
+    margin-top: 200px;
+    color: white;
+    background-color: #007AE5;
+    height: 440px;
+    padding: 81px 0 0 0;
+    text-align: center;
+}
+.technologies.inner {
+    width: auto;
+}
+.technologies > div:first-of-type {
+    width: 760px;
+    margin: 0 auto;
+}
+.technologies h2 {
+    margin-top: 0
+}
+.technologies img {
+    width: 128px; 
+    margin: 30px 10px 10px 10px;
+}
+
+.projects {
+    padding: 120px; 
+    width: 1200px;
+    margin: 0 auto;
+}
+.projects .flex > div:first-child {
+    width: 60%;
+}
+.projects .flex > div:last-child {
+    width: 40%;
+}
+.projects * {
+    margin: 0 0 10px 0;
+}
+.projects button {
+    float: right;
+    margin: 10px 0 0 0;
+    width: 300px;
+}
+.projects hr { 
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+    margin-bottom: 60px;
+}
+
+#bignav.hidden {
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    overflow: hidden;
+    transform: translate3d(100px, 0, 0)
+}
+#bignav {
+    position: fixed; z-index: 10;
+    top: 0; right: 0; bottom: 0; left: 0;
+    background: #007AE5;
+    color: white;
+}
+#bignav .navitems {
+    padding-top: 140px;
+}
+#bignav .navitems div {
+    text-align: left;
+    flex: 0 1 auto;
+    width: 300px;
+}
+#bignav .navitems h1,
+#bignav .navitems p {
+    margin-top: 0
+}
+#bignav .navitems h1:after {
+    content: " ";
+    font-size: 4px;
+    display: block;
+    margin-top: 8px;
+    width: 48px; height: 4px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0);
+}
+#bignav .navitems h1:hover:after {
+    background-color: rgba(255, 255, 255, 1);
+}
+#bignav .info {
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 180px;
+    font-weight: 300;
+}
+.pageheropic {
+    width: 560px;
+    text-align: center;
+    // height: 420px; 
+    // line-height: 420px;
+    // box-shadow: inset 0 0 0 2px #007AE5;
+    margin-top: 30px;
+}
+.pageheropic > img {
+    max-width: 100%;
+}
+.collection {
+    width: 800px;
+    margin: 0 auto;
+}
+.collection > div {
+    float: left;
+    width: 360px;
+    margin: 0 20px;
+}
+.collection .block {
+    width: 360px;
+    height: 360px;
+}
+.collection .block > img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.block.black {
+    background: black;
+    box-shadow: inset 0 0 0 2px black;
+}
+.block.blue {
+    background: #66B7FF;
+    box-shadow: inset 0 0 0 2px #66B7FF;
+}
+.block.green {
+    background: #57D9CA;
+    box-shadow: inset 0 0 0 2px #57D9CA;
+}
+.block.pink {
+    background: #E55CA6;
+    box-shadow: inset 0 0 0 2px #E55CA6;
+}
+.block.yellow {
+    background: #F2C161;
+    box-shadow: inset 0 0 0 2px #F2C161;
+}
+.collection .text {
+    padding: 20px;
+}
+
+.articlehero {
+    background-color: black;
+    color: white;
+}
+.articlehero .inner {
+    width: 760px;
+    margin: 0 auto;
+    padding: 150px 200px 150px 0;
+}
+.articlehero .small {
+    font-weight: 600
+}
+.articlehero .sep {
+  width: 24px;
+  height: 2px;
+  border-radius: 2px;
+  background-color: #ffffff;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.articlehero h1 {
+    margin-top: 20px
+}
+article .lead .inner {
+    width: 960px;
+    padding: 64px 0 56px 0;
+}
+article .lead .inner > div:first-child {
+    width: 660px;
+}
+article .lead .inner > div:last-child {
+    width: 260px;
+}
+article p {
+    color: #7A7A7A;
+}
+article .props .small {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+article .props .gray {
+    margin-bottom: 25px;
+}
+article .arttext {
+    width: 760px;
+    margin: 0 auto;
+}
+article .arttext p {
+    margin-bottom: 60px
+}
+article .arttext h2 {
+    margin-bottom: 0
+}
+article div.pic {
+    margin: 60px 0;
+    height: 420px;
+    background-color: #F2E2C2
+}
+article img.vr {
+    margin: 60px 0;
+    width: 100%;
+}
+
+.contactpage h2 {
+    margin-top: 0;
+}
+.socialmedia,
+.socialmedia:visited {
+    width: 40px; height: 40px;
+    padding-top: 7px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    color: white!important;
+}
+.socialmedia.fb {
+    background-color: #3b5998!important
+}
+.socialmedia.tw {
+    background-color: #00aced!important; 
+}
+.socialmedia.tm {
+    background-color: #32506d!important
+}
+.socialmedia.yt {
+    background-color: #a82400!important
+}
+form .row {
+    padding-bottom: 25px;
+}
+form .row label {
+    display: block;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1.2px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 6px;
+}
+form .row input[type="text"],
+form .row input[type="email"],
+select,
+textarea {
+    border-radius: 4px;
+    border: 1px solid #005299;
+    height: 40px;
+    padding: 0 15px;
+    width: 100%;
+    background-color: white;
+}
+select {
+    padding: 0 10px;
+}
+textarea {
+    height: 150px;
+    padding: 5px 15px;
+}
+.video {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+footer {
+    position: absolute; bottom: 0; left: 0; right: 0; z-index: 1;
+    color: white;
+    background-color: black;
+    height: 112px;
+}
+footer .inner {
+    padding-top: 28px;
+    white-space: nowrap;
+    font-weight: 300;
+}
+footer .inner > div:first-child {
+    padding-right: 300px;
+}
+footer .inner > div:last-child {
+    width: 460px;
+    text-align: right;
+    padding-top: 15px;
+}
+
+.onlymob {
+    display: none
+}
+
+.map-holder {
+    position: relative;
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 50%;
+}
+
+.map-holder > div > iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    border: none;
+}
+
+.shadowy {
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px 20px 20px 50px;
+    border-radius: 4px;
+    box-shadow: 0 12px 32px 0 rgba(34, 31, 32, 0.12);
+}
+
+.inner.marketing {
+    margin-top: 130px;
+    width: 1160px;
+}
+
+.inner.marketing > div > div > div {
+    width: 50%;
+}
+
+.inner.marketing > div > div > div > img {
+    width: 100%;
+}
+
+.automation-image {
+    padding: 0px 20px 0px 20px;
+}
+.arttext > img,
+.arttext > a > img,
+.arttext > p > img,
+.arttext > p > a > img 
+{
+    max-width: 100%;
+}
+.footer-soc-media,
+.footer-soc-media:visited {
+    padding-left: 15px;
+    color: white;
+}
+.header-soc-media,
+.header-soc-media:visited {
+    padding-right: 15px;
+    color: white;
+}
+button:disabled,
+button:disabled:hover {
+    cursor: not-allowed;
+    box-shadow: unset;
+}
+@media only screen and (max-width: 1169px) {
+    .nomob {
+        display: none
+    }
+    .onlymob {
+        display: block
+    }
+    body {
+        padding-bottom: 300px;
+    }
+    h1 {
+        font-size: 32px;
+    }
+    h2 {
+        font-size: 24px;
+    }
+    .inner {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    nav .inner, 
+    .global.inner, 
+    .articlespage .inner, 
+    .contactpage .inner, 
+    footer .inner, 
+    #bignav .inner {
+        width: 100%;
+    }
+    .inner.hero .textblock {
+        width: 100%;
+        padding: 0 0 40px 0;
+    }
+    .inner.hero img {
+        position: static;
+        width: 100%;
+        height: 100%;
+        margin-top: 30px;
+    }
+    .shadowbox {
+        width: 100%;
+        height: auto;
+        text-align: left;
+        padding: 40px 32px;
+        font-size: 16px;
+    }
+    .global.flex,
+    .services .flex,
+    .projects .flex,
+    .marketing .flex,
+    .pagehero .inner.flex,
+    .contactpage .inner.flex,
+    article .lead .inner.flex,
+    footer .inner.flex,
+    #bignav .navitems.flex {
+        flex-direction: column;
+    }
+    .global div {
+        width: 100%;
+    }
+    .articles h1, 
+    .articles .box, 
+    .inner.services {
+        width: 100%;
+    }
+    .technologies {
+        height: auto;
+        padding: 60px 20px 40px 20px;
+    }
+    .technologies > div{
+        width: 100%;
+    }
+    .technologies img {
+        margin: 0;
+        width: 100px;
+    }
+    .services > div > div,
+    .services div.flex div.flex > div {
+        width: 100%;
+    }
+    div.jumptop {
+        order: -1
+    }
+    .services img.big {
+        width: 100%
+    }
+    .projects {
+        width: 100%;
+        padding: 80px 20px 40px 20px;
+    }
+    .projects .flex > div {
+        width: 100% !important;
+    }
+
+    .collection,
+    .collection > div {
+        width: 100%;
+        margin: 0;
+    }
+    .collection .block {
+        width: calc(100vw - 40px);
+        height: calc(100vw - 40px);
+        margin: 0 auto; 
+    }
+    .pagehero .inner {
+        height: auto;
+    }
+    .pageheropic {
+        width: 100%;
+    }
+    .pagehero p {
+        width: 100%;
+    }
+    .contactpage .inner.flex.sb > div {
+        width: 100% !important;
+    }
+
+    .articlehero .inner {
+        width: 100%;
+        padding: 50px 100px 50px 20px;
+    }
+    article .lead .inner {
+        width: 100%
+    }
+    article .lead .inner.flex > div {
+        width: 100%;
+        padding: 20px;
+    }
+    article .arttext {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .scrollcontainer .box {
+        width: 80vw;
+        min-height: 450px;
+        padding: 30px;
+    }
+    .scrollcontainer .box h3 {
+        
+    }
+    .scrollcontainer .box:not(:first-child) {
+        margin-left: 20px;
+    }
+    .scrollcontainer .box:first-child {
+        margin-left: 20px;
+    }
+    .scrollcontainer .box:last-child {
+        margin-right: 20px;
+    }
+    .scrollcontainer .box .text {
+        width: 100%;
+        white-space: normal
+    }
+    .scrollcontainer .box .img {
+        display: none
+    }
+
+
+    #bignav .navitems {
+        padding: 40px 0 0 0;
+    }
+    #bignav .navitems > div {
+        width: 100%;
+    }
+    #bignav .info {
+        width: 100%;
+        padding-top: 40px;
+    }
+    footer {
+        height: auto;
+    }
+    footer .inner {
+        padding: 30px 20px;
+    }
+    footer .inner > div:not(:first-child) {
+        margin-top: 20px;
+    }
+    footer .inner > div:last-child {
+        width: inherit;
+        text-align: left;
+    }
+    button {
+        float: none !important;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100% !important;
+    }
+    button:not(:last-child) {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .inner.marketing {
+        width: 100%;
+    }
+    .inner.marketing > div > div > div {
+        width: 100%;
+    }
+    .automation-image {
+        padding: inherit;
+    }
+    .footer-soc-media {
+        padding-left: 0px;
+        padding-right: 15px;
+    }
+}

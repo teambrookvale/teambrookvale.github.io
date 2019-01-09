@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="icon" type="image/png" href="/assets/images/tblogo.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script>
+    function showNav(show) {
+        document.getElementById('bignav').className = show ? '' : 'hidden'
+    }
+    </script>
+    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
+    <script type="text/javascript">
+        (function(){
+            emailjs.init("user_knG2BzWL3cFIviNKOkKF5");
+        })();
+
+        var currentArticle = 1;
+        var isMs = false;
+        if (document.documentMode || /Edge/.test(navigator.userAgent)) {
+            isMs = true;
+        };
+        function scrollToArticle(which) {
+            which.scrollIntoView({behavior: "smooth", block: "nearest", inline: "center"});
+        }
+        function scrollSide(whichWay) {
+            if (isMs) {
+                document.getElementById('scroller').scrollLeft += (whichWay ? 1203 : -1203);
+                return
+            };
+            if (whichWay) {
+                if (document.getElementById('article' + (currentArticle + 1)))
+                    currentArticle++;
+            }
+            else {
+                if (document.getElementById('article' + (currentArticle - 1)))
+                    currentArticle--;
+            };
+            var whichArticle = document.getElementById('article' + currentArticle);
+            scrollToArticle(whichArticle);     
+       }
+    </script>
+</head>
+<body>
+    <nav>
+        <div class="inner">
+            <div class="nomob">
+                    <img src="/assets/images/Website_TBDiviLogo.png" class="logo clickable" href="/" title="Team Brookvale" onclick="top.location.href = '/'">
+            </div>
+            <div class="onlymob">
+                    <img src="/assets/images/tblogo.png" class="logo clickable" href="/" title="Team Brookvale" onclick="top.location.href = '/'">
+            </div>
+            <img src="/assets/images/hamburger.svg" class="hamburg clickable" onclick="showNav(true)">
+        </div>
+    </nav>
+    <div id="bignav" class="hidden">
+        <div class="inner">
+            <img src="/assets/images/logo_white.png" class="logo clickable" href="/" title="Team Brookvale" onclick="top.location.href = '/'">
+            <div class="closer" onclick="showNav(false)">&times;</div>
+            <div class="inner flex navitems" style="justify-content: center">
+                <div>
+                    <span>01</span>
+                    <h1 class="clickable" onclick="top.location.href = '/'">{{ site.data.text.nav.home}}</h1>
+                </div>
+                <div>
+                    <span>02</span>
+                    <h1 class="clickable" onclick="top.location.href = '/articles'">{{ site.data.text.nav.articles}}</h1>
+                </div>
+                <div>
+                    <span>03</span>
+                    <h1 class="clickable" onclick="top.location.href = '/contact'">{{ site.data.text.nav.contact}}</h1>
+                </div>
+            </div>
+            <div class="info">
+                {{ site.data.text.footer.email}}<br>
+                {{ site.data.text.footer.phone}}<br>
+                <a href="https://www.facebook.com/teambrookvale" class="header-soc-media"><i class="fab fa-facebook-f"></i></a>
+                <a href="http://twitter.com/teambrookvale" class="header-soc-media"><i class="fab fa-twitter"></i></a>
+                <!--<a href="https://www.youtube.com/channel/UCpFdJdlijg9qK7p3su-9J_Q" class="header-soc-media"><i class="fab fa-youtube"></i></a>
+                <a href="http://teambrookvale.tumblr.com" class="header-soc-media"><i class="fab fa-tumblr"></i></a>-->
+            </div>
+        </div>
+    </div>
+    <div class="main">
+        {{ content }}
+    </div>
+    <footer>
+        <div class="inner flex">
+            <div>
+                {{ site.data.text.footer.phone}}<br>
+                {{ site.data.text.footer.email}}
+            </div>
+            <div>
+                {{ site.data.text.footer.street}}<br>
+                {{ site.data.text.footer.address}}
+            </div>
+            <div>
+                <a href="https://www.facebook.com/teambrookvale" class="footer-soc-media"><i class="fab fa-facebook-f"></i></a>
+                <a href="http://twitter.com/teambrookvale" class="footer-soc-media"><i class="fab fa-twitter"></i></a>
+                <!--<a href="https://www.youtube.com/channel/UCpFdJdlijg9qK7p3su-9J_Q" class="footer-soc-media"><i class="fab fa-youtube"></i></a>
+                <a href="http://teambrookvale.tumblr.com" class="footer-soc-media"><i class="fab fa-tumblr"></i></a>-->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
