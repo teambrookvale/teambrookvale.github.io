@@ -7,7 +7,7 @@ title: "OZIPCAL – Investment property calculator app is out!"
 leadhead: "OZIPCAL is out exclusively on the Australian App Store. A powerful tool which helps you understand how incoming and outgoing costs stack up in a straightforward manner."
 leadtext: "If you are planning to buy an investment property or you are already owning one, OZIPCAL is essential for the insightful investor. If you have specific questions like “What percentage of capital gain is needed to break even with my negatively geared property? ” or “What’s the biggest mortgage I can take to have my property positively geared?”
 OZIPCAL gives answers to all these questions."
-image: /assets/images/apartment-architectural-design-architecture-323780.jpg
+image: /assets/images/apartment-architectural-design-architecture-1.jpg
 ---
 
 <div class="arttext">

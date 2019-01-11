@@ -13,7 +13,7 @@ permalink: /articles
                 <img src="/assets/images/arrowdown.png">
             </div>
             <div class="pageheropic">
-                <img src="/assets/images/abstract-architectural-design-architecture-136419.jpg" />
+                <img src="/assets/images/abstract-architectural-design-architecture.jpg" />
             </div>
         </div>
     </div>
