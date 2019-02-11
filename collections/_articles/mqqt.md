@@ -7,6 +7,7 @@ title: "Learn how a 17 year old IBM invention is powering the IoT devices – An
 leadhead: "What is MQTT?"
 leadtext: "Internet of Things structures are getting complex and the large number of interconnected device systems are growing fast. For example a modern car has about 100 electronic controllers. As the number of systems are rapidly growing CPU and power usage have to be optimised."
 image: /assets/images/articles/xhand-laptop-notebook-typing.webp
+date: '2019-02-03 00:00:00'
 ---
 
 <div class="arttext">

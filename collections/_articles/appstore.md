@@ -7,6 +7,7 @@ title: "From idea to App Store"
 leadhead: "How does app development work and how much does it cost?"
 leadtext: "Mobile apps are powerful tools for engaging with customers. With more than 2 billion active smartphone users around the world the industry is growing rapidly. The mobile business is still very young and making your mobile app a success depends on how well your idea is executed."
 image: /assets/images/articles/xCreativeVectorBannersRocket.webp
+date: '2019-02-02 00:00:00'
 ---
 
 <div class="arttext">

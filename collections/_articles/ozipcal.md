@@ -8,6 +8,7 @@ leadhead: "OZIPCAL is out exclusively on the Australian App Store. A powerful to
 leadtext: "If you are planning to buy an investment property or you are already owning one, OZIPCAL is essential for the insightful investor. If you have specific questions like “What percentage of capital gain is needed to break even with my negatively geared property? ” or “What’s the biggest mortgage I can take to have my property positively geared?”
 OZIPCAL gives answers to all these questions."
 image: /assets/images/apartment-architectural-design-architecture-1.jpg
+date: '2019-02-05 00:00:00'
 ---
 
 <div class="arttext">

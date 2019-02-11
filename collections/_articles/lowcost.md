@@ -7,6 +7,7 @@ title: "How low-cost, low-performance computers are shaping the future of IoT"
 leadhead: "IoT systems are everywhere from industrial to consumer solutions. As computing and electronics are getting cheaper we will soon see a new generation of applications called Internet of Everyday Things."
 leadtext: "There are many technologies which can push IoT to new fields such as printed electronics. The field is expected to become widespread as low-cost, low-performance computers can power a vast number of applications. For example think of how logistic procedures can be improved with active labels on temperature-sensitive food or medicine."
 image: /assets/images/articles/Elektronikdruck.webp
+date: '2019-02-07 00:00:00'
 ---
 
 <div class="arttext">

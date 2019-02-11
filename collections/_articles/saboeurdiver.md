@@ -7,6 +7,7 @@ title: "Saboteur Diver goes open source"
 leadhead: "Saboteur Diver, our isometric stealth game is available for the game developer community as a free download."
 leadtext: "Now anyone can download the code and build the game to iOS devices with Unity 4.3. More advanced developers interested in contributing to the project can contribute their own fixes and enhancements to make Saboteur Diver better."
 image: /assets/images/articles/xScreenshot03-640.webp
+date: '2019-02-04 00:00:00'
 ---
 
 <div class="arttext">

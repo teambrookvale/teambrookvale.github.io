@@ -7,6 +7,7 @@ title: "Smart city IoT applications"
 leadhead: "Air pollution in big cities is a huge problem and with the ever growing number of cars it’s getting worse each year."
 leadtext: "Road transport can be responsible for up to 80% pollution in urban areas. To put this in perspective each liter of fuel burnt is issuing up to 2 kg of CO2. If one’s daily average round trip is 20 km that equals roughly 1.5 tonnes of CO2 emission a year."
 image: /assets/images/articles/xcity-cars-road-traffic.webp
+date: '2019-02-09 00:00:00'
 ---
 
 <div class="arttext">

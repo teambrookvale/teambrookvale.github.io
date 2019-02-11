@@ -5,6 +5,7 @@ author: "Tamas Szekeres"
 topic: "News"
 title: "IoT door control system live in Cryo"
 image: /assets/images/articles/xIoTAppCryo.webp
+date: '2019-02-06 00:00:00'
 ---
 
 <div class="arttext">

@@ -181,6 +181,22 @@ h1.herotext {
     width: 560px;
 }
 
+.icon-section{
+    background-color:#007AE5;
+    color:white;
+    padding: 30px;
+    text-align:center;
+}
+
+.icon-section img {
+    width: 96px;
+}
+
+.technology-item{    
+    margin: 15px;
+    display: inline-block;
+}
+
 .technologies {
     margin-top: 200px;
     color: white;
@@ -671,6 +687,22 @@ button:disabled:hover {
         width: 100% !important;
     }
 
+    .d-flex{
+        display:flex;
+    }
+
+    .justify-content-between{
+        justify-content: space-between;
+    }
+
+    .flex-wrap{
+        flex-wrap: wrap;
+    }
+
+    .justify-content-start{
+        justify-content: start;
+    }
+
     .collection,
     .collection > div {
         width: 100%;
@@ -782,4 +814,9 @@ button:disabled:hover {
         padding-left: 0px;
         padding-right: 15px;
     }
+
+    .img-responsive{
+        max-width:100%;
+        height:auto;
+    }    
 }

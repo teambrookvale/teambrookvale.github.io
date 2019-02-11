@@ -18,8 +18,8 @@ permalink: /articles
         </div>
     </div>
     <div class="collection clearfix">
-        {% assign sortedarticles = site.articles | sort: 'date' %}
-        {% assign articles = sortedarticles | reverse %}
+        {% assign sortedarticles = site.articles | sort: 'date' | reverse %}
+        {% assign articles = sortedarticles %}
         {% for article in articles %}
             <div>
                 <a href="{{ article.url }}">

@@ -7,6 +7,7 @@ title: "Tutorial – Roboust XML level building in Unity"
 leadhead: "Having a robust process for loading levels is essential."
 leadtext: "In theory we could save each level as a scene in Unity but it just not going to work once we have a couple of levels. Using serialized text i.e. JSON or XML is very convenient and probably the best thing to do if we also want to tweak the levels in a text editor."
 image: /assets/images/articles/Unity.png
+date: '2019-02-10 00:00:00'
 ---
 
 <div class="arttext">

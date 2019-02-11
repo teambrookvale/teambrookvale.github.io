@@ -7,6 +7,7 @@ title: "Virtual Reality combined with real roller coaster ride"
 leadhead: "One of the Gold Coast theme parks was seeking a solution to overhaul a roller coaster ride by enhancing the experience with virtual reality (VR)."
 leadtext: "The plan was to have guests wearing VR headsets which are synced perfectly to the twists and turns of the ride."
 image: /assets/images/articles/xVRrideTechnicalIllustration.webp
+date: '2019-02-08 00:00:00'
 ---
 
 <div class="arttext">

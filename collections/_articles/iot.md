@@ -7,6 +7,7 @@ title: "Smart city IoT applications"
 leadhead: "The objective of smart city applications is to integrate information, communication and decision making seamlessly and in return to improve quality of life."
 leadtext: "An extended IoT network enables city officials to monitor infrastructure and make decisions based on collected data. By installing a large number of sensors and IoT devices across the city, waste and inefficiency can be decreased dramatically."
 image: /assets/images/articles/xlibelium_smart_world_infographic.webp
+date: '2019-02-08 00:00:00'
 ---
 
 <div class="arttext">
