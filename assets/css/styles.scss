@@ -232,6 +232,13 @@ h1.herotext {
     margin-bottom: 60px;
 }
 
+hr.separator{
+    margin: 1em 0em 1em 0em;    
+    border : 0;
+    height: 2px; 
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(34, 31, 32, 0.12), rgba(0, 0, 0, 0));
+}
+
 #bignav.hidden {
     display: block;
     visibility: hidden;
@@ -514,8 +521,17 @@ footer .inner > div:last-child {
     box-shadow: 0 12px 32px 0 rgba(34, 31, 32, 0.12);
 }
 
+.shadow {
+    margin: 0 auto;
+      padding: 0.25em 0.25em 2.25em 0.25em;
+
+      &.bottom{
+        box-shadow: 0px 15px 32px -22px rgba(34, 31, 32, 0.5)
+      }
+}
+
 .inner.marketing {
-    margin-top: 130px;
+    margin-top: 5.5em;
     width: 1160px;
 }
 
@@ -525,6 +541,14 @@ footer .inner > div:last-child {
 
 .inner.marketing > div > div > div > img {
     width: 100%;
+}
+
+.inner.marketing .text-container{
+    padding:2.25em;
+}
+
+.inner.marketing p{
+    text-align: justify;
 }
 
 .automation-image {
@@ -631,7 +655,8 @@ button:disabled:hover {
     .services > div > div,
     .services div.flex div.flex > div {
         width: 100%;
-    }
+    }    
+
     div.jumptop {
         order: -1
     }
