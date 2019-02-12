@@ -10,7 +10,15 @@ pipeline {
                 bat '"C:\\Program Files\\Git\\usr\\bin\\ssh.exe" -i ~/.ssh/ec2-key-pair.pem ubuntu@52.64.103.229 "/home/ubuntu/teambrookvale.github.io/deploy-jekyll-teambrookvale.sh"'
             }
         }
-        stage('Test') {}
-        stage('Deploy') {}
+        stage('Test') {
+            steps {
+                bat 'echo "No test steps"'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                bat 'echo "No deploy steps as deployment should have occurred in the Build stage"'
+            }
+        }
     }
 }
