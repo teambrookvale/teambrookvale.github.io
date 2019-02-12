@@ -24,12 +24,15 @@ You can see the website here: <a href="https://oneearth.uts.edu.au" target="_bla
 </h3>
 <br />
 
-<p>Our task was creating a website that shows users the data collected during the research. 
-We used the latest technologies for this website.
-We are displaying statistical data related to different regions, our application dynamically processes and transforms the data into graphs. 
-In addition, we display the region, wind and solar map layers for each region.</p>
+<p>The One Earth Climate Model is a research funded by the Leonardo DiCaprio Foundation. The research resulted in a book entitled Achieving the Paris Climate Agreement, was the culmination of a two-year scientific collaboration with 17 leading scientists at the University of Technology Sydney (UTS), two institutes at the German Aerospace Center (DLR), and the University of Melbourne's Climate & Energy College.</p>
+
+<p>
+Team Brookvale's task was to create a data visualisation engine and a website which can showcase the massive amount of data. There is  statistical data for different regions and countries. Our web application dynamically processes and transforms the data into graphs. 
+In addition to displaying data and graphs the website also presents wind and solar map layers for each region.
+</p>
+
 <div class="icon-section">
-<h3>Technologies we have used for development and hosting</h3>
+<h3>Technologies used</h3>
     <div class="d-flex justify-content-between flex-wrap">
     <div class="technology-item">
         <div><img src="/assets/images/articles/icons/net_.png" class="img-responsive" alt=".NET" /></div>
