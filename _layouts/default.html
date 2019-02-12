@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
     <script>
     function showNav(show) {
-        document.getElementById('bignav').className = show ? '' : 'hidden'
+        document.getElementById('bignav').className = show ? '' : 'hidden';
     }
     </script>
     <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
@@ -30,7 +30,7 @@
             isMs = true;
         };
         function scrollToArticle(which) {
-            which.scrollIntoView({behavior: "smooth", block: "nearest", inline: "center"});
+            which.scrollIntoView({behavior: "smooth", block: "nearest", inline: "start"});
         }
         function scrollSide(whichWay) {
             if (isMs) {
