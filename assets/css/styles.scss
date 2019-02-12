@@ -827,6 +827,10 @@ button:disabled:hover {
 }
 
 @media (max-width: 576px) { 
+body{
+    padding-top:96px;
+}
+
     .icon-section{
         font-size: 12px;
     }
