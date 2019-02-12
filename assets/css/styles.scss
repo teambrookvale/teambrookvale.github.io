@@ -186,6 +186,7 @@ h1.herotext {
     color:white;
     padding: 30px;
     text-align:center;
+    font-size: 16px;
 }
 
 .icon-section img {
@@ -591,6 +592,16 @@ button:disabled:hover {
     cursor: not-allowed;
     box-shadow: unset;
 }
+
+.img-responsive{
+    max-width:100%;
+    height:auto;
+}    
+
+.text-center {
+    text-align: center !important;
+  }
+
 @media only screen and (max-width: 1169px) {
     .nomob {
         display: none
@@ -813,13 +824,23 @@ button:disabled:hover {
         padding-left: 0px;
         padding-right: 15px;
     }
-
-    .img-responsive{
-        max-width:100%;
-        height:auto;
-    }    
-
-    .text-center {
-        text-align: center !important;
-      }
 }
+
+@media (max-width: 576px) { 
+    .icon-section{
+        font-size: 12px;
+    }
+ }
+
+@media (max-width: 768px) { 
+    .icon-section{
+        font-size: 12px;
+    }
+ }
+
+@media (max-width: 992px) { 
+    .icon-section{
+        font-size: 14px;
+    }
+ }
+
