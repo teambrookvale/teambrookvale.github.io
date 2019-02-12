@@ -32,23 +32,23 @@ In addition, we display the region, wind and solar map layers for each region.</
 <h3>Technologies we have used for development and hosting</h3>
     <div class="d-flex justify-content-between flex-wrap">
     <div class="technology-item">
-        <div><img src="/assets/images/articles/technologies/net_.png" class="img-responsive" alt=".NET" /></div>
+        <div><img src="/assets/images/articles/icons/net_.png" class="img-responsive" alt=".NET" /></div>
         <div>.NET Core</div>
     </div>
     <div class="technology-item">
-        <div><img src="/assets/images/articles/technologies/react.png" class="img-responsive"  alt="React" /></div>
+        <div><img src="/assets/images/articles/icons/react.png" class="img-responsive"  alt="React" /></div>
         <div>React</div>
     </div>
     <div class="technology-item">
-        <div> <img src="/assets/images/articles/technologies/bootstrap.png" class="img-responsive" alt="Bootstrap" /></div>
+        <div> <img src="/assets/images/articles/icons/bootstrap.png" class="img-responsive" alt="Bootstrap" /></div>
         <div>Bootstrap</div>
     </div>
     <div class="technology-item">
-        <div><img src="/assets/images/articles/technologies/google_maps.png" class="img-responsive" alt="Google Maps API" /></div>
+        <div><img src="/assets/images/articles/icons/google_maps.png" class="img-responsive" alt="Google Maps API" /></div>
         <div>Google Maps API</div>
     </div>
     <div class="technology-item">
-        <div><img src="/assets/images/articles/technologies/azure.png" class="img-responsive" alt="Microsoft Azure" /></div>
+        <div><img src="/assets/images/articles/icons/azure.png" class="img-responsive" alt="Microsoft Azure" /></div>
         <div>Microsoft Azure</div>
     </div>   
      </div>
