@@ -16,7 +16,7 @@ search: exclude
         {% else %}
             <url>
                 <loc>{{page.url | absolute_url}}</loc>
-                <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
+                <lastmod>{{ page.path | file_date | date_to_xmlschema  }}</lastmod>
                 <priority>1</priority>
             </url>
         {% endif %}    
@@ -25,7 +25,7 @@ search: exclude
     {% for article in site.articles %}
     <url>
         <loc>{{article.url | absolute_url}}</loc>
-        <lastmod>{{article.date | date: '%Y-%m-%d' }}</lastmod>
+        <lastmod>{{article.date | date_to_xmlschema  }}</lastmod>
         <priority>0.8</priority>
     </url>
     {% endfor %}

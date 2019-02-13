@@ -26,11 +26,6 @@ defaults:
     values:
       layout: "article"
 
-url: "https://teambrookvale.com.au"      
-plugins:
-    - jekyll-sitemap
-    - jekyll-last-modified-at
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
