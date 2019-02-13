@@ -16,12 +16,7 @@ search: exclude
         {% else %}
             <url>
                 <loc>{{page.url | absolute_url}}</loc>
-                {% assign date = page.path | file_date %}
-                {% if date != "" and date != nil %}
-                  <lastmod>{{ page.path | file_date | date_to_xmlschema  }}</lastmod>
-                {% else %}
-                   <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
-                {% endif %}
+                <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
                 <priority>1</priority>
             </url>
         {% endif %}    
