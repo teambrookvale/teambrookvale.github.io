@@ -3,8 +3,8 @@ permalink: /articles/uts-100-re
 boxclassname: black
 author: "Team Brookvale"
 topic: "Business Apps, News, Development"
-title: "Website development for Leonardo DiCaprio Foundation"
-leadhead: "Website development for Leonardo DiCaprio Foundation"
+title: "Website development for the Leonardo DiCaprio Foundation"
+leadhead: "Website development for the Leonardo DiCaprio Foundation"
 leadtext: "We are honoured that we had the opportunity to work on the One Earth Climate Model project for the Leonardo DiCaprio Foundation."
 image: /assets/images/articles/UtsRe100HomePage.webp
 date: '2019-02-11 00:00:00'

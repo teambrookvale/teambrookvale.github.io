@@ -3,6 +3,12 @@ layout: default
 title: Contact - Team Brookvale
 permalink: /contact
 ---
+ <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
+ <script type="text/javascript">
+  (function(){
+            emailjs.init("user_knG2BzWL3cFIviNKOkKF5");
+        })();
+  </script>
 <script type="text/javascript">
     function sendEmail() {
         var button = document.getElementById("submit-button");
