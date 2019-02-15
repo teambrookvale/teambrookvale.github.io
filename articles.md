@@ -14,7 +14,7 @@ description: "We develop software products and provide digital platform engineer
                 <img src="/assets/images/arrowdown.png">
             </div>
             <div class="pageheropic">
-                <img src="/assets/images/abstract-architectural-design-architecture.jpg" />
+                <img src="/assets/images/abstract-architectural-design-architecture.webp" />
             </div>
         </div>
     </div>

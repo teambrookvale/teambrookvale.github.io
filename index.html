@@ -60,7 +60,7 @@ keywords: "software development, sydney, brookvale, software, development, busin
 
 <div class="inner video">
     <div>
-       <iframe id="youtube-embed-frame" width="" height="" src="" data-src="https://www.youtube.com/embed/zkr7jMVO_Sw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe id="youtube-embed-frame" width="" height="" src="https://www.youtube.com/embed/zkr7jMVO_Sw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -179,15 +179,3 @@ keywords: "software development, sydney, brookvale, software, development, busin
         </div>
     </div>
 </div>
-
-<script type="text/javascript">
-    function initializeVideo() {
-        var videoFrame = document.getElementsByTagName('iframe');
-        for (var i=0; i<videoFrame.length; i++) {
-            if(videoFrame[i].getAttribute('data-src')) {
-            videoFrame[i].setAttribute('src',videoFrame[i].getAttribute('data-src'));
-            }
-        }
-    }
-    window.onload = initializeVideo;
-</script>

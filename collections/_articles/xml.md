@@ -6,7 +6,7 @@ topic: "Development, Tutorial"
 title: "Tutorial – Roboust XML level building in Unity"
 leadhead: "Having a robust process for loading levels is essential."
 leadtext: "In theory we could save each level as a scene in Unity but it just not going to work once we have a couple of levels. Using serialized text i.e. JSON or XML is very convenient and probably the best thing to do if we also want to tweak the levels in a text editor."
-image: /assets/images/articles/Unity.png
+image: /assets/images/articles/Unity.webp
 date: '2019-02-10 00:00:00'
 ---
 
@@ -72,7 +72,7 @@ date: '2019-02-10 00:00:00'
 <li>Play around with the Cross Checker in the Xml Level Editor pane. Just add a few dummy items to your Levels.xml e.g. &lt;Item prefab=”NotExisting” /&gt;. Click on and the &#8220;Cross Check&#8221; button in the Xml Level Editor pane and you will be warned in the Console about the missing NotExisting prefab.</li>
 <li>Done</li>
 </ol>
-<a href="/assets/images/articles/Unity.png"><img src="/assets/images/articles/Unity.png" alt="unity" /></a><p>Unity Xml Levels Screenshot</p>
+<a href="/assets/images/articles/Unity.webp"><img src="/assets/images/articles/Unity.webp" alt="unity" /></a><p>Unity Xml Levels Screenshot</p>
 <p>That&#8217;s it. Have a look at the main files below to understand what&#8217;s happening under the hood:</p>
 <table>
 <thead>
