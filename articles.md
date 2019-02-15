@@ -2,6 +2,7 @@
 layout: default
 title: Articles - Team Brookvale 
 permalink: /articles
+description: "We develop software products and provide digital platform engineering services on the Northern Beaches of Sydney"
 ---
 
 <div class="articlespage">

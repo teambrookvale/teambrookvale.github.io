@@ -220,6 +220,10 @@ h1.herotext {
     margin: 30px 10px 10px 10px;
 }
 
+.d-none{
+    display:none;
+}
+
 .projects {
     padding: 120px; 
     width: 1200px;
@@ -588,9 +592,12 @@ footer .inner > div:last-child {
     color: white;
 }
 button:disabled,
-button:disabled:hover {
+button:disabled:hover,
+input[type=submit]:disabled,
+input[type=submit]:disabled:hover {
     cursor: not-allowed;
     box-shadow: unset;
+    background-color: rgba(0,122,229, 0.4);
 }
 
 .img-responsive{
@@ -801,7 +808,7 @@ button:disabled:hover {
         width: inherit;
         text-align: left;
     }
-    button {
+    button, input[type=submit] {
         float: none !important;
         margin-left: 0;
         margin-right: 0;

@@ -10,7 +10,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta desciption="{{site.data.text.home.automationDescriptionOne}}">
+    <meta name="description" content="{% if page.leadtext %}{{ page.leadtext }}{% else %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endif %}">
+    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <script>

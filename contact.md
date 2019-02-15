@@ -2,6 +2,7 @@
 layout: default
 title: Contact - Team Brookvale
 permalink: /contact
+description: "We develop software products and provide digital platform engineering services on the Northern Beaches of Sydney"
 ---
  <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
  <script type="text/javascript">
@@ -10,7 +11,11 @@ permalink: /contact
         })();
   </script>
 <script type="text/javascript">
-    function sendEmail() {
+    function getIp(json){
+        window.ipAddress = json.ip;
+    }
+
+    function sendEmail(event) {
         var button = document.getElementById("submit-button");
         var service_id = 'gmail-longbtomi';
         var template_id = 'contact_form';
@@ -19,20 +24,28 @@ permalink: /contact
             name: form["name"].value,
             from_email: form["from_email"].value,
             phone: form["phone"].value,
-            message: form["message"].value
-        };
+            message: form["message"].value,
+            ip: window.ipAddress != null && window.ipAddress != undefined ? window.ipAddress : "N/A"
+        }; 
+
+        if(form["additional_field"].value != ""){
+            return;
+        }
+
         button.innerHTML = '<span><i class="fas fa-spinner fa-spin"></i> Sending...</span>';
         button.disabled = true;
-        emailjs.send(service_id, template_id, templateParams)
+
+         emailjs.send(service_id, template_id, templateParams)
             .then(function(response) {
                 button.innerHTML = '<span><i class="fas fa-check"></i> Message sent!</span>';
             }, function(error) {
                 button.disabled = false;
                 button.innerHTML = 'Send message';
                 alert("We are terribly sorry, but we have not been able to send your message. Please try again, and if that fails, contact us directly via e-mail. Thank you!")
-            }); 
-    }
+            });        
+    }  
 </script>
+<script type="text/javascript" src="https://api.ipify.org?format=jsonp&callback=getIp"></script>
 <div class="contactpage">
     <div class="pagehero">
         <div class="inner flex sb">
@@ -69,31 +82,32 @@ permalink: /contact
             </div>
         </div>
         <div style="width: 460px">
-            <form id="contactForm" style="margin-bottom: 80px">
+            <form id="contactForm" style="margin-bottom: 80px" onsubmit="sendEmail();return false">
+                <input class="d-none" name="additional_field" type="text" />
                 <div class="row">
                     <label>Name</label>
-                    <input type="text" name="name" placeholder="Name">
+                    <input type="text" required name="name" placeholder="Name">
                 </div>
                 <div class="flex sb">
                     <div style="width: 48%">
                         <div class="row">
                             <label>Email</label>
-                            <input type="email" name="from_email" placeholder="Email">
+                            <input type="email" required name="from_email" placeholder="Email">
                         </div>
                     </div>
                     <div style="width: 48%">
                         <div class="row">
                             <label>Phone number</label>
-                            <input type="text" name="phone" placeholder="Phone number">
+                            <input type="text" required name="phone" placeholder="Phone number">
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <label>Message</label>
-                    <textarea name="message" placeholder="Your message here..."></textarea>
+                    <textarea name="message" required placeholder="Your message here..."></textarea>
                 </div>
                 <div class="row buttons">
-                    <button id="submit-button" type="button" onclick="sendEmail()">Send message</button>
+                    <button id="submit-button" type="submit">Send message</button>
                 </div>
             </form>
         </div>

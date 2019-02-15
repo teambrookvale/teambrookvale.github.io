@@ -161,7 +161,7 @@
   a:hover p {
       text-decoration: none
   }
-  button {
+  button, input[type=submit] {
       font-size: 16px;
       font-weight: 500;
       line-height: 1.25;
@@ -175,10 +175,10 @@
       margin-right: 40px;
       cursor: pointer;
   }
-  button:hover {
+  button:hover, input[type=submit]:hover {
       box-shadow: 0 8px 16px 0 rgba(0, 82, 153, 0.36);
   }
-  button:active {
+  button:active, input[type=submit]:active {
       background-color: #005DAE
   }
   
