@@ -11,7 +11,7 @@ date: '2019-04-02 00:00:00'
 ---
 
 <div class="arttext">
-<div class="text-justify">
+<div style="text-align:justify;">
 <p>Fixed budgets are a huge issue with Google Ads. Google tends to either under or overspend the campaign budgets. This may not be a big issue if you are running a campaign for yourself as spending $1,500 - 2,000 instead of a $1,000 budget will not break the bank. However in the case of digital agencies who deploy and manage thousands of fixed budget campaigns on behalf of their clients, overspending could be a major problem. Google can overspend up to 100% of the daily budget so the final bill can be unexpectedly high, especially when there are thousands of ad accounts and campaigns involved.</p>
 
 <p>There are a couple of fixes to stop Google Ads from overspending. One option is to have people check the campaigns regularly and stop the campaign if it is close to or exceeding the budget. Having people check the budget may be an option for a smaller client base but the work is hard to scale and it is easy to miss something due to the monotonous nature of the task.</p>
