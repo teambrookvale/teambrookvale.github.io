@@ -70,20 +70,27 @@
     </div>
     <footer>
         <div class="inner flex">
-            <div>
-                {{ site.data.text.footer.phone}}<br>
-                {{ site.data.text.footer.email}}
+            <div class="footer-container">
+                <div>
+                    {{ site.data.text.footer.phone}}<br>
+                    {{ site.data.text.footer.email}}
+                </div>
+                <div>
+                    {{ site.data.text.footer.street}}<br>
+                    {{ site.data.text.footer.address}}
+                </div>
+                <div>
+                    {{ site.data.text.footer.street2}}<br>
+                    {{ site.data.text.footer.address2}}
+                </div>
+                <div class="social-media-container">
+                    <a href="https://www.facebook.com/teambrookvale" class="footer-soc-media"><i class="fab fa-facebook-f"></i></a>
+                    <a href="http://twitter.com/teambrookvale" class="footer-soc-media"><i class="fab fa-twitter"></i></a>
+                    <!--<a href="https://www.youtube.com/channel/UCpFdJdlijg9qK7p3su-9J_Q" class="footer-soc-media"><i class="fab fa-youtube"></i></a>
+                    <a href="http://teambrookvale.tumblr.com" class="footer-soc-media"><i class="fab fa-tumblr"></i></a>-->
+                </div>
             </div>
-            <div>
-                {{ site.data.text.footer.street}}<br>
-                {{ site.data.text.footer.address}}
-            </div>
-            <div>
-                <a href="https://www.facebook.com/teambrookvale" class="footer-soc-media"><i class="fab fa-facebook-f"></i></a>
-                <a href="http://twitter.com/teambrookvale" class="footer-soc-media"><i class="fab fa-twitter"></i></a>
-                <!--<a href="https://www.youtube.com/channel/UCpFdJdlijg9qK7p3su-9J_Q" class="footer-soc-media"><i class="fab fa-youtube"></i></a>
-                <a href="http://teambrookvale.tumblr.com" class="footer-soc-media"><i class="fab fa-tumblr"></i></a>-->
-            </div>
+            
         </div>
     </footer>   
     <script type="text/javascript">

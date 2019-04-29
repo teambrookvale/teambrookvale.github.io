@@ -2,7 +2,7 @@
 layout: default
 title: Articles - Team Brookvale 
 permalink: /articles
-description: "We develop software products and provide digital platform engineering services on the Northern Beaches of Sydney"
+description: "We develop software products and provide digital platform engineering services in Sydney and on the Gold Coast"
 ---
 
 <div class="articlespage">
@@ -10,7 +10,7 @@ description: "We develop software products and provide digital platform engineer
         <div class="inner flex sb">
             <div>
                 <h1>Articles</h1>
-                <p style="margin-bottom: 50px">We develop software products and provide digital platform engineering services on the Northern Beaches of Sydney</p>
+                <p style="margin-bottom: 50px">We develop software products and provide digital platform engineering services in Sydney and on the Gold Coast</p>
                 <img src="/assets/images/arrowdown.png">
             </div>
             <div class="pageheropic">

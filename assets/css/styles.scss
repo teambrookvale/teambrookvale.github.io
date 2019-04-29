@@ -503,11 +503,14 @@ footer .inner {
     white-space: nowrap;
     font-weight: 300;
 }
-footer .inner > div:first-child {
-    padding-right: 300px;
+
+footer .inner .footer-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
 }
-footer .inner > div:last-child {
-    width: 460px;
+
+footer .inner  .footer-container .social-media-container {
     text-align: right;
     padding-top: 15px;
 }
@@ -516,20 +519,21 @@ footer .inner > div:last-child {
     display: none
 }
 
-.map-holder {
-    position: relative;
-    width: 100%;
-    height: 0;
-    overflow: hidden;
-    padding-bottom: 50%;
+.map-container {
+    margin-top: 1em;
+   display: flex;
+   justify-content: flex-start;
+   align-items: flex-start;
+   flex-direction: column;
 }
 
-.map-holder > div > iframe {
-    position: absolute;
+.map-container > div {
     width: 100%;
     height: 100%;
-    top: 0px;
-    left: 0px;
+}
+
+.map-container > div > iframe {
+    width: 100%;
     border: none;
 }
 

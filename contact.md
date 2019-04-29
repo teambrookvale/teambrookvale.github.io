@@ -2,7 +2,7 @@
 layout: default
 title: Contact - Team Brookvale
 permalink: /contact
-description: "We develop software products and provide digital platform engineering services on the Northern Beaches of Sydney"
+description: "We develop software products and provide digital platform engineering services in Sydney and on the Gold Coast"
 ---
  <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
  <script type="text/javascript">
@@ -51,7 +51,7 @@ description: "We develop software products and provide digital platform engineer
         <div class="inner flex sb">
             <div>
                 <h1>Contact</h1>
-                <p style="margin-bottom: 50px">We develop software products and provide digital platform engineering services on the Northern Beaches of Sydney</p>
+                <p style="margin-bottom: 50px">We develop software products and provide digital platform engineering services in Sydney and on the Gold Coast</p>
                 <img src="/assets/images/arrowdown.png">
             </div>
             <div>
@@ -75,9 +75,13 @@ description: "We develop software products and provide digital platform engineer
                 <!--<a href="https://www.youtube.com/channel/UCpFdJdlijg9qK7p3su-9J_Q" class="socialmedia yt"><i class="fab fa-youtube"></i></a>
                 <a href="http://teambrookvale.tumblr.com" class="socialmedia tm"><i class="fab fa-tumblr"></i></a>-->
             </div>
-            <div class="map-holder">
+            <div class="map-container">
                 <div>
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.758445082223!2d151.26014485137583!3d-33.76690738058974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12aa46876df29f%3A0x9fd196ca7df78eff!2s117+Old+Pittwater+Rd%2C+Brookvale+NSW+2100!5e0!3m2!1sen!2sau!4v1459312995857" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.758445082223!2d151.26014485137583!3d-33.76690738058974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12aa46876df29f%3A0x9fd196ca7df78eff!2s117+Old+Pittwater+Rd%2C+Brookvale+NSW+2100!5e0!3m2!1sen!2sau!4v1459312995857" width="100%" height="325" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                </div>
+                <div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3519.8516362927703!2d153.44935601507058!3d-28.09006808263497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9103975ab3250b%3A0xbd5958206892a728!2s37+Connor+St%2C+Burleigh+Heads+QLD+4220%2C+Australia!5e0!3m2!1sen!2sau!4v1556567349781"
+                     width="100%" height="325" frameborder="0" style="border:0" allowfullscreen=""></iframe>
                 </div>
             </div>
         </div>
