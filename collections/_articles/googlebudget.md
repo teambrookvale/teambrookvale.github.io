@@ -1,5 +1,5 @@
 ---
-permalink: /articles/how-to-stop-google-ads-overspending
+permalink: /articles/how-to-stop-google-ads-overspending-budget
 boxclassname: black
 author: "Tamas Szekeres"
 topic: "Development"

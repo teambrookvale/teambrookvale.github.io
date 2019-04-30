@@ -74,19 +74,10 @@ description: "We develop software products and provide digital platform engineer
                 <a href="http://twitter.com/teambrookvale" class="socialmedia tw"><i class="fab fa-twitter"></i></a>
                 <!--<a href="https://www.youtube.com/channel/UCpFdJdlijg9qK7p3su-9J_Q" class="socialmedia yt"><i class="fab fa-youtube"></i></a>
                 <a href="http://teambrookvale.tumblr.com" class="socialmedia tm"><i class="fab fa-tumblr"></i></a>-->
-            </div>
-            <div class="map-container">
-                <div>
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.758445082223!2d151.26014485137583!3d-33.76690738058974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12aa46876df29f%3A0x9fd196ca7df78eff!2s117+Old+Pittwater+Rd%2C+Brookvale+NSW+2100!5e0!3m2!1sen!2sau!4v1459312995857" width="100%" height="325" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-                </div>
-                <div>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3519.8516362927703!2d153.44935601507058!3d-28.09006808263497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9103975ab3250b%3A0xbd5958206892a728!2s37+Connor+St%2C+Burleigh+Heads+QLD+4220%2C+Australia!5e0!3m2!1sen!2sau!4v1556567349781"
-                     width="100%" height="325" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-                </div>
-            </div>
+            </div>           
         </div>
         <div style="width: 460px">
-            <form id="contactForm" style="margin-bottom: 80px" onsubmit="sendEmail();return false">
+            <form id="contactForm" style="margin-bottom: 20px" onsubmit="sendEmail();return false">
                 <input class="d-none" name="additional_field" type="text" />
                 <div class="row">
                     <label>Name</label>
@@ -114,6 +105,21 @@ description: "We develop software products and provide digital platform engineer
                     <button id="submit-button" type="submit">Send message</button>
                 </div>
             </form>
-        </div>
-    </div>
+        </div>         
 </div>
+<div class="container">
+<hr class="separator" />
+</div>
+<div class="inner map-container">               
+                <div>
+                <h3>117 Old Pittwater Rd, Brookvale NSW 2100</h3>
+                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.758445082223!2d151.26014485137583!3d-33.76690738058974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12aa46876df29f%3A0x9fd196ca7df78eff!2s117+Old+Pittwater+Rd%2C+Brookvale+NSW+2100!5e0!3m2!1sen!2sau!4v1459312995857" width="100%" height="325" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                </div>
+                <div>
+                <h3>
+                37 Connor St, Burleigh Heads QLD 4220
+                </h3>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3519.8516362927703!2d153.44935601507058!3d-28.09006808263497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9103975ab3250b%3A0xbd5958206892a728!2s37+Connor+St%2C+Burleigh+Heads+QLD+4220%2C+Australia!5e0!3m2!1sen!2sau!4v1556567349781"
+                     width="100%" height="325" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                </div>            
+    </div>
