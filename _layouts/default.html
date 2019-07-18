@@ -24,6 +24,32 @@
             document.getElementById('bignav').className = show ? '' : 'hidden';
         }
     </script>   
+    <script type="text/javascript">
+        var currentArticle = 1;
+        var isMs = false;
+        if (document.documentMode || /Edge/.test(navigator.userAgent)) {
+            isMs = true;
+        };
+        function scrollToArticle(which) {
+            which.scrollIntoView({behavior: "smooth", block: "nearest", inline: "center"});
+        }
+        function scrollSide(whichWay) {
+            if (isMs) {
+                document.getElementById('scroller').scrollLeft += (whichWay ? 1203 : -1203);
+                return
+            };
+            if (whichWay) {
+                if (document.getElementById('article' + (currentArticle + 1)))
+                    currentArticle++;
+            }
+            else {
+                if (document.getElementById('article' + (currentArticle - 1)))
+                    currentArticle--;
+            };
+            var whichArticle = document.getElementById('article' + currentArticle);
+            scrollToArticle(whichArticle);     
+       }
+    </script>
 </head>
 <body>
     <nav>
@@ -92,32 +118,6 @@
             </div>
             
         </div>
-    </footer>   
-    <script type="text/javascript">
-        var currentArticle = 1;
-        var isMs = false;
-        if (document.documentMode || /Edge/.test(navigator.userAgent)) {
-            isMs = true;
-        };
-        function scrollToArticle(which) {
-            which.scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
-        }
-        function scrollSide(whichWay) {
-            if (isMs) {
-                document.getElementById('scroller').scrollLeft += (whichWay ? 1203 : -1203);
-                return
-            };
-            if (whichWay) {
-                if (document.getElementById('article' + (currentArticle + 1)))
-                    currentArticle++;
-            }
-            else {
-                if (document.getElementById('article' + (currentArticle - 1)))
-                    currentArticle--;
-            };
-            var whichArticle = document.getElementById('article' + currentArticle);
-            scrollToArticle(whichArticle);     
-       }
-    </script>
+    </footer>  
 </body>
 </html>
