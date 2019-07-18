@@ -11,7 +11,7 @@ date: '2019-07-08 00:00:00'
 
 <div class="arttext" style="text-align:justify;" markdown="1">
 
-Facebook’s Graph API is an intuitive, well-designed interface. With powerful tools like the [Graph API Explorer](https://developers.facebook.com/tools/explorer/), it is relatively easy to incorporate into any system, even if no official Facebook library is available for your platform of choice. Once you got the hang of it, it's a great system to work with. Let's say you know the basics; Graph API poses no difficulty, right? Well, not necessarily. Let’s look into it!
+Facebook’s Graph API is an intuitive, well-designed interface. With powerful tools like the [Graph API Explorer](https://developers.facebook.com/tools/explorer/), it is relatively easy to incorporate into any system, even if no official Facebook library is available for your platform of choice. Once you got the hang of it, it's a great system to work with. Let's say you know the basics; Graph API poses no difficulty, right? Not necessarily. Let’s look into it!
 
 ## Breaking changes
 
@@ -46,9 +46,9 @@ Here are a few things you should keep in mind about the aforementioned `search?t
 
 - When using a `custom_audience`, especially with `address_string`, make sure Facebook can geocode the address. The endpoint `act_<AD ACCOUNT ID>/delivery_estimate` can be used to verify this.
 
-- If you keep encountering issues, such as too few locations are returned for your queries, make sure to try it with another access token. One of our clients had an issue with their production access token, while the test access token worked just fine.
+- If you keep encountering issues, such as too few locations are returned for your queries, make sure to try it with another access token. One of our apps had an issue with the production access token, while the test access token worked just fine.
 
 ## Conculsion
-As you can see, location targeting has many caveats, and it is only the tip of the iceberg. Generally speaking, successfully utilizing the Facebook Marketing API for large-scale applications can be a difficult task. In the second part of the article, I am going to show you our best practices and strategies of dealing with the Facebook API. 
-If you would rather have a profession team do the heavy lifting for you, you may contact Team Brookvale [here](https://teambrookvale.com.au/contact).
+As you can see, location targeting has many caveats, and it is only the tip of the iceberg. Generally speaking, successfully utilising the Facebook Marketing API for large-scale applications can be a difficult task. In the second part of the article, we are going to showcase our best practices and strategies of dealing with the Facebook API. 
+If you would rather have a professional team do the heavy lifting for you, or have any questions please feel free to contact Team Brookvale [here](https://teambrookvale.com.au/contact).
 </div>
