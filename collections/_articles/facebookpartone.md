@@ -6,10 +6,13 @@ topic: "Development"
 title: "Facebook Marketing API: Location targeting – caveats and solutions (part one)"
 leadhead: "Using Facebook Marketing API to create a digital marketing software"
 leadtext: "Successfully utilizing the Facebook Marketing API for large-scale applications can be a difficult task. This article aims to show you the common pitfalls of location targeting"
+image: /assets/images/articles/acer-device-digital-marketing.jpg
 date: '2019-07-08 00:00:00'
 ---
 
 <div class="arttext" style="text-align:justify;" markdown="1">
+
+<img style="padding-bottom:2.5em;" src="/assets/images/articles/acer-device-digital-marketing.jpg" alt="Facebook" />
 
 Facebook’s Graph API is an intuitive, well-designed interface. With powerful tools like the [Graph API Explorer](https://developers.facebook.com/tools/explorer/), it is relatively easy to incorporate into any system, even if no official Facebook library is available for your platform of choice. Once you got the hang of it, it's a great system to work with. Let's say you know the basics; Graph API poses no difficulty, right? Not necessarily. Let’s look into it!
 
