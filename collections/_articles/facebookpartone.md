@@ -51,7 +51,7 @@ Here are a few things you should keep in mind about the aforementioned `search?t
 
 - If you keep encountering issues, such as too few locations are returned for your queries, make sure to try it with another access token. One of our apps had an issue with the production access token, while the test access token worked just fine.
 
-## Conculsion
+## Conclusion
 As you can see, location targeting has many caveats, and it is only the tip of the iceberg. Generally speaking, successfully utilising the Facebook Marketing API for large-scale applications can be a difficult task. In the second part of the article, we are going to showcase our best practices and strategies of dealing with the Facebook API. 
 If you would rather have a professional team do the heavy lifting for you, or have any questions please feel free to contact Team Brookvale [here](https://teambrookvale.com.au/contact).
 </div>
