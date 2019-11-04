@@ -209,15 +209,36 @@ h1.herotext {
 .technologies.inner {
     width: auto;
 }
-.technologies > div:first-of-type {
-    margin: 0 auto;
-}
+
 .technologies h2 {
     margin-top: 0
 }
 .technologies img {
     width: 128px; 
     margin: 30px 10px 10px 10px;
+}
+
+.clients {
+    margin-top: 200px;
+    color: white;
+    background-color: #007AE5;
+    height: 440px;
+    padding: 81px 0 0 0;
+    text-align: center;
+}
+.clients.inner {
+    width: auto;
+}
+.clients > div:first-of-type {
+    margin: 0 auto;
+}
+.clients h2 {
+    margin-top: 0
+}
+
+.clients img {
+    width: 256px; 
+    margin: 20px 40px;
 }
 
 .d-none{
@@ -708,6 +729,7 @@ input[type=submit]:disabled:hover {
     .inner.services {
         width: 100%;
     }
+
     .technologies {
         height: auto;
         padding: 60px 20px 40px 20px;
@@ -718,7 +740,8 @@ input[type=submit]:disabled:hover {
     .technologies img {
         margin: 0;
         width: 100px;
-    }
+    } 
+
     .services > div > div,
     .services div.flex div.flex > div {
         width: 100%;
