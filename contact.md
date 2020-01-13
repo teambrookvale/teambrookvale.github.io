@@ -17,7 +17,7 @@ description: "We develop software products and provide digital platform engineer
 
     function sendEmail(event) {
         var button = document.getElementById("submit-button");
-        var service_id = 'gmail-longbtomi';
+        var service_id = 'gmail_longbtomi01';
         var template_id = 'contact_form';
         var form = document.forms['contactForm'];
         var templateParams = {
