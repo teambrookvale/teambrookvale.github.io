@@ -4,12 +4,12 @@ title: Contact - Team Brookvale
 permalink: /contact
 description: "We develop software products and provide digital platform engineering services in Sydney and on the Gold Coast"
 ---
- <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
- <script type="text/javascript">
-  (function(){
-            emailjs.init("user_knG2BzWL3cFIviNKOkKF5");
-        })();
-  </script>
+ <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("user_knG2BzWL3cFIviNKOkKF5");
+   })();
+</script>
 <script type="text/javascript">
     function getIp(json){
         window.ipAddress = json.ip;
@@ -63,7 +63,7 @@ description: "We develop software products and provide digital platform engineer
         <div style="width: 659px">
             <h2>Sign up for your free 45 minute Project Discovery Workshop</h2>
             <div class="mid gray">
-                Team Brookvale helps you to improving business efficiency through implementing mobile technologies. From iOS business apps through games and IoT solutions Team Brookvale provides a full consulting and development service. Take advantage of working with a local development team!
+                Team Brookvale helps you improving business efficiency through implementing mobile technologies. From iOS business apps through games and IoT solutions Team Brookvale provides a full consulting and development service. Take advantage of working with a local development team!
             </div>
             <div class="contact semibold" style="margin: 30px 0 40px 0">
                 <div class="floleft" style="width: 150px">Phone:</div><div class="bluetext"><a class="phone-number" href="tel:{{ site.data.text.footer.phone }}">{{ site.data.text.footer.phone }}</a></div>
