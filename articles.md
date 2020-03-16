@@ -10,7 +10,7 @@ description: "We develop software products and provide digital platform engineer
         <div class="inner flex sb">
             <div>
                 <h1>Articles</h1>
-                <p style="margin-bottom: 50px">We develop software products and provide digital platform engineering services in Sydney, Gold Coast and Brisbanet</p>
+                <p style="margin-bottom: 50px">We develop software products and provide digital platform engineering services in Sydney, Gold Coast and Brisbane</p>
                 <img src="/assets/images/arrowdown.png">
             </div>
             <div class="pageheropic">
