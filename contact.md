@@ -2,7 +2,7 @@
 layout: default
 title: Contact - Team Brookvale
 permalink: /contact
-description: "We develop software products and provide digital platform engineering services in Sydney and on the Gold Coast"
+description: "We develop software products and provide digital platform engineering services in Sydney, Gold Coast and Brisbane"
 ---
  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
 <script type="text/javascript">
@@ -51,7 +51,7 @@ description: "We develop software products and provide digital platform engineer
         <div class="inner flex sb">
             <div>
                 <h1>Contact</h1>
-                <p style="margin-bottom: 50px">We develop software products and provide digital platform engineering services in Sydney and on the Gold Coast</p>
+                <p style="margin-bottom: 50px">We develop software products and provide digital platform engineering services in Sydney, Gold Coast and Brisbane</p>
                 <img src="/assets/images/arrowdown.png">
             </div>
             <div>
