@@ -39,7 +39,17 @@
         "marketingDescriptionTwo": "Build Analytics, AdWords and Facebook retargeting audiences automatically. Deploy thousands of campaigns through the APIs automatically at scale.",
         "automationTitle": "Automation software and API integration",
         "automationDescriptionOne": "Team Brookvale has extensive experience in social media API integration and developing automation software. We provide complete software development services from idea through development to maintenance.",
-        "automationDescriptionTwo": "Team Brookvale has extensive experience in creating high performance, bespoke application in a wide range of environments including business apps, B2C apps and IoT. We take personal pride in delivering the best possible solutions for our clients."
+        "automationDescriptionTwo": "Team Brookvale has extensive experience in creating high performance, bespoke application in a wide range of environments including business apps, B2C apps and IoT. We take personal pride in delivering the best possible solutions for our clients.",
+        "softwareDevelopmentManagement": {
+            "title": "Software Development Management Consulting",
+            "leadText": "Deliver high quality software solutions on time and within budget.",
+            "leadText2": "We help Organizations with consulting and implementing development flows to enhance team productivity, greater project predictability, more agility, and better product quality.",
+            "accountability":"Increase Developer Accountability with daily reviews",
+            "measurability": "Connect Version control and Timesheet entries for measurability",
+            "agile" : "Adopt Scrum, Kanban or a hybrid approach based on your needs",
+            "planAndReview": "Plan and Review your Development Roadmap Frequently",
+            "ledAssesment": "Explore our hands-on, expert led assessment, review and best practice workshop."
+        }
     },
     "nav": {
         "home": "Home",
@@ -52,6 +62,8 @@
         "street": "25 / 117 Old Pittwater Rd",
         "address": "Brookvale NSW 2100",
         "street2": "37 Connor St",
-        "address2": "Burleigh Heads QLD 4220"
+        "address2": "Burleigh Heads QLD 4220",
+        "street3": "18 / 324 Queen St",
+        "address3": "Brisbane City QLD 4000"
     }
 }

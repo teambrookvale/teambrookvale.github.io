@@ -245,6 +245,10 @@ h1.herotext {
     display:none;
 }
 
+.container {
+    max-width: 1160px;
+}
+
 .projects {
     padding: 120px; 
     width: 1200px;
@@ -664,6 +668,88 @@ input[type=submit]:disabled:hover {
     text-align: center !important;
   }
 
+  .d-flex {
+    display:flex;
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;                 
+    }
+}
+
+.column {
+    flex-basis: 50%;
+    flex-grow: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.management-consulting {
+    .global{
+        padding: 50px 0px 0px 0px;
+
+        div {
+            padding: 15px;
+        }
+    }
+
+    .second-section {
+        padding: 50px 0px 50px 0px;
+    }
+}
+
+.column-img {
+    max-width: 42%;
+}
+
+.column-text {
+    max-width: 58%;
+}
+
+.container{
+    &.section{
+        margin-top: 130px;
+    }
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.p-30 {
+    padding: 50px 40px;
+}
+
+.development {
+    img {
+        max-height: 90px;
+        padding-bottom: 5px;
+    }
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.spaced-list{
+    li{
+        margin-bottom: 2em;
+    }
+}
+
+.unstyled-item{
+    list-style-type: none;
+}
+
+.justify-content-start{
+    justify-content: start;
+}
+
 @media only screen and (max-width: 1169px) {
     .nomob {
         display: none
@@ -759,23 +845,7 @@ input[type=submit]:disabled:hover {
     }
     .projects .flex > div {
         width: 100% !important;
-    }
-
-    .d-flex{
-        display:flex;
-    }
-
-    .justify-content-between{
-        justify-content: space-between;
-    }
-
-    .flex-wrap{
-        flex-wrap: wrap;
-    }
-
-    .justify-content-start{
-        justify-content: start;
-    }
+    }    
 
     .collection,
     .collection > div {
@@ -906,11 +976,36 @@ body{
     .map-container{
         flex-direction: column;
     }
+
+
+    .d-flex {
+        flex-direction: column;
+    }
+
+    .column-img {
+        max-width: 100%;
+    }
+    
+    .column-text {
+        max-width: 100%;
+    }
  }
 
 @media (max-width: 768px) { 
     .icon-section{
         font-size: 12px;
+    }
+
+    .d-flex {
+        flex-direction: column;
+    }
+
+    .column-img {
+        max-width: 100%;
+    }
+    
+    .column-text {
+        max-width: 100%;
     }
 
     .footer-container{
