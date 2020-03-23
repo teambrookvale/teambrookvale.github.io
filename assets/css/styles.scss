@@ -691,6 +691,7 @@ input[type=submit]:disabled:hover {
 
         div {
             padding: 15px;
+            width: 240px;
         }
     }
 
@@ -718,10 +719,23 @@ input[type=submit]:disabled:hover {
 }
 
 .p-30 {
-    padding: 50px 40px;
+    padding: 50px 0px 50px 70px;
+}
+
+.wrapper {
+    padding: 1.25em;
 }
 
 .development {
+    display: flex;
+    justify-content: space-between;
+
+    div{
+        display: block;
+        text-align: center;
+        width: 240px;
+    }
+
     img {
         max-height: 90px;
         padding-bottom: 5px;
@@ -758,7 +772,7 @@ input[type=submit]:disabled:hover {
         display: block
     }
     body {
-        padding-bottom: 300px;
+        padding-bottom: 360px;
     }
     h1 {
         font-size: 32px;
@@ -982,6 +996,19 @@ body{
         flex-direction: column;
     }
 
+    .management-consulting {
+        .global{
+    
+            div {
+                width: 100%;
+            }
+        }
+    }
+
+    .p-30 {
+        padding: 20px 0px 20px 20px;
+    }
+
     .column-img {
         max-width: 100%;
     }
@@ -1008,8 +1035,21 @@ body{
         max-width: 100%;
     }
 
+    .p-30 {
+        padding: 20px 0px 20px 20px;
+    }
+
     .footer-container{
         flex-direction: column;
+    }
+
+    .management-consulting {
+        .global{
+    
+            div {
+                width: 100%;
+            }
+        }
     }
 
     .footer-container div {
