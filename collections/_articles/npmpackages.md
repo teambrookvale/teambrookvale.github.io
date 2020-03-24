@@ -11,6 +11,10 @@ date: '2020-03-18 00:00:00'
 ---
 
 <div class="arttext" style="text-align:justify;">
+
+<img style="padding-bottom:2.5em;width:100%;" src="/assets/images/articles/NPM-01.webp" alt="NPM Packages" />
+
+
 <p>If you are a frontend developer, you may have come across the following situation. You find the perfect dependency for your app. It does everything you need and works well, except for one thing. One little bug, one small aspect of it behaves partially the way it should in your app, and there is no way to set it up right. It is almost perfect, but not quite.</p>
 
 <p>This can be frustrating as you may have already gone ahead and written a lot of code specific to this dependency, which would most likely be wasted if the library is replaced. Also if the dependency was a perfect match in the first place, there might not be others which match your needs like this one, so you would most likely have to compromise.</p>
