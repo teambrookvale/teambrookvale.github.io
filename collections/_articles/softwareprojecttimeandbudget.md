@@ -4,7 +4,7 @@ boxclassname: black
 author: "Thomas Saunders"
 topic: "Development"
 title: "The basics of delivering a software project on time and on budget"
-leadhead: "Delivering a software development project on time and on budget is a complex task which requires constant reviews and iterations at a management level. By applying the methods below your project delivery will have a better chance to succeed."
+leadhead: "Delivering a software development project on time and on budget is a complex task which requires constant reviews and iterations at a management level."
 leadtext: ""
 image: /assets/images/articles/Blogpost-DeliveringASoftwareProject_Hero.png
 date: '2020-03-28 00:00:00'
