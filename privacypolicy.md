@@ -1,8 +1,11 @@
 ---
-layout: default
-title: Privacy Policy - Alcoholism Self Checker
 permalink: /alcoholismselfchecker/privacypolicy
-description: "We develop software products and provide digital platform engineering services in Sydney, Gold Coast and Brisbane"
+boxclassname: black
+author: "Team Brookvale Pty Ltd"
+topic: "Development"
+title: "Privacy Policy"
+leadhead: "Alcoholism Self Checker"
+date: '2019-04-01 00:00:00'
 ---
 
 <div class="privacypolicypage">    
