@@ -198,6 +198,67 @@ h1.herotext {
     display: inline-block;
 }
 
+
+.case-studies {
+    margin-top: 50px;
+    color: white;
+    background-color: #007AE5;
+    padding: 60px 0 0 0;
+    text-align: center;
+}
+
+.case-studies.inner {
+    width: auto;
+}
+
+.case-studies {
+    .case-studies-container {
+        padding-top: 2em;
+        padding-bottom: 2em;
+
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .case-study-item {  
+        margin: 1em;
+        max-width: 350px; 
+
+        img {
+            max-width: 320px;
+        }
+    }
+}
+
+.btn-white {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.25;
+    display: inline-block;
+    line-height: 48px;
+    width: 240px;
+    height: 48px;
+    box-shadow: 0 4px 12px 0 rgba(255, 255, 255, 0.48);
+    color: #007ae5;
+    background-color: white;
+    border-radius: 5px;
+    border: 0;
+    margin-right: 0px !important;
+    cursor: pointer;
+}
+
+.btn-white:active {
+    background-color: white !important;
+}
+
+.btn-white:disabled,
+.btn-white:disabled:hover {
+    cursor: not-allowed;
+    box-shadow: unset;
+    background-color: rgba(255,255,255, 0.3) !important;
+}
+
+
 .technologies {
     margin-top: 200px;
     color: white;
@@ -222,8 +283,7 @@ h1.herotext {
     margin-top: 200px;
     color: white;
     background-color: #007AE5;
-    height: 440px;
-    padding: 81px 0 0 0;
+    padding: 81px 0 81px 0;
     text-align: center;
 }
 .clients.inner {
@@ -236,8 +296,17 @@ h1.herotext {
     margin-top: 0
 }
 
+.clients {
+    .logo-items {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+
 .clients img {
-    width: 256px; 
+    max-width: 256px; 
+    height: 100px;
     margin: 20px 40px;
 }
 
@@ -775,6 +844,20 @@ input[type=submit]:disabled:hover {
     .onlymob {
         display: block
     }
+
+
+    .case-studies {
+        .case-study-item {
+            max-width: 1160px;
+        }
+
+        .case-studies-container {
+            flex-direction: column;
+            justify-content: center;
+            width: 100%;
+        }
+    }
+
     body {
         padding-bottom: 360px;
     }
