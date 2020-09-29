@@ -4,7 +4,7 @@ boxclassname: black
 author: "Thomas Saunders"
 topic: "Development"
 title: "Mobile App development for Gainsborough Australia"
-leadhead: ""
+leadhead: "Team Brookvale, had the opportunity to work with one of Australia’s largest lock manufacturers, an ASX 200 and S&P 500 listed company and created an incredible smart lock App that is now available all over Australia."
 leadtext: ""
 image: /assets/images/articles/lock.webp
 date: '2020-09-26 00:00:00'
@@ -12,7 +12,8 @@ date: '2020-09-26 00:00:00'
 
 <div class="arttext" style="text-align:justify;">
 
-<p>Team Brookvale, had the opportunity to work with one of Australia’s largest lock manufacturers, an ASX 200 and S&P 500 listed company and created an incredible smart lock App that is now available all over Australia.</p>
+<div style="display:flex;justify-content:space-between;"><img style="width:50%;padding:0.5em;" src="/assets/images/articles/bunnings.jpg" alt="Bunnings" />
+<img style="width:50%;padding:0.5em;" src="/assets/images/articles/bunnings-trilock.jpg" alt="Bunnings Lock page" /></div>
 <p>The smart lock was featured in the September 2020 issue in Bunnings magazine and on the Gainsborough website under Freestyle eTrilock.</p>
 <img style="width:100%;" src="/assets/images/articles/gainsborough.webp" alt="Lock" />
 <h3>Gainsborough Freestyle eTrilock App</h3>
