@@ -61,7 +61,7 @@ description: "We develop software products and provide digital platform engineer
     </div>
     <div class="inner flex sb">
         <div style="width: 659px">
-            <h2>Sign up for your free 45 minute Project Discovery Workshop</h2>
+            <h2>Sign up for your Project Discovery Workshop</h2>
             <div class="mid gray">
                 Team Brookvale helps you improving business efficiency through implementing mobile technologies. From iOS business apps through games and IoT solutions Team Brookvale provides a full consulting and development service. Take advantage of working with a local development team!
             </div>
