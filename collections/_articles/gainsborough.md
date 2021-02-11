@@ -22,7 +22,7 @@ date: '2020-09-26 00:00:00'
 <p>It works with BLE (“Bluetooth Low Energy”) and remotely through a gateway.</p>
 <p>The App uses OTA (“Over-The-Air”) firmware updates over BLE so the lock is updated at all times. It achieves this by the App on the mobile phone receiving periodic upgrades of new features and bug fixes from the App Store and updates firmware through BLE on demand.</p>
 
- <div class="inner video">
+ <div class="video">
         <div>
            <iframe id="youtube-embed-frame" width="" height="" src="https://www.youtube.com/embed/_EAT7_7pSkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
