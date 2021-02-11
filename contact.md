@@ -72,6 +72,7 @@ description: "We develop software products and provide digital platform engineer
             <div>
                 <a href="https://www.facebook.com/teambrookvale" class="socialmedia fb"><i class="fab fa-facebook-f"></i></a>
                 <a href="http://twitter.com/teambrookvale" class="socialmedia tw"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/company/team-brookvale/" class="socialmedia tw"><i class="fab fa-linkedin"></i></a>
                 <!--<a href="https://www.youtube.com/channel/UCpFdJdlijg9qK7p3su-9J_Q" class="socialmedia yt"><i class="fab fa-youtube"></i></a>
                 <a href="http://teambrookvale.tumblr.com" class="socialmedia tm"><i class="fab fa-tumblr"></i></a>-->
             </div>           
