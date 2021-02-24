@@ -1,7 +1,7 @@
 ---
 permalink: /articles/tutorial-xml-level-unity
 boxclassname: black
-author: "Gabor Szekeres"
+author: "Ed Saunders"
 topic: "Development, Tutorial"
 title: "Tutorial – Roboust XML level building in Unity"
 leadhead: "Having a robust process for loading levels is essential."

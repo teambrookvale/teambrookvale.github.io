@@ -1,7 +1,7 @@
 ---
 permalink: /articles/how-to-stop-google-ads-overspending-budget
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "Development"
 title: "How to stop Google Ads overspending your fixed budget?"
 leadhead: "Save costs with automation"

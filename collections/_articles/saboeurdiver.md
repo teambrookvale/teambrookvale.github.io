@@ -1,7 +1,7 @@
 ---
 permalink: /articles/diver-open-source
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "Development, Tutorial"
 title: "Saboteur Diver goes open source"
 leadhead: "Saboteur Diver, our isometric stealth game is available for the game developer community as a free download."

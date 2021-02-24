@@ -1,7 +1,7 @@
 ---
 permalink: /articles/saboteur-diver-in-the-best-iphone-games-of-the-week-at-time-com
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "Development, Tutorial"
 title: "Saboteur Diver in “The Best iPhone Games of the Week” at Time.com"
 leadhead: "Saboteur Diver has been featured in “The Best iPhone Games of the Week” at Time.com"

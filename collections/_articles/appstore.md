@@ -1,7 +1,7 @@
 ---
 permalink: /articles/idea-app-store
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "Business Apps, Development, News"
 title: "From idea to App Store"
 leadhead: "How does app development work and how much does it cost?"

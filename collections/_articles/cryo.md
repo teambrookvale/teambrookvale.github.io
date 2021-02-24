@@ -1,7 +1,7 @@
 ---
 permalink: /articles/iot-door-control-cryo
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "News"
 title: "IoT door control system live in Cryo"
 image: /assets/images/articles/xIoTAppCryo.webp

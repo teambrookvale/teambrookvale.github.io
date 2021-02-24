@@ -1,7 +1,7 @@
 ---
 permalink: /articles/low-cost-computers-iot
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "Business Apps"
 title: "How low-cost, low-performance computers are shaping the future of IoT"
 leadhead: "IoT systems are everywhere from industrial to consumer solutions. As computing and electronics are getting cheaper we will soon see a new generation of applications called Internet of Everyday Things."

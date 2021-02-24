@@ -1,7 +1,7 @@
 ---
 permalink: /articles/overview-of-the-mqtt-protocol
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "Business Apps"
 title: "Learn how a 17 year old IBM invention is powering the IoT devices – An overview of the MQTT protocol"
 leadhead: "What is MQTT?"

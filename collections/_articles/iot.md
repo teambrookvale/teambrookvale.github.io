@@ -1,7 +1,7 @@
 ---
 permalink: /articles/smart-city-iot-applications
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "Business Apps"
 title: "Smart city IoT applications"
 leadhead: "The objective of smart city applications is to integrate information, communication and decision making seamlessly and in return to improve quality of life."

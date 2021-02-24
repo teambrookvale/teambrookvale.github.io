@@ -1,7 +1,7 @@
 ---
 permalink: /articles/open-source-historical-stock-data-downloader-application
 boxclassname: black
-author: "Edward Gabe Saunders"
+author: "Ed Saunders"
 topic: "Development"
 title: "Open Source Historical stock data downloader application"
 leadhead: "Our latest lightweight application which downloads historical stock data from Yahoo Finance has been made available on GitHub as an open source project."

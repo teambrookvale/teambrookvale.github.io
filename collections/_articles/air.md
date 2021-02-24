@@ -1,7 +1,7 @@
 ---
 permalink: /articles/iot-air-quality
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "News"
 title: "Smart city IoT applications"
 leadhead: "Air pollution in big cities is a huge problem and with the ever growing number of cars it’s getting worse each year."

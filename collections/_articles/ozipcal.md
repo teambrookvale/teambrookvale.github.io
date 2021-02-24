@@ -1,7 +1,7 @@
 ---
 permalink: /articles/ozipcal-investment-property-calculator-app-is-out
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "News"
 title: "OZIPCAL – Investment property calculator app is out!"
 leadhead: "OZIPCAL is out exclusively on the Australian App Store. A powerful tool which helps you understand how incoming and outgoing costs stack up in a straightforward manner."

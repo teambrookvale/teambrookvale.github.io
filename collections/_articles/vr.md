@@ -1,7 +1,7 @@
 ---
 permalink: /articles/virtual-reality-combined-with-real-roller-coaster-ride
 boxclassname: black
-author: "Tamas Szekeres"
+author: "Thomas Saunders"
 topic: "Development"
 title: "Virtual Reality combined with real roller coaster ride"
 leadhead: "One of the Gold Coast theme parks was seeking a solution to overhaul a roller coaster ride by enhancing the experience with virtual reality (VR)."
