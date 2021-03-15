@@ -57,14 +57,14 @@
         "articles": "Articles",
         "contact": "Contact"
     },
-    "footer": {
-        "phone": "+61 2 9188 3949",
-        "email": "sales@teambrookvale.com.au",
-        "street": "25 / 117 Old Pittwater Rd",
-        "address": "Brookvale NSW 2100",
-        "street2": "4 Starling St",
-        "address2": "Burleigh Heads QLD 4220",
-        "street3": "18 / 324 Queen St",
-        "address3": "Brisbane City QLD 4000"
-    }
+  "footer": {
+    "phone": "+61 1300 718 864",
+    "email": "sales@teambrookvale.com.au",
+    "street": "25 / 117 Old Pittwater Rd",
+    "address": "Brookvale NSW 2100",
+    "street2": "4 Starling St",
+    "address2": "Burleigh Heads QLD 4220",
+    "street3": "18 / 324 Queen St",
+    "address3": "Brisbane City QLD 4000"
+  }
 }
