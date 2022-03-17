@@ -180,6 +180,17 @@ h1.herotext {
 .services img.big {
     width: 560px;
 }
+.certifications {
+    margin-top: 100px
+}
+
+.certifications {
+    .items {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
 
 .icon-section{
     background-color:#007AE5;
