@@ -10,6 +10,7 @@ description: "We develop software products and provide digital platform engineer
     <div class="textblock">
         <h1>{{ site.data.text.nuix.nuixAutomation.header }}</h1>
         <p>{{ site.data.text.nuix.nuixAutomation.text }}</p>        
+        <button onclick="top.location.href = '/articles'">{{ site.data.text.home.readbuttontext}}</button><button onclick="top.location.href = '/contact'">{{ site.data.text.home.contactbuttontext}}</button>
     </div>
 </div>
 
