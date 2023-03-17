@@ -3,8 +3,8 @@ permalink: /articles/nuix-technology-partner-of-the-year
 boxclassname: black
 author: "Thomas Saunders"
 topic: "Business"
-title: "Being nominated for technology partner of the year for Nuix"
-leadhead: "It has been an absolute honour celebrating with Nuix and being nominated for technology partner of the year."
+title: "TB Automation nominated for technology partner of the year at Nuix XLR8/23 Sydney"
+leadhead: "It was amazing to attend such an awe-inspiring event packed to the brim with amazing presentations, demonstrations and discussions."
 leadtext: ""
 image: /assets/images/articles/nuix-1.webp
 date: '2023-03-16 00:00:00'
