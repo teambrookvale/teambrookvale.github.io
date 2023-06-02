@@ -1,11 +1,22 @@
-# How to install:
+# How to install without WSL:
 1. Download and Install a Ruby+Devkit version from RubyInstaller Downloads. Use default options for installation. (https://rubyinstaller.org/downloads/)
 2. Open a new command prompt window from the start menu, so that changes to the PATH environment variable becomes effective. Install Jekyll and Bundler via: *gem install jekyll bundler*
 3. Check if Jekyll installed properly: *jekyll -v*
 
+# How to install with WSL:
+```
+sudo apt-get update -y && sudo apt-get upgrade -y
+sudo apt install ruby-full build-essential
+sudo gem install jekyll bundler
+sudo gem install jekyll-sitemap
+sudo gem install jekyll-last-modified-at
+sudo gem install wdm
+```
+
 # How to start the project:
-1. Run *jekyll build --incremental*
-2. Run *jekyll serve*
+```
+jekyll serve --livereload --incremental --force_polling```
+```
 
 # 3rd party libraries:
 - EmailJS: http://www.emailjs.com/
