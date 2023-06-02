@@ -6,12 +6,12 @@ topic: "System Integration"
 title: "Enhancing Business Intelligence with ConnectWise and Power BI Integration"
 leadhead: "The integration of ConnectWise and Power BI offers businesses a comprehensive solution to enhance sales operations, gain valuable insights, and overcome critical challenges"
 leadtext: "By leveraging ConnectWise' CRM capabilities and Power BI's advanced analytics features, organizations can optimize their sales processes, make data-driven decisions, and drive business growth in a competitive market landscape. The seamless integration of these two powerful tools empowers businesses to maximize their sales potential, improve customer satisfaction, and stay ahead of the competition."
-image: /assets/images/articles/people-sitting-near-table.webp
+image: /assets/images/articles/xhand-laptop-notebook-typing.webp
 date: '2023-06-01 00:00:00'
 ---
 
 <div class="arttext">
-  <img src="/assets/images/articles/people-sitting-near-table.webp" alt="office" />
+  <img src="/assets/images/articles/xhand-laptop-notebook-typing.webp" alt="office" />
   <h1>Enhancing Business Intelligence with ConnectWise and Power BI Integration</h1>
 
   <h2>Introduction</h2>
