@@ -64,9 +64,10 @@ description: "We develop software products and provide digital platform engineer
         <div style="width: 659px">
             <h2>Sign up for your Project Discovery Workshop</h2>
             <div class="mid gray">
-                Team Brookvale helps you improving business efficiency through implementing mobile technologies. From
-                iOS business apps through games and IoT solutions Team Brookvale provides a full consulting and
-                development service. Take advantage of working with a local development team!
+                Team Brookvale helps you improving business efficiency through implementing automation solutions,
+                system integrations and mobile technologies. From React front-end through .NET Core backend development to 
+                iOS business apps Team Brookvale provides a full consulting and development service.
+                Take advantage of working with a local development team!
             </div>
             <div class="contact semibold" style="margin: 30px 0 40px 0">
                 <div class="floleft" style="width: 150px">Phone:</div>
@@ -76,13 +77,11 @@ description: "We develop software products and provide digital platform engineer
                 <div class="bluetext">{{ site.data.text.footer.email }}</div>
             </div>
             <div>
+                <a href="https://www.linkedin.com/company/team-brookvale/" class="socialmedia tw"><i
+                        class="fab fa-linkedin"></i></a>
                 <a href="https://www.facebook.com/teambrookvale" class="socialmedia fb"><i
                         class="fab fa-facebook-f"></i></a>
                 <a href="http://twitter.com/teambrookvale" class="socialmedia tw"><i class="fab fa-twitter"></i></a>
-                <a href="https://www.linkedin.com/company/team-brookvale/" class="socialmedia tw"><i
-                        class="fab fa-linkedin"></i></a>
-                <!--<a href="https://www.youtube.com/channel/UCpFdJdlijg9qK7p3su-9J_Q" class="socialmedia yt"><i class="fab fa-youtube"></i></a>
-                <a href="http://teambrookvale.tumblr.com" class="socialmedia tm"><i class="fab fa-tumblr"></i></a>-->
             </div>
         </div>
         <div style="width: 460px">
@@ -142,6 +141,5 @@ description: "We develop software products and provide digital platform engineer
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.0823186066614!2d153.0265045150568!3d-27.466696482892164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a1d18eeea4b%3A0x487ca6e5997c2ce6!2s18%2F324%20Queen%20St%2C%20Brisbane%20City%20QLD%204000%2C%20Australia!5e0!3m2!1sen!2sau!4v1584329578522!5m2!1sen!2sau"
                 width="100%" height="325" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         </div>
-
     </div>
 </div>
