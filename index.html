@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Team Brookvale - Software Development for Enterprises
-description: "Team Brookvale has extensive experience in social media API integration and developing automation software. We provide complete software development services from idea through development to maintenance."
-keywords: "software development, software developer, sydney, brookvale, northern beaches, melbourne, brisbane, gold coast, software, development, business, iot, mobile development, ios, android, web development, business apps, game development, dotnet, react, redux"
+description: "Team Brookvale has extensive experience in social media API integration and developing automation
+software. We provide complete software development services from idea through development to maintenance."
+keywords: "software development, software developer, sydney, brookvale, northern beaches, melbourne, brisbane, gold
+coast, software, development, business, iot, mobile development, ios, android, web development, business apps, game
+development, dotnet, react, redux"
 ---
 
 <div class="inner hero">
@@ -10,36 +13,38 @@ keywords: "software development, software developer, sydney, brookvale, northern
     <div class="textblock">
         <h1>{{ site.data.text.home.herotitle }}</h1>
         <p>{{ site.data.text.home.herodescription }}</p>
-        <button onclick="top.location.href = '/articles'">{{ site.data.text.home.readbuttontext}}</button><button onclick="top.location.href = '/contact'">{{ site.data.text.home.contactbuttontext}}</button>
+        <button onclick="top.location.href = '/articles'">{{ site.data.text.home.readbuttontext}}</button><button
+            onclick="top.location.href = '/contact'">{{ site.data.text.home.contactbuttontext}}</button>
     </div>
 </div>
 
 <div class="inner marketing">
     <div class="shadow bottom">
-            <div class="flex">
-                    <div class="centered">
-                        <img src="/assets/images/image10.jpg" alt="{{ site.data.text.home.marketingTitle }}" class="big">
-                    </div>
-                
-                    <div class="text-container">
-                        <h3>{{ site.data.text.home.marketingTitle }}</h3>
-                        <p>{{ site.data.text.home.marketingDescriptionOne }}</p>
-                        <p>{{ site.data.text.home.marketingDescriptionTwo }}</p>
-                    </div>
+        <div class="flex">
+            <div class="centered">
+                <img src="/assets/images/image10.jpg" alt="{{ site.data.text.home.marketingTitle }}" class="big">
             </div>
-            <div class="flex">
-                    <div class="text-container">
-                        <h3>{{ site.data.text.home.automationTitle }}</h3>
-                        <p>{{ site.data.text.home.automationDescriptionOne }}</p>
-                        <p>{{ site.data.text.home.automationDescriptionTwo }}</p>
-                    </div>
-                    <div class="centered">
-                            <img src="/assets/images/flow-chart.jpg" alt="{{ site.data.text.home.automationTitle }}" class="automation-image">
-                    </div>
+
+            <div class="text-container">
+                <h3>{{ site.data.text.home.marketingTitle }}</h3>
+                <p>{{ site.data.text.home.marketingDescriptionOne }}</p>
+                <p>{{ site.data.text.home.marketingDescriptionTwo }}</p>
             </div>
+        </div>
+        <div class="flex">
+            <div class="text-container">
+                <h3>{{ site.data.text.home.automationTitle }}</h3>
+                <p>{{ site.data.text.home.automationDescriptionOne }}</p>
+                <p>{{ site.data.text.home.automationDescriptionTwo }}</p>
+            </div>
+            <div class="centered">
+                <img src="/assets/images/flow-chart.jpg" alt="{{ site.data.text.home.automationTitle }}"
+                    class="automation-image">
+            </div>
+        </div>
     </div>
 </div>
-   
+
 <div class="inner flex global">
     <div>
         <img src="/assets/images/global.svg" alt="{{ site.data.text.home.globaltitle }}">
@@ -60,7 +65,9 @@ keywords: "software development, software developer, sydney, brookvale, northern
 
 <div class="inner video">
     <div>
-       <iframe id="youtube-embed-frame" width="" height="" src="https://www.youtube.com/embed/zkr7jMVO_Sw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe id="youtube-embed-frame" width="" height="" src="https://www.youtube.com/embed/zkr7jMVO_Sw"
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
     </div>
 </div>
 
@@ -68,9 +75,9 @@ keywords: "software development, software developer, sydney, brookvale, northern
     <h1>{{ site.data.text.home.articles }}</h1>
 </div>
 <div class="scrollcontainer" id="scroller">
-{% assign sortedarticles = site.articles | sort: 'date' %}
-{% assign articles = sortedarticles | reverse %}
-{% for article in articles %}
+    {% assign sortedarticles = site.articles | sort: 'date' %}
+    {% assign articles = sortedarticles | reverse %}
+    {% for article in articles %}
     <div class="box" id="article{{ forloop.index }}">
         <div class="flex sb">
             <div class="text">
@@ -79,77 +86,89 @@ keywords: "software development, software developer, sydney, brookvale, northern
                 <a href="{{ article.url }}">Read more</a>
             </div>
             {% if article.image %}
-                <div class="img block">
-                        <img src="{{article.image}}" alt="{{article.leadhead}}" />
-                </div>
+            <div class="img block">
+                <img src="{{article.image}}" alt="{{article.leadhead}}" />
+            </div>
             {% endif %}
         </div>
     </div>
-{% endfor %}
+    {% endfor %}
 </div>
 <div class="inner articles centered" style="font-size: 50px; margin-top: -30px">
     <a href="javascript: scrollSide(false)">&nbsp;&lt;&nbsp;</a>&nbsp;&nbsp;&nbsp;
     <a href="javascript: scrollSide(true)">&nbsp;&gt;&nbsp;</a>
 </div>
 <div class="inner clients">
-        <div>
-            <h2 class="text-center">Clients include</h2>
-        </div>
-        <div class="container logo-items">       
-            <a href="https://www.allegion.com/corp/en/index.html" target="_blank"><img src="/assets/images/allegion_logo.png" alt="Allegion"></a>              
-            <a href="https://www.gainsboroughhardware.com.au/en/home.html" target="_blank"><img src="/assets/images/gainsborough_logo.png" alt="Gainsborough"></a>
-           <a href="https://www.uts.edu.au/" target="_blank"><img src="/assets/images/uts_logo.png" alt="UTS"></a>
-           <a href="https://www.leonardodicaprio.org/" target="_blank"><img src="/assets/images/leonardo_logo.png" alt="Leonardo DiCaprio Foundation"></a>           
-           <a href="https://campaigntrack.com.au/" target="_blank"><img src="/assets/images/campaigntrack_logo.png" alt="Campaigntrack"></a>
-           <a href="https://www.nuix.com/" target="_blank"><img src="/assets/images/nuix_logo.png" alt="Nuix"></a>
-           <a href="https://modular.hutchies.com.au/" target="_blank"><img src="/assets/images/hutchies_logo.png" alt="Hutchinson Modular"></a>
-           <a href="https://myhealth.net.au/" target="_blank"><img src="/assets/images/myhealth_logo.png" alt="Myhealth"></a>
-           <a href="https://medinet.com.au/" target="_blank"><img src="/assets/images/medinet_logo.png" alt="Medinet"></a>
-           <a href="https://deloitte.com/" target="_blank"><img src="/assets/images/deloitte_logo.png" alt="Deloitte"></a>
-           <a href="https://www.sidley.com/en/global/" target="_blank"><img src="/assets/images/sidley_logo.png" alt="Sidley"></a>
-        </div>
+    <div>
+        <h2 class="text-center">Clients include</h2>
     </div>
+    <div class="container logo-items">
+        <a href="https://www.allegion.com/corp/en/index.html" target="_blank"><img
+                src="/assets/images/allegion_logo.png" alt="Allegion"></a>
+        <a href="https://www.gainsboroughhardware.com.au/en/home.html" target="_blank"><img
+                src="/assets/images/gainsborough_logo.png" alt="Gainsborough"></a>
+        <a href="https://www.uts.edu.au/" target="_blank"><img src="/assets/images/uts_logo.png" alt="UTS"></a>
+        <a href="https://www.leonardodicaprio.org/" target="_blank"><img src="/assets/images/leonardo_logo.png"
+                alt="Leonardo DiCaprio Foundation"></a>
+        <a href="https://campaigntrack.com.au/" target="_blank"><img src="/assets/images/campaigntrack_logo.png"
+                alt="Campaigntrack"></a>
+        <a href="https://www.nuix.com/" target="_blank"><img src="/assets/images/nuix_logo.png" alt="Nuix"></a>
+        <a href="https://modular.hutchies.com.au/" target="_blank"><img src="/assets/images/hutchies_logo.png"
+                alt="Hutchinson Modular"></a>
+        <a href="https://myhealth.net.au/" target="_blank"><img src="/assets/images/myhealth_logo.png"
+                alt="Myhealth"></a>
+        <a href="https://medinet.com.au/" target="_blank"><img src="/assets/images/medinet_logo.png" alt="Medinet"></a>
+        <a href="https://deloitte.com/" target="_blank"><img src="/assets/images/deloitte_logo.png" alt="Deloitte"></a>
+        <a href="https://www.sidley.com/en/global/" target="_blank"><img src="/assets/images/sidley_logo.png"
+                alt="Sidley"></a>
+    </div>
+</div>
 
-    <div class="inner video" style="padding-top:6em;">
-        <div>
-           <iframe id="youtube-embed-frame" width="" height="" src="https://www.youtube.com/embed/_EAT7_7pSkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+<div class="inner video" style="padding-top:6em;">
+    <div>
+        <iframe id="youtube-embed-frame" width="" height="" src="https://www.youtube.com/embed/_EAT7_7pSkw"
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
     </div>
+</div>
 
-    <div class="inner case-studies">
-        <div>
-            <h2 class="text-center">{{ site.data.text.home.casestudiestitle }}</h2>
+<div class="inner case-studies">
+    <div>
+        <h2 class="text-center">{{ site.data.text.home.casestudiestitle }}</h2>
+    </div>
+    <div class="case-studies-container container">
+        <div class="case-study-item">
+            <div>
+                <img src="/assets/images/payroll-automation.png" alt="Payroll Recalculation Case study">
+            </div>
+            <div>
+                <h3>Payroll Recalculation Case study</h3>
+                <a target="blank" href="/assets/documents/Payroll_Recalculation_Case_study.pdf"
+                    class="btn-white">Download</a>
+            </div>
         </div>
-        <div class="case-studies-container container">
-            <div class="case-study-item">
-                <div>                
-                    <img src="/assets/images/payroll-automation.png"  alt="Payroll Recalculation Case study">
-                </div>
-                <div>
-                    <h3>Payroll Recalculation Case study</h3>
-                    <a target="blank" href="/assets/documents/Payroll_Recalculation_Case_study.pdf" class="btn-white">Download</a>
-                </div>
-            </div> 
-            <div class="case-study-item">
-                <div>                
-                    <img src="/assets/images/excel-automation.webp"  alt="Excel Reporting Automation Case study">
-                </div>
-                <div>
-                    <h3>Excel Reporting Automation Case study</h3>
-                    <a  target="blank" href="/assets/documents/Excel Automation Case Study - WEB.pdf" class="btn-white">Download</a>
-                </div>
-            </div> 
-            <div class="case-study-item">
-                <div>                
-                    <img src="/assets/images/marketing-automation.png"  alt="Marketing API Automation Case study">
-                </div>
-                <div>
-                    <h3>Google & Facebook Marketing API Automation Case study</h3>
-                    <a  target="blank" href="/assets/documents/Marketing API Automation Case study.pdf" class="btn-white">Download</a>
-                </div>
-            </div> 
+        <div class="case-study-item">
+            <div>
+                <img src="/assets/images/excel-automation.webp" alt="Excel Reporting Automation Case study">
+            </div>
+            <div>
+                <h3>Excel Reporting Automation Case study</h3>
+                <a target="blank" href="/assets/documents/Excel Automation Case Study - WEB.pdf"
+                    class="btn-white">Download</a>
+            </div>
+        </div>
+        <div class="case-study-item">
+            <div>
+                <img src="/assets/images/marketing-automation.png" alt="Marketing API Automation Case study">
+            </div>
+            <div>
+                <h3>Google & Facebook Marketing API Automation Case study</h3>
+                <a target="blank" href="/assets/documents/Marketing API Automation Case study.pdf"
+                    class="btn-white">Download</a>
+            </div>
         </div>
     </div>
+</div>
 
 <div class="inner services">
     <h1 class="onlymob">{{ site.data.text.home.services }}</h1>
@@ -161,23 +180,28 @@ keywords: "software development, software developer, sydney, brookvale, northern
             <h1 class="nomob">{{ site.data.text.home.services }}</h1>
             <div class="flex">
                 <div>
-                    <h4><img src="/assets/images/enterprise.svg" alt="{{ site.data.text.home.enterprisetitle }}">{{ site.data.text.home.enterprisetitle }}</h4>
+                    <h4><img src="/assets/images/enterprise.svg" alt="{{ site.data.text.home.enterprisetitle }}">{{
+                        site.data.text.home.enterprisetitle }}</h4>
                     <p class="gray">{{ site.data.text.home.enterprisedescription }}</p>
                 </div>
                 <div>
-                    <h4><img src="/assets/images/enterprise_2.svg" alt="{{ site.data.text.home.mobileapptitle }} ">{{ site.data.text.home.mobileapptitle }} 
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>          
+                    <h4><img src="/assets/images/enterprise_2.svg" alt="{{ site.data.text.home.mobileapptitle }} ">{{
+                        site.data.text.home.mobileapptitle }}
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </h4>
                     <p class="gray">{{ site.data.text.home.mobileappdescription }}</p>
                 </div>
             </div>
-            
+
             <div class="flex">
                 <div>
-                    <h4><img src="/assets/images/iot.svg" alt="{{ site.data.text.home.iottitle }}">{{ site.data.text.home.iottitle }}</h4>
+                    <h4><img src="/assets/images/iot.svg" alt="{{ site.data.text.home.iottitle }}">{{
+                        site.data.text.home.iottitle }}</h4>
                     <p class="gray">{{ site.data.text.home.iotdescription }}</p>
                 </div>
                 <div>
-                    <h4><img src="/assets/images/strategy.svg" alt="{{ site.data.text.home.mobilestrategytitle }}">{{ site.data.text.home.mobilestrategytitle }}</h4>
+                    <h4><img src="/assets/images/strategy.svg" alt="{{ site.data.text.home.mobilestrategytitle }}">{{
+                        site.data.text.home.mobilestrategytitle }}</h4>
                     <p class="gray">{{ site.data.text.home.mobilestrategydescription }}</p>
                 </div>
             </div>
@@ -187,27 +211,31 @@ keywords: "software development, software developer, sydney, brookvale, northern
         <div>
             <div class="flex">
                 <div>
-                    <h4><img src="/assets/images/review.svg" alt="{{ site.data.text.home.codereviewtitle }}">{{ site.data.text.home.codereviewtitle }}</h4>
+                    <h4><img src="/assets/images/review.svg" alt="{{ site.data.text.home.codereviewtitle }}">{{
+                        site.data.text.home.codereviewtitle }}</h4>
                     <p class="gray">{{ site.data.text.home.codereviewdescription }}</p>
                 </div>
                 <div>
-                    <h4><img src="/assets/images/api.svg" alt="{{ site.data.text.home.apititle }}">{{ site.data.text.home.apititle }}</h4>
+                    <h4><img src="/assets/images/api.svg" alt="{{ site.data.text.home.apititle }}">{{
+                        site.data.text.home.apititle }}</h4>
                     <p class="gray">{{ site.data.text.home.apidescription }}</p>
                 </div>
             </div>
             <div class="flex">
                 <div>
-                    <h4><img src="/assets/images/machine_learning.svg" alt="{{ site.data.text.home.machinetitle }}">{{ site.data.text.home.machinetitle }}</h4>
+                    <h4><img src="/assets/images/machine_learning.svg" alt="{{ site.data.text.home.machinetitle }}">{{
+                        site.data.text.home.machinetitle }}</h4>
                     <p class="gray">{{ site.data.text.home.machinedescription }}</p>
                 </div>
                 <div>
-                    <h4><img src="/assets/images/design.svg" alt="{{ site.data.text.home.uxtitle }}">{{ site.data.text.home.uxtitle }}</h4>          
+                    <h4><img src="/assets/images/design.svg" alt="{{ site.data.text.home.uxtitle }}">{{
+                        site.data.text.home.uxtitle }}</h4>
                     <p class="gray">{{ site.data.text.home.uxdescription }}</p>
                 </div>
             </div>
         </div>
         <div class="centered jumptop">
-            <img src="/assets/images/image11.jpg"  alt="{{ site.data.text.home.services }}" class="big">
+            <img src="/assets/images/image11.jpg" alt="{{ site.data.text.home.services }}" class="big">
         </div>
     </div>
 </div>
@@ -216,9 +244,10 @@ keywords: "software development, software developer, sydney, brookvale, northern
     <div>
         <h1 class="text-center">{{ site.data.text.home.certifications }}</h1>
     </div>
-        <div class="container items">
-            <a href="https://www.nuix.com/partners/team-brookvale/" target="_blank"><img src="/assets/images/nuix_certification.png" alt="Nuix"></a>
-        </div>
+    <div class="container items">
+        <a href="https://www.nuix.com/partners/team-brookvale/" target="_blank"><img
+                src="/assets/images/nuix_certification.png" alt="Nuix"></a>
+    </div>
 </div>
 
 <div class="inner technologies">
