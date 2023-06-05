@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Articles - Team Brookvale 
-permalink: /articles
+permalink: /more-articles
 description: "We develop software products and provide digital platform engineering services in Sydney, Gold Coast and Brisbane"
 ---
 
@@ -18,9 +18,9 @@ description: "We develop software products and provide digital platform engineer
             </div>
         </div>
     </div>
-    <div class="collection clearfix">
+    <ul>
         {% assign sortedarticles = site.articles
-            | where_exp: "item", "item.aigenerated != true"
+            | where_exp: "item", "item.aigenerated == true"
             | sort: 'date'
             | reverse
         %}
@@ -28,26 +28,15 @@ description: "We develop software products and provide digital platform engineer
         {% for article in articles %}
             <div>
                 <a href="{{ article.url }}">
-                 {% if article.image %}
-                <div class="img block">
-                        <img src="{{article.image}}" />
-                </div>
-                {% else %}
-                <div class="block {{article.boxclassname | downcase }}">
-                </div>
-                {% endif %}
                 <div class="text">
                     <div class="small hovu">
-                        {{ article.topic }}
-                    </div>
-                    <p class="clamp3">
                         {{ article.title }}
-                    </p>
+                    </div>
                 </div>
                 </a>
             </div>
         {% endfor %}
-    </div>
+    </ul>
     <div class="projects">
         <hr>
         <div class="flex sb">

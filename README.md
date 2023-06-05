@@ -13,9 +13,14 @@ sudo gem install jekyll-last-modified-at
 sudo gem install wdm
 ```
 
-# How to start the project:
+# How to start the project if hosted on Windows drive:
 ```
 jekyll serve --livereload --incremental --force_polling```
+```
+
+# How to start the project if hosted on WSL or Linux or Mac:
+```
+jekyll serve --livereload --incremental --watch
 ```
 
 # 3rd party libraries:

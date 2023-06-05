@@ -1,4 +1,5 @@
 ---
+aigenerated: true
 permalink: /articles/connectwise-microsoft-power-bi-integration
 boxclassname: black
 author: "Edward Saunders"

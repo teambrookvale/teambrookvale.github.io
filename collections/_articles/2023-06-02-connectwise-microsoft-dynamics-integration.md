@@ -1,4 +1,5 @@
 ---
+aigenerated: true
 permalink: /articles/connectwise-microsoft-dynamics-integration
 boxclassname: black
 author: "Edward Saunders"
