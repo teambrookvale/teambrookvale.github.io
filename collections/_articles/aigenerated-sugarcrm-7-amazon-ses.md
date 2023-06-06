@@ -1,0 +1,28 @@
+---
+aigenerated: true
+permalink: /articles/aigenerated-sugarcrm-7-amazon-ses
+boxclassname: black
+author: "Edward Saunders"
+topic: "System Integration"
+title: "SugarCRM 7+ and Amazon SES Integration"
+leadhead: "SugarCRM 7+ and Amazon SES seamlessly integrate using API or SDK, resulting in a more efficient and targeted email marketing campaign"
+leadtext: "This integration helps businesses better manage their interactions with customers, and ultimately drive more sales. As a result, businesses can increase their customer satisfaction and loyalty by providing a more personalized and timely service."
+image: /assets/images/articles/people-sitting-near-table.webp
+date: '2022-09-16 00:00:00'
+---
+<div class="arttext">	<h1>SugarCRM 7+ and Amazon SES Integration</h1>
+
+	<p>SugarCRM 7+ is a customer relationship management software that helps businesses better manage their interactions with customers. Amazon SES, on the other hand, is a cloud-based email sending service that can be used to send marketing or transactional emails to customers. But how do they work together? Through API or SDK integration. </p>
+
+	<h2>API or SDK integration</h2>
+
+	<p>An API, or Application Programming Interface, is a set of protocols and tools used for building software applications. It allows different applications to communicate with each other. With the SugarCRM API, Amazon SES can easily send emails out to customers within the CRM. An SDK, or Software Development Kit, is a set of software development tools that enable the creation of applications for a certain software package, hardware platform, computer system, or operating system. The Amazon SES SDK, for instance, can be used to process email communications within SugarCRM.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>With this integration, sending emails to customers becomes more efficient. When businesses use both SugarCRM 7+ and Amazon SES, they can easily send marketing or transactional emails to targeted customers based on their behavior and interests. This increases the likelihood that customers will engage and can ultimately help increase sales. </p>
+
+	<h2>Conclusion</h2>
+
+	<p>SugarCRM 7+ and Amazon SES seamlessly integrate using API or SDK, resulting in a more efficient and targeted email marketing campaign. This integration helps businesses better manage their interactions with customers, and ultimately drive more sales. As a result, businesses can increase their customer satisfaction and loyalty by providing a more personalized and timely service. </p>
+</div>

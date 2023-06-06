@@ -1,0 +1,35 @@
+---
+aigenerated: true
+permalink: /articles/aigenerated-pardot-namely
+boxclassname: black
+author: "Edward Saunders"
+topic: "System Integration"
+title: "Integration of Pardot and Namely"
+leadhead: "The integration of Pardot and Namely through API or SDK provides businesses with a more efficient and streamlined way of managing their marketing and HR processes"
+leadtext: "The integration solves various problems such as data duplication and incomplete employee tracking. With integrated systems, businesses can make data-driven decisions that positively impact the business's bottom line. Overall, integrating Pardot with Namely is a smart move for businesses that want to leverage modern technology to drive growth and success."
+image: /assets/images/articles/people-sitting-near-table.webp
+date: '2022-08-08 00:00:00'
+---
+<div class="arttext">	<header>
+		<h1>Integration of Pardot and Namely</h1>
+	</header>
+
+	<main>
+		<p>Pardot and Namely are two popular tools used by businesses to streamline their marketing and HR processes. While Pardot is a marketing automation platform used for lead generation and nurturing, Namely is an HR management software that handles various HR activities like payroll, benefits, and employee management.</p>
+
+		<h2>Integration of the two through API or SDK</h2>
+		<p>The integration of Pardot and Namely is made possible through APIs or SDKs (Software Development Kits). API integration allows the two software systems to communicate and share data, which eliminates the need for manual data entry and duplication. With the integration, marketing and HR work together seamlessly and efficiently.</p>
+
+		<h2>Problems their integration solves</h2>
+		<p>Integrating Pardot with Namely solves several problems that businesses encounter. One of these problems is the duplication of data between systems. For instance, when a new hire joins the organization, HR has to manually enter their information into both Namely and Pardot. With integration, Namely sends this information to Pardot automatically, saving time and minimizing errors.</p>
+		<p>Another problem that integration solves is the inability to track the full employee lifecycle. By integrating Pardot with Namely, companies can track employees from the recruitment process to retirement. This helps organizations to have a better idea of their employee’s performance and make data-driven decisions on promotions, bonuses or terminations.</p>
+		<p>Lastly, integration makes it possible for businesses to have a more complete view of each customer. With integration, Pardot can tap into HR data from Namely, such as job titles or department budgets to create more targeted marketing campaigns.</p>
+
+		<h2>Conclusion</h2>
+		<p>The integration of Pardot and Namely through API or SDK provides businesses with a more efficient and streamlined way of managing their marketing and HR processes. The integration solves various problems such as data duplication and incomplete employee tracking. With integrated systems, businesses can make data-driven decisions that positively impact the business's bottom line. Overall, integrating Pardot with Namely is a smart move for businesses that want to leverage modern technology to drive growth and success.</p>
+	</main>
+	
+	<footer>
+		<p>Written by [Your Name]</p>
+	</footer>
+</div>
