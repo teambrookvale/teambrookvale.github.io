@@ -48,6 +48,9 @@ description: "We develop software products and provide digital platform engineer
             </div>
         {% endfor %}
     </div>
+    <div class="inner flex cn">
+        <a href="/more-articles">More articles...</a>
+    </div>
     <div class="projects">
         <hr>
         <div class="flex sb">
