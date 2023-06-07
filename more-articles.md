@@ -18,25 +18,27 @@ description: "We develop software products and provide digital platform engineer
             </div>
         </div>
     </div>
-    <ul>
-        {% assign sortedarticles = site.articles
-            | where_exp: "item", "item.aigenerated == true"
-            | sort: 'date'
-            | reverse
-        %}
-        {% assign articles = sortedarticles %}
-        {% for article in articles %}
-            <div>
-                <a href="{{ article.url }}">
-                <div class="text">
-                    <div class="small hovu">
-                        {{ article.title }}
+    <div class="inner flex sb">
+        <ul>
+            {% assign sortedarticles = site.articles
+                | where_exp: "item", "item.aigenerated == true"
+                | sort: 'date'
+                | reverse
+            %}
+            {% assign articles = sortedarticles %}
+            {% for article in articles %}
+                <div>
+                    <a href="{{ article.url }}">
+                    <div class="text">
+                        <div class="small hovu">
+                            {{ article.title }}
+                        </div>
                     </div>
+                    </a>
                 </div>
-                </a>
-            </div>
-        {% endfor %}
-    </ul>
+            {% endfor %}
+        </ul>
+    </div>
     <div class="projects">
         <hr>
         <div class="flex sb">
