@@ -230,13 +230,54 @@ development, dotnet, react, redux"
                 <div>
                     <h4><img src="/assets/images/design.svg" alt="{{ site.data.text.home.uxtitle }}">{{
                         site.data.text.home.uxtitle }}</h4>
-                    <p class="gray">{{ site.data.text.home.uxdescription }}</p>
+                    <p class="gray">{{ site.data.text.home.uxdescription }} <a id="see-more-links" href="#">More...</a></p>
                 </div>
             </div>
         </div>
         <div class="centered jumptop">
             <img src="/assets/images/image11.jpg" alt="{{ site.data.text.home.services }}" class="big">
         </div>
+    </div>
+</div>
+
+<div id="more-links" style="display: none;">
+    <div class="inner flex sb">
+        <ul>
+            {% for landing in site.landings %}
+            <div>
+                <a href="{{ landing.url }}">
+                <div class="text">
+                    <div class="small hovu">
+                        {{ landing.title }}
+                    </div>
+                </div>
+                </a>
+            </div>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="inner flex sb">
+        {% assign sortedarticles = site.articles
+            | where_exp: "item", "item.aigenerated == true"
+            | sort: 'date'
+            | reverse
+        %}
+        {% assign articles = sortedarticles %}
+        
+        <ul>
+            {% for article in articles %}
+            <div>
+                <a href="{{ article.url }}">
+                <div class="text">
+                    <div class="small hovu">
+                        {{ article.title }}
+                    </div>
+                </div>
+                </a>
+            </div>
+            {% endfor %}
+        </ul>
     </div>
 </div>
 
@@ -276,3 +317,14 @@ development, dotnet, react, redux"
         </div>
     </div>
 </div>
+
+<script>
+    var link = document.getElementById("see-more-links");
+    var target = document.getElementById("more-links");
+    link.addEventListener("click", function(event) {
+        event.preventDefault();
+        target.style.display = target.style.display === "none"
+            ? "block"
+            : "none";
+    });
+</script>
