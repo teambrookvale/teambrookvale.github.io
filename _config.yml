@@ -17,14 +17,20 @@ collections_dir: collections
 collections:
   articles:
     output: true
+  landings:
+    output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: articles
     values:
       layout: "article"
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: landings
+    values:
+      layout: "landing"
 
 url: "https://teambrookvale.com.au"      
 plugins:
