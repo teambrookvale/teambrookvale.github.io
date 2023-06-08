@@ -1,0 +1,5 @@
+{% for item in site.landing_locations %}
+    {% assign url = append: item.slug %}
+    {% assign text = item.name %}
+    {{ text }},{{ url }};
+{% endfor %}

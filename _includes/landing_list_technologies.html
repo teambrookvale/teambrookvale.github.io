@@ -1,5 +1,5 @@
 {% for item in site.landing_technologies %}
-    {% assign url = "/landings/" | append: item.slug | append: "-developer-" | append: page.slug %}
+    {% assign url = page.url | append: "/developer/" | append: item.slug %}
     {% assign text = item.name | append: " Developer in " | append: page.name %}
     {{ text }},{{ url }};
 {% endfor %}
