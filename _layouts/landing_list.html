@@ -1,0 +1,65 @@
+---
+layout: default
+---
+{% case page.child_collection %}
+    {% when "articles" %}
+        {% assign child_collection = site.articles %}
+    {% when "landing_locations" %}
+        {% assign child_collection = site.landing_locations %}
+    {% when "landing_technologies" %}
+        {% assign child_collection = site.landing_technologies %}
+    {% else %}
+        <h1>>>>{{page.child_collection}}<<<</h1>
+{% endcase %}
+
+<div class="articlespage">
+    <div class="pagehero">
+        <div class="inner flex sb">
+            <div>
+                <h1>{{ page.title }}</h1>
+                <p style="margin-bottom: 50px">{{ page.leadtext }}</p>
+                <img src="/assets/images/arrowdown.png">
+            </div>
+            <div class="pageheropic">
+                <img src="/assets/images/abstract-architectural-design-architecture.webp" />
+            </div>
+        </div>
+    </div>
+    <div class="inner flex sb">
+        <ul>
+            {% for item in child_collection %}
+                {% case page.child_collection %}
+                    {% when "landing_locations" %}
+                        {% assign url = page.url | append: "/" | append: item.slug %}
+                        {% assign text = item.name %}
+                    {% when "landing_technologies" %}
+                        {% assign url = "/landings/" | append: item.slug | append: "-developer-" | append: page.slug %}
+                        {% assign text = item.name | append: " Developer in " | append: page.name %}
+                    {% else %}
+                {% endcase %}
+
+                <div>
+                    <a href="{{ url }}">
+                    <div class="text">
+                        <div class="small hovu">
+                            {{ text }}
+                        </div>
+                    </div>
+                    </a>
+                </div>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="projects">
+        <hr>
+        <div class="flex sb">
+            <div>
+                <h2>{{ site.data.text.home.doyouliketitle }}</h2>
+                <p class="gray">{{ site.data.text.home.doyoulikedescription }}</p>
+            </div>
+            <div>
+                <button onclick="top.location.href = '/contact'">{{ site.data.text.home.letsmakebuttontext}}</button>
+            </div>
+        </div>
+    </div>
+</div>

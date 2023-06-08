@@ -28,10 +28,10 @@ description: "We develop software products and provide digital platform engineer
         {% for article in articles %}
             <div>
                 <a href="{{ article.url }}">
-                 {% if article.image %}
-                <div class="img block">
+                {% if article.image %}
+                    <div class="img block">
                         <img src="{{article.image}}" />
-                </div>
+                    </div>
                 {% else %}
                 <div class="block {{article.boxclassname | downcase }}">
                 </div>

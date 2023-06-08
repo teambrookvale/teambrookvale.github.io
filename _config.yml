@@ -19,18 +19,26 @@ collections:
     output: true
   landings:
     output: true
+  landing_lists:
+    output: true
+  landing_locations:
+    output: true
+  landing_technologies:
+    output: false # we do not render technologies page without a location
 
 defaults:
   - scope:
-      path: "" # an empty string here means all files in the project
-      type: articles
-    values:
-      layout: "article"
-  - scope:
-      path: "" # an empty string here means all files in the project
       type: landings
     values:
-      layout: "landing"
+      layout: landing
+  - scope:
+      type: landing_lists
+    values:
+      layout: landing_list
+  - scope:
+      type: landing_locations
+    values:
+      layout: landing_list
 
 url: "https://teambrookvale.com.au"      
 plugins:
