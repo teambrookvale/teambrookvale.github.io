@@ -14,6 +14,7 @@
 
 #title: Your awesome title
 collections_dir: collections
+
 collections:
   articles:
     output: true
@@ -41,11 +42,13 @@ defaults:
       layout: landing_list
 
 url: "https://teambrookvale.com.au"      
+
 plugins:
     - jekyll-sitemap
     - jekyll-last-modified-at
 
 description: "Team Brookvale has extensive experience in social media API integration and developing automation software. We provide complete software development services from idea through development to maintenance."
+
 keywords: "software development, software developer, sydney, brookvale, northern beaches, melbourne, brisbane, gold coast, software, development, business, iot, mobile development, ios, android, web development, business apps, game development, dotnet, react, redux"
 
 # Exclude from processing.
