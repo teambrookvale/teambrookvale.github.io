@@ -1,17 +1,6 @@
 ---
 layout: default
 ---
-{% case page.child_collection %}
-    {% when "articles" %}
-        {% assign child_collection = site.articles %}
-    {% when "landing_locations" %}
-        {% assign child_collection = site.landing_locations %}
-    {% when "landing_technologies" %}
-        {% assign child_collection = site.landing_technologies %}
-    {% else %}
-        <h1>>>>{{page.child_collection}}<<<</h1>
-{% endcase %}
-
 <div class="articlespage">
     <div class="pagehero">
         <div class="inner flex sb">
@@ -27,24 +16,24 @@ layout: default
     </div>
     <div class="inner flex sb">
         <ul>
-            {% for item in child_collection %}
-                {% case page.child_collection %}
-                    {% when "landing_locations" %}
-                        {% assign url = page.url | append: "/" | append: item.slug %}
-                        {% assign text = item.name %}
-                    {% when "landing_technologies" %}
-                        {% assign url = "/landings/" | append: item.slug | append: "-developer-" | append: page.slug %}
-                        {% assign text = item.name | append: " Developer in " | append: page.name %}
-                    {% else %}
-                {% endcase %}
+            {% comment %}
+            {{ page.content }} is similar to a CSV file where the line end would be a semi-colon e.g.:
+            Auckland,/landings/locations/auckland;
+            Sydney,/landings/locations/sydney;
+            {% endcomment %}
 
+            {% assign text_to_link_arr = page.content | strip_html | strip_newlines | split: ";" %}
+            {% for text_to_link in text_to_link_arr %}
+                {% assign text_to_link_arr = text_to_link | split: "," %}
+                {% assign text = text_to_link_arr[0] %}
+                {% assign url = text_to_link_arr[1] %}
                 <div>
                     <a href="{{ url }}">
-                    <div class="text">
-                        <div class="small hovu">
-                            {{ text }}
+                        <div class="text">
+                            <div class="small hovu">
+                                {{ text }}
+                            </div>
                         </div>
-                    </div>
                     </a>
                 </div>
             {% endfor %}

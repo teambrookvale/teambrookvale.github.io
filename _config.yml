@@ -32,13 +32,9 @@ defaults:
     values:
       layout: landing
   - scope:
-      type: landing_lists
-    values:
-      layout: landing_list
-  - scope:
       type: landing_locations
     values:
-      layout: landing_list
+      layout: landing_location_list
 
 url: "https://teambrookvale.com.au"      
 plugins:
