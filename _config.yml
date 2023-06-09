@@ -26,12 +26,10 @@ collections:
     output: true
   landing_technologies:
     output: false # we do not render technologies page without a location
+  landing_location_technologies:
+    output: true
 
 defaults:
-  - scope:
-      type: landings
-    values:
-      layout: landing
   - scope:
       type: landing_lists
     values:
@@ -40,6 +38,10 @@ defaults:
       type: landing_locations
     values:
       layout: landing_list
+  - scope:
+      type: landing_location_technologies
+    values:
+      layout: landing
 
 url: "https://teambrookvale.com.au"      
 
@@ -54,11 +56,12 @@ keywords: "software development, software developer, sydney, brookvale, northern
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - automation
