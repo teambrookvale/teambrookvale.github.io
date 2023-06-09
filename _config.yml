@@ -18,8 +18,6 @@ collections_dir: collections
 collections:
   articles:
     output: true
-  landings:
-    output: true
   landing_lists:
     output: true
   landing_locations:
