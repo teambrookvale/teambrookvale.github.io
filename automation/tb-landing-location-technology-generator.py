@@ -13,9 +13,19 @@ def check_directory_exists(d):
         print(f'ERROR: {d} directory does not exist')
         exit()
 
+def delete_files_in_directory(dir):
+    for filename in os.listdir(dir):
+        file_path = os.path.join(dir, filename)
+        if os.path.isfile(file_path):
+            os.remove(file_path)
+
 check_directory_exists(location_technologies_directory)
 check_directory_exists(technologies_directory)
 check_directory_exists(locations_directory)
+
+delete_files_in_directory(location_technologies_directory)
+delete_files_in_directory(technologies_directory)
+delete_files_in_directory(locations_directory)
 
 technologies = [
     '.NET Core',
