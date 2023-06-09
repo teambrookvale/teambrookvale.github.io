@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/low-cost-computers-iot
 boxclassname: black
 author: "Thomas Saunders"

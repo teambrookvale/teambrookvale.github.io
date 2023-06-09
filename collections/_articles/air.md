@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/iot-air-quality
 boxclassname: black
 author: "Thomas Saunders"

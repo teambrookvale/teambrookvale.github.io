@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/saboteur-diver-in-the-best-iphone-games-of-the-week-at-time-com
 boxclassname: black
 author: "Thomas Saunders"

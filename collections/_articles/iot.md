@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/smart-city-iot-applications
 boxclassname: black
 author: "Thomas Saunders"

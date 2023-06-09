@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/facebook-marketing-api-location-targeting-part-one
 boxclassname: black
 author: "Mark Szente"

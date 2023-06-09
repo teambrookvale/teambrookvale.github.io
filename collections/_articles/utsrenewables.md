@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/uts-100-re
 boxclassname: black
 author: "Team Brookvale"

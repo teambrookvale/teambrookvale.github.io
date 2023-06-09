@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/ozipcal-investment-property-calculator-app-is-out
 boxclassname: black
 author: "Thomas Saunders"

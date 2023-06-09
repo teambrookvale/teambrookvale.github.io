@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/idea-app-store
 boxclassname: black
 author: "Thomas Saunders"

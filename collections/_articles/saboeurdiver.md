@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/diver-open-source
 boxclassname: black
 author: "Thomas Saunders"

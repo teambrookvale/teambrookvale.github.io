@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/open-source-historical-stock-data-downloader-application
 boxclassname: black
 author: "Ed Saunders"

@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/how-to-stop-google-ads-overspending-budget
 boxclassname: black
 author: "Thomas Saunders"

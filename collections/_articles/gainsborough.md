@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/mobile-app-development-for-gainsborough-australia
 boxclassname: black
 author: "Thomas Saunders"

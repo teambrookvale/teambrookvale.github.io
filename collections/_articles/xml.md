@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/tutorial-xml-level-unity
 boxclassname: black
 author: "Ed Saunders"

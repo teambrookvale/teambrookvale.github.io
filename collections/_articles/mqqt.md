@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/overview-of-the-mqtt-protocol
 boxclassname: black
 author: "Thomas Saunders"

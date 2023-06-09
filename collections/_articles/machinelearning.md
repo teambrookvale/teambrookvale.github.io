@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/what-is-machine-learning-and-what-to-expect-in-the-future
 boxclassname: black
 author: "Thomas Saunders"

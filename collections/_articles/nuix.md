@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/nuix-technology-partner-of-the-year
 boxclassname: black
 author: "Thomas Saunders"

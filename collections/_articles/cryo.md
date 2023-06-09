@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/iot-door-control-cryo
 boxclassname: black
 author: "Thomas Saunders"

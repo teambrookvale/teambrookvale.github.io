@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/modifying-npm-packages-the-right-way
 boxclassname: black
 author: "Mihaly Balas"

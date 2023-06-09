@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/the-basics-of-delivering-a-software-project-on-time-and-on-budget
 boxclassname: black
 author: "Thomas Saunders"

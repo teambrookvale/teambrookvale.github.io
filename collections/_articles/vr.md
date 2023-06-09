@@ -1,4 +1,5 @@
 ---
+layout: article
 permalink: /articles/virtual-reality-combined-with-real-roller-coaster-ride
 boxclassname: black
 author: "Thomas Saunders"
