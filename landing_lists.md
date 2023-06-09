@@ -6,4 +6,3 @@ list_generator: landing_lists.html
 layout: landing_list
 ---
 Software Development and System Integration services by location,/landings/locations;
-System Integrations by Platforms,/landings/system-integrations;
