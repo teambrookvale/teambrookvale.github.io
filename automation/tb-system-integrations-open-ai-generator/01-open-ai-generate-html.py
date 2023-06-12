@@ -28,7 +28,7 @@ openai.api_key = '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'
 
 def generate_open_ai_messages(platfrom_1, platform_2):
     prompt = f'''
-    Write blog post in HTML and cover the following:
+    Write blog post in HTML, make sure to include <title> tag and conclusion section and cover the following:
     - {platfrom_1}
     - {platform_2}   
     - Integration of the two through API or SDK

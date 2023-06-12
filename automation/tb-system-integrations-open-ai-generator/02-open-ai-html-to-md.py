@@ -32,7 +32,7 @@ for html_file in html_files:
     conclusion = ""
     start_date = datetime(2022, 1, 1)
     end_date = datetime(2023, 6, 6)
-    with open(f'{root_dir}/html/{file}', 'r', encoding='utf-8') as file:
+    with open(f'{HTML_FOLDER}/{html_file}', 'r', encoding='utf-8') as file:
         for line in file.readlines():
             if '<title>' in line:
                 title = line.replace('<title>', '').replace('</title>', '').replace('\n', '').strip()
