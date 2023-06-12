@@ -4,14 +4,27 @@ import openai
 import json
 import re
 import time
+import os
 
-HTML_FOLDER_NAME = 'html'
-JSON_FOLDER_NAME = 'json'
+ROOT_FOLDER = 'automation/tb-system-integrations-open-ai-generator'
+HTML_FOLDER_NAME = f'{ROOT_FOLDER}/html'
+JSON_FOLDER_NAME = f'{ROOT_FOLDER}/json'
+MD_FOLDER_NAME = f'{ROOT_FOLDER}/md'
+
+md_files = os.listdir(MD_FOLDER_NAME)
+md_file_names = [os.path.splitext(x)[0] for x in md_files]
+
+html_files = os.listdir(HTML_FOLDER_NAME)
+html_file_names = [os.path.splitext(x)[0] for x in html_files]
+
+#count intesection of md_files and html_files
+print(f'{len(set(md_file_names).intersection(html_file_names))} of {len(html_file_names)} md files already generated')
+
 
 conn = sqlite3.connect('open-ai-generator-sqlite.db')
 conn.execute('CREATE TABLE IF NOT EXISTS posts (id INTEGER PRIMARY KEY, platform_1 TEXT, platform_2 TEXT, file_name TEXT, html TEXT, response TEXT, created_at DATETIME DEFAULT CURRENT_TIMESTAMP)')
 
-openai.api_key = "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"
+openai.api_key = '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'
 
 def generate_open_ai_messages(platfrom_1, platform_2):
     prompt = f'''
@@ -37,14 +50,18 @@ def insert_blog_post(platform_1, platform_2, file_name, html, response):
 
 platforms = []
 
-with open("zapier-premier-platforms.txt", "r") as file:
+with open(f'{ROOT_FOLDER}/zapier-premier-platforms.txt', 'r') as file:
     platforms = [x.strip() for x in file.readlines()]
 
 platform_permutations = list(itertools.product(platforms, platforms))
 
 for p in platform_permutations:
-   
     if p[0] == p[1] or is_generated(p[0], p[1]):
+        continue
+
+    file_name = re.sub(r'\W+', '-', p[0] + '-' + p[1]).lower()
+
+    if file_name in md_file_names:
         continue
 
     print(f'INFO: Generating {p[0]} vs {p[1]}')
@@ -55,12 +72,10 @@ for p in platform_permutations:
         try:
             response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
 
-            file_name = re.sub(r'\W+', '-', p[0] + '-' + p[1]).lower()
-
-            with open(f"{JSON_FOLDER_NAME}/{file_name}.json", "w") as file:
+            with open(f"{JSON_FOLDER_NAME}/{file_name}.json", "w", encoding='utf-8') as file:
                 file.write(json.dumps(response))
 
-            with open(f"{HTML_FOLDER_NAME}/{file_name}.html", "w") as file:
+            with open(f"{HTML_FOLDER_NAME}/{file_name}.html", "w", encoding='utf-8') as file:
                 file.write(response.choices[0].message.content)
 
             insert_blog_post(p[0], p[1], file_name, response.choices[0].message.content, json.dumps(response))

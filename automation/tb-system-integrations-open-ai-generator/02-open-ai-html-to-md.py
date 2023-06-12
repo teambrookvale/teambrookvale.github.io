@@ -2,10 +2,26 @@ import os
 import random
 from datetime import datetime, timedelta
 
-for file in os.listdir('html'):
+root_dir = 'automation/tb-system-integrations-open-ai-generator'
+
+md_files = os.listdir(f'{root_dir}/md')
+md_file_names = [os.path.splitext(x)[0] for x in md_files]
+
+html_files = os.listdir(f'{root_dir}/html')
+html_file_names = [os.path.splitext(x)[0] for x in html_files]
+
+#count intesection of md_files and html_files
+print(f'{len(set(md_file_names).intersection(html_file_names))} of {len(html_file_names)} md files already generated')
+
+for file in html_files:
     # DEBUG ONLY
     #if 'amazon-s3-namely.html' not in file:
     #    continue
+
+    html_file_name = os.path.splitext(file)[0]
+
+    if html_file_name in md_file_names:
+        continue
 
     title = ''
     body_lines = ['<div class="arttext">']
@@ -14,7 +30,7 @@ for file in os.listdir('html'):
     conclusion = ""
     start_date = datetime(2022, 1, 1)
     end_date = datetime(2023, 6, 6)
-    with open(f'html/{file}', 'r') as file:
+    with open(f'{root_dir}/html/{file}', 'r', encoding='utf-8') as file:
         for line in file.readlines():
             if '<title>' in line:
                 title = line.replace('<title>', '').replace('</title>', '').replace('\n', '').strip()
