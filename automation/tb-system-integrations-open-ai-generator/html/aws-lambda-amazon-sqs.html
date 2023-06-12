@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Integrating AWS Lambda and Amazon SQS</title>
+</head>
+<body>
+	<h1>Integrating AWS Lambda and Amazon SQS</h1>
+	<p>Both AWS Lambda and Amazon Simple Queue Service (SQS) are powerful services offered by Amazon Web Services. AWS Lambda is a serverless computing platform that allows you to run code in response to events without having to worry about servers or infrastructure, while Amazon SQS is a hosted message queue service that enables you to decouple and scale microservices, distributed systems, and serverless applications. </p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>To integrate AWS Lambda and Amazon SQS, you can use either the AWS SDK or the SQS API. The AWS SDK provides a simple and easy-to-use interface for accessing Amazon SQS, while the SQS API allows you to send and receive messages programmatically. </p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of AWS Lambda and Amazon SQS can solve many problems related to scaling and reliability. By using Amazon SQS to buffer requests, you can ensure that your Lambda functions are only triggered when there are messages to process, avoiding the need to handle messages one by one. This helps to reduce the load on your Lambda function and can help to avoid throttling or errors due to high traffic or high volume of messages. At the same time, Amazon SQS provides a reliable and highly available message queue that can handle large volumes of messages, ensuring that your Lambda function is able to process messages in a timely and efficient manner.</p>
+
+	<h2>Conclusion</h2>
+	<p>Integrating AWS Lambda and Amazon SQS can help you to develop scalable and reliable applications without having to worry about servers or infrastructure. By using Amazon SQS to buffer requests, you can decouple and scale your Lambda functions and ensure that they are only triggered when there are messages to process. This can help you to avoid throttling or errors due to high traffic or high volume of messages, and can help you to build more efficient and reliable applications. </p>
+</body>
+</html>

@@ -1,0 +1,24 @@
+---
+aigenerated: true
+permalink: /articles/aigenerated-salesforce-expensify
+boxclassname: black
+author: "Edward Saunders"
+topic: "System Integration"
+title: "Salesforce and Expensify Integration"
+leadhead: "The integration of Salesforce and Expensify is a game-changer for businesses looking to optimize their operations"
+leadtext: "By integrating the two platforms through an API or SDK, businesses can streamline their expense reporting process and gain valuable data insights. This can result in cost savings, time efficiencies, and better decision-making for businesses. With the potential benefits of this integration, it's no surprise that it's become a popular choice for businesses around the world."
+image: /assets/images/articles/people-sitting-near-table.webp
+date: '2023-01-04 00:00:00'
+---
+<div class="arttext">	<h1>Salesforce and Expensify Integration</h1>
+	<p>Salesforce and Expensify are both popular software tools used by businesses around the world. While Salesforce is known for its customer relationship management (CRM) platform, Expensify is popular for its expense management capabilities. With their integration through an API or SDK, businesses can streamline their operations and save time and money.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of Salesforce and Expensify can be achieved either through an application programming interface (API) or software development kit (SDK). The API integration involves connecting the two platforms, allowing data to flow seamlessly between them. The SDK integration allows developers to build customized solutions to fit the specific needs of a business.</p>
+
+	<h2>Problems the Integration Solves</h2>
+	<p>The integration of Salesforce and Expensify can solve many operational problems for businesses. For instance, businesses can automatically import expense reports from Expensify into Salesforce, eliminating the need for manual data entry. This saves time and reduces the risk of errors. The integration can also help businesses gain better visibility into their expenses and sales by providing real-time data insights. Additionally, the integration can streamline the reimbursement process for expense reports, making it more efficient for employees.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Salesforce and Expensify is a game-changer for businesses looking to optimize their operations. By integrating the two platforms through an API or SDK, businesses can streamline their expense reporting process and gain valuable data insights. This can result in cost savings, time efficiencies, and better decision-making for businesses. With the potential benefits of this integration, it's no surprise that it's become a popular choice for businesses around the world.</p>
+</div>

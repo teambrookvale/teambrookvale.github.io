@@ -1,0 +1,28 @@
+Write blog post and cover the following:
+ - ConnectWise sales
+ - Power BI use cases
+ - connectwise sdk connect to power bi
+ - problems connectwise and power bi integration solves
+
+
+Write blog post in HTML and cover the following:
+ - ConnectWise Sales
+ - Microsoft Dynamics
+ - ConnectWise Sales and Microsoft Dynamics integration through SDK
+ - Problems ConnectWise Sales and Microsoft Dynamics integration solves
+
+
+Take the contents of <body> part
+Replace ":<" with "<"
+Replace ": " in <h2> tag with " - "
+title update with <h1> tag
+leadhead: first sentence of conclusion
+leadtext: Remaining sentences of conclusion
+
+
+
+Write blog post in HTML and cover the following:
+ - Paypal
+ - Xero
+ - Integration of the two through API or SDK
+ - Problems their integration solves

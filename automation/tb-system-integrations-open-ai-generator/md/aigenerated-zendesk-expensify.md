@@ -1,0 +1,29 @@
+---
+aigenerated: true
+permalink: /articles/aigenerated-zendesk-expensify
+boxclassname: black
+author: "Edward Saunders"
+topic: "System Integration"
+title: "Integration of Zendesk and Expensify"
+leadhead: "The integration of Zendesk and Expensify can help businesses simplify their operations and improve their efficiency"
+leadtext: "By integrating the two through API or SDK, businesses can streamline workflows, gain better visibility, and enhance communication, all while reducing manual data entry efforts involved between expense reports and support tickets."
+image: /assets/images/articles/people-sitting-near-table.webp
+date: '2023-03-27 00:00:00'
+---
+<div class="arttext">	<h1>Integration of Zendesk and Expensify</h1>
+	<p>Zendesk and Expensify are two popular software applications that businesses often use to streamline their operations. Zendesk is a helpdesk software that helps businesses provide customer support through various channels such as email, phone, chat, and social media. Expensify, on the other hand, is an expense management software that simplifies the process of submitting and managing expense reports.</p>
+	
+	<h2>Integration of the two through API or SDK</h2>
+	<p>Integration of Zendesk and Expensify is possible through the use of API or SDK. An API (Application Programming Interface) allows different software applications to communicate with each other and share data. An SDK (Software Development Kit) is a set of software development tools that allow developers to build applications that can interact with other software products.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>Integrating Zendesk and Expensify can solve several problems for businesses. For example:</p>
+	<ul>
+		<li>Streamlining workflows: With integration, businesses can automate the process of recording expenses as support tickets are resolved, thereby reducing manual data entry efforts.</li>
+		<li>Improved visibility: Integration provides better visibility into expenses and support requests, which can help managers make more informed decisions and allocate resources more efficiently.</li>
+		<li>Closed loop communication: Integrating documents related to support inquiries and expense reports ensures that both support agent and finance team member can work from the same data.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Zendesk and Expensify can help businesses simplify their operations and improve their efficiency. By integrating the two through API or SDK, businesses can streamline workflows, gain better visibility, and enhance communication, all while reducing manual data entry efforts involved between expense reports and support tickets.</p>
+</div>

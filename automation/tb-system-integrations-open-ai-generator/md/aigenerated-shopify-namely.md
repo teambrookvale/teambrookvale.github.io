@@ -1,0 +1,32 @@
+---
+aigenerated: true
+permalink: /articles/aigenerated-shopify-namely
+boxclassname: black
+author: "Edward Saunders"
+topic: "System Integration"
+title: "Shopify and Namely Integration"
+leadhead: "Integration of Shopify and Namely is a smart move for businesses looking to streamline their operations and improve accuracy"
+leadtext: "The integration helps ensure that employee data is accurate, and there are no discrepancies in the payroll process. Additionally, businesses gain the ability to easily manage employee benefits. Overall, combining these two platforms can result in significant benefits for businesses looking to reduce manual work and improve operational efficiency."
+image: /assets/images/articles/people-sitting-near-table.webp
+date: '2022-05-03 00:00:00'
+---
+<div class="arttext">    <h1>Shopify and Namely Integration</h1>
+    <p>
+      Shopify and Namely are two popular platforms that serve different business needs. While Shopify is a leading ecommerce platform, Namely is a workforce management solution that offers HR, payroll, and benefits administration services. However, combining these two platforms can bring immense benefits to businesses that use both of them. Here's how.
+    </p>
+    <h2>Integration through API or SDK</h2>
+    <p>
+      Integration of Shopify and Namely can be done through their API (Application Programming Interface) or SDK (Software Development Kit). These integrations enable businesses to connect their Shopify stores and Namely accounts seamlessly. With these integrations, businesses can automate key processes, reduce manual work, and improve data accuracy.
+    </p>
+    <h2>Problems their integration solves</h2>
+    <p>
+      Integration of Shopify and Namely solves several problems for businesses. Firstly, it enables businesses to manage their employees' data accurately. For instance, information such as employee names, addresses, and rates can be automatically synced between the two platforms, eliminating the need for manual data entry. Additionally, businesses can use the integration to easily manage their employees' benefits such as healthcare, dental, and vision insurance. The integration ensures that employees' enrolled benefits reflect on their payslips accurately.
+    </p>
+    <p>
+      Secondly, integration helps businesses avoid errors and eliminates duplicate data entry. With integrated Shopify and Namely, orders in Shopify can be automatically updated in Namely's payroll system. This helps ensure that employees are paid accurately, and there are no discrepancies in the payroll process. Hence, businesses can reduce the rate of human error and rework, improving operational efficiency.
+    </p>
+    <h2>Conclusion</h2>
+    <p>
+      Integration of Shopify and Namely is a smart move for businesses looking to streamline their operations and improve accuracy. The integration helps ensure that employee data is accurate, and there are no discrepancies in the payroll process. Additionally, businesses gain the ability to easily manage employee benefits. Overall, combining these two platforms can result in significant benefits for businesses looking to reduce manual work and improve operational efficiency.
+    </p>
+</div>

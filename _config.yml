@@ -41,7 +41,7 @@ defaults:
     values:
       layout: landing
 
-url: "https://teambrookvale.com.au"      
+url: https://teambrookvale.com.au
 
 plugins:
     - jekyll-sitemap

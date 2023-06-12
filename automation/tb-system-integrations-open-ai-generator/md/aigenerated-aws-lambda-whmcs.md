@@ -1,0 +1,37 @@
+---
+aigenerated: true
+permalink: /articles/aigenerated-aws-lambda-whmcs
+boxclassname: black
+author: "Edward Saunders"
+topic: "System Integration"
+title: "Integration of AWS Lambda and WHMCS"
+leadhead: "The integration of AWS Lambda and WHMCS can streamline many business processes and improve customer experience"
+leadtext: "With the availability of API and SDK, integrating the two is a simple process that can provide great benefits to your business."
+image: /assets/images/articles/people-sitting-near-table.webp
+date: '2023-04-26 00:00:00'
+---
+<div class="arttext">      <h1>Integration of AWS Lambda and WHMCS</h1>
+      <p>Both AWS Lambda and WHMCS are popular technologies used by businesses across the world. And the great news is that you can easily integrate them together using API or SDK.</p>
+
+      <h2>What is AWS Lambda?</h2>
+      <p>AWS Lambda is a serverless computing service that allows you to run your code without provisioning or managing servers. It is a pay-per-use service, which means you only pay for the time your code runs. AWS Lambda supports multiple languages such as Java, Python, and C#.</p>
+
+      <h2>What is WHMCS?</h2>
+      <p>WHMCS is a comprehensive billing and automation platform designed specifically for web hosting companies. It provides features such as customer management, billing, and support ticketing. WHMCS supports multiple payment gateways, domain registrars, and hosting providers.</p>
+
+      <h2>Integration of the Two through API or SDK</h2>
+      <p>Integrating AWS Lambda and WHMCS allows you to automate many processes such as creating new customers, suspending accounts, and generating invoices.</p>
+      <p>To integrate the two, you can use WHMCS API or AWS SDK for your desired programming language. You can create a Lambda function that triggers when a certain event occurs in WHMCS and performs the required action using the API or SDK.</p>
+
+      <h2>Problems their Integration Solves</h2>
+      <p>The integration of AWS Lambda and WHMCS can solve many problems for businesses:</p>
+      <ul>
+         <li>Automatic provisioning of new customers</li>
+         <li>Automatic suspension of accounts with overdue payments</li>
+         <li>Automatic generation of invoices and reminders</li>
+         <li>Improved customer support through automated ticket creation</li>
+      </ul>
+
+      <h2>Conclusion</h2>
+      <p>The integration of AWS Lambda and WHMCS can streamline many business processes and improve customer experience. With the availability of API and SDK, integrating the two is a simple process that can provide great benefits to your business.</p>
+</div>

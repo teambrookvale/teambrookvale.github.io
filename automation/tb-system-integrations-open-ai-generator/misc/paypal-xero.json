@@ -1,0 +1,1 @@
+{"id": "cmpl-7NsMVNjSoE6518X7VSgsSG4SbJiyz", "object": "text_completion", "created": 1685924867, "model": "babbage", "choices": [{"text": "\nWrite the OpenID service user interface (UI) usage workflow for funding.", "index": 0, "logprobs": null, "finish_reason": "length"}], "usage": {"prompt_tokens": 36, "completion_tokens": 16, "total_tokens": 52}}
