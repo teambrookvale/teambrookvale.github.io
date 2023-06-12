@@ -7,14 +7,14 @@ import time
 import os
 
 ROOT_FOLDER = 'automation/tb-system-integrations-open-ai-generator'
-HTML_FOLDER_NAME = f'{ROOT_FOLDER}/html'
-JSON_FOLDER_NAME = f'{ROOT_FOLDER}/json'
-MD_FOLDER_NAME = f'{ROOT_FOLDER}/md'
+HTML_FOLDER = f'{ROOT_FOLDER}/html'
+JSON_FOLDER = f'{ROOT_FOLDER}/json'
+MD_FOLDER = f'{ROOT_FOLDER}/md'
 
-md_files = os.listdir(MD_FOLDER_NAME)
+md_files = os.listdir(MD_FOLDER)
 md_file_names = [os.path.splitext(x)[0] for x in md_files]
 
-html_files = os.listdir(HTML_FOLDER_NAME)
+html_files = os.listdir(HTML_FOLDER)
 html_file_names = [os.path.splitext(x)[0] for x in html_files]
 
 #count intesection of md_files and html_files
@@ -48,6 +48,7 @@ def insert_blog_post(platform_1, platform_2, file_name, html, response):
     conn.execute("INSERT INTO posts (platform_1, platform_2, file_name, html, response) values (?, ?, ?, ?, ?)", (platform_1, platform_2, file_name, html, response))
     conn.commit()
 
+
 platforms = []
 
 with open(f'{ROOT_FOLDER}/zapier-premier-platforms.txt', 'r') as file:
@@ -72,10 +73,10 @@ for p in platform_permutations:
         try:
             response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages)
 
-            with open(f"{JSON_FOLDER_NAME}/{file_name}.json", "w", encoding='utf-8') as file:
+            with open(f"{JSON_FOLDER}/{file_name}.json", "w", encoding='utf-8') as file:
                 file.write(json.dumps(response))
 
-            with open(f"{HTML_FOLDER_NAME}/{file_name}.html", "w", encoding='utf-8') as file:
+            with open(f"{HTML_FOLDER}/{file_name}.html", "w", encoding='utf-8') as file:
                 file.write(response.choices[0].message.content)
 
             insert_blog_post(p[0], p[1], file_name, response.choices[0].message.content, json.dumps(response))

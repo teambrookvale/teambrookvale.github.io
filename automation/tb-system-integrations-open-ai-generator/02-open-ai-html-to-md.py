@@ -2,23 +2,25 @@ import os
 import random
 from datetime import datetime, timedelta
 
-root_dir = 'automation/tb-system-integrations-open-ai-generator'
+ROOT_FOLDER = 'automation/tb-system-integrations-open-ai-generator'
+HTML_FOLDER = f'{ROOT_FOLDER}/html'
+MD_FOLDER = f'{ROOT_FOLDER}/md'
 
-md_files = os.listdir(f'{root_dir}/md')
+md_files = os.listdir(MD_FOLDER)
 md_file_names = [os.path.splitext(x)[0] for x in md_files]
 
-html_files = os.listdir(f'{root_dir}/html')
+html_files = os.listdir(HTML_FOLDER)
 html_file_names = [os.path.splitext(x)[0] for x in html_files]
 
 #count intesection of md_files and html_files
 print(f'{len(set(md_file_names).intersection(html_file_names))} of {len(html_file_names)} md files already generated')
 
-for file in html_files:
+for html_file in html_files:
     # DEBUG ONLY
     #if 'amazon-s3-namely.html' not in file:
     #    continue
 
-    html_file_name = os.path.splitext(file)[0]
+    html_file_name = os.path.splitext(html_file)[0]
 
     if html_file_name in md_file_names:
         continue
@@ -90,7 +92,7 @@ date: '{random_date}'
 ---
 '''
 
-    with open(f'md/aigenerated-{file_name}.md', 'w', encoding='utf-8') as md_file:
+    with open(f'{MD_FOLDER}/{file_name}.md', 'w', encoding='utf-8') as md_file:
         md_file.write(md_header_lines)
         md_file.writelines(body_lines)
 
