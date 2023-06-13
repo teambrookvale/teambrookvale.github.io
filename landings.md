@@ -5,4 +5,5 @@ leadtext: We develop software products and provide digital platform engineering 
 list_generator: landing_lists.html
 layout: landing_list
 ---
-Software Development and System Integration services by location,/landings/locations;
+Software Development and System Integration Services by Location,/landings/locations;
+System Integration Services by Platforms,/landings/system-integrations;

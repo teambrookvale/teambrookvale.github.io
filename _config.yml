@@ -26,6 +26,14 @@ collections:
     output: false # we do not render technologies page without a location
   landing_location_technologies:
     output: true
+  landing_platforms:
+    output: true
+  landing_system_integrations_a:
+    output: true
+  landing_system_integrations_b:
+    output: false
+  landing_system_integrations_a_b:
+    output: true
 
 defaults:
   - scope:
@@ -40,6 +48,18 @@ defaults:
       type: landing_location_technologies
     values:
       layout: landing
+  - scope:
+      type: landing_system_integrations_a
+    values:
+      layout: landing_list
+  - scope:
+      type: landing_system_integrations_b
+    values:
+      layout: landing_list
+  - scope:
+      type: landing_system_integrations_a_b
+    values:
+      layout: article
 
 url: https://teambrookvale.com.au
 
