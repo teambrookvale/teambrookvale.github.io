@@ -1,0 +1,3 @@
+---
+name: Amazon EC2
+---

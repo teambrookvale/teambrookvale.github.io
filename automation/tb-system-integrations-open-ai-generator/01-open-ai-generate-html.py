@@ -41,13 +41,12 @@ def generate_open_ai_messages(platfrom_1, platform_2):
 
 def is_generated(platform_1, platform_2):
     s12 = conn.execute(f"SELECT COUNT(*) FROM posts WHERE platform_1 = '{platform_1}' AND platform_2 = '{platform_2}'").fetchall()[0][0] > 0
-    s21 = conn.execute(f"SELECT COUNT(*) FROM posts WHERE platform_1 = '{platform_2}' AND platform_2 = '{platform_1}'").fetchall()[0][0] > 0
-    return s12 or s21
+    #s21 = conn.execute(f"SELECT COUNT(*) FROM posts WHERE platform_1 = '{platform_2}' AND platform_2 = '{platform_1}'").fetchall()[0][0] > 0
+    return s12 #or s21
 
 def insert_blog_post(platform_1, platform_2, file_name, html, response):
     conn.execute("INSERT INTO posts (platform_1, platform_2, file_name, html, response) values (?, ?, ?, ?, ?)", (platform_1, platform_2, file_name, html, response))
     conn.commit()
-
 
 platforms = []
 

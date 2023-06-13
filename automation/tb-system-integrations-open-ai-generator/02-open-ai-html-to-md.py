@@ -81,12 +81,10 @@ for html_file in html_files:
     md_header_lines = f'''---
 aigenerated: true
 permalink: /articles/aigenerated-{file_name}
-boxclassname: black
-author: "Edward Saunders"
-topic: "System Integration"
-title: "{title}"
-leadhead: "{conclusion_first_sentence}"
-leadtext: "{conclusion_remaining}"
+author: Edward Saunders
+title: {title}
+leadhead: {conclusion_first_sentence}
+leadtext: {conclusion_remaining}
 image: /assets/images/articles/people-sitting-near-table.webp
 date: '{random_date}'
 ---

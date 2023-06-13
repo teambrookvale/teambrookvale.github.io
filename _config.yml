@@ -32,7 +32,7 @@ collections:
     output: true
   landing_system_integrations_b:
     output: false
-  landing_system_integrations_a_b:
+  landing_system_integrations_articles:
     output: true
 
 defaults:
@@ -57,7 +57,7 @@ defaults:
     values:
       layout: landing_list
   - scope:
-      type: landing_system_integrations_a_b
+      type: landing_system_integrations_articles
     values:
       layout: article
 

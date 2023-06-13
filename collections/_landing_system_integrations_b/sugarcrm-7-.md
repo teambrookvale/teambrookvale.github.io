@@ -1,0 +1,3 @@
+---
+name: SugarCRM 7+
+---
