@@ -1,0 +1,7 @@
+{% for item in site.landing_system_integrations_b %}
+    {% assign url = page.url | append: "/" | append: item.slug %}
+    {% assign text = page.name | append: " integration with " | append: item.name %}
+    {% if item.slug != page.slug %}
+        {{ text }},{{ url }};
+    {% endif %}
+{% endfor %}

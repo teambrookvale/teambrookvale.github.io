@@ -1,0 +1,5 @@
+{% for item in site.landing_system_integrations_a %}
+    {% assign url = "/landings/system-integrations/" | append: item.slug %}
+    {% assign text = item.name | append: " integrations" %}
+    {{ text }},{{ url }};
+{% endfor %}
