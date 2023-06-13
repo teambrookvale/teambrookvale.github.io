@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Integrating Amazon CloudWatch and Zendesk through API/SDK</title>
+</head>
+<body>
+  <h1>Integrating Amazon CloudWatch and Zendesk through API/SDK</h1>
+
+  <p>Amazon CloudWatch is a monitoring and management service provided by Amazon Web Services (AWS), which enables you to monitor resources and applications in real-time. On the other hand, Zendesk is a customer service platform that helps businesses improve their customer support process. Integrating these two services through API or SDK can help businesses monitor their Zendesk tickets and get insights using Amazon CloudWatch metrics and alarms.</p>
+
+  <h2>Integration of Amazon CloudWatch and Zendesk</h2>
+
+  <p>Amazon CloudWatch provides an SDK for developers to programmatically interact with the service. Zendesk also provides a REST API for developers to interact with their platform. By leveraging these tools, you can integrate the two services and get a better understanding of your customer support process. The following steps can be taken to integrate the two:</p>
+
+  <ol>
+    <li>Create a new AWS IAM user with appropriate permissions to access the CloudWatch service.</li>
+    <li>Create a new Zendesk API token that will provide the necessary permissions to interact with your Zendesk instance.</li>
+    <li>Create a Lambda function in AWS that will handle the integration logic. This Lambda function can be created using the AWS SDK for Node.js or Python.</li>
+    <li>Configure a CloudWatch alarm to send notifications to your Lambda function.</li>
+    <li>Set up a CloudWatch Metric Filter to capture Zendesk ticket related data.</li>
+    <li>Configure the Lambda function to receive the CloudWatch alarm notification and then perform the required actions, such as querying the Zendesk API to get ticket information and then send this information to CloudWatch logs and metrics.</li>
+  </ol>
+
+  <h2>Problems their integration solves</h2>
+
+  <p>Integrating Amazon CloudWatch and Zendesk through API or SDK can help solve the following problems:</p>
+  
+  <ul>
+    <li>Lack of visibility into the Zendesk tickets. With the integration, you can monitor all your Zendesk tickets from a single dashboard in CloudWatch.</li>
+    <li>Difficulty in identifying customer support trends. With CloudWatch metrics and alarms, you can easily get insights into your customer support trends and identify areas that need improvement.</li>
+    <li>Delays in responding to critical tickets. With CloudWatch alarms, you can be notified in real-time when a critical ticket is created, enabling you to respond to it promptly.</li>
+    <li>Difficulty in identifying the root cause of customer support issues. With CloudWatch logs, you can easily identify the root cause of customer support issues by analyzing the Zendesk ticket data.</li>
+  </ul>
+
+  <h2>Conclusion</h2>
+  <p>Integrating Amazon CloudWatch and Zendesk through API or SDK can help businesses analyze their customer support process, identify areas that need improvement, and respond to critical tickets in real-time. This integration can be achieved by creating a Lambda function that interacts with the CloudWatch service using the AWS SDK and the Zendesk API. By doing so, businesses can improve their customer support process and provide better customer service.</p>
+</body>
+</html>

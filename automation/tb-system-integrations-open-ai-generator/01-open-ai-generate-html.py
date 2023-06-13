@@ -56,8 +56,8 @@ with open(f'{ROOT_FOLDER}/zapier-premier-platforms.txt', 'r') as file:
 platform_permutations = list(itertools.product(platforms, platforms))
 
 for p in platform_permutations:
-    if p[0] == p[1] or is_generated(p[0], p[1]):
-        continue
+    #if p[0] == p[1] or is_generated(p[0], p[1]):
+    #    continue
 
     file_name = re.sub(r'\W+', '-', p[0] + '-' + p[1]).lower()
 
