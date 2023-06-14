@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/shopify/amazon-seller-central
+author: Edward Saunders
+title: "Shopify and Amazon Seller Central Integration"
+leadhead: "The integration of Shopify and Amazon Seller Central through API or SDK is an important development in e-commerce"
+leadtext: "It helps streamline the process of managing sales on multiple platforms, providing businesses with a simplified operation while reducing the risk of errors and inconsistency. For businesses looking to increase sales and maximize their profitability, integrating Shopify and Amazon Seller Central is a smart move."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">  <h1>Shopify and Amazon Seller Central Integration</h1>
+  <p>Shopify and Amazon Seller Central are two popular e-commerce platforms that offer a range of features to help businesses sell products online. While Shopify provides an all-in-one solution for setting up an online store, Amazon Seller Central offers a marketplace where businesses can sell their products to millions of customers worldwide.</p>
+
+  <h2>Integration of the two through API or SDK</h2>
+  <p>To make it easier for businesses to sell on both platforms, Shopify and Amazon Seller Central offer integration through API or SDK. This integration allows businesses to manage their inventory, orders, and shipping across both platforms from a single location. </p>
+
+  <h2>Problems their integration solves</h2>
+  <p>One of the main problems that the integration of Shopify and Amazon Seller Central solves is the hassle of managing multiple platforms. With integration in place, businesses can avoid the need to juggle different platforms by simply managing their sales through a single location. Integration also helps businesses to avoid issues related to inconsistent inventory levels, mismatched orders and payment processing.</p>
+
+  <h2>Conclusion</h2>
+  <p>The integration of Shopify and Amazon Seller Central through API or SDK is an important development in e-commerce. It helps streamline the process of managing sales on multiple platforms, providing businesses with a simplified operation while reducing the risk of errors and inconsistency. For businesses looking to increase sales and maximize their profitability, integrating Shopify and Amazon Seller Central is a smart move.</p>
+</div>

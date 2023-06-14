@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/google-bigquery/bigcommerce
+author: Edward Saunders
+title: "Google BigQuery and BigCommerce Integration"
+leadhead: "The integration of Google BigQuery and BigCommerce brings many benefits to businesses, allowing them to gain valuable insights from their data and make informed decisions"
+leadtext: "By combining the power of eCommerce analytics with the flexibility of a data warehouse, businesses can identify new opportunities, improve their operations and increase profitability."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">   <h1>Google BigQuery and BigCommerce Integration</h1>
+   
+   <p>Google BigQuery is a cloud-based data warehousing tool that allows easy storage, querying, analyzing, and visualizing of large datasets. On the other hand, BigCommerce is an eCommerce platform that enables businesses to set up and run their online stores. Integrating the two through API or SDK brings a range of benefits.</p>
+   
+   <h2>Integration of Google BigQuery and BigCommerce through API or SDK</h2>
+   <p>By integrating BigCommerce and Google BigQuery, businesses can extract valuable insights from their data, which cannot be seen by merely looking at their online store. The integration allows for seamless data transfers between the two systems, making it effortless to query and analyze vast amounts of data.</p>
+   
+   <h2>Problems their integration solves</h2>
+   <p>The integration of BigCommerce and Google BigQuery solves several problems, one of which is the ability to understand customer behavior and preferences. By analyzing data from BigCommerce in BigQuery, businesses can gain insights into their customers' buying behaviors, product affinity, and purchase funnel. This information is crucial in creating targeted marketing campaigns that convert leads into loyal customers.</p>
+   
+   <p>Another problem that the integration solves is the ability to manage inventory effectively. By analyzing inventory data in real-time, businesses can identify which products are selling fast, which products are not selling, and which products should be restocked. This information is useful in making informed buying decisions and reducing stockouts.</p>
+   
+   <h2>Conclusion</h2>
+   <p>The integration of Google BigQuery and BigCommerce brings many benefits to businesses, allowing them to gain valuable insights from their data and make informed decisions. By combining the power of eCommerce analytics with the flexibility of a data warehouse, businesses can identify new opportunities, improve their operations and increase profitability.</p>
+</div>

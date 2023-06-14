@@ -1,0 +1,22 @@
+---
+permalink: /landings/system-integrations/goto-training/facebook-lead-ads
+author: Edward Saunders
+title: "Integrating GoTo Training with Facebook Lead Ads"
+leadhead: "Overall, integrating GoTo Training with Facebook Lead Ads can provide businesses with a range of benefits, from simplifying the registration process for users to saving time and reducing the risk of errors"
+leadtext: "As more businesses continue to offer online courses and webinars, this integration will become increasingly important for those looking to streamline their processes and improve their results."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating GoTo Training with Facebook Lead Ads</h1>
+
+	<p>GoTo Training is a popular webinar and online training solution that provides businesses and organizations with a platform to conduct virtual conferences, seminars, and training sessions. On the other hand, Facebook Lead Ads is an advertising feature that lets businesses capture lead information from users who click on their ads.</p>
+
+	<p>Integrating GoTo Training with Facebook Lead Ads can be done through an API or SDK integration. This allows businesses to streamline the process of enrolling users for their online courses or webinars. When a user clicks on a Facebook Lead Ad, their information is automatically transmitted to GoTo Training, and they are registered for the chosen course or training session.</p>
+
+	<p>One of the key benefits of integrating GoTo Training with Facebook Lead Ads is that it simplifies the registration process for users. Instead of having to go through a separate registration process, users can simply click on the ad and be automatically registered for the course. This can lead to higher conversion rates and improved user experience.</p>
+
+	<p>Additionally, this integration can help businesses save time and money by automating the registration process. Instead of having to manually enroll users in their courses, businesses can rely on the integration to handle the process for them. This also reduces the risk of human error and ensures that all users are registered correctly.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Overall, integrating GoTo Training with Facebook Lead Ads can provide businesses with a range of benefits, from simplifying the registration process for users to saving time and reducing the risk of errors. As more businesses continue to offer online courses and webinars, this integration will become increasingly important for those looking to streamline their processes and improve their results.</p>
+</div>

@@ -1,0 +1,36 @@
+---
+permalink: /landings/system-integrations/pardot/expensify
+author: Edward Saunders
+title: "Integration of Pardot and Expensify"
+leadhead: "Integrating Pardot and Expensify is a wise decision for businesses that want to optimize their sales and marketing efforts while streamlining their expense management process"
+leadtext: "The integration helps businesses to save time and money while maintaining accurate and transparent data. By using the API or SDK, businesses can build custom integrations that cater to their specific requirements."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	
+<h1>Integration of Pardot and Expensify</h1>
+
+<p>Pardot is a powerful marketing automation tool that allows businesses to streamline their marketing efforts. It offers a range of features such as email marketing, lead scoring, and lead nurturing that help businesses to engage with their potential customers more effectively.</p>
+
+<p>Expensify, on the other hand, is an expense management tool that simplifies the process of tracking and submitting expenses. It enables businesses to save time and money by automating the expense reporting process.</p>
+
+<p>By integrating Pardot and Expensify, businesses can optimize their sales and marketing efforts by tracking expenses that are related to marketing campaigns and sales activities in real-time through automation. This integration helps businesses to maintain transparent and accurate data while reducing manual error and increasing efficiency.</p>
+
+<h2>Integration of the Two through API or SDK</h2>
+
+<p>The integration of Pardot and Expensify is possible through API and SDK. The API helps businesses to transfer data between the two platforms, while the SDK enables developers to build custom integrations between the two platforms.</p>
+
+<h2>Problems the Integration Solves</h2>
+
+<p>Integrating Pardot and Expensify solves several issues faced by businesses. Some of these problems are:</p>
+
+<ul>
+	<li>Manual Data Entry: Manual data entry of expenses is a time-consuming and error-prone process. Integrating Pardot and Expensify eliminates the need for manual data entry and saves time.</li>
+	<li>Inaccurate Data: Inaccurate data can lead to wrong business decisions and can affect the overall performance of the business. Integrating Pardot and Expensify helps businesses to avoid inaccuracies and maintain accurate data.</li>
+	<li>Delayed Expense Reimbursement: Delayed expense reimbursements can affect employee satisfaction and can create financial issues for the business. Integrating Pardot and Expensify ensures timely expense reimbursements and increases employee satisfaction.</li>
+</ul>
+
+<h2>Conclusion</h2>
+
+<p>Integrating Pardot and Expensify is a wise decision for businesses that want to optimize their sales and marketing efforts while streamlining their expense management process. The integration helps businesses to save time and money while maintaining accurate and transparent data. By using the API or SDK, businesses can build custom integrations that cater to their specific requirements.</p>
+
+</div>

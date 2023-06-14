@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/amazon-dynamodb
+author: Edward Saunders
+title: "Integrating Facebook Custom Audiences with Amazon DynamoDB"
+leadhead: "Integrating Facebook Custom Audiences with Amazon DynamoDB is a powerful way to optimize your online advertising efforts and create more effective and personalized campaigns"
+leadtext: "By using the API or SDK to connect these two tools, you can save time, improve accuracy, and gain valuable insights into your target audience's behavior."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Facebook Custom Audiences with Amazon DynamoDB</h1>
+	<p>If you are looking for ways to optimize your online advertising efforts, you might want to consider integrating Facebook Custom Audiences with Amazon DynamoDB. Both of these tools can help you reach and engage with your target audience more effectively, and by using their API or SDK to connect them, you can create even more powerful campaigns with less manual work.</p>
+	<h2>What are Facebook Custom Audiences?</h2>
+	<p>Facebook Custom Audiences is a feature that allows you to target your ads to people who have already interacted with your business on Facebook or elsewhere online. You can create different types of custom audiences based on criteria such as:</p>
+	<ul>
+		<li>Website visitors</li>
+		<li>App users</li>
+		<li>Email subscribers</li>
+		<li>Offline customers</li>
+	</ul>
+	<h2>What is Amazon DynamoDB?</h2>
+	<p>Amazon DynamoDB is a fully-managed NoSQL database service that provides fast and predictable performance with seamless scalability. It offers a flexible data model, consistent and durable storage, and low-latency access to your data, making it ideal for storing and retrieving user data for advertising purposes.</p>
+	<h2>How can you integrate Facebook Custom Audiences with Amazon DynamoDB?</h2>
+	<p>By using Facebook's Marketing API or SDK, you can automatically sync your custom audiences with a corresponding table in DynamoDB. This means that whenever someone joins or leaves one of your custom audiences, their data will be automatically added or removed from the corresponding table in DynamoDB, keeping your user data up-to-date and accurate.</p>
+	<h2>What problems does this integration solve?</h2>
+	<p>Integrating Facebook Custom Audiences with Amazon DynamoDB can save you a lot of time and effort, as it eliminates the need for manual data entry and ensures that your user data is always accurate and up-to-date. It also allows you to create more targeted and personalized ads, since your custom audiences will be based on actual user data rather than educated guesses.</p>
+	<h2>Conclusion</h2>
+	<p>Integrating Facebook Custom Audiences with Amazon DynamoDB is a powerful way to optimize your online advertising efforts and create more effective and personalized campaigns. By using the API or SDK to connect these two tools, you can save time, improve accuracy, and gain valuable insights into your target audience's behavior.</p>
+</div>

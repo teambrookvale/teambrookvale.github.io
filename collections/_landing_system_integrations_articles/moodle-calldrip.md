@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/moodle/calldrip
+author: Edward Saunders
+title: "Moodle and Calldrip Integration"
+leadhead: "The integration of Moodle and Calldrip has the potential to drive significant improvements in lead generation and management for educational institutions"
+leadtext: "By utilizing the power of these two tools, institutions can gain greater insights into their lead generation process and respond to potential students more efficiently."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Moodle and Calldrip Integration</h1>
+	<p>Moodle is a popular open-source Learning Management System used by many educational institutions around the world. Calldrip, on the other hand, is a sales acceleration tool that helps businesses to manage and respond to sales leads more efficiently.</p>
+
+	<p>By integrating Moodle and Calldrip through API or SDK, educational institutions can streamline their lead management process effectively. When a potential student fills out a form on the institution's website, Calldrip receives this information and distributes the lead to the appropriate staff member.</p>
+
+	<p> This integration solves several problems for educational institutions that rely on lead generation. Firstly, it allows them to respond to leads more quickly, improving the chances of converting them into actual students. Secondly, it ensures that the lead is routed to the right person, preventing any unnecessary delays or misunderstandings. Finally, it provides institutions with access to valuable data insights that can help them refine their lead generation process further.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Moodle and Calldrip has the potential to drive significant improvements in lead generation and management for educational institutions. By utilizing the power of these two tools, institutions can gain greater insights into their lead generation process and respond to potential students more efficiently.</p>
+	<p>If you're an educational institution looking to improve your lead management process, it's worth considering the benefits of integrating Moodle and Calldrip through an API or SDK.</p>
+
+</div>

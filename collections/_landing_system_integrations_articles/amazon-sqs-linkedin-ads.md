@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/amazon-sqs/linkedin-ads
+author: Edward Saunders
+title: "Amazon SQS and LinkedIn Ads Integration"
+leadhead: "The integration of Amazon SQS and LinkedIn Ads provides a number of benefits for businesses that utilize both services"
+leadtext: "As automation becomes increasingly important in the digital landscape, this integration allows businesses to streamline processes and improve efficiency. Ultimately, this integration makes it easier for businesses to achieve their advertising goals on LinkedIn."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Amazon SQS and LinkedIn Ads Integration</h1>
+
+	<p>Amazon Simple Queue Service (SQS) is a fully managed message queue service that enables you to decouple and scale microservices, distributed systems, and serverless applications. LinkedIn Ads is a platform that provides targeted advertising to businesses and individuals looking to showcase their products and services on LinkedIn.</p>
+
+	<p>The integration of Amazon SQS and LinkedIn Ads is made possible through the use of APIs or software development kits (SDKs). This integration solves a number of problems for businesses that utilize both services.</p>
+
+	<h2>Problems Solved by Integration</h2>
+
+	<p>One key problem solved by the integration of Amazon SQS and LinkedIn Ads is the ability to automate advertising processes. Businesses that use both services can create workflows that automatically trigger LinkedIn Ads campaigns based on events that occur in Amazon SQS queues.</p>
+
+	<p>Another problem solved by this integration is the ability to improve efficiency and reduce manual labor. With the automation of advertising processes, businesses can reduce the time and effort required to manage campaigns, allowing them to focus on other areas of their operation.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Amazon SQS and LinkedIn Ads provides a number of benefits for businesses that utilize both services. As automation becomes increasingly important in the digital landscape, this integration allows businesses to streamline processes and improve efficiency. Ultimately, this integration makes it easier for businesses to achieve their advertising goals on LinkedIn.</p>
+
+</div>

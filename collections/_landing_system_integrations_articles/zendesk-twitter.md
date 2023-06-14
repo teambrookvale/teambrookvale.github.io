@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/zendesk/twitter
+author: Edward Saunders
+title: "Zendesk and Twitter Integration: An Overview"
+leadhead: "Overall, the integration of Zendesk and Twitter creates benefits for both businesses and their customers"
+leadtext: "The ability to respond to customer inquiries quickly, centralize communication, and provide more comprehensive support leads to happier customers and more successful businesses. API and SDK development has made it easier than ever to integrate software platforms, allowing businesses to expand their capabilities and improve their overall efficiency."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Zendesk and Twitter Integration: An Overview</h1>
+	
+	<p>Zendesk is a customer support platform that helps businesses provide better support to their customers. Twitter, on the other hand, is a social media platform where people can share news, thoughts, and experiences with the world. When these two platforms are integrated, businesses can provide a more seamless customer experience and solve problems quickly.</p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>The integration of Zendesk and Twitter can be done through an API or SDK. API, or Application Programming Interface, is a set of protocols, routines, and tools that developers use to build software applications. It allows different software systems to communicate with each other. An SDK, or Software Development Kit, is a collection of software development tools that enables developers to build software for a particular platform. </p>
+
+	<p>Zendesk uses a Twitter integration app, which allows businesses to see their customer's tweets in Zendesk. In addition, businesses can respond to tweets from Zendesk, create tickets, and assign them to the appropriate agents.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>With the integration of Zendesk and Twitter, businesses can solve two essential problems:</p>
+
+	<ol>
+		<li>Quickly respond to customer inquiries on Twitter. When customers complain or ask for help on Twitter, businesses can quickly respond and solve the problem with Zendesk's help desk. This prevents negative customer experiences and reduces the likelihood of a customer churn.</li>
+		<li>Centralize customer support communication. By integrating Twitter with Zendesk, businesses can manage social media and help desk tickets in the same place. This saves time and provides a more comprehensive view of customer support inquiries, leading to better decision-making.</li>
+	</ol>
+
+	<h2>Conclusion</h2>
+
+	<p>Overall, the integration of Zendesk and Twitter creates benefits for both businesses and their customers. The ability to respond to customer inquiries quickly, centralize communication, and provide more comprehensive support leads to happier customers and more successful businesses. API and SDK development has made it easier than ever to integrate software platforms, allowing businesses to expand their capabilities and improve their overall efficiency.</p>
+</div>

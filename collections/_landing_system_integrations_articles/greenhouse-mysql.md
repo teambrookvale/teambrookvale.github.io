@@ -1,0 +1,30 @@
+---
+permalink: /landings/system-integrations/greenhouse/mysql
+author: Edward Saunders
+title: "Greenhouse and MySQL Integration"
+leadhead: "The integration of Greenhouse and MySQL can provide an efficient and effective recruitment process"
+leadtext: "The integration can help in reducing manual data entry, improving collaboration between recruitment teams, and enhancing data accuracy. It can also enable better analytics and reporting, providing valuable insights to organizations. If you are looking to improve your recruitment process, integrating Greenhouse and MySQL could be a great solution."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Greenhouse and MySQL Integration</h1>
+
+	<p>Greenhouse is a popular applicant tracking system used by many businesses to manage their recruitment processes. MySQL, on the other hand, is an open-source relational database management system. While the two software are commonly used for different purposes, integration of the two can provide several benefits for organizations. </p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>The integration of Greenhouse and MySQL can be achieved through available APIs or SDK provided by Greenhouse. These APIs and SDKs allow the users to easily connect to Greenhouse's recruiting data and transfer it to MySQL. The integration can be done in real-time or through scheduled updates, depending on the specific needs of the organization.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of Greenhouse and MySQL has several advantages, some of which include:</p>
+	<ul>
+		<li><b>Efficient recruiting process:</b> Integration of Greenhouse and MySQL can provide a streamlined recruiting process, where all recruitment data is automatically updated and stored in a centralized database. This results in better collaboration between recruitment teams and more informed recruiting decisions.</li>
+		<li><b>Reduces manual data entry:</b> Manual data entry is always prone to errors and takes up more time and resources. The integration of Greenhouse and MySQL can significantly reduce the need for manual data entry and ensure data accuracy.</li>
+		<li><b>Better analytics:</b> With the integration, organizations can easily generate various reports and analytics related to recruitment data. This helps in identifying problem areas, measuring recruitment effectiveness, and making data-driven recruiting decisions.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Greenhouse and MySQL can provide an efficient and effective recruitment process. The integration can help in reducing manual data entry, improving collaboration between recruitment teams, and enhancing data accuracy. It can also enable better analytics and reporting, providing valuable insights to organizations. If you are looking to improve your recruitment process, integrating Greenhouse and MySQL could be a great solution.</p>
+
+</div>

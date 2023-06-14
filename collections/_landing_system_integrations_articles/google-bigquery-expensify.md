@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/google-bigquery/expensify
+author: Edward Saunders
+title: "Integration of Google BigQuery and Expensify"
+leadhead: "The integration of Google BigQuery and Expensify is a powerful solution that can help businesses gain insights into their expenses, improve accuracy, and save time and money"
+leadtext: "With API or SDK integration, data from Expensify can be easily transferred to Google BigQuery for analysis, making it easier for businesses to make informed decisions. As businesses grow and expand, it becomes increasingly important to manage expenses effectively, and the integration of these two platforms provides a powerful solution to do just that."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Google BigQuery and Expensify</h1>
+	<p>Google BigQuery and Expensify are two powerful platforms that can provide great benefits to businesses that use them. BigQuery is Google's cloud-based database system that allows you to store and analyze data with lightning-fast speed, while Expensify is an expense management tool that simplifies reporting and tracking expenses for businesses. By integrating the two platforms through API or SDK, businesses can benefit from a powerful combination of tools that help them efficiently manage their expenses.</p>
+	<h2>Integration of Google BigQuery and Expensify through API or SDK</h2>
+	<p>The integration of Google BigQuery and Expensify can be done through API or SDK. API is a set of tools and protocols that are used to build software applications, while SDK is a set of tools and libraries that are used to develop software applications. Integration through API or SDK provides a seamless flow of data between the two platforms, making it easier to analyze and manage expenses.</p>
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Google BigQuery and Expensify can solve many problems faced by businesses while managing expenses. With the integration, data from Expensify can be seamlessly transferred to Google BigQuery, where it can be analyzed to gain insights into spending patterns, identify cost-saving opportunities, and make informed decisions. This helps businesses save time and money, reduce the risk of errors, and improve the accuracy of expense reporting.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Google BigQuery and Expensify is a powerful solution that can help businesses gain insights into their expenses, improve accuracy, and save time and money. With API or SDK integration, data from Expensify can be easily transferred to Google BigQuery for analysis, making it easier for businesses to make informed decisions. As businesses grow and expand, it becomes increasingly important to manage expenses effectively, and the integration of these two platforms provides a powerful solution to do just that.</p>
+</div>

@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/aws-lambda/evernote-business
+author: Edward Saunders
+title: "AWS Lambda and Evernote Business Integration"
+leadhead: "Overall, the integration of AWS Lambda and Evernote Business provides many benefits for businesses looking to improve their productivity and efficiency"
+leadtext: "By automating processes and reducing manual work, businesses can focus on what matters most - growing their business and achieving their goals."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>AWS Lambda and Evernote Business Integration</h1>
+
+	<p>When it comes to managing your business, keeping track of important notes and documents can be a challenge. Fortunately, the integration of AWS Lambda and Evernote Business through API or SDK can help make this task easier and more efficient. </p>
+
+	<h2>What is AWS Lambda?</h2>
+
+	<p>AWS Lambda is a serverless computing service provided by Amazon. It allows developers to run code without having to manage servers, containers or infrastructure. With AWS Lambda, you only pay for the time your code runs and the service automatically scales up or down based on demand. </p>
+
+	<h2>What is Evernote Business?</h2>
+
+	<p>Evernote Business is a note-taking app designed for companies and teams. It allows users to create, share and organize notes, documents and ideas. Evernote Business also provides tools for collaboration and team coordination, making it an ideal solution for businesses of all sizes. </p>
+
+	<h2>Integration of AWS Lambda and Evernote Business</h2>
+
+	<p>The integration of AWS Lambda and Evernote Business is made possible through the use of APIs or SDKs. Developers can use the Evernote API to create, read, update or delete notes and documents from within their own applications. Similarly, Evernote provides SDKs for various platforms, allowing for easy integration with other services. </p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of AWS Lambda and Evernote Business can solve a number of problems for businesses. For example, it can help streamline workflows, eliminate repetitive tasks and reduce manual data entry. Through this integration, businesses can create automated processes that help them save time and resources. </p>
+
+	<h2>Conclusion</h2>
+
+	<p>Overall, the integration of AWS Lambda and Evernote Business provides many benefits for businesses looking to improve their productivity and efficiency. By automating processes and reducing manual work, businesses can focus on what matters most - growing their business and achieving their goals. </p>
+
+</div>

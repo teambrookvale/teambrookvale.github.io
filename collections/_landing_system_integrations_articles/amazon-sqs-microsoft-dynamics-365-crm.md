@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/amazon-sqs/microsoft-dynamics-365-crm
+author: Edward Saunders
+title: "Integration of Amazon SQS and Microsoft Dynamics 365 CRM"
+leadhead: "Integrating Amazon SQS and Microsoft Dynamics 365 CRM through API or SDK is a powerful solution that can solve a number of problems for businesses"
+leadtext: "By improving reliability, scalability, and efficiency, businesses can streamline their operations and focus on delivering better customer experiences."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integration of Amazon SQS and Microsoft Dynamics 365 CRM</h1>
+
+	<p>Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables decoupling and scaling of microservices, serverless applications, and distributed systems. Microsoft Dynamics 365 CRM, on the other hand, is a customer relationship management software that helps businesses improve their sales, marketing, and customer service processes.</p>
+
+	<p>Integrating Amazon SQS and Microsoft Dynamics 365 CRM through API or SDK can solve a number of problems such as:</p>
+
+	<ul>
+		<li><strong>Improved reliability:</strong> With Amazon SQS, messages are stored redundantly across multiple availability zones, ensuring reliable delivery to the CRM even if one server fails.</li>
+		<li><strong>Scalability:</strong> Amazon SQS is designed to handle an unlimited number of messages, ensuring that the CRM can scale to meet the demands of a growing business.</li>
+		<li><strong>Efficiency:</strong> By using Amazon SQS, the CRM can process messages asynchronously, freeing up resources to focus on other tasks while awaiting the message.</li>
+	</ul>
+
+	<p>The integration of Amazon SQS and Microsoft Dynamics 365 CRM opens up a new range of possibilities for businesses looking to streamline their operations. With improved reliability, scalability, and efficiency, businesses can focus on delivering better customer experiences and growing their bottom line. </p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating Amazon SQS and Microsoft Dynamics 365 CRM through API or SDK is a powerful solution that can solve a number of problems for businesses. By improving reliability, scalability, and efficiency, businesses can streamline their operations and focus on delivering better customer experiences. </p>
+
+</div>

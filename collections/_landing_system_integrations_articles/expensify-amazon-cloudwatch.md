@@ -1,0 +1,24 @@
+---
+permalink: /landings/system-integrations/expensify/amazon-cloudwatch
+author: Edward Saunders
+title: "Expensify and Amazon CloudWatch Integration"
+leadhead: "The integration of Expensify and Amazon CloudWatch is a powerful tool for managing expenses and monitoring financial data"
+leadtext: "It enables users to track their expenses in real-time and provides insights into their financial data. It solves several problems related to expense management, including real-time monitoring, budget monitoring, custom dashboards, and automated alerts. Overall, this integration is a great addition to any expense management system."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Expensify and Amazon CloudWatch Integration</h1>
+	<p>Expensify is an online platform for expense management that helps individuals, teams, and companies manage their expenses. It is widely used for tracking expenses, generating receipts, and managing reimbursements. </p>
+	<p>Amazon CloudWatch is a monitoring service that can track and monitor resources in your AWS account. It can monitor metrics, collect and analyze log files, and set alarms. It is highly scalable, so it can handle large amounts of data and provide real-time insights.</p>
+	<h2>Integration of the two through API or SDK</h2>
+	<p>Expensify and Amazon CloudWatch can be integrated through API or SDK. The API integration allows users to connect their Expensify account with their Amazon CloudWatch account, which enables them to monitor and track their expenses in real-time. The SDK integration is useful for developers who want to build custom applications that integrate with both Expensify and Amazon CloudWatch.</p>
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Expensify and Amazon CloudWatch solves several problems related to expense management:</p>
+	<ul>
+		<li>Real-time monitoring: With this integration, users can monitor their expenses in real-time, which means they are always up-to-date with their financial data.</li>
+		<li>Budget monitoring: Users can set budgets for their expenses and use Amazon CloudWatch to monitor their spending against those budgets.</li>
+		<li>Custom dashboard: Users can create custom dashboards to track their expenses and monitor their financial data.</li>
+		<li>Automated alerts: Users can set automated alerts to be notified when specific expenses exceed a certain amount or when budgets are exceeded.</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>The integration of Expensify and Amazon CloudWatch is a powerful tool for managing expenses and monitoring financial data. It enables users to track their expenses in real-time and provides insights into their financial data. It solves several problems related to expense management, including real-time monitoring, budget monitoring, custom dashboards, and automated alerts. Overall, this integration is a great addition to any expense management system.</p>
+</div>

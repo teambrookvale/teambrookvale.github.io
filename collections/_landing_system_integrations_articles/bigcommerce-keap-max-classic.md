@@ -1,0 +1,44 @@
+---
+permalink: /landings/system-integrations/bigcommerce/keap-max-classic
+author: Edward Saunders
+title: "How Integrating BigCommerce with Keap Max Classic Solves Business Problems"
+leadhead: "Integrating BigCommerce with Keap Max Classic can help businesses automate their marketing campaigns, improve customer engagement, and streamline their sales processes"
+leadtext: "By leveraging the power of these two platforms, businesses can create a seamless sales and customer management experience that drives growth and success."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>How Integrating BigCommerce with Keap Max Classic Solves Business Problems</h1>
+
+	<p>If you are running an online store, you know how crucial it is to have a reliable platform to manage your sales and customer data. Two of the most popular platforms for this purpose are BigCommerce and Keap Max Classic.</p>
+
+	<h2>What is BigCommerce?</h2>
+
+	<p>BigCommerce is a popular e-commerce platform that helps businesses of all sizes create online stores and manage their sales. It offers a range of features such as inventory management, payment processing, shipping, and marketing tools.</p>
+
+	<h2>What is Keap Max Classic?</h2>
+
+	<p>Keap Max Classic is a customer relationship management (CRM) software that helps businesses manage their customer data, automate marketing, and improve customer engagement. It offers a range of features such as contact management, lead scoring, and email marketing tools.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>BigCommerce and Keap Max Classic integration through API or SDK can help businesses streamline their sales and customer management processes. By integrating the two platforms, businesses can get a 360-degree view of their customers, automate their marketing campaigns, and improve sales performance.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<h3>1. Automating Marketing Campaigns</h3>
+
+	<p>Integrating BigCommerce with Keap Max Classic can help businesses automate their marketing campaigns. By syncing customer data from BigCommerce to Keap Max Classic, businesses can create targeted email campaigns and improve their customer engagement. For example, businesses can send targeted emails to customers who abandoned their shopping carts to encourage them to complete their purchase.</p>
+
+	<h3>2. Improving Customer Engagement</h3>
+
+	<p>Integrating BigCommerce with Keap Max Classic can help businesses improve their customer engagement. By syncing customer data from BigCommerce to Keap Max Classic, businesses can keep track of their customers' purchase history, preferences, and behavior. This information can help businesses create personalized experiences for their customers and improve their overall satisfaction.</p>
+
+	<h3>3. Streamlining Sales Processes</h3>
+
+	<p>Integrating BigCommerce with Keap Max Classic can help businesses streamline their sales processes. By syncing orders and customer data from BigCommerce to Keap Max Classic, businesses can automate their sales workflows, such as order processing and shipping. This can help businesses save time and resources and improve their efficiency.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating BigCommerce with Keap Max Classic can help businesses automate their marketing campaigns, improve customer engagement, and streamline their sales processes. By leveraging the power of these two platforms, businesses can create a seamless sales and customer management experience that drives growth and success.</p>
+
+</div>

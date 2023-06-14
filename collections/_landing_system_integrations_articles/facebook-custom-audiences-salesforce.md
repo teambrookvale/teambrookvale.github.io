@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/salesforce
+author: Edward Saunders
+title: "Integration of Facebook Custom Audiences and Salesforce"
+leadhead: "The integration of Facebook Custom Audiences with Salesforce is a powerful way to improve a business's advertising efforts"
+leadtext: "By combining the data from these two tools, businesses can create more targeted ads and track the success of their marketing campaigns more effectively. With the right strategy and approach, this integration can help businesses grow their customer base, increase sales, and improve their overall bottom line."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Facebook Custom Audiences and Salesforce</h1>
+	<p>Facebook Custom Audiences is a powerful tool that allows businesses to tailor their advertising to a specific audience. Using a list of email addresses, phone numbers, or Facebook user IDs, businesses can create a Custom Audience and target their ads to that audience. </p>
+
+	<p>On the other hand, Salesforce is a popular Customer Relationship Management (CRM) platform used by many businesses to manage their customer data and interactions. It allows businesses to track their sales, marketing, and customer support activities all in one place.</p>
+
+	<p>By integrating Facebook Custom Audiences with Salesforce, businesses can take advantage of both tools and create a more streamlined approach to advertising. This integration can be achieved through an API or SDK, depending on the specific needs of the business.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>One of the biggest problems that this integration solves is the ability to create more targeted advertising. By combining the customer data in Salesforce with Facebook Custom Audiences, businesses can create ads that are specifically tailored to their customers' interests, behaviors, and preferences.</p>
+
+	<p>This integration also allows businesses to track the success of their advertising in a more comprehensive way. By analyzing the data in both Salesforce and Facebook, businesses can get a better idea of which ads are working, which ones aren't, and make adjustments as needed.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Facebook Custom Audiences with Salesforce is a powerful way to improve a business's advertising efforts. By combining the data from these two tools, businesses can create more targeted ads and track the success of their marketing campaigns more effectively. With the right strategy and approach, this integration can help businesses grow their customer base, increase sales, and improve their overall bottom line.</p>
+
+</div>

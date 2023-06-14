@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/chargify
+author: Edward Saunders
+title: "Facebook Custom Audiences and Chargify"
+leadhead: "The integration of Facebook Custom Audiences and Chargify through API or SDK is a powerful combination for businesses"
+leadtext: "It enables businesses to create highly targeted ads that are more likely to convert into sales, while also automating the billing and payment process. This allows businesses to focus on providing a great product or service, rather than worrying about managing payments and billing."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+<h1>Facebook Custom Audiences and Chargify</h1>
+
+<p>Facebook Custom Audiences is a powerful tool for businesses to advertise to individuals who have already shown interest in their brand. It allows businesses to target their ads to people who have visited their website, downloaded their app, or interacted with them on Facebook.</p>
+
+<p>Chargify, on the other hand, is a subscription billing platform that automates the billing process for businesses. It provides businesses with a way to manage and track recurring payments and subscriptions.</p>
+
+<p>The integration of Facebook Custom Audiences and Chargify through API or SDK is a game-changer for businesses. It enables businesses to target their ads to individuals who are currently subscribed to the business's product or service. This means that businesses can create highly targeted ads that are more likely to convert into sales.</p>
+
+<p>One of the problems that this integration solves is the issue of targeting ads to individuals who have already subscribed to a business's product or service. Previously, businesses would have to manually create separate lists of subscribers and upload them to Facebook. This process was time-consuming, and it was difficult to keep the lists up-to-date.</p>
+
+<p>Another problem that this integration solves is the issue of billing and payments. With Chargify, businesses no longer have to worry about manually invoicing and collecting payments from subscribers. This allows businesses to focus on providing a great product or service, rather than worrying about managing payments and billing.</p>
+
+<h2>Conclusion</h2>
+
+<p>The integration of Facebook Custom Audiences and Chargify through API or SDK is a powerful combination for businesses. It enables businesses to create highly targeted ads that are more likely to convert into sales, while also automating the billing and payment process. This allows businesses to focus on providing a great product or service, rather than worrying about managing payments and billing.</p>
+
+</div>

@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/whmcs/aws-lambda
+author: Edward Saunders
+title: "Integrating WHMCS with AWS Lambda"
+leadhead: "Integrating WHMCS with AWS Lambda can bring substantial benefits to a web hosting company"
+leadtext: "It can streamline billing and automating tasks, as well as improve customer support. The API Gateway and AWS SDK provide developers with the tools they need to integrate the two platforms. We hope that our blog post has given you a clear understanding of the benefits and integration process of these powerful tools."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating WHMCS with AWS Lambda</h1>
+
+	<p>WHMCS is a popular platform for managing web hosting services and billing. It provides a range of functionalities to automate the billing process and handle customer support. AWS Lambda, on the other hand, is a serverless compute service provided by Amazon Web Services (AWS). It allows developers to run code without worrying about the underlying infrastructure.</p>
+
+	<p>Integrating WHMCS with AWS Lambda can provide several benefits. By using the AWS Lambda function in WHMCS, developers can automate various billing tasks, such as generating invoices and sending them to customers. Additionally, Lambda can also be used to manage customer support tickets and notifications.</p>
+
+	<h3>Integration of the two through API or SDK</h3>
+
+	<p>The integration of WHMCS with Lambda can be accomplished through either the Amazon API Gateway or the AWS SDK. WHMCS uses APIs to perform various tasks, and the same can be done to interact with Lambda functions. Developers can use the API Gateway to create RESTful APIs and map them to Lambda functions. Alternatively, they can use the AWS SDKs to directly invoke Lambda functions from their PHP code.</p>
+
+	<h3>Problems their integration solves</h3>
+
+	<p>Integrating WHMCS with AWS Lambda can solve several problems, such as:</p>
+
+	<ul>
+		<li>Automating billing tasks: Lambda can be used to generate invoices and send them to customers, reducing administration work.</li>
+		<li>Improving serverless functionality: Integrating the two systems can streamline the utilization of serverless computing architecture and reduce expenses.</li>
+		<li>Streamlining customer support: Customer support can be improved by using Lambda to manage support tickets and notifications, which can be automated based on certain criteria.</li>
+	</ul>
+
+	<h3>Conclusion</h3>
+
+	<p>Integrating WHMCS with AWS Lambda can bring substantial benefits to a web hosting company. It can streamline billing and automating tasks, as well as improve customer support. The API Gateway and AWS SDK provide developers with the tools they need to integrate the two platforms. We hope that our blog post has given you a clear understanding of the benefits and integration process of these powerful tools.</p>
+
+</div>

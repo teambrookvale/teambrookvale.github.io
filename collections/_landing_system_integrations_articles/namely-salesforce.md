@@ -1,0 +1,36 @@
+---
+permalink: /landings/system-integrations/namely/salesforce
+author: Edward Saunders
+title: "Integration of Namely and Salesforce through API/SDK"
+leadhead: "The integration of Namely and Salesforce through API or SDK can make a real difference in how businesses manage human resources and customers"
+leadtext: "By consolidating data and streamlining workflows, companies can save time, reduce errors, and improve decision-making. So, if you are a business that wants to automate and integrate its HR and customer relationship management processes, you need to integrate Namely and Salesforce."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integration of Namely and Salesforce through API/SDK</h1>
+
+	<p>Namely is a top-notch HR management software that streamlines the HR processes such as time tracking, payroll, and benefits administration. On the other hand, Salesforce is one of the world’s leading CRM systems that offers a range of features to boost sales, marketing, and customer service. While both are excellent on their own, integrating them can go a long way in improving business performance.</p>
+
+	<h2>API or SDK Integration</h2>
+
+	<p>The easiest and most efficient way to integrate Namely and Salesforce is through an API or software development kit (SDK). Both Namely and Salesforce have APIs that allow software developers to create custom integrations between their platforms.</p>
+
+	<p>API integration involves building a bridge between two systems and making them “talk” to each other. The two systems communicate with each other, send data back and forth in real-time, and provide an even better user experience. The SDK integration allows the systems to work more seamlessly and interchangeably with each other.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>There are several problems that their integration can solve. For businesses that have employees who also manage clients or prospects and interact with them directly, integrating Namely with Salesforce can be a real game-changer. With Namely-Salesforce integration, businesses can enjoy the following benefits:</p>
+
+	<ul>
+		<li>Streamlined data entry – Integrating Namely with Salesforce rids of the need to keep employee data separately in both systems. Having both platforms synchronized ensures that employee records are updated simultaneously across all parts of the organization. </li>
+
+		<li>Better decision-making – With Namely-Salesforce integration, businesses can pull employee data from one system into the other to gain a better understanding of employee activities and productivity. Consolidated data means that businesses can make informed decisions. </li>
+
+		<li>Improved process efficiency – Combining the features of both platforms enables businesses to develop some custom workflows. There’s almost nothing one cannot accomplish when they bring together the functionalities of Namely and Salesforce. </li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Namely and Salesforce through API or SDK can make a real difference in how businesses manage human resources and customers. By consolidating data and streamlining workflows, companies can save time, reduce errors, and improve decision-making. So, if you are a business that wants to automate and integrate its HR and customer relationship management processes, you need to integrate Namely and Salesforce.</p>
+
+</div>

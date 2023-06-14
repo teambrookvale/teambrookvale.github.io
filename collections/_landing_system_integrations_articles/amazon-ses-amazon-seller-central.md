@@ -1,0 +1,16 @@
+---
+permalink: /landings/system-integrations/amazon-ses/amazon-seller-central
+author: Edward Saunders
+title: "Amazon SES & Seller Central Integration"
+leadhead: "The integration of Amazon SES with Amazon Seller Central provides an easy and cost-effective way for sellers to manage their online sales on Amazon"
+leadtext: "The integration saves time and ensures that emails sent to customers reach their inbox. This integration is a must-have for any seller who wants to streamline their online sales process and improve customer experience."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon SES & Seller Central Integration</h1>
+	<p>Amazon SES (Simple Email Service) is a cloud-based email sending service that provides an easy, cost-effective way for businesses of all sizes to send and receive emails. It is useful for businesses that need to send transactional emails like order confirmations, shipping notifications, and password resets.</p>
+	<p>Amazon Seller Central, on the other hand, is a platform for sellers to manage their online sales on Amazon. It allows sellers to list their products, manage inventory, and track orders.</p>
+	<p>Integrating Amazon SES with Seller Central can be done through the use of API or SDK. This integration allows sellers to send automatic emails to their customers, such as order confirmation and shipment notifications, directly from their Seller Central account using Amazon SES. This saves the seller time and effort as they don't have to manually send emails to customers for each transaction.</p>
+	<p>This integration also solves the problem of sender reputation score on Amazon. Amazon uses the reputation of the sender's email address to determine the likelihood of the email reaching the customer's inbox. By using Amazon SES to send emails, the sender reputation is maintained, which helps ensure that emails reach the customer's inbox and not their spam folder.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon SES with Amazon Seller Central provides an easy and cost-effective way for sellers to manage their online sales on Amazon. The integration saves time and ensures that emails sent to customers reach their inbox. This integration is a must-have for any seller who wants to streamline their online sales process and improve customer experience.</p>
+</div>

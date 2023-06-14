@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/marketo/shopify
+author: Edward Saunders
+title: "Marketo and Shopify Integration: A Powerful Combination"
+leadhead: "The integration of Marketo and Shopify provides businesses with a powerful set of tools that streamline marketing and e-commerce efforts"
+leadtext: "By combining the strengths of these two platforms, businesses can improve customer engagement, increase sales and boost revenue."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Marketo and Shopify Integration: A Powerful Combination</h1>
+	<p>As the world of online marketing becomes increasingly complex, finding the right tools and technologies to manage your business can be a daunting task. Two popular platforms that businesses use to simplify their marketing and e-commerce efforts are Marketo and Shopify. </p>
+	<h2>Marketo</h2>
+	<p>Marketo is a marketing automation software that helps businesses of all sizes automate and streamline their marketing campaigns. It provides a range of features including email marketing, lead generation, social media marketing and analytics. </p>
+	<h2>Shopify</h2>
+	<p>Shopify is a popular e-commerce platform that allows businesses to create their own online stores and sell their products online. It offers an easy-to-use interface, customizable templates, powerful tools for managing inventory and shipping, and a range of integrations with other tools and technologies.</p>
+	<h2>Integration of the Two</h2>
+	<p>By integrating Marketo with Shopify, businesses can create a seamless end-to-end marketing and e-commerce experience for their customers. This can be achieved by connecting the two platforms through APIs or SDKs. </p>
+	<h2>Problems Solved by the Integration</h2>
+	<p>The integration of Marketo and Shopify solves a number of problems for businesses:</p>
+	<ul>
+		<li>Increased productivity: By automating marketing and e-commerce tasks, businesses can save time and focus on other important aspects of their business.</li>
+		<li>Better customer insights: The integration allows businesses to gain a deeper understanding of their customers' behavior, preferences and buying habits, which can be used to improve marketing campaigns and increase sales.</li>
+		<li>Improved targeting: With the ability to segment customer data, businesses can create highly targeted marketing campaigns that are more likely to convert.</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>The integration of Marketo and Shopify provides businesses with a powerful set of tools that streamline marketing and e-commerce efforts. By combining the strengths of these two platforms, businesses can improve customer engagement, increase sales and boost revenue.</p>
+</div>

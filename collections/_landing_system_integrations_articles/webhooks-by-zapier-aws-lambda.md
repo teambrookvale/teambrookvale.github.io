@@ -1,0 +1,40 @@
+---
+permalink: /landings/system-integrations/webhooks-by-zapier/aws-lambda
+author: Edward Saunders
+title: "Webhooks by Zapier & AWS Lambda: A Powerful Combination for Integration"
+leadhead: "The integration of Webhooks by Zapier and AWS Lambda is a powerful combination that can help businesses automate tasks, streamline processes, and improve overall efficiency"
+leadtext: "By taking advantage of the automation and serverless capabilities of these tools, businesses can focus on what they do best and let technology take care of the rest."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Webhooks by Zapier & AWS Lambda: A Powerful Combination for Integration</h1>
+
+	<p>As businesses and organizations rely more and more on data and automation, the need for seamless integration between different platforms and services becomes increasingly important. Two tools that are making a big impact in this area are Webhooks by Zapier and AWS Lambda. Let's take a look at what these tools are and how they can be integrated to solve important business problems.</p>
+
+	<h2>Webhooks by Zapier</h2>
+
+	<p>Webhooks by Zapier is a service that allows you to connect different apps and services together, without the need for any coding or technical knowledge. Webhooks are messages that are automatically sent from one application to another when a certain event or trigger occurs. For example, when a new order is placed in an ecommerce store, a webhook can be sent to a shipping service like ShipStation to create a new shipment.</p>
+
+	<h2>AWS Lambda</h2>
+
+	<p>AWS Lambda is a serverless computing service that allows you to run code without the need to provision or manage servers. You can simply upload your code to Lambda and it will automatically run in response to various events, such as a file being uploaded to an S3 bucket or a new record being added to a DynamoDB table.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of Webhooks by Zapier and AWS Lambda can be done through an API or SDK. Zapier provides a RESTful API that allows you to create, update, and manage webhooks, while AWS provides a Node.js SDK that can be used to develop Lambda functions. Using these tools, you can create Lambda functions that can be triggered by webhooks and perform various tasks based on the data that is sent.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of Webhooks by Zapier and AWS Lambda can solve a number of important business problems, including:</p>
+
+	<ul>
+		<li>Automating data entry and processing tasks, such as adding new leads to a CRM system or updating inventory levels in an ecommerce platform.</li>
+		<li>Integrating different systems and services together, such as connecting a project management tool to a messaging app.</li>
+		<li>Creating custom workflows and processes that are unique to your business needs.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Webhooks by Zapier and AWS Lambda is a powerful combination that can help businesses automate tasks, streamline processes, and improve overall efficiency. By taking advantage of the automation and serverless capabilities of these tools, businesses can focus on what they do best and let technology take care of the rest.</p>
+
+</div>

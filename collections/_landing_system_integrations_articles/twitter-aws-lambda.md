@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/twitter/aws-lambda
+author: Edward Saunders
+title: "Integrating Twitter and AWS Lambda"
+leadhead: "The integration of Twitter and AWS Lambda is a powerful solution for businesses and developers who want to automate tasks, gain insights about their audience, and scale their applications"
+leadtext: "With API or SDK integration, the possibilities are endless."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Twitter and AWS Lambda</h1>
+	<p>Twitter and AWS Lambda are two powerful tools that can be used in conjunction with each other through API or SDK integration. Here's everything you need to know about their integration:</p>
+
+	<h2>What is Twitter?</h2>
+	<p>Twitter is a social media platform that allows users to share short messages (tweets) with their followers. It's a powerful tool for businesses and individuals to connect with their audience and share their thoughts with the world.</p>
+
+	<h2>What is AWS Lambda?</h2>
+	<p>AWS Lambda is a serverless platform that allows developers to run code without provisioning or managing servers. It's a powerful tool that can help businesses save time and money by automating tasks and scaling applications.</p>
+
+	<h2>Integrating Twitter and AWS Lambda</h2>
+	<p>Integrating Twitter and AWS Lambda can be done through API or SDK integration. This allows developers to automate tasks such as tweeting, monitoring hashtags, and analyzing Twitter data using Lambda functions.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Twitter and AWS Lambda can solve a number of problems for businesses. For example:</p>
+	<ul>
+		<li>Automating repetitive tasks such as tweeting updates or responding to messages</li>
+		<li>Monitoring hashtags and analyzing Twitter data to gain insights about the audience</li>
+		<li>Scaling applications to handle spikes in traffic during a social media event</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Twitter and AWS Lambda is a powerful solution for businesses and developers who want to automate tasks, gain insights about their audience, and scale their applications. With API or SDK integration, the possibilities are endless.</p>
+</div>

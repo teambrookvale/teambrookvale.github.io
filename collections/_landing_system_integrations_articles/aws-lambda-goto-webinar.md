@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/aws-lambda/goto-webinar
+author: Edward Saunders
+title: "Integration of AWS Lambda and GoTo Webinar"
+leadhead: "The integration of AWS Lambda and GoTo Webinar can help businesses host successful webinars with less manual intervention and better data insights"
+leadtext: "By automating tasks and integrating with marketing automation tools, businesses can nurture leads after the webinar and improve the overall success of their virtual events."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of AWS Lambda and GoTo Webinar</h1>
+	<p>As more businesses rely on remote work, webinars have become a popular tool for hosting virtual events. GoTo Webinar is a popular platform that allows businesses to host online meetings and webinars. However, GoTo Webinar may lack some of the advanced features that businesses need to make the most of their virtual events. AWS Lambda can integrate with GoTo Webinar through an API or SDK to unlock powerful features that can take webinars to the next level.</p>
+	<h2>What is AWS Lambda?</h2>
+	<p>AWS Lambda is a serverless computing platform that enables developers to run code without provisioning or managing servers. With AWS Lambda, businesses can write code that runs automatically in response to events, such as changes to data in an Amazon S3 bucket or an API call.</p>
+	<h2>What is GoTo Webinar?</h2>
+	<p>GoToWebinar is a platform that allows businesses to host webinars and online meetings. GoToWebinar offers many features that businesses need to host successful webinars, such as registration pages, analytics, and integrations with marketing automation tools.</p>
+	<h2>Integration of AWS Lambda and GoTo Webinar</h2>
+	<p>AWS Lambda can be integrated with GoTo Webinar through an API or software development kit (SDK). The integration allows businesses to automate many tasks, such as sending reminder emails to attendees, following up with leads after the webinar, and processing registrations. This integration can save businesses time and resources by automating these tasks and reducing the need for manual intervention.</p>
+	<h2>Problems their integration solves</h2>
+	<p>The integration of AWS Lambda and GoTo Webinar through an API or SDK can solve many problems that businesses face when hosting webinars. These include:</p>
+	<ul>
+		<li>Time-consuming and error-prone manual tasks, such as sending reminder emails and processing registrations</li>
+		<li>Lack of personalization in follow-up emails and other communications</li>
+		<li>Inability to integrate with marketing automation tools to nurture leads after the webinar</li>
+		<li>Incomplete data on attendee engagement and behavior during the webinar</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>The integration of AWS Lambda and GoTo Webinar can help businesses host successful webinars with less manual intervention and better data insights. By automating tasks and integrating with marketing automation tools, businesses can nurture leads after the webinar and improve the overall success of their virtual events. </p>
+</div>

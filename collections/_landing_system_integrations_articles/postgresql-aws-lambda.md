@@ -1,0 +1,18 @@
+---
+permalink: /landings/system-integrations/postgresql/aws-lambda
+author: Edward Saunders
+title: "Integrating PostgreSQL and AWS Lambda - Solutions and Benefits"
+leadhead: "Integrating PostgreSQL and AWS Lambda offers solutions and benefits for developers looking to handle large amounts of data without having to worry about scaling and downtime"
+leadtext: "By using an API or SDK, developers can easily access data stored in PostgreSQL databases and use AWS Lambda to process that data in a cost-effective and efficient way."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating PostgreSQL and AWS Lambda - Solutions and Benefits</h1>
+	<p>PostgreSQL is an open-source relational database management system that is known for its stability and flexibility. AWS Lambda is a serverless compute service that runs code only when needed, without the need for dedicated servers. While these two technologies may seem unrelated, integrating the two can offer solutions and benefits for developers.</p>
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of PostgreSQL and AWS Lambda can be achieved through the use of an API or SDK. Using an API allows Lambda functions to access the data stored in PostgreSQL databases, while an SDK provides a more direct integration between the two services.</p>
+	<h2>Problems solved by the integration</h2>
+	<p>The integration of PostgreSQL and AWS Lambda solves a number of problems for developers. One of the main benefits is the ability to handle large amounts of data without worrying about scaling and downtime. With Lambda, developers can write code that automatically scales up or down based on the amount of data they need to process. This makes it easier to handle spikes in traffic without having to worry about overloading servers or databases.</p>
+	<p>Another benefit of integrating PostgreSQL and AWS Lambda is the ability to reduce costs. With traditional server-based setups, developers need to pay for server costs and maintenance. With Lambda, developers only pay for the time their function is running, and scaling is done automatically. This makes it easier to keep costs low and predictable.</p>
+	<h2>Conclusion</h2>
+	<p>Integrating PostgreSQL and AWS Lambda offers solutions and benefits for developers looking to handle large amounts of data without having to worry about scaling and downtime. By using an API or SDK, developers can easily access data stored in PostgreSQL databases and use AWS Lambda to process that data in a cost-effective and efficient way.</p>
+</div>

@@ -1,0 +1,21 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/pardot
+author: Edward Saunders
+title: "Integration of Facebook Custom Audiences and Pardot"
+leadhead: "The integration of Facebook Custom Audiences and Pardot helps businesses to streamline their marketing activities, increase engagement, and get better results"
+leadtext: "By using the data collected in Pardot, businesses can create more targeted and effective Facebook Custom Audiences campaigns, which can lead to increased sales and ROI. Therefore, businesses should consider integrating these two marketing tools to take their marketing efforts to the next level."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">  <h1>Integration of Facebook Custom Audiences and Pardot</h1>
+
+  <p>Facebook Custom Audiences and Pardot are two great marketing tools used by businesses worldwide. Facebook Custom Audiences allows businesses to target their ads to a specific group of people who have expressed interest in their products or services. On the other hand, Pardot is a marketing automation platform that helps businesses streamline their marketing activities and increase their sales.</p>
+
+  <p>Integrating Facebook Custom Audiences and Pardot can be done through the API or SDK. This integration allows businesses to use data from Pardot to optimize their Facebook Custom Audiences campaigns. For example, businesses can use the data collected in Pardot to create custom audiences on Facebook and target people based on their behaviors, interests, and demographics.</p>
+
+  <p>The integration of these two powerful marketing tools solves many problems for businesses. Firstly, it allows them to save time by automating their marketing activities and reducing the need for manual data entry. Secondly, businesses can deliver more relevant content to their target audience, which increases engagement and the chances of a sale. Finally, the integration allows businesses to measure the effectiveness of their marketing campaigns more accurately, which helps them optimize their marketing activities and increase their return on investment (ROI).</p>
+
+  <h2>Conclusion</h2>
+
+  <p>The integration of Facebook Custom Audiences and Pardot helps businesses to streamline their marketing activities, increase engagement, and get better results. By using the data collected in Pardot, businesses can create more targeted and effective Facebook Custom Audiences campaigns, which can lead to increased sales and ROI. Therefore, businesses should consider integrating these two marketing tools to take their marketing efforts to the next level.</p>
+
+</div>

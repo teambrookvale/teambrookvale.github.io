@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/keap-max-classic/servicenow
+author: Edward Saunders
+title: "Integrating Keap Max Classic and ServiceNow"
+leadhead: "The integration of Keap Max Classic and ServiceNow through API or SDK can offer businesses numerous benefits, including increased efficiency, improved customer service, and faster resolution times for support tickets"
+leadtext: "By choosing the right integration method and customizations for their business needs, organizations can optimize their workflow and improve their overall operations."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Keap Max Classic and ServiceNow</h1>
+	<p>Keap Max Classic and ServiceNow are two popular software solutions used by businesses to manage customer data and support tickets respectively. The integration of these two platforms can offer businesses numerous benefits, as it allows them to streamline their workflow and reduce manual effort.</p>
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of Keap Max Classic and ServiceNow can be done through API or SDK, depending on the requirements of the organization. The API integration allows for data to be transferred between the two systems, while the SDK integration allows for more advanced customizations and access to software development kits.</p>
+	<h2>Problems their integration solves</h2>
+	<p>Integrating Keap Max Classic and ServiceNow can solve a number of problems faced by businesses including:</p>
+	<ul>
+		<li>Reduced manual effort and increased efficiency due to automated data transfer</li>
+		<li>Improved customer service by providing support agents with access to customer information in real-time</li>
+		<li>Faster resolution times for support tickets due to a streamlined workflow</li>
+		<li>Increased data accuracy and consistency by eliminating the need for manual data entry</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>The integration of Keap Max Classic and ServiceNow through API or SDK can offer businesses numerous benefits, including increased efficiency, improved customer service, and faster resolution times for support tickets. By choosing the right integration method and customizations for their business needs, organizations can optimize their workflow and improve their overall operations.</p>
+</div>

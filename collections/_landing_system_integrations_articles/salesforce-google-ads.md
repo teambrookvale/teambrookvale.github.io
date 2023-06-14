@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/salesforce/google-ads
+author: Edward Saunders
+title: "Salesforce and Google Ads Integration"
+leadhead: "The Salesforce and Google Ads integration is a powerful tool for businesses that want to improve their advertising and sales efforts"
+leadtext: "By combining the two platforms, businesses can get a complete picture of their advertising efforts, streamline their sales and marketing activities, and make data-driven decisions. If you haven't already, consider integrating Salesforce and Google Ads to improve your business performance."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">        <h1>Salesforce and Google Ads Integration</h1>
+        <p>Salesforce and Google Ads are two of the most powerful tools for businesses. Salesforce is a cloud-based customer relationship management (CRM) platform that helps companies manage their sales, marketing, and customer service activities. Google Ads, on the other hand, is an online advertising platform that allows businesses to display ads on Google's search engine results pages and partner websites.</p>
+        <p>But what happens when you combine the two?</p>
+        <h2>Integration of the two through API or SDK</h2>
+        <p>Salesforce and Google Ads integration is possible through the use of APIs (Application Programming Interfaces) or SDKs (Software Development Kits). APIs allow different software systems to communicate with each other, while SDKs provide tools and resources for developers to build applications.</p>
+        <p>With the Salesforce and Google Ads integration, you can automatically import your Google Ads data into Salesforce and vice versa. This integration makes it easier for businesses to analyze their advertising campaigns, track leads and sales, and make data-driven decisions.</p>
+        <h2>Problems their integration solves</h2>
+        <p>One of the main problems that the Salesforce and Google Ads integration solves is the lack of visibility into advertising campaign performance. With the integration, businesses can get a complete picture of their advertising efforts and how they impact sales and revenue.</p>
+        <p>Additionally, the integration helps businesses streamline their sales and marketing activities. For example, businesses can use Salesforce to create targeted lists of leads based on customer demographics, interests, and behaviors, and then use Google Ads to display targeted ads to those leads.</p>
+        <h2>Conclusion</h2>
+        <p>The Salesforce and Google Ads integration is a powerful tool for businesses that want to improve their advertising and sales efforts. By combining the two platforms, businesses can get a complete picture of their advertising efforts, streamline their sales and marketing activities, and make data-driven decisions. If you haven't already, consider integrating Salesforce and Google Ads to improve your business performance.</p>
+</div>

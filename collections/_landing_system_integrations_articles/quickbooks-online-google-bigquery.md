@@ -1,0 +1,40 @@
+---
+permalink: /landings/system-integrations/quickbooks-online/google-bigquery
+author: Edward Saunders
+title: "Integration of QuickBooks Online and Google BigQuery"
+leadhead: "The integration of QuickBooks Online and Google BigQuery offers many benefits to businesses who want to get more insights from their data"
+leadtext: "The API and SDK make it easy to connect the two systems and start analyzing your data in new ways. If you're using QuickBooks Online and want to take your analytics to the next level, consider integrating it with Google BigQuery."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integration of QuickBooks Online and Google BigQuery</h1>
+
+	<p>If you're running a business, you know how important it is to have a good accounting system. QuickBooks Online is a great accounting software to manage your business finances. But sometimes, you need more than just reporting and analytics from your data. You need insights that can help you make informed decisions about your business strategy. That's where Google BigQuery comes in. </p>
+
+	<h2>What is QuickBooks Online?</h2>
+
+	<p>QuickBooks Online is a cloud-based accounting software designed for small and medium sized businesses. It allows you to track your expenses, manage your cash flow, create invoices and generate financial reports. QuickBooks Online is easy to use and offers a variety of features to help you manage your finances.</p>
+
+	<h2>What is Google BigQuery?</h2>
+
+	<p>Google BigQuery is a cloud-based data warehouse that lets you store, and analyze large datasets using SQL-like queries. It's a serverless platform that offers scalable storage, fast processing, and easy data sharing. With BigQuery, you can run complex queries on your data and get insights in seconds.</p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>The integration of QuickBooks Online and Google BigQuery can be done through API or SDK. The API allows you to create a connection between QuickBooks Online and Google BigQuery. Once connected, you can transfer data from QuickBooks Online and store it in BigQuery. The SDK provides a set of libraries for programming languages such as Java, Python, and Node.js. You can use these libraries to build custom applications that integrate QuickBooks Online and Google BigQuery.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>Integrating QuickBooks Online and Google BigQuery solves a few problems:</p>
+
+	<ol>
+		<li>You can get more insights from your data. QuickBooks Online only provides basic reporting and analytics. Google BigQuery allows you to run complex queries on your data and get insights in seconds.</li>
+		<li>You can store historical data. QuickBooks Online has a limit on the amount of data that it can store. By integrating with BigQuery, you can store historical data and analyze it over time. </li>
+		<li>You can create custom reports. With QuickBooks Online, you're limited to the reports that are provided. With BigQuery, you can create custom reports that fit your specific needs. </li>
+	</ol>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of QuickBooks Online and Google BigQuery offers many benefits to businesses who want to get more insights from their data. The API and SDK make it easy to connect the two systems and start analyzing your data in new ways. If you're using QuickBooks Online and want to take your analytics to the next level, consider integrating it with Google BigQuery.</p>
+
+</div>

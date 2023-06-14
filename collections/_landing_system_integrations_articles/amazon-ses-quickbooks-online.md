@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/amazon-ses/quickbooks-online
+author: Edward Saunders
+title: "Amazon SES and QuickBooks Online Integration"
+leadhead: "The integration of Amazon SES and QuickBooks Online can boost your business's efficiency and profitability"
+leadtext: "By automating email communication and syncing data between the two services, you can save time and reduce errors. Whether you choose API or SDK integration, you can enjoy the benefits of a seamless integration to streamline your business processes."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon SES and QuickBooks Online Integration</h1>
+    <p>Amazon SES (Simple Email Service) is an email sending service that allows businesses to send emails to their customers. QuickBooks Online is an online accounting software that helps small businesses manage their finances. These two services can be integrated through API or SDK to solve a range of problems.</p>
+    <h2>API or SDK Integration</h2>
+    <p>The integration of Amazon SES and QuickBooks Online can be achieved through API or SDK. API (Application Programming Interface) is a set of protocols and tools for building software applications while SDK (Software Development Kit) is a set of software tools that help developers create applications for a certain platform. Both approaches allow businesses to automate their processes and reduce errors.</p>
+    <h2>Problems Solved by Integration</h2>
+    <p>Integrating Amazon SES and QuickBooks Online can solve a range of problems such as:</p>
+    <ul>
+        <li>Automating the sending of invoices and receipts to customers</li>
+        <li>Tracking email opens and clicks to measure engagement</li>
+        <li>Syncing customer contacts between the two services</li>
+        <li>Improving cash flow by sending payment reminders automatically</li>
+    </ul>
+    <h2>Conclusion</h2>
+    <p>The integration of Amazon SES and QuickBooks Online can boost your business's efficiency and profitability. By automating email communication and syncing data between the two services, you can save time and reduce errors. Whether you choose API or SDK integration, you can enjoy the benefits of a seamless integration to streamline your business processes.</p>
+</div>

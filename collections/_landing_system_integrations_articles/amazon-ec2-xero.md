@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/amazon-ec2/xero
+author: Edward Saunders
+title: "Xero and Amazon EC2 Integration"
+leadhead: "The integration of Amazon EC2 with Xero provides businesses with a powerful combination of computing resources and accounting software"
+leadtext: "This integration streamlines financial workflows, automates tasks and provides better visibility into the financial performance of the business. The API or SDK makes it possible for developers to create custom integrations that are tailored to their business needs. Combining the capabilities of both Amazon EC2 and Xero offers a significant advantage to businesses seeking to increase their efficiency, productivity, and profitability."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Xero and Amazon EC2 Integration</h1>
+	<h2>What is Amazon EC2?</h2>
+	<p>Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale computing easier for developers.</p>
+	<h2>What is Xero?</h2>
+	<p>Xero is an accounting software that is designed for small and medium-sized businesses. It provides cloud-based accounting software that automates financial operations which includes expense tracking, invoicing, and payroll processing.</p>
+	<h2>Integration of the two through API or SDK</h2>
+	<p>The integration of Xero and Amazon EC2 can be done through its Application Programming Interface (API) or Software Development Kit (SDK). With the use of API or SDK, developers can create custom integrations that automate their business workflows.</p>
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Amazon EC2 and Xero addresses several problems for businesses. Firstly, it simplifies their financial workflows by automating tasks such as invoicing and payroll processing. Secondly, it reduces manual data entry which saves time and effort for businesses. Lastly, it provides better visibility into the financial performance of the business which helps with making better business decisions.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon EC2 with Xero provides businesses with a powerful combination of computing resources and accounting software. This integration streamlines financial workflows, automates tasks and provides better visibility into the financial performance of the business. The API or SDK makes it possible for developers to create custom integrations that are tailored to their business needs. Combining the capabilities of both Amazon EC2 and Xero offers a significant advantage to businesses seeking to increase their efficiency, productivity, and profitability.</p>
+</div>

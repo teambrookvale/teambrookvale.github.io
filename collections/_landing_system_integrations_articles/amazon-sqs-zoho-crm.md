@@ -1,0 +1,15 @@
+---
+permalink: /landings/system-integrations/amazon-sqs/zoho-crm
+author: Edward Saunders
+title: "Integrating Amazon SQS and Zoho CRM through API/SDK"
+leadhead: "The integration of Amazon SQS and Zoho CRM through API/SDK is a game-changer for businesses that want to streamline their customer service processes and improve their overall efficiency"
+leadtext: "By combining the power of Amazon SQS and Zoho CRM, businesses can create an automated workflow that ensures timely and efficient handling of customer data, leading to exceptional customer experiences."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Amazon SQS and Zoho CRM through API/SDK</h1>
+	<p>Amazon Simple Queue Service (SQS) is a cloud-based message queuing service that enables reliable, scalable, and asynchronous communication between microservices, distributed systems, and serverless applications. Zoho CRM, on the other hand, is a cloud-based customer relationship management software that allows businesses to manage and automate their sales, marketing, and customer support processes.</p>
+	<p>The integration of Amazon SQS and Zoho CRM through API/SDK brings numerous benefits to businesses. The API/SDK allows a seamless transfer of data between the two platforms, reducing manual effort and errors. It enables businesses to automate tasks that were previously done manually, such as lead capturing and assigning. An automated workflow ensures timely and efficient handling of customer data, leading to enhanced customer service.</p>
+	<p>The integration solves several problems for businesses, such as manual data transfer and redundant data entry. By integrating Amazon SQS and Zoho CRM, businesses no longer have to manually transfer data from one platform to another or enter data twice (or more) into multiple platforms. This reduces the chances of errors and frees up time and resources that can be utilized for more productive tasks. Another problem that this integration solves is the delayed transfer of information. A real-time integration ensures that data is transferred immediately, allowing businesses to respond promptly to customer inquiries and needs.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon SQS and Zoho CRM through API/SDK is a game-changer for businesses that want to streamline their customer service processes and improve their overall efficiency. By combining the power of Amazon SQS and Zoho CRM, businesses can create an automated workflow that ensures timely and efficient handling of customer data, leading to exceptional customer experiences.</p>
+</div>

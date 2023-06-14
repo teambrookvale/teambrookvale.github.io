@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/goto-webinar/shopify
+author: Edward Saunders
+title: "Integrating GoTo Webinar with Shopify"
+leadhead: "Integrating GoTo Webinar with Shopify can bring numerous benefits to businesses that use both platforms"
+leadtext: "By automating the webinar registration process, accessing customer data and improving marketing efforts, businesses can save time and increase sales. With an easy-to-use API or SDK, integrating the two platforms is simple and straightforward."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating GoTo Webinar with Shopify</h1>
+
+	<p>GoTo Webinar is a leading platform for hosting webinars and virtual conferences. Shopify, on the other hand, is a popular ecommerce platform used by businesses of all sizes to sell their products online. Integrating the two platforms can bring numerous benefits to businesses that use both platforms.</p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>The integration of GoTo Webinar with Shopify can be achieved through the use of an API or SDK. These tools allow the two platforms to communicate with each other, sharing data and streamlining processes between the two. This integration can bring a range of benefits to businesses that use both platforms.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<h3>Automated webinar registration</h3>
+	<p>Through the integration of GoTo Webinar with Shopify, businesses can automate the process of webinar registration. This means that when customers purchase a product on Shopify, they can be automatically registered for a relevant webinar on GoTo Webinar. This eliminates the need for manual registration and increases the number of attendees at webinars.</p>
+
+	<h3>Easy access to customer data</h3>
+	<p>Integrating the two platforms allows businesses to easily access customer data. They can view customer purchase history, preferences and webinars attended, all in one place. This allows businesses to better understand their customers and tailor their marketing efforts accordingly.</p>
+
+	<h3>Improved marketing efforts</h3>
+	<p>The integration of GoTo Webinar with Shopify allows businesses to easily market webinars to their customers. They can send automated emails to customers who have made relevant purchases on Shopify, inviting them to attend a relevant webinar on GoTo Webinar. This targeted marketing approach can lead to higher attendance and increased sales.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating GoTo Webinar with Shopify can bring numerous benefits to businesses that use both platforms. By automating the webinar registration process, accessing customer data and improving marketing efforts, businesses can save time and increase sales. With an easy-to-use API or SDK, integrating the two platforms is simple and straightforward.</p>
+</div>

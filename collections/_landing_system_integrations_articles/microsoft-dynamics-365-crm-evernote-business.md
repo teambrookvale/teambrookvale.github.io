@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/microsoft-dynamics-365-crm/evernote-business
+author: Edward Saunders
+title: "Integration of Microsoft Dynamics 365 CRM and Evernote Business"
+leadhead: "The integration of Microsoft Dynamics 365 CRM and Evernote Business allows organizations to streamline their sales processes, improve collaboration, and increase efficiency"
+leadtext: "By eliminating the duplication of effort and providing more context and visibility, this integration helps sales teams work better and smarter. If you are using Microsoft Dynamics 365 CRM and Evernote Business, consider integrating the two platforms to maximize their benefits."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Microsoft Dynamics 365 CRM and Evernote Business</h1>
+	
+	<p>Microsoft Dynamics 365 CRM is a powerful customer relationship management tool that helps organizations build lasting customer relationships and streamline their sales processes. On the other hand, Evernote Business is a collaboration and productivity tool that allows teams to capture, organize, and share information.</p>
+
+	<p>By integrating Microsoft Dynamics 365 CRM and Evernote Business, organizations can benefit from the best of both tools and increase their efficiency. This integration can be achieved through API or SDK, which allows data to flow seamlessly between the two platforms.</p>
+
+	<p>One of the problems that this integration solves is the duplication of effort and data. Sales teams often need to track customer interactions and activities in both platforms, leading to redundancy of data and wasted time. However, by integrating the two platforms, sales teams can capture customer information and notes in Microsoft Dynamics 365 CRM and automatically sync this information to Evernote Business for collaboration and sharing.</p>
+
+	<p>Another problem that this integration solves is the lack of context and visibility. In some instances, sales teams need to reference notes and information from Evernote Business while working in Microsoft Dynamics 365 CRM. With this integration, sales teams can access Evernote Business notes and information from within Microsoft Dynamics 365 CRM, providing them with more context and a complete view of customer interactions.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Microsoft Dynamics 365 CRM and Evernote Business allows organizations to streamline their sales processes, improve collaboration, and increase efficiency. By eliminating the duplication of effort and providing more context and visibility, this integration helps sales teams work better and smarter. If you are using Microsoft Dynamics 365 CRM and Evernote Business, consider integrating the two platforms to maximize their benefits.</p>
+
+</div>

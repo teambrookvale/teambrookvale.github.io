@@ -1,0 +1,30 @@
+---
+permalink: /landings/system-integrations/mysql/bamboohr
+author: Edward Saunders
+title: "Integrating MySQL and BambooHR through API or SDK"
+leadhead: "Integrating MySQL and BambooHR through API or SDK is a worthwhile investment for businesses that need to manage their HR data effectively"
+leadtext: "Doing this will help businesses save time, avoid data silos, and get a complete view of their operations."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integrating MySQL and BambooHR through API or SDK</h1>
+	</header>
+	<main>
+		<section>
+			<h2>What is MySQL and BambooHR?</h2>
+			<p>MySQL is an open-source relational database management system (RDBMS) that allows you to organize and manage your data efficiently. BambooHR, on the other hand, is a human resources software that offers HR management solutions to businesses.</p>
+		</section>
+		<section>
+			<h2>Integration of MySQL and BambooHR through API or SDK</h2>
+			<p>Integrating MySQL and BambooHR through API or SDK allows businesses to share data between the two systems. This integration can be done by using a ready-made integration software or by developing a custom integration using API or SDK. The SDK is essentially a set of tools, libraries, and APIs that developers can use to create integrations while the API serves as the interface between two systems.</p>
+		</section>
+		<section>
+			<h2>Problems their integration solves</h2>
+			<p>Combining the two systems can offer businesses a lot of benefits. Firstly, it can help businesses save time by automatically synchronizing data between the two systems. This saves employees' time and minimizes human error. Secondly, it can help businesses avoid data silos. When data is isolated in separate systems, it is hard to get a full view of the business's operations. Integrating both systems ensures that there is centralized data that can be accessed from either system.</p>
+		</section>
+	</main>
+	<footer>
+		<h3>Conclusion</h3>
+		<p>Integrating MySQL and BambooHR through API or SDK is a worthwhile investment for businesses that need to manage their HR data effectively. Doing this will help businesses save time, avoid data silos, and get a complete view of their operations.</p>
+	</footer>
+</div>

@@ -1,0 +1,36 @@
+---
+permalink: /landings/system-integrations/amazon-seller-central/xero
+author: Edward Saunders
+title: "Integration of Amazon Seller Central and Xero"
+leadhead: "The integration of Amazon Seller Central and Xero through API or SDK provides businesses with a streamlined financial management experience"
+leadtext: "By automating the process of syncing sales data from Amazon Seller Central to Xero, businesses can save time and reduce the risk of errors. Furthermore, gaining a comprehensive overview of their finances can help businesses make informed decisions about their business. With these benefits, integrating Amazon Seller Central and Xero is a smart decision for any business looking to streamline their financial management processes."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integration of Amazon Seller Central and Xero</h1>
+
+	<p>Amazon Seller Central and Xero are two powerful tools used by businesses of all sizes to manage their finances and sales. While each software is powerful on its own, their integration through API or SDK can provide even greater benefits and simplify financial management for businesses.</p>
+
+	<h2>Amazon Seller Central</h2>
+
+	<p>Amazon Seller Central is a platform used by businesses that sell products on Amazon. Through this platform, businesses can manage their inventory, track sales, and handle customer correspondence. Amazon Seller Central also offers reporting tools that can help businesses analyze their sales data and make informed decisions about their business.</p>
+
+	<h2>Xero</h2>
+
+	<p>Xero is a cloud-based accounting software used by businesses to manage their finances. With Xero, businesses can track expenses, send invoices, and handle payroll. Xero also offers features like financial reporting, allowing businesses to get a comprehensive overview of their finances.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>Integrating Amazon Seller Central and Xero through API or SDK can provide businesses with a seamless financial management experience. For example, syncing sales data from Amazon Seller Central to Xero can save time and reduce the risk of errors. Businesses can also use Xero's reporting tools to gain a deeper understanding of their Amazon sales data, allowing them to make informed decisions about their business.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>Without integration, businesses may manually input sales data from Amazon Seller Central into Xero. This can be time-consuming and increase the risk of errors. However, integrating the two platforms through API or SDK can automate this process, saving time and reducing the risk of errors.</p>
+
+	<p>Integration also allows businesses to gain a comprehensive overview of their finances. By syncing sales data from Amazon Seller Central to Xero, businesses can gain a better understanding of their cash flow and revenue. This can help businesses make informed decisions about their business, such as when to order more inventory or when to run sales promotions.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Amazon Seller Central and Xero through API or SDK provides businesses with a streamlined financial management experience. By automating the process of syncing sales data from Amazon Seller Central to Xero, businesses can save time and reduce the risk of errors. Furthermore, gaining a comprehensive overview of their finances can help businesses make informed decisions about their business. With these benefits, integrating Amazon Seller Central and Xero is a smart decision for any business looking to streamline their financial management processes.</p>
+
+</div>

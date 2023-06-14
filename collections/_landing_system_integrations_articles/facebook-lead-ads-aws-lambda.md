@@ -1,0 +1,24 @@
+---
+permalink: /landings/system-integrations/facebook-lead-ads/aws-lambda
+author: Edward Saunders
+title: "Integration of Facebook Lead Ads with AWS Lambda"
+leadhead: "Overall, the integration of Facebook Lead Ads with AWS Lambda is a powerful solution for businesses looking to streamline their lead generation process"
+leadtext: "With the ability to automate the process, track and analyze data, and handle lead processing with ease, this integration is a must-have for any business looking to stay ahead of the competition in today's digital landscape."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Facebook Lead Ads with AWS Lambda</h1>
+
+	<p>Facebook Lead Ads is a powerful tool for lead generation. With Lead Ads, businesses can collect leads directly from Facebook in just a few clicks, without the user having to leave the platform. AWS Lambda, on the other hand, is a serverless computing service that allows businesses to run code without provisioning or managing servers. Together, these two tools can create a powerful solution for businesses looking to streamline their lead generation process.</p>
+
+	<h2>Integration</h2>
+
+	<p>The integration of Facebook Lead Ads with AWS Lambda can be done through either an API or an SDK. The API integration involves using the Facebook Marketing API to retrieve leads and send them to AWS Lambda for processing. The SDK integration, on the other hand, involves using the Facebook SDK for JavaScript to capture leads and then sending them to AWS Lambda for processing.</p>
+
+	<h2>Problems Solved by Integration</h2>
+
+	<p>The integration of Facebook Lead Ads with AWS Lambda solves several problems for businesses. First, it allows them to automate the lead generation process, reducing the need for manual entry and streamlining the process. Second, it allows businesses to better track and analyze their lead generation efforts, with data being sent directly to AWS for analysis. Finally, it allows for quick and efficient lead processing, with AWS Lambda handling all of the heavy lifting in terms of data processing and storage.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Overall, the integration of Facebook Lead Ads with AWS Lambda is a powerful solution for businesses looking to streamline their lead generation process. With the ability to automate the process, track and analyze data, and handle lead processing with ease, this integration is a must-have for any business looking to stay ahead of the competition in today's digital landscape.</p>
+</div>

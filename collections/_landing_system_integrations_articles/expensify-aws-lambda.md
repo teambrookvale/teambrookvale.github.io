@@ -1,0 +1,16 @@
+---
+permalink: /landings/system-integrations/expensify/aws-lambda
+author: Edward Saunders
+title: "Expensify and AWS Lambda Integration"
+leadhead: "Integrating Expensify with AWS Lambda can help businesses improve the efficiency of their expense management process while reducing costs"
+leadtext: "Additionally, the integration allows for real-time analysis and processing of expense data, enabling businesses to make data-driven decisions and improve overall financial management."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Expensify and AWS Lambda Integration</h1>
+	<p>Expensify is an application that helps individuals and businesses manage expenses by tracking receipts, generating reports and automating the reimbursement process. AWS Lambda, on the other hand, is a compute service offered by Amazon Web Services (AWS) that allows developers to run code in response to events and easily scale applications.</p>
+	<p>Expensify and AWS Lambda can be integrated through an API or SDK. This allows businesses to leverage the highly scalable and cost-effective nature of AWS Lambda to process and analyze Expensify data in real-time.</p>
+	<p>One problem solved by integrating Expensify and AWS Lambda is the time it takes to process and analyze expense data. By using AWS Lambda, businesses can create custom functions to analyze and process expense data as soon as it becomes available. This reduces the time it takes to generate expense reports and reimburse employees, improving the overall efficiency of the expense management process.</p>
+	<p>Another problem solved by integrating Expensify and AWS Lambda is the cost of maintaining and scaling servers for data processing. AWS Lambda eliminates the need for maintaining and scaling servers, instead, businesses only pay for the compute time used while processing expense data.</p>
+	<h2>Conclusion</h2>
+	<p>Integrating Expensify with AWS Lambda can help businesses improve the efficiency of their expense management process while reducing costs. Additionally, the integration allows for real-time analysis and processing of expense data, enabling businesses to make data-driven decisions and improve overall financial management. </p>
+</div>

@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/amazon-seller-central/keap-max-classic
+author: Edward Saunders
+title: "Integrating Amazon Seller Central and Keap Max Classic"
+leadhead: "Integrating Amazon Seller Central with Keap Max Classic can bring many benefits for online sellers"
+leadtext: "From managing customer relationships to automating marketing, using these two platforms together can help businesses grow and improve their overall efficiency. If you're interested in integrating these platforms, consider using the API or SDK available and start taking advantage of the benefits today."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Amazon Seller Central and Keap Max Classic</h1>
+    <p>If you sell products online using Amazon Seller Central and are looking for a way to streamline your business, integrating with Keap Max Classic might be the solution you need. Keap Max Classic is a CRM and marketing automation software that can help you manage your customer relationships and automate your marketing efforts.</p>
+    
+    <h2>Integration using API or SDK</h2>
+    <p>The integration of Amazon Seller Central and Keap Max Classic can be done through the use of API or SDK. The API can be used to build custom integrations and transfer data between the two platforms, while the SDK allows for the creation of new apps that can be used within Keap Max Classic.</p>
+
+    <h2>Benefits of integration</h2>
+    <p>The integration of Amazon Seller Central and Keap Max Classic solves several problems for sellers. One of them is the ability to manage customer information and sales data in one place. This allows sellers to save time and avoid the hassle of having to switch between different platforms to access information. Additionally, automating marketing efforts using Keap Max Classic can help sellers increase their sales by targeting customers with personalized offers and promotions.</p>
+
+    <h2>Conclusion</h2>
+    <p>Integrating Amazon Seller Central with Keap Max Classic can bring many benefits for online sellers. From managing customer relationships to automating marketing, using these two platforms together can help businesses grow and improve their overall efficiency. If you're interested in integrating these platforms, consider using the API or SDK available and start taking advantage of the benefits today.</p>
+</div>

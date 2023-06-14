@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/servicenow/marketo
+author: Edward Saunders
+title: "Integrating ServiceNow and Marketo for Efficient Business Management"
+leadhead: "By integrating ServiceNow and Marketo, businesses can leverage the strengths of both platforms to create a more efficient and cohesive workflow"
+leadtext: "With the integration, businesses can streamline their processes, maintain consistency in customer experience, and drive better engagement and conversions. Using the API or SDK to integrate the two platforms is a cost-effective and scalable solution for businesses looking to improve their IT service management and marketing operations."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">        <header>
+            <h1>Integrating ServiceNow and Marketo for Efficient Business Management</h1>
+        </header>
+        <section>
+            <h2>What is ServiceNow?</h2>
+            <p>ServiceNow is a cloud-based platform that provides end-to-end IT management and enterprise services management. It is designed to help companies streamline their workflows, automate routine tasks, and improve productivity. With ServiceNow, businesses can manage tasks like IT service management, customer service management, HR, and more using a single platform.</p>
+            <h2>What is Marketo?</h2>
+            <p>Marketo is a marketing automation platform that helps businesses streamline their marketing operations and accelerate revenue growth. Marketo provides a range of features such as email marketing, lead generation, social media marketing, and more. It helps businesses deliver personalized experiences to their customers, increase engagement, and ultimately drive conversions.</p>
+            <h2>Integration of the two through API or SDK</h2>
+            <p>The integration of ServiceNow and Marketo can be achieved through API or SDK. By using the API, data from ServiceNow can be synced with Marketo, allowing marketers to access the latest information about customers and leads. This integration enables marketers to leverage the data to target and nurture customers with personalized messaging for better engagement and higher conversions. With the integration, customer information, such as their contact details, interactions with brand, and service history, can flow seamlessly between the two platforms.</p>
+            <h2>Problems their integration solves</h2>
+            <p>The integration of ServiceNow and Marketo addresses several key issues that businesses face while managing their workflows and operations. By combining ServiceNow's IT service management capabilities with Marketo's marketing automation features, businesses can create more cohesive and consistent customer experiences. The integration provides businesses with more accurate and up-to-date information about customers, empowering marketers to create more targeted campaigns.</p>
+            <p>For example, suppose an IT service team receives a service request from a customer. In that case, they can immediately update the customer's profile in ServiceNow with the details of the issue they are facing using the API. This information can be synced with Marketo, which allows marketers to target the customer with relevant content or promotions, depending on the service they had requested. This streamlined process ensures that the customer experience remains consistent, and there is no duplication of efforts between the team.</p>
+        </section>
+        <footer>
+            <h3>Conclusion</h3>
+            <p>By integrating ServiceNow and Marketo, businesses can leverage the strengths of both platforms to create a more efficient and cohesive workflow. With the integration, businesses can streamline their processes, maintain consistency in customer experience, and drive better engagement and conversions. Using the API or SDK to integrate the two platforms is a cost-effective and scalable solution for businesses looking to improve their IT service management and marketing operations.</p>
+        </footer>
+</div>

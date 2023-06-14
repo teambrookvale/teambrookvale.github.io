@@ -1,0 +1,22 @@
+---
+permalink: /landings/system-integrations/zendesk/amazon-cloudwatch
+author: Edward Saunders
+title: "Zendesk and Amazon CloudWatch Integration"
+leadhead: "The integration of Zendesk and Amazon CloudWatch is beneficial for businesses looking to improve their customer service experience"
+leadtext: "By combining these tools, businesses can get more visibility into their customer support team's performance and stay on top of any service disruptions that may occur. With this integration, businesses can create a more streamlined customer support process that incorporates detailed analytics and insights."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Zendesk and Amazon CloudWatch Integration</h1>
+	<p>Zendesk is a customer service software that helps businesses manage their customer support. Amazon CloudWatch, on the other hand, is a monitoring service that provides metrics and logs about a business's applications, resources, and services on the AWS cloud. Together, these two tools can be integrated through API or SDK to solve certain problems.</p>
+	
+	<h2>Integration</h2>
+	<p>The integration between Zendesk and Amazon CloudWatch can be achieved through API or SDK. By using Amazon CloudWatch, Zendesk can capture key performance metrics and create custom dashboards to monitor the status of applications, infrastructure, and services.</p>
+	<p>The combination of these two tools helps business owners to quickly identify and fix service disruptions or performance issues before they affect customers.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Zendesk and Amazon CloudWatch solves several problems that businesses face. Firstly, with this integration, businesses can monitor their customer support team's performance. Zendesk's data can be sent to CloudWatch to monitor ticket queue times, customer satisfaction ratings, and more. This provides the business with a comprehensive understanding of their customer support team's performance and enables them to improve customer satisfaction ratings more effectively.</p>
+	<p>Secondly, the integration helps businesses to track the performance of their applications and services. With Amazon CloudWatch's monitoring capabilities, businesses can stay on top of any issues that their customers may be experiencing due to a service disruption. This allows businesses to proactively address the problem, reducing customer frustration and downtime.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Zendesk and Amazon CloudWatch is beneficial for businesses looking to improve their customer service experience. By combining these tools, businesses can get more visibility into their customer support team's performance and stay on top of any service disruptions that may occur. With this integration, businesses can create a more streamlined customer support process that incorporates detailed analytics and insights.</p>
+</div>

@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/servicenow/namely
+author: Edward Saunders
+title: "Integration of ServiceNow and Namely"
+leadhead: "Integrating ServiceNow and Namely can greatly benefit companies by streamlining their HR and IT operations"
+leadtext: "With automated data sync between the two platforms, businesses can save time, reduce errors, and focus on their core operations. By leveraging the power of their APIs or SDKs, ServiceNow and Namely have made it easy for companies to integrate their platforms and reap the benefits of a more streamlined and efficient workplace."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integration of ServiceNow and Namely</h1>
+    
+    <p>ServiceNow and Namely are two leading software solutions that cater to different aspects of business operations. ServiceNow provides IT service management whereas Namely offers HR and payroll management. While the two might seem unrelated, integrating them can greatly streamline business operations, and this is made possible through their APIs or SDKs.</p>
+    
+    <h2>What is ServiceNow?</h2>
+    <p>ServiceNow provides a cloud-based platform that enterprises can use to streamline their IT operations, automate workflows, and enhance service delivery. The platform includes modules for IT service management, human resources, security operations, and customer service management. Companies can use the ServiceNow platform to manage requests, incidents, changes, and releases, among other IT operational activities.</p>
+    
+    <h2>What is Namely?</h2>
+    <p>Namely provides an HR platform that helps businesses manage their HR and payroll processes. The platform offers features such as benefits administration, time and attendance management, talent acquisition, and onboarding. Namely also provides cloud-based software that can be accessed via web and mobile devices.</p>
+    
+    <h2>Integration of ServiceNow and Namely</h2>
+    <p>Integrating ServiceNow and Namely can solve many business problems. For example, when an employee's name is updated in Namely, the change is automatically pushed to ServiceNow. This eliminates the need for the IT department to make manual updates in their records. Similarly, when an employee's email address is updated in ServiceNow, the change is propagated to Namely automatically, without the need for HR to make manual updates.</p>
+    
+    <h2>Benefits of Integrating ServiceNow and Namely</h2>
+    <ul>
+      <li>Eliminates manual data entry and reduces the risk of errors</li>
+      <li>Streamlines HR and IT operations</li>
+      <li>Increases data accuracy and consistency</li>
+      <li>Enhances overall business efficiency</li>
+    </ul>
+    
+    <h2>Conclusion</h2>
+    <p>Integrating ServiceNow and Namely can greatly benefit companies by streamlining their HR and IT operations. With automated data sync between the two platforms, businesses can save time, reduce errors, and focus on their core operations. By leveraging the power of their APIs or SDKs, ServiceNow and Namely have made it easy for companies to integrate their platforms and reap the benefits of a more streamlined and efficient workplace.</p>
+</div>

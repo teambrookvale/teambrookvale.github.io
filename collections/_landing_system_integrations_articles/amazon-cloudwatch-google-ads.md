@@ -1,0 +1,50 @@
+---
+permalink: /landings/system-integrations/amazon-cloudwatch/google-ads
+author: Edward Saunders
+title: "Integrating Amazon CloudWatch and Google Ads"
+leadhead: "Integrating Amazon CloudWatch and Google Ads through API or SDK can provide advertisers with valuable insights into the performance of their ads"
+leadtext: "By using real-time data and automated alerts, advertisers can make more informed decisions about their advertising strategy and optimize their ad campaigns for better performance."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integrating Amazon CloudWatch and Google Ads</h1>
+	</header>
+	<main>
+		<section>
+			<h2>What is Amazon CloudWatch?</h2>
+			<p>Amazon CloudWatch is a monitoring and observability service provided by Amazon Web Services (AWS). It allows you to collect, monitor, and analyze metrics, logs, and events from your cloud resources and applications in real-time.</p>
+		</section>
+		<section>
+			<h2>What is Google Ads?</h2>
+			<p>Google Ads, formerly known as Google AdWords, is a platform provided by Google that allows advertisers to display ads on its search engine results pages (SERPs) and across its network of partner websites. It uses a pay-per-click (PPC) model, where advertisers only pay when someone clicks on their ad.</p>
+		</section>
+		<section>
+			<h2>Integration of the two through API or SDK</h2>
+			<p>By integrating Amazon CloudWatch with Google Ads through API or SDK, you can gain better visibility into the performance of your ads and make more informed decisions about your advertising strategy.</p>
+			<p>With this integration, you can:</p>
+			<ul>
+				<li>Monitor the performance of your ads in real-time</li>
+				<li>Identify trends and patterns in your ad performance</li>
+				<li>Set up automated alerts for when certain conditions are met</li>
+				<li>Use data from CloudWatch to optimize your ad campaigns</li>
+			</ul>
+		</section>
+		<section>
+			<h2>Problems their integration solves</h2>
+			<p>Integrating Amazon CloudWatch and Google Ads solves several problems that advertisers commonly face:</p>
+			<ul>
+				<li>Difficulty in tracking and analyzing ad performance</li>
+				<li>Limited visibility into ad performance in real-time</li>
+				<li>Inability to identify trends and patterns in ad performance</li>
+				<li>Lack of ability to set up automated alerts for certain conditions</li>
+				<li>Difficulty in optimizing ad campaigns based on data</li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<section>
+			<h2>Conclusion</h2>
+			<p>Integrating Amazon CloudWatch and Google Ads through API or SDK can provide advertisers with valuable insights into the performance of their ads. By using real-time data and automated alerts, advertisers can make more informed decisions about their advertising strategy and optimize their ad campaigns for better performance.</p>
+		</section>
+	</footer>
+</div>

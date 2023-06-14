@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/amazon-ses/amazon-cloudfront
+author: Edward Saunders
+title: "Integrating Amazon SES with Amazon CloudFront"
+leadhead: "Integrating Amazon SES with Amazon CloudFront can help businesses send emails faster, more reliably, and with greater visibility into their performance"
+leadtext: "By leveraging CloudFront's global network of edge locations and advanced features, businesses can maximize the impact of their email campaigns and provide a better user experience for their customers."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Amazon SES with Amazon CloudFront</h1>
+	
+	<p>Amazon SES (Simple Email Service) is a cloud-based email service that allows businesses to send transactional emails, marketing messages, and other types of content to their customers. It provides a reliable and cost-effective way to send emails at scale. On the other hand, Amazon CloudFront is a content delivery network that helps businesses distribute their content to users across the globe. It speeds up the delivery of static and dynamic content, such as images, videos, and web pages, by caching it at edge locations closest to the users.</p>
+	
+	<p>Integrating Amazon SES with Amazon CloudFront offers many benefits for businesses. Firstly, it enables them to deliver emails faster and more reliably by leveraging the global reach of CloudFront's edge locations. Instead of relying on a single SMTP server, businesses can use CloudFront as a proxy for their emails, which is not only faster but also less likely to be blocked by spam filters and firewalls.</p>
+	
+	<p>Secondly, integrating Amazon SES with Amazon CloudFront allows businesses to track the performance of their emails in real-time. They can use CloudFront's logging feature to monitor email delivery metrics, such as bounce rate, open rate, and click-through rate, and optimize their email campaigns accordingly. Additionally, they can use CloudFront's custom headers feature to add unique identifiers to their emails, which can help with tracking and analytics.</p>
+	
+	<p>To integrate Amazon SES with Amazon CloudFront, businesses can use either the Amazon SES API or the AWS SDKs for various programming languages, such as Java, Python, and PHP. The API allows businesses to configure CloudFront as an SMTP endpoint for SES, and the SDKs provide libraries and code samples for integrating SES and CloudFront in web applications and other software.</p>
+	
+	<h2>Conclusion</h2>
+	
+	<p>Integrating Amazon SES with Amazon CloudFront can help businesses send emails faster, more reliably, and with greater visibility into their performance. By leveraging CloudFront's global network of edge locations and advanced features, businesses can maximize the impact of their email campaigns and provide a better user experience for their customers.</p>
+	
+</div>

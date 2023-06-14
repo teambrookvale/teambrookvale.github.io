@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/amazon-sqs
+author: Edward Saunders
+title: "How Facebook Custom Audiences and Amazon SQS Integration Solves Business Problems"
+leadhead: "Integrating Facebook Custom Audiences with Amazon SQS can help businesses streamline their marketing processes, save time and resources, and improve the accuracy and consistency of their targeting"
+leadtext: "By automating the process of updating custom audiences, businesses can ensure that their ads are always targeted and relevant to their audience, which can lead to better conversion rates and increased revenue."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>How Facebook Custom Audiences and Amazon SQS Integration Solves Business Problems</h1>
+
+	<p>Facebook Custom Audiences and Amazon Simple Queue Service (SQS) are two powerful tools that businesses can use to reach their target audience more effectively and efficiently. By integrating these two tools through API or SDK, businesses can solve some common problems they face when it comes to targeting their audience.</p>
+
+	<h2>What Is Facebook Custom Audiences?</h2>
+	<p>Facebook Custom Audiences is a powerful marketing tool that allows businesses to target their ads to people who have already shown interest in their products or services. This tool allows businesses to create a custom audience by uploading a list of email addresses, phone numbers, or Facebook IDs. Facebook then matches these identifiers with its user data to create a targeting segment that can be used in ads.</p>
+
+	<h2>What Is Amazon SQS?</h2>
+	<p>Amazon Simple Queue Service (SQS) is a message queue service that helps businesses decouple and scale microservices, distributed systems, and serverless applications. SQS eliminates the complexity and overhead associated with managing and operating message-oriented middleware, and empowers businesses to send, store, and receive messages between software components.</p>
+
+	<h2>Integration of Facebook Custom Audiences with Amazon SQS Through API or SDK</h2>
+	<p>Integrating Facebook Custom Audiences with Amazon SQS through API or SDK helps businesses automate the process of creating and updating their custom audiences. Businesses can use SQS to receive messages containing updates to their Custom Audiences from various sources, such as their CRM, email lists, website sign-ups, or mobile app installs. The messages can then be automatically processed to update the custom audiences, eliminating the need for manual processes.</p>
+
+	<h2>Problems Their Integration Solves</h2>
+	<p>The integration of Facebook Custom Audiences with Amazon SQS helps businesses solve the following problems:</p>
+	<ul>
+		<li>Manual Processes: By automating the process of updating custom audiences, businesses can save time and resources that are involved in manual processes.</li>
+		<li>Real-Time Updates: Using SQS, businesses can receive updates to their custom audiences in real-time, ensuring that the ads are always targeted.</li>
+		<li>Consistent Audiences: With the automation of processes, businesses can ensure that their custom audiences are always updated and consistent, reducing errors and increasing accuracy.</li>
+		<li>Cost Savings: By using SQS to receive and process updates to custom audiences, businesses can reduce costs associated with manual processes and outdated information.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>Integrating Facebook Custom Audiences with Amazon SQS can help businesses streamline their marketing processes, save time and resources, and improve the accuracy and consistency of their targeting. By automating the process of updating custom audiences, businesses can ensure that their ads are always targeted and relevant to their audience, which can lead to better conversion rates and increased revenue.</p>
+</div>

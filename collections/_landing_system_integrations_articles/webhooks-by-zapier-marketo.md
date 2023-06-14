@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/webhooks-by-zapier/marketo
+author: Edward Saunders
+title: "Webhooks by Zapier vs Marketo Integration"
+leadhead: "The integration of Webhooks by Zapier and Marketo is a powerful tool for businesses looking to automate their marketing and sales processes"
+leadtext: "By connecting the two platforms through an API or SDK, businesses can save time and money, and avoid errors that can occur with manual processes. We recommend exploring this integration and finding ways to optimize your marketing and sales processes."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">        <h1>Webhooks by Zapier vs Marketo Integration</h1>
+        <p>Webhooks by Zapier is a web automation tool that allows users to automate their workflows by connecting different web applications together. Marketo, on the other hand, is a marketing automation tool that allows businesses to automate their lead generation and customer engagement processes. By integrating the two platforms through an API or SDK, businesses can automate their marketing and sales processes, saving them time and money.</p>
+        
+        <h2>Integration of the two through API or SDK</h2>
+        <p>The integration of Webhooks by Zapier and Marketo can be done through an API or SDK. This integration allows businesses to automate their marketing and sales processes by triggering specific actions when certain events occur. For example, businesses can use the integration to automatically add new leads to Marketo when users sign up for their product or service. This saves time and effort for the business, as they no longer have to manually enter in new leads or contact information.</p>
+        
+        <h2>Problems their integration solves</h2>
+        <p>The integration of Webhooks by Zapier and Marketo solves many problems for businesses. One of the biggest problems is the manual entry and management of leads and contact information. By automating this process, businesses can save time and money, and avoid errors that can occur with manual entry. The integration also allows businesses to better engage with their leads and customers by providing timely and relevant information.</p>
+        
+        <h2>Conclusion</h2>
+        <p>The integration of Webhooks by Zapier and Marketo is a powerful tool for businesses looking to automate their marketing and sales processes. By connecting the two platforms through an API or SDK, businesses can save time and money, and avoid errors that can occur with manual processes. We recommend exploring this integration and finding ways to optimize your marketing and sales processes.</p>
+</div>

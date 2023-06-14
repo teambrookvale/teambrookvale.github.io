@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/instagram-custom-audiences/amazon-sqs
+author: Edward Saunders
+title: "Instagram Custom Audiences and Amazon SQS Integration"
+leadhead: "Overall, integrating Instagram Custom Audiences and Amazon SQS can help businesses improve their ad campaigns by allowing them to create targeted ads based on data they already have"
+leadtext: "By using Amazon SQS to manage the data, businesses can ensure that the messages sent and received are independent, which improves scalability and reliability. This integration is a great way for businesses to improve their data management and reach their desired audience."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Instagram Custom Audiences and Amazon SQS Integration</h1>
+	<p>Instagram Custom Audiences and Amazon Simple Queue Service (SQS) can be integrated using API or SDK to solve problems in data management. Here's how:</p>
+
+	<h2>Instagram Custom Audiences</h2>
+	<p>Instagram Custom Audiences enables advertisers to create targeted ads based on data such as email addresses or phone numbers. This allows businesses to reach their desired audience without relying on interests or behaviors. Basically, it allows advertisers to tailor their ads based on the information they already have about their customers.</p>
+
+	<h2>Amazon SQS</h2>
+	<p>Amazon SQS is a fully managed message queue service that enables businesses to decouple and scale microservices, distributed systems, and serverless applications. It allows systems to communicate asynchronously, which helps improve scalability and reliability. In other words, it allows messages to be sent and received independently, without the need for both parties to be available at the same time.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>To integrate Instagram Custom Audiences and Amazon SQS, API or SDK can be used. Basically, this enables Instagram to send data to SQS, which can then be used by businesses to create targeted ads. By doing this, businesses can reach their desired audience and improve their ad campaigns.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Instagram Custom Audiences and Amazon SQS solves problems in data management. Instead of relying on interests or behaviors, businesses can use their data to create targeted ads. By using Amazon SQS to manage the data, businesses can ensure that the messages sent and received are independent, which helps improve scalability and reliability.</p>
+
+	<h2>Conclusion</h2>
+	<p>Overall, integrating Instagram Custom Audiences and Amazon SQS can help businesses improve their ad campaigns by allowing them to create targeted ads based on data they already have. By using Amazon SQS to manage the data, businesses can ensure that the messages sent and received are independent, which improves scalability and reliability. This integration is a great way for businesses to improve their data management and reach their desired audience.</p>
+</div>

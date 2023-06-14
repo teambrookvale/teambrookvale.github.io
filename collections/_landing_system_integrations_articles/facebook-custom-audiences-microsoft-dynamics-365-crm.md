@@ -1,0 +1,21 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/microsoft-dynamics-365-crm
+author: Edward Saunders
+title: "Integration of Facebook Custom Audiences and Microsoft Dynamics 365 CRM - A Game Changer"
+leadhead: "The integration of Facebook Custom Audiences and Dynamics 365 CRM is a game-changer for businesses"
+leadtext: "By integrating these two platforms, companies can create targeted advertising campaigns based on customer data stored in Dynamics 365 CRM, resulting in increased sales and brand awareness, and higher ROI. Integration of these two platforms should be a top priority for any business looking to improve its customer sales and engagement."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Facebook Custom Audiences and Microsoft Dynamics 365 CRM - A Game Changer</h1>
+	<p>Facebook is one of the most popular social media platforms with over 2.8 billion active users. On the other hand, Microsoft Dynamics 365 CRM is a cloud-based customer relationship management solution that helps businesses manage their customer interactions. These two powerful platforms can work together through API or SDK integration, and provide businesses with a wealth of benefits.</p>
+	<h2>Facebook Custom Audiences</h2>
+	<p>Facebook Custom Audiences is an advertising feature that allows businesses to target a specific group of people who are likely to be interested in their products or services. Companies can create custom audiences based on their customer lists, website visitors, and app activity. Custom Audiences improves ROI and reduces waste spending by ensuring that ads are only shown to the people who are most likely to buy.</p>
+	<h2>Microsoft Dynamics 365 CRM</h2>
+	<p>Microsoft Dynamics 365 CRM is a cloud-based business application that helps organizations manage their customer interactions. The system allows companies to keep track of customer interactions, sales, marketing campaigns, and customer support. Dynamics 365 CRM helps improve customer experience by giving businesses a 360-degree view of their customers' interactions, preferences, and purchasing history.</p>
+	<h2>Integration of Facebook Custom Audiences and Microsoft Dynamics 365 CRM through API or SDK</h2>
+	<p>Businesses can seamlessly integrate Facebook Custom Audiences and Dynamics 365 CRM through API or SDK. By doing so, companies can create custom audiences from the customer data stored in Dynamics 365 CRM. This integration ensures that businesses are targeting the right people with their advertising campaigns and helps minimize ad spend waste while maximizing ROI.</p>
+	<h2>Problems their Integration Solves</h2>
+	<p>The integration of Facebook Custom Audiences and Dynamics 365 CRM solves several problems that businesses commonly face. One of these problems is the lack of customer data integration. By integrating these two platforms, businesses can ensure that all their customer interaction data is stored in one place, ensuring better organization and easier access to insights. This integration also solves the issue of targeting the wrong audience, which results in wasted ad dollars. By integrating Facebook Custom Audiences with Dynamics 365 CRM, businesses can create custom audiences, ensuring that the right people receive their ads and lead to increased sales and brand awareness.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Facebook Custom Audiences and Dynamics 365 CRM is a game-changer for businesses. By integrating these two platforms, companies can create targeted advertising campaigns based on customer data stored in Dynamics 365 CRM, resulting in increased sales and brand awareness, and higher ROI. Integration of these two platforms should be a top priority for any business looking to improve its customer sales and engagement.</p>
+</div>

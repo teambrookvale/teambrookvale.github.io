@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/amazon-dynamodb/amazon-s3
+author: Edward Saunders
+title: "Integration of Amazon DynamoDB and S3"
+leadhead: "Overall, integrating Amazon DynamoDB and S3 provides businesses with an effective, cost-efficient way to store, manage and scale data"
+leadtext: "It allows for flexible storage options, which businesses can leverage to suit their unique needs. With fully managed services like Amazon DynamoDB and S3, businesses can focus on their core competencies and leave the storage and scalability concerns to AWS."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Amazon DynamoDB and S3</h1>
+
+	<p>Amazon Web Services offers a variety of powerful tools and services to help businesses store, manage, and process large amounts of data in scalable ways. Two of the most popular services that AWS offers are Amazon DynamoDB and Amazon S3. Both of these services can be used independently, but when they are integrated together through API or SDK, businesses can enjoy several advantages.</p>
+
+	<h2>Amazon DynamoDB</h2>
+
+	<p>Amazon DynamoDB is a NoSQL database that can store and retrieve any amount of data, and serve any level of request traffic. It is a fully managed service, so businesses don’t have to worry about provisioning hardware or managing configurations. DynamoDB is also designed to be highly scalable, with automatic partitioning and replication across multiple regions for availability and durability.</p>
+
+	<h2>Amazon S3</h2>
+
+	<p>Amazon S3 is a highly secure, scalable, and durable cloud storage service that can be used to store and retrieve any amount of data. It is a fully managed service, meaning that businesses don’t need to worry about hardware or configuration management. S3 provides several storage classes with different pricing options to suit different storage and access needs.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>Businesses can integrate Amazon DynamoDB and S3 through API or SDK to enjoy several benefits. For example, businesses can use DynamoDB to collect and store large amounts of data, while using S3 to store larger objects like videos or images. They can also use S3 to backup or archive data from DynamoDB, which can provide additional durability and cost savings. Additionally, businesses can use S3 to store and serve static content, while using DynamoDB to store and retrieve dynamic data.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>One common problem that businesses face is storing and managing large amounts of data in a cost-effective manner. By integrating Amazon DynamoDB and S3, businesses can effectively manage and store large amounts of data without hefty hardware and configuration costs. Additionally, businesses can use S3 to backup data from DynamoDB for additional data storage options, reduced costs and durability.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Overall, integrating Amazon DynamoDB and S3 provides businesses with an effective, cost-efficient way to store, manage and scale data. It allows for flexible storage options, which businesses can leverage to suit their unique needs. With fully managed services like Amazon DynamoDB and S3, businesses can focus on their core competencies and leave the storage and scalability concerns to AWS.</p>
+
+</div>

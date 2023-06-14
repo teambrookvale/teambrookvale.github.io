@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/expensify/amazon-sns
+author: Edward Saunders
+title: "Integration of Expensify and Amazon SNS"
+leadhead: "The integration of Expensify and Amazon SNS can significantly benefit businesses"
+leadtext: "It can help increase efficiency, productivity and save time and effort. By providing instant notifications, dynamic expense management is made possible, making expense tracking much easier for a business. Businesses who implement this integration can streamline their expense management process, thus helping them achieve their short and long term goals."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Expensify and Amazon SNS</h1>
+	<p>Expensify and Amazon Simple Notification Service (SNS) are two popular tools used by businesses worldwide.</p>
+
+	<h2>Expensify</h2>
+	<p>Expensify is a financial tool that helps businesses manage their expenses. It streamlines the process of tracking expenses and generating reports, saving businesses time and effort. Expensify provides a user-friendly interface and can be accessed via mobile or web platform.</p>
+
+	<h2>Amazon SNS</h2>
+	<p>Amazon Simple Notification Service (SNS) is a messaging service that enables businesses to send notifications to various devices or endpoints. With Amazon SNS, businesses can reach a large number of customers in real-time. It is a cost-effective and scalable way to send notifications, alerts, and SMS messages.</p>
+
+	<h2>Integration of the Two Through API or SDK</h2>
+	<p>The integration of Expensify and Amazon SNS is possible through the use of API or SDK. With API, data can be directly transferred between two different systems, while an SDK provides a set of libraries and tools for developers to integrate two systems.</p>
+
+	<h2>Problems their Integration Solves</h2>
+	<p>The integration of Expensify and Amazon SNS solves a notable problem for businesses by allowing them to receive real-time notifications for new expenses submitted in Expensify. This instant notification can help businesses stay on top of their expenses and save them from missing out on expense reports or late payments. </p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Expensify and Amazon SNS can significantly benefit businesses. It can help increase efficiency, productivity and save time and effort. By providing instant notifications, dynamic expense management is made possible, making expense tracking much easier for a business. Businesses who implement this integration can streamline their expense management process, thus helping them achieve their short and long term goals. </p>
+</div>

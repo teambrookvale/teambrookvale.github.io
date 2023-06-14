@@ -1,0 +1,21 @@
+---
+permalink: /landings/system-integrations/instagram-lead-ads/namely
+author: Edward Saunders
+title: "Integration of Instagram Lead Ads with Namely - A Game Changer for Businesses"
+leadhead: "The integration of Instagram lead ads and Namely offers businesses a powerful tool for generating and managing leads"
+leadtext: "By integrating the two platforms through API or SDK, businesses can streamline their lead management processes and effectively track the success of their Instagram campaigns. With social media playing an increasingly important role in advertising and marketing, this integration is a game changer for businesses looking to reach a wider audience and generate more leads."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Instagram Lead Ads with Namely - A Game Changer for Businesses</h1>
+	<p>With the rise of social media, businesses have had to adapt to new ways of advertising and marketing. Instagram, in particular, has become a hot spot for businesses looking to reach a wider audience. Instagram's lead ads offer businesses a way to gather leads through their advertisements, but what happens to those leads once they are collected? This is where Namely comes in.</p>
+	<h2>Instagram Lead Ads</h2>
+	<p>Instagram lead ads are advertisements that collect information from people interested in your product or service. When someone clicks on the ad, a form pops up, pre-filled with their Instagram contact information. This makes it easy for users to submit their information and for businesses to generate leads. However, without integrating with a customer relationship management (CRM) tool, such as Namely, businesses may struggle to efficiently manage and utilize those leads.</p>
+	<h2>Namely</h2>
+	<p>Namely is a human resources management software that offers businesses a way to streamline their HR and payroll processes. Namely's platform includes tools for managing employee information, benefits, time off, and more. With the integration of Namely, businesses can easily manage and track the leads generated through their Instagram lead ads.</p>
+	<h2>Integration of the Two through API or SDK</h2>
+	<p>The integration of Instagram lead ads and Namely can be done through an API or SDK. The API allows for the two platforms to communicate and share data, while the SDK (software development kit) provides pre-built components that can be used to enhance the functionality of the integration.</p>
+	<h2>Problems Their Integration Solves</h2>
+	<p>Before the integration of Namely and Instagram lead ads, businesses may have struggled to keep track of and manage their leads effectively. With the integration, businesses can easily manage and track the leads generated through their Instagram campaigns. Namely provides a central location for all lead information, making it easy for businesses to follow up with potential leads and track their progress through the sales pipeline. Additionally, Namely's platform offers robust reporting tools, giving businesses insights into the success of their Instagram lead ads.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Instagram lead ads and Namely offers businesses a powerful tool for generating and managing leads. By integrating the two platforms through API or SDK, businesses can streamline their lead management processes and effectively track the success of their Instagram campaigns. With social media playing an increasingly important role in advertising and marketing, this integration is a game changer for businesses looking to reach a wider audience and generate more leads.</p>
+</div>

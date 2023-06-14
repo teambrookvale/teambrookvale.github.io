@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/goto-webinar/zendesk
+author: Edward Saunders
+title: "Integrating GoToWebinar and Zendesk"
+leadhead: "The integration of GoToWebinar and Zendesk can significantly improve customer support and engagement for businesses"
+leadtext: "By providing customers with real-time support and engaging them through webinars and events, businesses can enhance their overall customer satisfaction and loyalty. The API and SDK integration make it easy for businesses to manage their interactions and provide timely solutions to customer queries and issues. It is an excellent choice for businesses looking to improve their customer support and engagement practices."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integrating GoToWebinar and Zendesk</h1>
+	
+	<p>GoToWebinar and Zendesk are two powerful tools that can help businesses provide better customer support and interact with their audience in real-time. By integrating the two, businesses can streamline their processes and improve the overall customer experience.</p>
+	
+	<h2>API or SDK Integration</h2>
+	
+	<p>The integration of GoToWebinar and Zendesk can be achieved through API or software development kit (SDK). This integration allows businesses to automatically log and track customer interactions, including webinar attendance, questions, and comments. This feature makes it easier for customer support to address customer queries and issues in a more timely and efficient manner.</p>
+	
+	<h2>Problem Solver</h2>
+	
+	<p>The integration of GoToWebinar and Zendesk helps businesses solve some of the major problems they face, including customer support, engagement, and interaction. With GoToWebinar, businesses can engage their audience in real-time through webinars and events. With Zendesk, businesses can provide seamless and timely customer support to their customers. With the integration of both the tools, businesses can efficiently manage their customer support and engagement needs.</p>
+	
+	<h2>Conclusion</h2>
+	
+	<p>The integration of GoToWebinar and Zendesk can significantly improve customer support and engagement for businesses. By providing customers with real-time support and engaging them through webinars and events, businesses can enhance their overall customer satisfaction and loyalty. The API and SDK integration make it easy for businesses to manage their interactions and provide timely solutions to customer queries and issues. It is an excellent choice for businesses looking to improve their customer support and engagement practices.</p>
+	
+</div>

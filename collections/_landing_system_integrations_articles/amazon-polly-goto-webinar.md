@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/amazon-polly/goto-webinar
+author: Edward Saunders
+title: "Integrating Amazon Polly and GoTo Webinar"
+leadhead: "The integration of Amazon Polly and GoTo Webinar provides a powerful tool for hosts to improve the accessibility and engagement of their online events"
+leadtext: "By using text-to-speech technology, hosts can save time and resources while providing a better experience for their audience. With the continued advancement of AI and deep learning technology, the possibilities of integration between different services and platforms are limitless."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating Amazon Polly and GoTo Webinar</h1>
+    <p>Amazon Polly is a text-to-speech service provided by Amazon Web Services. It uses advanced deep learning technologies to synthesize natural-sounding speech from text. GoTo Webinar is a web conferencing tool that allows users to host webinars for online meetings, training, and events.</p>
+    
+    <h2>Integration of the two through API or SDK</h2>
+    <p>Through the use of Amazon Polly API or SDK, GoTo Webinar can integrate text-to-speech functionality to their webinars. With the API, developers can build custom applications that can interact with Amazon Polly and GoTo Webinar. The SDK, on the other hand, enables easier integration of Amazon Polly's text-to-speech technology to GoTo Webinar's platform.</p>
+    
+    <h2>Problems their integration solves</h2>
+    <p>With the integration of Amazon Polly into GoTo Webinar, hosts can create more engaging and accessible webinars. Text-to-speech technology helps webinar hosts reach a wider audience, particularly those with hearing impairments or those who prefer to listen rather than read. This integration also saves time and resources for hosts who would otherwise have to record separate audio files or hire voice actors.</p>
+    
+    <h2>Conclusion</h2>
+    <p>The integration of Amazon Polly and GoTo Webinar provides a powerful tool for hosts to improve the accessibility and engagement of their online events. By using text-to-speech technology, hosts can save time and resources while providing a better experience for their audience. With the continued advancement of AI and deep learning technology, the possibilities of integration between different services and platforms are limitless.</p>
+</div>

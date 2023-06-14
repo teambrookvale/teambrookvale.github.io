@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/google-bigquery/amazon-seller-central
+author: Edward Saunders
+title: "Integration of Google BigQuery and Amazon Seller Central"
+leadhead: "The integration of Google BigQuery and Amazon Seller Central through the use of APIs or SDKs is a game-changer for Amazon sellers"
+leadtext: "It provides them with access to real-time data, insights, and analytics, which can help them make informed decisions and optimize their Amazon selling strategy. By leveraging the power of Google BigQuery, Amazon sellers can gain a competitive edge and grow their businesses on Amazon.com."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Google BigQuery and Amazon Seller Central</h1>
+	<p>Google BigQuery is a cloud-based data warehousing solution provided by Google. It allows users to store, analyze, and query massive datasets in real-time using SQL-like queries. On the other hand, Amazon Seller Central is a platform provided by Amazon for sellers to manage their business on Amazon.com.</p>
+	<p>Now, imagine you are an Amazon seller who wants to dive deep into your business data to gain insights and make informed decisions. This is where the integration of Google BigQuery and Amazon Seller Central becomes crucial.</p>
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of Google BigQuery and Amazon Seller Central can be achieved through the use of APIs (Application Programming Interfaces) or SDKs (Software Development Kits). An API is a set of protocols and tools for building software applications, while an SDK is a set of software development tools that allow developers to create applications for a specific software package or hardware platform.</p>
+	<p>The Amazon Marketplace Web Service API (Amazon MWS API) can be used to pull seller data from Amazon Seller Central into Google BigQuery. This API allows sellers to programmatically access their Amazon seller account information, including orders, payments, and inventory. Once the data is pulled into Google BigQuery, it can be transformed and queried to gain valuable insights.</p>
+	<h2>Problems solved by integration</h2>
+	<p>The integration of Google BigQuery and Amazon Seller Central solves several problems for Amazon sellers. Firstly, it allows sellers to access and analyze their business data in real-time, which enables them to make informed decisions quickly. This leads to better efficiency and increased profitability.</p>
+	<p>Secondly, the integration enables sellers to keep track of their products' performance, gain insights into customer behavior, and track their sales and revenue. This information is crucial for sellers looking to optimize their Amazon selling strategy and improve their product offerings.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Google BigQuery and Amazon Seller Central through the use of APIs or SDKs is a game-changer for Amazon sellers. It provides them with access to real-time data, insights, and analytics, which can help them make informed decisions and optimize their Amazon selling strategy. By leveraging the power of Google BigQuery, Amazon sellers can gain a competitive edge and grow their businesses on Amazon.com.</p>
+</div>

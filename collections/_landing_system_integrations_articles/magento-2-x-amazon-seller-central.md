@@ -1,0 +1,18 @@
+---
+permalink: /landings/system-integrations/magento-2-x/amazon-seller-central
+author: Edward Saunders
+title: "Integrating Magento 2.x with Amazon Seller Central"
+leadhead: "Overall, integrating Magento 2.x with Amazon Seller Central offers significant benefits for businesses looking to expand their reach and increase their revenue"
+leadtext: "By using the MWS or SP-API, businesses can easily manage their inventory and product listings across multiple platforms and connect with millions of customers. This integration is a great way for businesses to streamline their online operations and take their ecommerce business to the next level."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Magento 2.x with Amazon Seller Central</h1>
+	<p>Many businesses today use online platforms to expand their reach and generate increased revenue. Magento 2.x is a popular ecommerce platform that provides businesses with the tools they need to sell their products online. Amazon Seller Central is a leading online marketplace that offers businesses access to millions of customers. Integrating the two can provide businesses with even more benefits and opportunities to reach more customers.</p>
+	<h2>Integration of the two through API or SDK</h2>
+	<p>The integration of Magento 2.x with Amazon Seller Central can be achieved through the use of Amazon Marketplace Web Service (MWS) API or the Amazon Selling Partner API (SP-API). Both of these APIs provide businesses with access to Amazon's selling tools and services. By integrating with these APIs, businesses can use their Magento 2.x store to sell products on Amazon without having to manage separate inventories or product listings.</p>
+	<h2>Problems their integration solves</h2>
+	<p>Integrating Magento 2.x with Amazon Seller Central solves several problems for businesses. One of the most significant problems is managing inventories across multiple platforms. This integration allows businesses to use a single inventory system for all of their sales channels, making it easier to manage products and reduce the likelihood of overselling or underselling.</p>
+	<p>Another problem solved by this integration is the management of product listings. With Magento 2.x integration, businesses can manage and update their product listings in one location, saving time and ensuring consistent product information across all platforms.</p>
+	<h2>Conclusion</h2>
+	<p>Overall, integrating Magento 2.x with Amazon Seller Central offers significant benefits for businesses looking to expand their reach and increase their revenue. By using the MWS or SP-API, businesses can easily manage their inventory and product listings across multiple platforms and connect with millions of customers. This integration is a great way for businesses to streamline their online operations and take their ecommerce business to the next level.</p>
+</div>

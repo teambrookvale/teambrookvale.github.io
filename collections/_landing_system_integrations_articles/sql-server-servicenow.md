@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/sql-server/servicenow
+author: Edward Saunders
+title: "Integration of SQL Server and ServiceNow"
+leadhead: "In conclusion, integrating SQL Server and ServiceNow through an API or SDK can have many benefits for organizations"
+leadtext: "By automating the flow of data and improving visibility into the entire IT operations process, organizations can significantly reduce the amount of time and potential for errors, as well as improve overall efficiency. If you are using these two tools, it’s highly recommended that you take advantage of their integration capabilities."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integration of SQL Server and ServiceNow</h1>
+    <p>SQL Server and ServiceNow are two very powerful tools that are used by organizations across the world. SQL Server is a powerful database management system that is used to store, manage, and retrieve data. ServiceNow on the other hand is a cloud-based platform that enables organizations to manage their IT operations, automate workflows, and provide excellent customer service.</p>
+    <p>There are many benefits to integrating these two tools together using an API or SDK. By doing so, organizations can automate the flow of data between the two platforms, which allows them to easily streamline their operations, reduce manual processes, and improve overall efficiency.</p>
+    <h2>Problems their integration solves</h2>
+    <p>One of the main problems that the integration of SQL Server and ServiceNow solves is the manual entry of data. Before the integration, data would have to be manually entered into both platforms, which was extremely time-consuming and prone to errors. By integrating the two platforms, data can be automatically entered into both systems, which significantly reduces the amount of time and potential for errors.</p>
+    <p>Another problem that is solved by this integration is the lack of visibility into the entire IT operations process. Before the integration, IT staff had to manually track and monitor operations and workflows. By integrating SQL Server and ServiceNow, IT staff can have a complete view of the entire operations process, including the tracking of requests and incidents, and the ability to initiate workflows automatically.</p>
+    <h2>Conclusion</h2>
+    <p>In conclusion, integrating SQL Server and ServiceNow through an API or SDK can have many benefits for organizations. By automating the flow of data and improving visibility into the entire IT operations process, organizations can significantly reduce the amount of time and potential for errors, as well as improve overall efficiency. If you are using these two tools, it’s highly recommended that you take advantage of their integration capabilities.</p>
+</div>

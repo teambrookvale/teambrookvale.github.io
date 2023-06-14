@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/pardot/salesforce
+author: Edward Saunders
+title: "Integration of Pardot and Salesforce | Digiflow"
+leadhead: "The integration of Pardot and Salesforce provides a powerful tool to align sales and marketing teams and improve the overall efficiency of your business"
+leadtext: "Better lead and prospect management, detailed customer data, improved campaign management, and real-time insights into business performance are some of the significant benefits of integrating these two systems. Take the next step in your digital marketing efforts with Pardot and Salesforce integration."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integration of Pardot and Salesforce</h1>
+
+	<p>Pardot is a marketing automation tool while Salesforce is a customer relationship management (CRM) platform that enables businesses to manage their customers, sales, and marketing processes more efficiently. Integrating these two powerful tools can be a game-changer for businesses looking to optimize their marketing and sales efforts</p>
+
+	<p>The integration of Pardot and Salesforce is done through API or SDK. The integration allows the seamless transfer of data between the two systems, syncing leads, contacts, accounts, and opportunities and allowing marketing teams to create targeted campaigns, monitor ROI, and analyze customer data more efficiently.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of Pardot and Salesforce offers several benefits:</p>
+
+	<ul>
+		<li>Improved lead management: The integration allows for the creation of detailed lead scores based on specific criteria, enabling sales teams to prioritize leads based on their level of engagement with a company.</li>
+		<li>Better campaign targeting: Integration allows marketing teams to create targeted campaigns based on detailed data and customer insights, resulting in more qualified leads and better ROI for the marketing spend.</li>
+		<li>Real-time insights: The integration provides real-time insights, enabling teams to track campaign engagement, lead behavior, and get accurate ROI metrics that can inform business decisions.</li>
+		<li>Streamlined Sales Processes: With access to customer data and insights up to date right from Pardot, sales teams can easily identify and manage their prospects and customers and move opportunities through the pipeline faster.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Pardot and Salesforce provides a powerful tool to align sales and marketing teams and improve the overall efficiency of your business. Better lead and prospect management, detailed customer data, improved campaign management, and real-time insights into business performance are some of the significant benefits of integrating these two systems. Take the next step in your digital marketing efforts with Pardot and Salesforce integration. </p>
+
+</div>

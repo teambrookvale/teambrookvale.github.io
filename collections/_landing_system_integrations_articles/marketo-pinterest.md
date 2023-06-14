@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/marketo/pinterest
+author: Edward Saunders
+title: "Why Integrating Marketo with Pinterest can Boost Your Marketing Strategy"
+leadhead: "The integration of Marketo and Pinterest can significantly boost your marketing strategy"
+leadtext: "By combining the capabilities of these two platforms, you can better understand your target audience, create personalized marketing campaigns, and ultimately increase your ROI. By leveraging the Pinterest API or SDK, businesses can easily integrate the two platforms to enjoy the benefits of this powerful marketing duo."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Why Integrating Marketo with Pinterest can Boost Your Marketing Strategy</h1>
+	<p>As more businesses move towards a digital marketing approach, it has become increasingly important to maximize the use of social media channels to reach a wider audience. Some of the best social media platforms for marketing include Marketo and Pinterest. By integrating the two, businesses can leverage both platforms to achieve maximum ROI. </p>
+	
+	<h2>Marketo</h2>
+	<p>Marketo is an engagement platform that enables businesses to create and maintain long-lasting customer relationships. With Marketo, you can automate your marketing processes and personalize every interaction across all channels, thereby boosting your ROI. </p>
+	
+	<h2>Pinterest</h2>
+	<p>Pinterest is a visual discovery platform that people use to find ideas for their interests and hobbies. It is also a valuable resource for businesses, as it allows them to showcase their products and services to a massive audience base. </p>
+	
+	<h2>Integration of the two through API or SDK</h2>
+	<p>By integrating Marketo and Pinterest, businesses can add Pinterest data to their Marketo profiles. This can be done using the Pinterest API or SDK. With this integration, businesses can track Pinterest metrics and use this data to adjust their marketing strategy to align with what is working best for them. </p>
+	
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Marketo and Pinterest solves several marketing problems. Firstly, it helps businesses to understand the interests and preferences of their audience, and use this data to create targeted marketing campaigns. Additionally, it enables businesses to increase their sales leads by adding Pinterest data to their Marketo profiles. It also saves time by automating marketing processes and personalizing interactions across all channels, allowing businesses to focus on more critical tasks.</p>
+	
+	<h2>Conclusion</h2>
+	<p>The integration of Marketo and Pinterest can significantly boost your marketing strategy. By combining the capabilities of these two platforms, you can better understand your target audience, create personalized marketing campaigns, and ultimately increase your ROI. By leveraging the Pinterest API or SDK, businesses can easily integrate the two platforms to enjoy the benefits of this powerful marketing duo.</p>
+</div>

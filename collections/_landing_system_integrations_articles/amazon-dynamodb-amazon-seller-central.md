@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/amazon-dynamodb/amazon-seller-central
+author: Edward Saunders
+title: "Integrating Amazon DynamoDB and Seller Central"
+leadhead: "The integration of Amazon DynamoDB and Amazon Seller Central can provide sellers with a number of benefits, including easier access to data, simplified order management, and faster decision-making"
+leadtext: "By using APIs or SDKs to integrate these services, sellers can make the most out of both platforms, improving their sales and operations."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Amazon DynamoDB and Seller Central</h1>
+
+	<p>Amazon DynamoDB, a fully-managed NoSQL database service, and Amazon Seller Central, a platform for sellers to manage their inventory and sales, can be integrated using APIs or SDKs. This integration can solve a number of problems for sellers who use both services.</p>
+
+	<h2>Amazon DynamoDB</h2>
+	<p>Amazon DynamoDB is a key-value and document database that delivers consistent, single-digit millisecond latencies at any scale. It is fully managed, meaning that users do not need to manage any servers and can instead focus on building applications.</p>
+
+	<h2>Amazon Seller Central</h2>
+	<p>Amazon Seller Central is a platform that provides sellers with tools to manage their inventory, fulfill orders, and track their sales. It is the main portal for sellers to interact with Amazon’s selling platform.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>Sellers who use both Amazon DynamoDB and Amazon Seller Central can integrate the two services using APIs or SDKs. This integration allows sellers to store their product and sales data in DynamoDB and then use the data to manage their inventory and sales in Seller Central. This integration provides easier access to data, simplifies order management, and enables faster decision-making.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration between Amazon DynamoDB and Amazon Seller Central solves a number of problems for sellers, including:</p>
+	<ul>
+		<li>Easier access to data: Sellers can store all their product and sales data in one place, making it easier to access and analyze.</li>
+		<li>Simplified order management: By using DynamoDB to store and manage product data, sellers can more easily manage and fulfill orders in Seller Central.</li>
+		<li>Faster decision-making: Access to real-time sales data in DynamoDB enables faster decision-making for sellers. This can help them adjust their pricing strategy, product offerings, and more.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon DynamoDB and Amazon Seller Central can provide sellers with a number of benefits, including easier access to data, simplified order management, and faster decision-making. By using APIs or SDKs to integrate these services, sellers can make the most out of both platforms, improving their sales and operations.</p>
+</div>

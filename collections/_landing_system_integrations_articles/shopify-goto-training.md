@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/shopify/goto-training
+author: Edward Saunders
+title: "Integration of Shopify and GoTo Training"
+leadhead: "The integration of Shopify and GoTo Training can help businesses to streamline their operations and provide a better customer and employee experience"
+leadtext: "By using API or SDK provided by both platforms, businesses can automate their workflow and simplify their workflow. This can lead to increased productivity, profitability, and customer satisfaction."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Shopify and GoTo Training</h1>
+	<p>Shopify is a popular e-commerce platform that helps businesses to set up online stores. GoTo Training is a web-based platform that allows businesses to provide online training to their employees. The integration of these two platforms can help businesses to sell products and provide training courses in one place.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>To integrate Shopify with GoTo Training, businesses can use API or SDK provided by both platforms. API (Application Programming Interface) is a set of protocols and tools for building software applications. SDK (Software Development Kit) is a collection of software development tools in one installable package. Both API and SDK enable communication between Shopify and GoTo Training, allowing businesses to automate their workflow and provide a seamless experience for their customers and employees.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Shopify and GoTo Training can solve some of the problems faced by businesses. Firstly, it reduces the need for multiple platforms and logins to manage e-commerce and training. Secondly, it simplifies the workflow for selling products and providing training courses. Thirdly, it enables businesses to track sales and training progress in one place, allowing them to make data-driven decisions.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Shopify and GoTo Training can help businesses to streamline their operations and provide a better customer and employee experience. By using API or SDK provided by both platforms, businesses can automate their workflow and simplify their workflow. This can lead to increased productivity, profitability, and customer satisfaction.</p>
+</div>

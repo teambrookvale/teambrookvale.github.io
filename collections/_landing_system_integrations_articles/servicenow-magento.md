@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/servicenow/magento
+author: Edward Saunders
+title: "Integrating ServiceNow and Magento for Greater Efficiency"
+leadhead: "Integrating ServiceNow and Magento can offer a number of benefits to businesses, including improved workflow efficiencies and better customer service"
+leadtext: "Whether through API or SDK integration, businesses can streamline their operations and gain greater visibility and control over their e-commerce operations."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating ServiceNow and Magento for Greater Efficiency</h1>
+	<p>ServiceNow is a popular cloud-based platform that helps businesses streamline their workflow and operations. Magento, on the other hand, is a leading e-commerce platform that allows businesses to create and manage online stores. Both platforms are powerful in their own right, but when integrated, they can create even greater efficiencies for businesses.</p>
+	<h2>Integration of the Two through API or SDK</h2>
+	<p>Integrating ServiceNow and Magento is possible through the use of an API or SDK. An API (Application Programming Interface) is a set of protocols that allow different software applications to communicate with each other. There are a variety of APIs available, including REST, SOAP, and GraphQL, among others. An SDK (Software Development Kit) is a collection of software development tools that allow developers to create applications for a specific platform or device.</p>
+	<h2>Problems their Integration Solves</h2>
+	<p>Integrating ServiceNow and Magento can help solve a number of problems for businesses. For instance, it can:</p>
+	<ul>
+		<li>Automate the order fulfillment process: With an integrated system, businesses can automatically generate purchase orders and invoices, and update order status in real-time.</li>
+		<li>Eliminate manual data entry: Integration eliminates the need to manually enter order information into multiple systems, reducing the chance of data entry errors.</li>
+		<li>Improve inventory management: Integration can offer a single view of inventory across all sales channels, making it easier to manage inventory levels and prevent stockouts or overstocks.</li>
+		<li>Provide better customer service: With real-time visibility into order status, businesses can provide more accurate and timely information to customers about the status of their orders.</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>Integrating ServiceNow and Magento can offer a number of benefits to businesses, including improved workflow efficiencies and better customer service. Whether through API or SDK integration, businesses can streamline their operations and gain greater visibility and control over their e-commerce operations.</p>
+</div>

@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/google-bigquery/google-ads
+author: Edward Saunders
+title: "Integrating Google BigQuery and Google Ads"
+leadhead: "Integrating Google BigQuery and Google Ads is a powerful way to gain deeper insights into your advertising data and make more informed decisions"
+leadtext: "By leveraging the APIs and SDKs that connect these two tools, you can gain access to a wealth of new information that can help guide your marketing strategy."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Google BigQuery and Google Ads</h1>
+	<p>If you're a marketer or advertiser, you might be familiar with both Google BigQuery and Google Ads. These two tools are incredibly useful for analyzing data and running successful ad campaigns, respectively. But did you know that you can integrate the two for even better results?</p>
+	<h2>What is Google BigQuery?</h2>
+	<p>Google BigQuery is a cloud-based data warehouse that allows you to analyze large amounts of data quickly. It's particularly useful for businesses that need to process massive amounts of data, since it scales easily and doesn't require any up-front costs or maintenance. With BigQuery, you can run queries against petabytes of data and get results in seconds.</p>
+	<h2>What is Google Ads?</h2>
+	<p>Google Ads is a platform for creating and managing online advertising campaigns. It allows you to create ads that appear in Google search results, YouTube videos, and on other websites. Google Ads uses a pay-per-click model, where you're only charged when someone actually clicks on your ad.</p>
+	<h2>Integration through API or SDK</h2>
+	<p>Integrating Google BigQuery and Google Ads is fairly straightforward. Both tools have APIs (application programming interfaces) and SDKs (software development kits) that allow you to connect them together. This integration lets you pull advertising data directly into BigQuery, where you can combine it with other data sources and analyze it in new ways.</p>
+	<h2>Problems their integration solves</h2>
+	<p>By integrating Google BigQuery and Google Ads, you can gain a number of benefits:</p>
+	<ul>
+		<li><strong>Better insights:</strong> By combining your advertising data with other data sources (like website analytics), you can uncover new insights that you might have missed otherwise. For example, you might discover that certain keywords are driving more website traffic than you previously thought, or that certain types of ads perform better on particular days of the week.</li>
+		<li><strong>More informed decision-making:</strong> With better insights, you can make better decisions about how to spend your advertising budget. You might decide to shift your focus to different types of ads or targeting different audiences based on your findings.</li>
+		<li><strong>Increased efficiency:</strong> By automating the process of bringing your advertising data into BigQuery, you can save time and reduce the risk of errors that come with manual data entry. This frees up time for more strategic work.</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>Integrating Google BigQuery and Google Ads is a powerful way to gain deeper insights into your advertising data and make more informed decisions. By leveraging the APIs and SDKs that connect these two tools, you can gain access to a wealth of new information that can help guide your marketing strategy.</p>
+</div>

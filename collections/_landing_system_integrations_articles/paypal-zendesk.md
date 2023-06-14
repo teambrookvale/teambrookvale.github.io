@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/paypal/zendesk
+author: Edward Saunders
+title: "PayPal and Zendesk Integration - The Solution to Your E-commerce Support"
+leadhead: "Integrating PayPal and Zendesk is a wise investment for any e-commerce business"
+leadtext: "By seamlessly connecting these two platforms, businesses can improve the efficiency of their support operations and enhance the customer experience. With an easy integration process and numerous benefits, it's clear that PayPal and Zendesk integration is the solution to your e-commerce support needs."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>PayPal and Zendesk Integration - The Solution to Your E-commerce Support</h1>
+
+	<p>If you're running an e-commerce business, you know how important it is to provide top-notch customer support. One of the key components of this is integrating payment platforms with your support software. Two of the most popular options, PayPal and Zendesk, can be integrated easily through API or SDK. </p>
+
+	<h2>PayPal</h2>
+
+	<p>PayPal is a widely used payment gateway that offers a variety of services including online payments and money transfers. PayPal is known for its easy-to-use interface and strong security features. In addition to being a popular payment option for consumers, PayPal is also used by many businesses as a payment processor. </p>
+
+	<h2>Zendesk</h2>
+
+	<p>Zendesk is a cloud-based support software that helps businesses manage customer interactions across multiple channels, including email, chat, social media, and phone. With its user-friendly interface, automated ticketing system, and robust reporting features, Zendesk streamlines customer support operations and improves customer satisfaction. </p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of PayPal and Zendesk is a simple process. By using PayPal's API or Zendesk's SDK, businesses can connect the two platforms within minutes. This integration allows for easy access to transaction data, making it easier for support agents to quickly resolve any issues related to payments. </p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>One of the main problems solved by this integration is the ability to track payments directly within your support software. This eliminates the need for support agents to switch between multiple platforms and ensures that all transaction data is logged in one place. This saves time and improves the efficiency of support operations. Additionally, by having access to transaction data, support agents can quickly resolve payment disputes, chargebacks, and other issues related to payments. </p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating PayPal and Zendesk is a wise investment for any e-commerce business. By seamlessly connecting these two platforms, businesses can improve the efficiency of their support operations and enhance the customer experience. With an easy integration process and numerous benefits, it's clear that PayPal and Zendesk integration is the solution to your e-commerce support needs. </p>
+</div>

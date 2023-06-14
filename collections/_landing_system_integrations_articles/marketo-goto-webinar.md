@@ -1,0 +1,24 @@
+---
+permalink: /landings/system-integrations/marketo/goto-webinar
+author: Edward Saunders
+title: "Marketo and GoTo Webinar Integration: A Perfect Combination"
+leadhead: "The integration of Marketo and GoTo Webinar can create a game-changing marketing solution that can provide marketers with valuable insights, automating their marketing processes, and enhancing their lead nurturing capabilities"
+leadtext: "With the help of API or SDK, marketers can seamlessly integrate these two solutions, creating a smooth experience for their audience."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Marketo and GoTo Webinar Integration: A Perfect Combination</h1>
+	<p>When it comes to marketing automation and webinar hosting, two popular solutions come to mind- Marketo and GoTo Webinar. Both these solutions have been widely used in the industry and offer various features to cater to the needs of marketers. However, integrating these two solutions can create a powerful marketing solution that can take your marketing game to the next level.</p>
+	<h2>Integration of the two through API or SDK</h2>
+	<p>The integration between Marketo and GoTo Webinar can be done through API or SDK. The API integration allows the transfer of data between two different systems, while the SDK integration involves the use of software development kits to customize the integration process. Both these integrations are possible and can help marketers automate their marketing processes and create a seamless experience for their audience.</p>
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Marketo and GoTo Webinar solves various challenges that marketers face. Below are some of the common benefits that marketers can experience:</p>
+	<ul>
+		<li>Seamless integration: The integration of Marketo and GoTo Webinar allows marketers to seamlessly transfer data from one system to another, without errors or manual intervention.</li>
+		<li>Automate processes: The integration helps marketers to automate various processes, such as sending emails, tracking leads, and analyzing data. This helps in saving time and resources.</li>
+		<li>Enhanced lead nurturing: By integrating Marketo and GoTo Webinar, marketers can create targeted campaigns for their leads, providing them with personalized content and nudging them towards a purchase decision.</li>
+		<li>Better insights: With the integration of Marketo and GoTo Webinar, marketers can gain better insights into their audience's behavior and preferences, allowing them to create more effective marketing strategies.</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>The integration of Marketo and GoTo Webinar can create a game-changing marketing solution that can provide marketers with valuable insights, automating their marketing processes, and enhancing their lead nurturing capabilities. With the help of API or SDK, marketers can seamlessly integrate these two solutions, creating a smooth experience for their audience.</p>
+	<p>So, if you are a marketer looking to enhance your marketing game, it's time to consider integrating Marketo and GoTo Webinar to create a perfect combination that can take your marketing efforts to the next level.</p>
+</div>

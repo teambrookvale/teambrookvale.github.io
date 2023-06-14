@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/aws-lambda/sugarcrm-7-
+author: Edward Saunders
+title: "AWS Lambda and SugarCRM 7+ Integration"
+leadhead: "The integration of AWS Lambda and SugarCRM 7+ through API or SDK can help businesses to streamline their customer relationship management processes and automate various tasks"
+leadtext: "By leveraging the power of serverless computing and well-documented APIs, businesses can build powerful applications that can help them to stay ahead of the competition."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>AWS Lambda and SugarCRM 7+ Integration</h1>
+	<p>AWS Lambda is a serverless computing service that allows you to run code without provisioning or managing servers. SugarCRM 7+ is a customer relationship management tool that helps businesses to manage customer data and interactions. These two platforms can be integrated together through API or SDK to solve various business problems.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>SugarCRM provides a well-documented REST API and SDK for developers to easily integrate their software with other applications. AWS Lambda, on the other hand, provides a wide range of integrations with other AWS services and third-party tools through its API Gateway. By leveraging these integrations, developers can easily build powerful applications that automate various business processes.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>Integrating SugarCRM with AWS Lambda can help businesses to:</p>
+	<ul>
+		<li>Automate customer data extraction from SugarCRM to other systems like Amazon S3 or Salesforce</li>
+		<li>Automate customer engagement through email campaigns or chatbots</li>
+		<li>Automate lead scoring and qualification using machine learning algorithms</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of AWS Lambda and SugarCRM 7+ through API or SDK can help businesses to streamline their customer relationship management processes and automate various tasks. By leveraging the power of serverless computing and well-documented APIs, businesses can build powerful applications that can help them to stay ahead of the competition.</p>
+
+</div>

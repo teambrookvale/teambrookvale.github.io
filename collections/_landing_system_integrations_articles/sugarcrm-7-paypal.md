@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/sugarcrm-7-/paypal
+author: Edward Saunders
+title: "SugarCRM 7+ and PayPal Integration"
+leadhead: "The integration of SugarCRM 7+ and PayPal is an excellent move for businesses looking to streamline their payment processing and take advantage of the benefits that come from integrating customer data"
+leadtext: "By using their APIs or SDKs, businesses can enjoy more accurate data, more secure payment processing, and less time spent on manual data entry. All in all, this integration is a win-win for both businesses and their customers."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>SugarCRM 7+ and PayPal Integration</h1>
+
+	<p>SugarCRM 7+ is a popular customer relationship management software that helps businesses manage their customer interactions more efficiently. PayPal, on the other hand, is a widely used payment processing platform that allows businesses to accept payments online. Both of these tools have proven to be very useful to businesses, and integrating the two can provide some excellent benefits.</p>
+
+	<h2>Integrating SugarCRM 7+ and PayPal</h2>
+
+	<p>The integration of SugarCRM 7+ and PayPal can be done through their APIs or SDKs. This integration allows businesses to get all of their customer data integrated with their payment processing system, allowing for more accurate tracking and reporting.</p>
+
+	<h2>Problems Their Integration Solves</h2>
+
+	<p>One of the main problems solved by the integration of SugarCRM 7+ and PayPal is the need for manual data entry. With the integration, all of the customer data is automatically transferred from SugarCRM 7+ into PayPal, allowing for more streamlined payments and better insights into customer purchase history. This can result in time savings, more accurate data, and lower payment processing fees.</p>
+
+	<p>Additionally, businesses can benefit from the increased security that comes from this integration. With PayPal's robust security and fraud prevention capabilities, businesses can feel more confident in their payment processing. Plus, with SugarCRM 7+'s ability to segment customer data, businesses can more easily identify and address potential fraud or payment issues.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of SugarCRM 7+ and PayPal is an excellent move for businesses looking to streamline their payment processing and take advantage of the benefits that come from integrating customer data. By using their APIs or SDKs, businesses can enjoy more accurate data, more secure payment processing, and less time spent on manual data entry. All in all, this integration is a win-win for both businesses and their customers.</p>
+
+</div>

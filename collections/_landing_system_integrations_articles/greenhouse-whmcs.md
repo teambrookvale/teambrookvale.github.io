@@ -1,0 +1,42 @@
+---
+permalink: /landings/system-integrations/greenhouse/whmcs
+author: Edward Saunders
+title: "Greenhouse and WHMCS Integration"
+leadhead: "The integration of Greenhouse and WHMCS provides businesses with a way to automate their hiring and onboarding processes"
+leadtext: "It streamlines communication, eliminates duplication, and reduces manual effort. With this integration, businesses can focus on their core operations while improving their overall efficiency."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Greenhouse and WHMCS Integration</h1>
+	</header>
+	
+	<section>
+		<h2>What is Greenhouse?</h2>
+		<p>Greenhouse is a software that helps companies to manage their hiring process. It provides tools to create job postings, track applicants, and streamline communication between hiring teams. </p>
+	</section>
+
+	<section>
+		<h2>What is WHMCS?</h2>
+		<p>WHMCS is a complete billing and support automation solution for web hosts and other online businesses. It helps businesses to automate their invoicing, account provisioning, and recurring billing.</p>
+	</section>
+
+	<section>
+		<h2>Integration of Greenhouse and WHMCS</h2>
+		<p>The integration of Greenhouse and WHMCS can be achieved through API or SDK. The Greenhouse API provides a way for developers to programmatically access and update data in Greenhouse. Similarly, the WHMCS API provides a way to interact with WHMCS and automate various tasks.</p>
+		<p>Through the integration of these two platforms, companies can automate their hiring and onboarding processes. For example, the integration can allow businesses to automatically create accounts for new hires in WHMCS, assign appropriate permissions, and automate billing.</p>
+	</section>
+
+	<section>
+		<h2>Problems their integration solves</h2>
+		<p>The integration of Greenhouse and WHMCS solves several problems for businesses. Firstly, it reduces the manual effort required for onboarding new hires. Secondly, it eliminates the need for duplicate data entry between the two platforms. Additionally, it streamlines the communication between HR and accounting teams, making the process more efficient and error-free.</p>
+	</section>
+
+	<section>
+		<h2>Conclusion</h2>
+		<p>The integration of Greenhouse and WHMCS provides businesses with a way to automate their hiring and onboarding processes. It streamlines communication, eliminates duplication, and reduces manual effort. With this integration, businesses can focus on their core operations while improving their overall efficiency.</p>
+	</section>
+
+	<footer>
+		<p>Written by: [Your Name]</p>
+	</footer>
+</div>

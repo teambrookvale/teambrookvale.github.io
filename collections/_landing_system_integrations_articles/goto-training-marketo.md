@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/goto-training/marketo
+author: Edward Saunders
+title: "GoTo Training and Marketo Integration: A Match Made in Heaven"
+leadhead: "The integration of GoTo Training and Marketo is a match made in heaven"
+leadtext: "The two systems complement each other perfectly, providing businesses with a seamless platform to manage their training and marketing campaigns. With the help of APIs or SDKs, businesses can eliminate manual data entry, reduce errors, and make more informed decisions."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>GoTo Training and Marketo Integration: A Match Made in Heaven</h1>
+
+	<p>GoTo Training is a popular web conferencing and virtual training software that offers businesses an interactive platform to deliver training in a virtual environment. Marketo, on the other hand, is a leading marketing automation software that helps businesses streamline their marketing campaigns and generate more leads.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of GoTo Training and Marketo is made possible through the use of APIs (Application Programming Interfaces) or SDKs (Software Development Kits). API integration allows the two systems to communicate with each other and share data seamlessly. With a well-designed API, data can flow between the two systems in real-time, eliminating the need for manual data entry.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>There are several problems that the integration of GoTo Training and Marketo solves. First, the integration eliminates the need for manual data entry and reduces errors that may occur during the process. This saves time and resources that can be diverted to more productive tasks.</p>
+
+	<p>Secondly, the integration ensures that all important data is stored in one central location, making it easier to manage, analyze, and act on. This promotes better decision making as it provides a holistic view of the organization's training and marketing efforts.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of GoTo Training and Marketo is a match made in heaven. The two systems complement each other perfectly, providing businesses with a seamless platform to manage their training and marketing campaigns. With the help of APIs or SDKs, businesses can eliminate manual data entry, reduce errors, and make more informed decisions.</p>
+
+</div>

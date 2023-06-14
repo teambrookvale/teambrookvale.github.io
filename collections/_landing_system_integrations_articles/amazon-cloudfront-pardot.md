@@ -1,0 +1,24 @@
+---
+permalink: /landings/system-integrations/amazon-cloudfront/pardot
+author: Edward Saunders
+title: "Amazon CloudFront and Pardot Integration"
+leadhead: "The integration of Amazon CloudFront and Pardot is a powerful tool for marketers who want to improve their marketing efforts and deliver their content more efficiently to their users"
+leadtext: "With low latency, high transfer speeds, and optimized marketing workflows, this integration will help you generate more leads and automate your marketing tasks, all while improving your user experience."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon CloudFront and Pardot Integration</h1>
+	<p>Amazon CloudFront is a content delivery network that helps you deliver your web content to users with low latency and high transfer speeds. Pardot, on the other hand, is a marketing automation tool that helps marketers generate leads and automate their marketing tasks.</p>
+	<p>By integrating Amazon CloudFront and Pardot through API or SDK, you can improve your marketing efforts and deliver your content more efficiently to your users.</p>
+	<h2>Integration of Amazon CloudFront and Pardot</h2>
+	<p>The integration of Amazon CloudFront and Pardot can be done through API or SDK. The API integration allows you to connect Pardot with CloudFront and push your marketing data to the CDN. The SDK integration, on the other hand, allows you to optimize your marketing workflows and track your marketing campaigns through CloudFront.</p>
+	<h2>Problems their integration solves</h2>
+	<p>By integrating Amazon CloudFront and Pardot, you can:</p>
+	<ul>
+		<li>Deliver your web content to users with low latency and high transfer speeds</li>
+		<li>Optimize your marketing workflows and track your marketing campaigns</li>
+		<li>Generate more leads and automate your marketing tasks</li>
+		<li>Improve your user experience and increase your website's loading speed</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon CloudFront and Pardot is a powerful tool for marketers who want to improve their marketing efforts and deliver their content more efficiently to their users. With low latency, high transfer speeds, and optimized marketing workflows, this integration will help you generate more leads and automate your marketing tasks, all while improving your user experience.</p>
+</div>

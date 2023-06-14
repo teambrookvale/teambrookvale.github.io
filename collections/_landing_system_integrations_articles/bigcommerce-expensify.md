@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/bigcommerce/expensify
+author: Edward Saunders
+title: "Integrating BigCommerce and Expensify to Streamline your E-commerce Finances"
+leadhead: "Whether you're a small business owner just starting out or a seasoned e-commerce veteran, managing your finances can be a daunting task"
+leadtext: "Thankfully, solutions like BigCommerce and Expensify are available to help simplify the process. By integrating the two platforms, you can streamline your finances and focus on what really matters - growing your business."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating BigCommerce and Expensify to Streamline your E-commerce Finances</h1>
+
+    <p>Running an e-commerce business can be a challenging endeavor, particularly when it comes to managing financials. Thankfully, there are a number of tools and solutions available that help simplify invoicing, expense tracking, and other accounting tasks. Two of the best solutions available are BigCommerce and Expensify.</p>
+
+    <h2>BigCommerce</h2>
+
+    <p>BigCommerce is an all-in-one e-commerce platform that provides online merchants with the tools they need to build, host, and manage their online stores. Its user-friendly interface and robust feature set make it a top choice for businesses of all sizes.</p>
+
+    <h2>Expensify</h2>
+
+    <p>Expensify is an expense management tool that automates expense tracking, receipt scanning, and reimbursement processes. Its mobile app and desktop interface allow business owners to track expenses and manage reports from anywhere.</p>
+
+    <h2>Integration of the two through API or SDK</h2>
+
+    <p>Thanks to BigCommerce's built-in API and Expensify's SDK, it's easy to integrate the two platforms and streamline your financials. This integration allows transactions to flow seamlessly between the two platforms, reducing the need for manual data entry and reducing potential errors.</p>
+
+    <h2>Problems their integration solves</h2>
+
+    <p>By integrating BigCommerce and Expensify, e-commerce businesses can benefit in a number of ways. Firstly, it simplifies expense tracking and reporting, reducing the time and effort required to manage finances. Secondly, it allows business owners to gain more insight into their financials, enabling them to make informed decisions and improve their bottom line.</p>
+
+    <h2>Conclusion</h2>
+
+    <p>Whether you're a small business owner just starting out or a seasoned e-commerce veteran, managing your finances can be a daunting task. Thankfully, solutions like BigCommerce and Expensify are available to help simplify the process. By integrating the two platforms, you can streamline your finances and focus on what really matters - growing your business.</p>
+
+</div>

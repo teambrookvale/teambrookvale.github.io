@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/zendesk/mysql
+author: Edward Saunders
+title: "Zendesk and MySQL Integration"
+leadhead: "The integration of Zendesk and MySQL through APIs or SDKs is a powerful tool for organizations looking to improve their support processes and better manage customer data"
+leadtext: "By working together, these two platforms can offer greater benefits than they would individually, helping organizations to make better decisions and provide better support to their customers."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Zendesk and MySQL Integration: How it Works</h1>
+
+	<p>Zendesk and MySQL are both powerful tools, but when integrated properly, they can offer even greater benefits to organizations. Through the use of APIs or SDKs, Zendesk and MySQL can work together seamlessly to solve a number of problems.</p>
+
+	<h2>What is Zendesk?</h2>
+	<p>Zendesk is a customer service and support platform that allows organizations to streamline their support processes. It offers a range of features, including ticket management, multi-channel support, and automation tools.</p>
+
+	<h2>What is MySQL?</h2>
+	<p>MySQL is an open-source relational database management system. It is used by thousands of organizations around the world to store and manage data. MySQL is known for its speed, scalability, and flexibility.</p>
+
+	<h2>Integration of the Two Through API or SDK</h2>
+	<p>Zendesk and MySQL can be integrated through the use of APIs or SDKs. These tools allow the two platforms to communicate with each other, enabling data to be transferred between them in real-time.</p>
+
+	<p>For example, an organization could use Zendesk to manage support inquiries from customers. When a customer contacts support, their inquiry is logged in Zendesk and assigned a unique ticket number. By integrating Zendesk with MySQL, this data can then be automatically transferred to a MySQL database, where it can be stored and analyzed.</p>
+
+	<h2>Problems Their Integration Solves</h2>
+	<p>The integration of Zendesk and MySQL can solve a number of problems for organizations. One key benefit is improved data management. By storing customer support data in a MySQL database, organizations can more easily analyze it, identify trends, and make informed decisions based on that information.</p>
+
+	<p>The integration can also help to streamline support processes. By automatically transferring data between Zendesk and MySQL, organizations can reduce the need for manual data entry, saving time and reducing the risk of errors.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Zendesk and MySQL through APIs or SDKs is a powerful tool for organizations looking to improve their support processes and better manage customer data. By working together, these two platforms can offer greater benefits than they would individually, helping organizations to make better decisions and provide better support to their customers.</p>
+</div>

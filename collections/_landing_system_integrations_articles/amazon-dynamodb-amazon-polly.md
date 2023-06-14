@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/amazon-dynamodb/amazon-polly
+author: Edward Saunders
+title: "Amazon DynamoDB and Polly Integration"
+leadhead: "Amazon DynamoDB and Polly are powerful services on their own, but their integration opens up even more potential"
+leadtext: "By using the two together, businesses and developers can overcome various challenges and create unique experiences for their users. It's a testament to the flexibility and scalability of Amazon Web Services."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon DynamoDB and Polly Integration</h1>
+	
+	<p>Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. It eliminates the need for traditional database administration tasks, such as hardware provisioning, setup and configuration, replication, software patching, and more. Amazon Polly, on the other hand, is a service that turns text into lifelike speech. It uses advanced deep learning technologies to synthesize speech that sounds like a human voice.</p>
+
+	<p>These two services may seem very different, but they can be integrated to solve a variety of problems. The integration can be achieved through API or SDK, depending on the specific use case. Here are some examples of the problems that their integration can solve:</p>
+
+	<ul>
+		<li>Creating audio versions of articles or blog posts - Amazon Polly can be used to generate audio versions of written content, which can be stored in Amazon S3 and referenced in Amazon DynamoDB.</li>
+		<li>Building chatbots with voice response - Amazon DynamoDB can be used to store chatbot session data, while Amazon Polly can be used to provide voice responses to users.</li>
+		<li>Generating audio summaries of data entries - Amazon DynamoDB can be used to store large amounts of data, while Amazon Polly can be used to summarize the data in audio format for easy consumption.</li>
+	</ul>
+
+	<p>Overall, the integration of Amazon DynamoDB and Polly opens up a world of possibilities for businesses and developers. It allows for the creation of more engaging and efficient applications, as well as new use cases for voice technology. With the available API and SDK, the integration can be seamlessly incorporated into existing workflows and projects.</p>
+
+	<h2>Conclusion</h2>
+	<p>Amazon DynamoDB and Polly are powerful services on their own, but their integration opens up even more potential. By using the two together, businesses and developers can overcome various challenges and create unique experiences for their users. It's a testament to the flexibility and scalability of Amazon Web Services.</p>
+
+</div>

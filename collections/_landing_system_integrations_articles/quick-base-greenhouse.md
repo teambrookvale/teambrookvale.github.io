@@ -1,0 +1,39 @@
+---
+permalink: /landings/system-integrations/quick-base/greenhouse
+author: Edward Saunders
+title: "Quick Base and Greenhouse Integration: Solving Recruitment Woes"
+leadhead: "The integration of Quick Base and Greenhouse through API or SDK has significant benefits for organizations"
+leadtext: "By combining the strengths of both platforms, organizations can streamline their recruitment process, improve the candidate experience, and reduce manual labor. The automation of workflows and improved data visibility create better insights into operations and progress. Ultimately, integration provides better control to organizations to achieve their recruitment goals."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Quick Base and Greenhouse Integration: Solving Recruitment Woes</h1>
+	</header>
+	<section>
+		<p>Quick Base and Greenhouse are two popular software applications used by organizations to manage their operations. Quick Base is a cloud-based platform for building custom applications that streamline data management, while Greenhouse is recruitment software that helps organizations manage their hiring process.</p>
+
+		<p>The integration of Quick Base and Greenhouse through API or SDK has significant benefits for organizations. By integrating the two, organizations can leverage the strengths of both platforms to solve recruitment woes effectively.</p>
+
+		<h2>Integration of Quick Base and Greenhouse</h2>
+
+		<p>The integration of Quick Base and Greenhouse can be done through API or SDK. By using Greenhouse's API, an organization can retrieve data from Greenhouse and send it to Quick Base in real-time. Applications built with Quick Base can access Greenhouse's API to retrieve data, including candidate information, job postings, and interview schedules.</p>
+
+		<h2>Problems their integration solves</h2>
+
+		<p>Integrating Quick Base and Greenhouse software solves many recruitment woes, including:</p>
+
+		<ul>
+			<li>Manual data entry: Integrating Quick Base and Greenhouse eliminates the need for manual data entry. Information is automatically transferred between the two platforms, eliminating errors and saving time.</li>
+			<li>Improved candidate experience: By integrating Quick Base and Greenhouse, organizations can streamline their recruitment process, making it quicker and easier for candidates. Candidates receive timely communications about their status, saving them from sending follow-up emails or making phone calls.</li>
+			<li>Automated workflows: Integration between Quick Base and Greenhouse allows the automation of workflows, reducing manual labor and minimizing errors. For instance, when an offer letter is sent to a candidate, Greenhouse pushes this data to Quick Base, automating the onboarding process. </li>
+			<li>Improved data visibility: Integrating Quick Base and Greenhouse enables the creation of comprehensive reports from both platforms, providing valuable insights about an organization's recruitment process.</li>
+		</ul>
+
+		<h2>Conclusion</h2>
+
+		<p>The integration of Quick Base and Greenhouse through API or SDK has significant benefits for organizations. By combining the strengths of both platforms, organizations can streamline their recruitment process, improve the candidate experience, and reduce manual labor. The automation of workflows and improved data visibility create better insights into operations and progress. Ultimately, integration provides better control to organizations to achieve their recruitment goals.</p>
+	</section>
+	<footer>
+		<p>Written by a Quick Base and Greenhouse integration enthusiast</p>
+	</footer>
+</div>

@@ -1,0 +1,49 @@
+---
+permalink: /landings/system-integrations/pinterest/amazon-sqs
+author: Edward Saunders
+title: "Integrating Pinterest and Amazon SQS: Solving Communication Problems"
+leadhead: "Integrating Pinterest and Amazon SQS can provide developers with a powerful toolset to enable real-time and scalable communication between their applications and the Pinterest platform"
+leadtext: "By leveraging APIs and SDKs, developers can build innovative and efficient solutions that solve various communication problems and unlock new opportunities."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<header>
+		<h1>Integrating Pinterest and Amazon SQS: Solving Communication Problems</h1>
+	</header>
+
+	<section>
+		<h2>Pinterest</h2>
+		<p>Pinterest is a social media platform that allows users to discover, save, and share images, videos, and other content on their virtual bulletin boards.</p>
+	</section>
+
+	<section>
+		<h2>Amazon Simple Queue Service (SQS)</h2>
+		<p>Amazon SQS is a fully-managed message queuing service that enables decoupling and scaling of microservices, distributed systems, and serverless applications.</p>
+	</section>
+
+	<section>
+		<h2>Integration of the two through API or SDK</h2>
+		<p>Pinterest provides web APIs and SDKs that allow developers to programmatically access and manipulate data within their platform, such as users, boards, pins, and more. On the other hand, Amazon SQS offers APIs and SDKs that allow developers to create, manage, and retrieve messages in a queue.</p>
+		<p>By integrating Pinterest and Amazon SQS through their respective APIs or SDKs, developers can create a bi-directional communication channel between their applications and the Pinterest platform, enabling the exchange of data, notifications, and actions in real-time.</p>	
+	</section>
+
+	<section>
+		<h2>Problems their integration solves</h2>
+		<p>Integrating Pinterest and Amazon SQS can solve several communication problems in different scenarios:</p>
+		<ul>
+			<li>Real-time updates: Apps that require real-time updates on certain Pinterest boards, such as e-commerce sites that sync their products with a Pinterest board, can use Amazon SQS to subscribe to notifications whenever a board is updated.</li>
+			<li>Offline processing: Apps that need to process data from Pinterest in batches, such as analytics platforms that analyze Pinterest trends, can use Amazon SQS to retrieve a high volume of messages and perform offline processing in a scalable way.</li>
+			<li>Error handling: Apps that need to handle errors and retries when accessing Pinterest data, such as social media management platforms that post content to Pinterest, can use Amazon SQS to store failed requests and retry them later without losing data.</li>
+		</ul>
+	</section>
+
+	<section>
+		<h2>Conclusion</h2>
+		<p>Integrating Pinterest and Amazon SQS can provide developers with a powerful toolset to enable real-time and scalable communication between their applications and the Pinterest platform. By leveraging APIs and SDKs, developers can build innovative and efficient solutions that solve various communication problems and unlock new opportunities.</p>
+	</section>
+
+	<footer>
+		<p>&copy; 2021, All Rights Reserved.</p>
+	</footer>
+
+</div>

@@ -1,0 +1,38 @@
+---
+permalink: /landings/system-integrations/amazon-cloudfront/expensify
+author: Edward Saunders
+title: "Amazon CloudFront and Expensify Integration"
+leadhead: "The integration of Amazon CloudFront and Expensify through API or SDK is an effective way for businesses to manage their expenses while ensuring the secure and efficient delivery of data to clients"
+leadtext: "By leveraging the capabilities of these two platforms, businesses can reduce expenses, improve security, and enhance the user experience for their clients."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Amazon CloudFront and Expensify Integration</h1>
+
+	<p>Amazon CloudFront is a content delivery network (CDN) that securely delivers data, videos, and applications to users globally with low latency and high transfer speeds.</p>
+
+	<p>Expensify, on the other hand, is an expense management software that simplifies the process of tracking and submitting expenses for reimbursement.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>By integrating Amazon CloudFront with Expensify through API or SDK, businesses can effectively manage their expenses while ensuring that their data is delivered to clients securely and efficiently.</p>
+
+	<p>Expensify's API allows businesses to easily access expense data, which can be used to create reports that provide insights into spending patterns, budget allocation, and forecasting.</p>
+
+	<p>The integration of Amazon CloudFront and Expensify through SDK ensures that data is delivered securely and efficiently to users across the world. This helps businesses to reduce latency while also improving the user experience.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of Amazon CloudFront and Expensify solves a number of problems for businesses:</p>
+
+	<ul>
+		<li>Reduced expenses: With Expensify, businesses can effectively manage their expenses, which enables them to predict costs and take appropriate action to reduce expenses.</li>
+		<li>Improved security: Amazon CloudFront's security features ensure that data is delivered securely to users.</li>
+		<li>Better user experience: With Amazon CloudFront, businesses can deliver data to users quickly, which improves the user experience and can lead to increased conversions.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Amazon CloudFront and Expensify through API or SDK is an effective way for businesses to manage their expenses while ensuring the secure and efficient delivery of data to clients. By leveraging the capabilities of these two platforms, businesses can reduce expenses, improve security, and enhance the user experience for their clients.</p>
+
+</div>

@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/upwork/ai-by-zapier
+author: Edward Saunders
+title: "Upwork and AI by Zapier Integration"
+leadhead: "The integration of Upwork and AI by Zapier has many benefits for businesses"
+leadtext: "By automating their Upwork workflows with AI-powered tools, businesses can save time, increase efficiency, and improve productivity. If you're a business owner or freelancer looking to streamline your workflow, consider integrating Upwork with AI by Zapier."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Upwork and AI by Zapier Integration</h1>
+
+	<p>Upwork is a popular freelancing platform that connects businesses with freelancers from all over the world. Meanwhile, AI by Zapier is an automation platform that provides AI-powered tools for businesses to simplify their workflows and increase productivity. But did you know that these two platforms can be integrated to provide an even more powerful solution for businesses? Let's explore how.</p>
+
+	<h2>Integration of the Two through API or SDK</h2>
+
+	<p>The integration of Upwork and AI by Zapier can be done through their APIs or SDKs. Upwork has an API that allows businesses to access their freelancers' information, post and manage jobs, and even make payments. On the other hand, Zapier offers an SDK that allows developers to build custom integrations with their platform. By using these APIs and SDKs, businesses can automate their Upwork workflows using AI by Zapier's tools.</p>
+
+	<h2>Problems their Integration Solves</h2>
+
+	<p>Integrating Upwork and AI by Zapier can solve several problems for businesses. For example:</p>
+
+	<ul>
+		<li>Automating job postings - by setting up a Zap (an integration workflow on Zapier), businesses can automatically post a job on Upwork based on certain criteria, such as the job description and required skills.</li>
+		<li>Automating candidate screening - using AI by Zapier's AI tool, businesses can automatically screen Upwork freelancers based on their skills and experience.</li>
+		<li>Automating contract management - businesses can use Zapier to automatically create and manage contracts with their Upwork freelancers.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Upwork and AI by Zapier has many benefits for businesses. By automating their Upwork workflows with AI-powered tools, businesses can save time, increase efficiency, and improve productivity. If you're a business owner or freelancer looking to streamline your workflow, consider integrating Upwork with AI by Zapier.</p>
+
+</div>

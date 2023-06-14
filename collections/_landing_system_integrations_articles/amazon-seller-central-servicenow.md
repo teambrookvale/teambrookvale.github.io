@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/amazon-seller-central/servicenow
+author: Edward Saunders
+title: "Integration of Amazon Seller Central and ServiceNow through API/SDK"
+leadhead: "Integrating Amazon Seller Central and ServiceNow through API or SDK offers a solution to many of the challenges businesses face when managing their sales on Amazon"
+leadtext: "By providing a single platform to manage sales and IT service management, businesses can address issues more efficiently, automate tasks, and make informed decisions based on real-time data."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Amazon Seller Central and ServiceNow Integration</h1>
+    <p>Amazon Seller Central is a platform for businesses to sell their products and manage their sales on Amazon while ServiceNow is a cloud-based platform for IT service management. Integrating Amazon Seller Central and ServiceNow through API (Application Programming Interface) or SDK (Software Development Kit) offers a solution to many of the problems businesses face when trying to manage their sales on Amazon. </p>
+    <h2>What is Amazon Seller Central?</h2>
+    <p>Amazon Seller Central is a platform for businesses to sell their products on Amazon. It provides tools and resources for sellers to manage their sales, track their inventory, and communicate with their customers. </p>
+    <h2>What is ServiceNow?</h2>
+    <p>ServiceNow is a cloud-based platform for IT service management. It offers tools for businesses to streamline their IT operations, automate repetitive tasks, and improve customer service. </p>
+    <h2>Integration through API/SDK</h2>
+    <p>Integrating Amazon Seller Central and ServiceNow through API or SDK allows businesses to manage their sales on Amazon more efficiently. It enables them to create incidents or service requests in ServiceNow for issues related to Amazon sales, such as order fulfillment, shipping, and returns. This integration also provides insight into sales data and metrics, allowing businesses to make informed decisions based on real-time data.</p>
+    <h2>Problems this Integration Solves</h2>
+    <p>Integrating Amazon Seller Central and ServiceNow through API or SDK solves many of the problems businesses face when managing their sales on Amazon. It allows them to:</p>
+    <ul>
+      <li>Easily manage their sales on Amazon from a single platform</li>
+      <li>Quickly identify and address any issues related to sales</li>
+      <li>Automate repetitive tasks and streamline operations</li>
+      <li>Make informed decisions based on real-time data</li>
+    </ul>
+    <h2>Conclusion</h2>
+    <p>Integrating Amazon Seller Central and ServiceNow through API or SDK offers a solution to many of the challenges businesses face when managing their sales on Amazon. By providing a single platform to manage sales and IT service management, businesses can address issues more efficiently, automate tasks, and make informed decisions based on real-time data. </p>
+</div>

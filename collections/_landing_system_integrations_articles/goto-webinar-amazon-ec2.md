@@ -1,0 +1,15 @@
+---
+permalink: /landings/system-integrations/goto-webinar/amazon-ec2
+author: Edward Saunders
+title: "Integrating GoTo Webinar with Amazon EC2"
+leadhead: "Integrating GoTo Webinar with Amazon EC2 is a smart move for businesses that want to streamline their webinar processes and run their webinars more efficiently"
+leadtext: "By using an API or SDK, businesses can automate their webinar processes and run their webinars on virtual machines in the cloud, which saves time and effort and makes it easier to scale their webinars. Overall, this integration is a win-win for businesses that are looking to optimize their webinar strategy."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating GoTo Webinar with Amazon EC2</h1>
+    <p>GoTo Webinar is a popular webinar platform that allows businesses to host webinars for their customers. Amazon EC2 is a cloud computing service that helps businesses run their web applications on virtual machines in the cloud. The integration of GoTo Webinar with Amazon EC2 is done through an API or SDK, which makes it possible for businesses to automate their webinar processes and run their webinars on virtual machines in the cloud.</p>
+    <h2>Problems their integration solves</h2>
+    <p>By integrating GoTo Webinar with Amazon EC2, businesses can solve a number of problems. Firstly, they can automate their webinar processes, which saves time and effort for the business. They can also run their webinars on virtual machines in the cloud, which means they don’t have to worry about the technical aspects of hosting a webinar, such as server maintenance and backups. This also makes it possible for businesses to scale their webinars easily, as they can simply provision more virtual machines in the cloud as needed.</p>
+    <h2>Conclusion</h2>
+    <p>Integrating GoTo Webinar with Amazon EC2 is a smart move for businesses that want to streamline their webinar processes and run their webinars more efficiently. By using an API or SDK, businesses can automate their webinar processes and run their webinars on virtual machines in the cloud, which saves time and effort and makes it easier to scale their webinars. Overall, this integration is a win-win for businesses that are looking to optimize their webinar strategy.</p>
+</div>

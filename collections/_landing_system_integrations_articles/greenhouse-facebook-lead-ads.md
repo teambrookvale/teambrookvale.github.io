@@ -1,0 +1,39 @@
+---
+permalink: /landings/system-integrations/greenhouse/facebook-lead-ads
+author: Edward Saunders
+title: "Greenhouse and Facebook Lead Ads Integration: Solving Recruitment Woes"
+leadhead: "The integration of Greenhouse and Facebook Lead Ads offers a solution to the challenges recruiters face when trying to attract and hire the right talent"
+leadtext: "By leveraging the massive reach of Facebook and the powerful features of Greenhouse, organizations can streamline their recruitment process and focus on finding the perfect candidate for their organization."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Greenhouse and Facebook Lead Ads Integration: Solving Recruitment Woes</h1>
+    
+    <p>Recruiting the right talent for your organization can be a daunting task. The traditional methods of job postings and recruiting events can be time-consuming and expensive. However, the integration of Greenhouse and Facebook Lead Ads can streamline the recruitment process and help you find the right candidates.</p>
+    
+    <h2>What is Greenhouse?</h2>
+    
+    <p>Greenhouse is a recruiting software that helps organizations manage their entire recruitment process, from posting job openings to onboarding new hires. It provides tools for sourcing, applicant tracking, interview scheduling, and more.</p>
+    
+    <h2>What are Facebook Lead Ads?</h2>
+    
+    <p>Facebook Lead Ads are a type of advertisement that lets businesses capture lead information directly from their Facebook ads. These ads show up on users' newsfeeds and allow them to submit their contact information with just a few clicks.</p>
+    
+    <h2>How do they integrate?</h2>
+    
+    <p>Greenhouse's integration with Facebook Lead Ads allows organizations to collect job applications directly from Facebook. You can create a custom job application form within Greenhouse that syncs with your Facebook Lead Ads account. When a user clicks on the ad, they are redirected to the job application form, where they can submit their information directly to Greenhouse. This integration is made possible through the use of an API or SDK.</p>
+    
+    <h2>What problems does this integration solve?</h2>
+    
+    <p>The integration of Greenhouse and Facebook Lead Ads solves several recruitment problems:</p>
+    <ul>
+      <li>Increased reach: Facebook has over 2 billion active users, which means that your job postings can reach a broader audience.</li>
+      <li>Reduced time to hire: With the integration, candidates can apply directly from their Facebook feed, reducing the time it takes to go through multiple application channels.</li>
+      <li>Streamlined applicant tracking: All applications from Facebook are automatically synced with Greenhouse, making it easier to track and manage candidates.</li>
+      <li>Automated processes: By automating the application process, recruiters can focus more on finding the right candidates and less on administrative tasks.</li>
+    </ul>
+    
+    <h2>Conclusion</h2>
+    
+    <p>The integration of Greenhouse and Facebook Lead Ads offers a solution to the challenges recruiters face when trying to attract and hire the right talent. By leveraging the massive reach of Facebook and the powerful features of Greenhouse, organizations can streamline their recruitment process and focus on finding the perfect candidate for their organization.</p>
+    
+</div>

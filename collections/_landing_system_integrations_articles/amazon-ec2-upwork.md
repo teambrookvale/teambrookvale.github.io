@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/amazon-ec2/upwork
+author: Edward Saunders
+title: "Integration of Amazon EC2 and Upwork"
+leadhead: "The integration of Amazon EC2 and Upwork provides businesses with an easy and secure way to manage their cloud infrastructure while using remote workers"
+leadtext: "This integration helps to solve many of the problems faced by businesses who outsource their cloud infrastructure management, making it a valuable tool for both small and large businesses."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Amazon EC2 and Upwork</h1>
+
+	<h2>What is Amazon EC2?</h2>
+	<p>Amazon Elastic Compute Cloud (EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers.</p>
+
+	<h2>What is Upwork?</h2>
+	<p>Upwork is a popular online freelancing platform that connects businesses with freelancers and remote workers from around the world. It is an easy and cost-effective way to find and hire skilled professionals for a variety of projects.</p>
+
+	<h2>Integrating Amazon EC2 and Upwork</h2>
+	<p>Integrating Amazon EC2 and Upwork can be done through the use of API or SDK. This integration allows businesses to manage their cloud infrastructure on Amazon EC2 through the Upwork platform. This is particularly beneficial for businesses who use freelancers and remote workers to manage their cloud infrastructure. With this integration, businesses can grant access to their cloud infrastructure to their freelance workers, while still maintaining control over their cloud environment.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Amazon EC2 and Upwork solves many problems faced by businesses who use freelancers and remote workers for their cloud infrastructure management. These problems include:</p>
+	<ul>
+		<li>Difficulty in maintaining control over cloud infrastructure</li>
+		<li>Lack of visibility into the cloud environment</li>
+		<li>Limited access control for freelancers and remote workers</li>
+		<li>Security risks associated with granting access to cloud infrastructure</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon EC2 and Upwork provides businesses with an easy and secure way to manage their cloud infrastructure while using remote workers. This integration helps to solve many of the problems faced by businesses who outsource their cloud infrastructure management, making it a valuable tool for both small and large businesses.</p>
+</div>

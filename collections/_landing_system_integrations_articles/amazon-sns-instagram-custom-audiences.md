@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/amazon-sns/instagram-custom-audiences
+author: Edward Saunders
+title: "Integration of Amazon SNS and Instagram Custom Audiences - A Game Changer"
+leadhead: "The integration of Amazon SNS and Instagram Custom Audiences is a game changer for digital marketers"
+leadtext: "By leveraging these tools, businesses can reach their target audience with relevant messages and promotions, improve brand awareness and engagement, and increase conversions. With their integration, you can now send targeted messages to your Instagram custom audience using Amazon SNS. This can help you to stay ahead of the competition and achieve your marketing goals."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Amazon SNS and Instagram Custom Audiences - A Game Changer</h1>
+
+	<p>In today's digital marketing space, reaching the right audience at the right time has become the key to success. This is where Amazon SNS and Instagram Custom Audiences come into play. In this blog post, we will discuss their integration, the problems they solve, and its significance.</p>
+
+	<h2>Amazon SNS</h2>
+	<p>Amazon SNS is a simple notification service that allows you to send messages to multiple subscribers or endpoints. These messages can be in the form of SMS, email, or push notifications. It is a fully managed messaging service that helps you to decouple distributed systems and microservices.</p>
+
+	<h2>Instagram Custom Audiences</h2>
+	<p>Instagram Custom Audiences is a targeting option that allows advertisers to reach users based on their interactions with their brand. With this option, businesses can target users who have visited their website, engaged with their Facebook Page, or viewed their Instagram videos.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>The integration of Amazon SNS and Instagram Custom Audiences can be done through APIs or SDKs. Amazon SNS provides APIs that allow you to send messages to your subscribers, while Instagram allows you to create custom audiences using APIs or SDKs. By integrating the two, you can send targeted messages to your Instagram custom audience using Amazon SNS.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>By integrating Amazon SNS and Instagram Custom Audiences, you can solve the following problems:</p>
+	<ul>
+		<li>You can reach your target audience with relevant messages and promotions</li>
+		<li>You can enhance your brand awareness and engagement by targeting users who have already shown interest in your brand</li>
+		<li>You can improve your ROI by reducing ad wastage and increasing conversions</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon SNS and Instagram Custom Audiences is a game changer for digital marketers. By leveraging these tools, businesses can reach their target audience with relevant messages and promotions, improve brand awareness and engagement, and increase conversions. With their integration, you can now send targeted messages to your Instagram custom audience using Amazon SNS. This can help you to stay ahead of the competition and achieve your marketing goals.</p>
+</div>

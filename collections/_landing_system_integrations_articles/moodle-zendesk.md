@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/moodle/zendesk
+author: Edward Saunders
+title: "Integration of Moodle and Zendesk through API or SDK"
+leadhead: "The integration of Moodle and Zendesk can provide businesses and institutions with a powerful tool to manage their online learning and customer support"
+leadtext: "By utilizing the API or SDK, developers can create customized solutions to meet the unique needs of their organization. This integration can improve the experience for both learners and customers, and ultimately drive greater success for the business or institution as a whole."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integration of Moodle and Zendesk through API or SDK</h1>
+    <p>Moodle and Zendesk are two popular software applications used by businesses and educational institutions. Moodle is an open-source learning management system used for online learning and course management, while Zendesk is a cloud-based customer service software used for managing customer interactions and support requests.</p>
+    
+    <h2>Integration through API or SDK</h2>
+    <p>Moodle and Zendesk can be integrated through their Application Programming Interface (API) or Software Development Kit (SDK). An API allows for two software applications to communicate and exchange data. An SDK provides pre-built code for developers to integrate and customize features between the applications. Both methods provide a seamless integration between Moodle and Zendesk, making it easier for businesses and institutions to manage their online learning and customer support.</p>
+    
+    <h2>Problems their integration solves</h2>
+    <p>Integrating Moodle and Zendesk can provide a number of benefits for businesses and institutions. For example, customer support tickets created in Zendesk can be linked to Moodle courses or activities, allowing support teams to provide targeted assistance to customers or learners. This integration can also help businesses and institutions track the effectiveness of their customer support and the satisfaction of their learners.</p>
+    
+    <h2>Conclusion</h2>
+    <p>The integration of Moodle and Zendesk can provide businesses and institutions with a powerful tool to manage their online learning and customer support. By utilizing the API or SDK, developers can create customized solutions to meet the unique needs of their organization. This integration can improve the experience for both learners and customers, and ultimately drive greater success for the business or institution as a whole.</p>
+</div>

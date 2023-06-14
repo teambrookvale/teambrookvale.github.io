@@ -1,0 +1,15 @@
+---
+permalink: /landings/system-integrations/amazon-cloudfront/google-bigquery
+author: Edward Saunders
+title: "Amazon CloudFront and Google BigQuery Integration"
+leadhead: "The integration of Amazon CloudFront and Google BigQuery is a game-changer for businesses that want to deliver content to customers quickly and efficiently"
+leadtext: "By leveraging the power of BigQuery's real-time data analytics and Amazon CloudFront's global network, businesses can improve their website's performance and user experience, ultimately leading to increased customer satisfaction and revenue."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon CloudFront and Google BigQuery Integration</h1>
+	<p>Amazon CloudFront is a content delivery network (CDN) that securely delivers data, videos, and applications to customers around the world at high speeds. Google BigQuery is a cloud-based data warehousing and analytics service that enables businesses to store and analyze large datasets in real-time.</p>
+	<p>The integration of Amazon CloudFront and Google BigQuery can be achieved through APIs or SDKs. By integrating the two services, it becomes easier to monitor and analyze the performance of a website or web application that is being served through Amazon CloudFront. BigQuery can help to identify trends in user behavior and improve the overall user experience.</p>
+	<p>The integration of Amazon CloudFront and Google BigQuery solves several problems faced by businesses. Firstly, it provides businesses with real-time data and analytics, which is essential for making informed decisions. Secondly, it allows businesses to take advantage of Amazon CloudFront's global network to serve content to customers faster. Finally, it enables businesses to optimize content delivery based on user behavior and usage patterns.</p>
+	<h3>Conclusion</h3>
+	<p>The integration of Amazon CloudFront and Google BigQuery is a game-changer for businesses that want to deliver content to customers quickly and efficiently. By leveraging the power of BigQuery's real-time data analytics and Amazon CloudFront's global network, businesses can improve their website's performance and user experience, ultimately leading to increased customer satisfaction and revenue.</p>
+</div>

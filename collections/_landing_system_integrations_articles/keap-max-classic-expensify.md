@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/keap-max-classic/expensify
+author: Edward Saunders
+title: "Keap Max Classic and Expensify Integration"
+leadhead: "Keap Max Classic and Expensify integration through API or SDK is extremely helpful for small businesses looking to streamline their sales, marketing, and expense management processes"
+leadtext: "It saves time, reduces the chance of errors, and provides accurate data for better decision making."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Keap Max Classic and Expensify Integration</h1>
+	</header>
+	<main>
+		<h2>What is Keap Max Classic?</h2>
+		<p>Keap Max Classic is an all-in-one customer management software that helps small businesses automate their sales and marketing processes. It provides features like contact management, lead capture forms, email marketing campaigns, and sales pipeline management.</p>
+
+		<h2>What is Expensify?</h2>
+		<p>Expensify is a cloud-based application that simplifies the process of expense management. It provides features like automatic receipt scanning, mileage tracking, and reimbursement workflows.</p>
+
+		<h2>Integration of the two through API or SDK</h2>
+		<p>Keap Max Classic and Expensify can be integrated through API or SDK. This integration allows you to sync your expenses from Expensify to Keap Max Classic and track your expenses against your sales and marketing efforts.</p>
+
+		<h2>Problems their integration solves</h2>
+		<p>The integration of Keap Max Classic and Expensify solves many problems for small business owners. It saves time and reduces the chance of human error when it comes to expense tracking and reporting. It also provides more accurate data for the business to be able to make better informed decisions about their financial health.</p>
+
+		<h2>Conclusion</h2>
+		<p>Keap Max Classic and Expensify integration through API or SDK is extremely helpful for small businesses looking to streamline their sales, marketing, and expense management processes. It saves time, reduces the chance of errors, and provides accurate data for better decision making. </p>
+	</main>
+</div>

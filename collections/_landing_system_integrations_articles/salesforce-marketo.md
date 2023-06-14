@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/salesforce/marketo
+author: Edward Saunders
+title: "Integration of Salesforce and Marketo: Solving Problems and Unlocking Potential"
+leadhead: "The integration of Salesforce and Marketo is a powerful tool for businesses seeking to unlock their full potential"
+leadtext: "By combining the strengths of both platforms, businesses can improve lead management, gain deeper customer insights, and optimize sales processes, ultimately driving revenue growth and improving customer satisfaction."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Salesforce and Marketo: Solving Problems and Unlocking Potential</h1>
+	<p>When it comes to managing customer relationships and marketing automation, Salesforce and Marketo are two leading platforms in their respective fields. While Salesforce provides a robust CRM solution, Marketo offers powerful marketing automation capabilities. However, businesses can reap even more benefits by integrating the two systems.</p>
+	<h2>The Integration Process</h2>
+	<p>The integration of Salesforce and Marketo can be achieved through API or SDK. By using an API integration, businesses can transfer data in real-time between the two systems, enable automatic synchronization of records, and automate marketing campaigns. Using the Marketo SDK integration, businesses can create custom integrations, develop native integrations with the Marketo Engagement Platform, and access the full range of Marketo's functionalities.</p>
+	<h2>The Benefits of Integration</h2>
+	<p>Integrating Salesforce and Marketo can bring numerous benefits to businesses. First and foremost, it can improve lead management by enabling marketers to identify, score, and prioritize leads based on their behavior, interests, and interactions. By combining data from both systems, businesses can gain deeper insights into customer behavior and preferences, which can inform marketing strategies and drive revenue growth. In addition, integration can optimize sales processes by enabling sales teams to access lead scoring, lead nurturing, and campaign information from within Salesforce, reducing manual effort and improving collaboration between sales and marketing teams.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Salesforce and Marketo is a powerful tool for businesses seeking to unlock their full potential. By combining the strengths of both platforms, businesses can improve lead management, gain deeper customer insights, and optimize sales processes, ultimately driving revenue growth and improving customer satisfaction.</p>
+</div>

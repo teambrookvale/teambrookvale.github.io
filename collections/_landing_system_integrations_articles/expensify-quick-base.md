@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/expensify/quick-base
+author: Edward Saunders
+title: "Expensify and Quick Base integration"
+leadhead: "The integration of Expensify and Quick Base can bring significant benefits to businesses looking to streamline their expense management process and improve their workflows"
+leadtext: "By connecting these two platforms, businesses can gain real-time visibility into their expenses, reduce human errors, and increase productivity."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext"><h1>Expensify and Quick Base integration - A match made in heaven!</h1>
+<p>Expensify is a popular expense management tool that helps businesses streamline their expense reporting process. Quick Base is an application development platform that allows businesses to build custom apps to manage their workflows.</p>
+<p>Integrating Expensify and Quick Base can bring a lot of benefits to businesses. This integration can be achieved through API or SDK, which are software tools that allow different applications to communicate with each other.</p>
+<h2>Benefits of integrating Expensify and Quick Base</h2>
+<ul>
+<li><b>Streamlined expense reporting:</b> Employees can easily submit their expenses through Expensify, which then gets automatically added to Quick Base for further processing.</li>
+<li><b>Improved accuracy:</b> Manual data entry errors can be reduced as the integration ensures that information is seamlessly transferred between the two platforms.</li>
+<li><b>Real-time reporting:</b> Managers can get real-time visibility into their team’s expenses and track their budgets and spendings.</li>
+</ul>
+<h2>How the integration works</h2>
+<p>The integration of Expensify and Quick Base can be achieved through their APIs. Expensify’s API allows developers to build custom integrations, while Quick Base SDKs provide a set of tools and libraries to help developers customize their Quick Base apps. </p>
+<p>The integration process involves creating an API connection between the two platforms and establishing data syncing rules. For instance, when an expense report is submitted in Expensify, the integration rules define how the data should be transferred and which fields should be mapped in Quick Base.</p>
+<h2>Conclusion</h2>
+<p>The integration of Expensify and Quick Base can bring significant benefits to businesses looking to streamline their expense management process and improve their workflows. By connecting these two platforms, businesses can gain real-time visibility into their expenses, reduce human errors, and increase productivity.</p>
+</div>

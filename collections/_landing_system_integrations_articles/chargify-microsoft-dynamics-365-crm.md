@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/chargify/microsoft-dynamics-365-crm
+author: Edward Saunders
+title: "Integration of Chargify and Microsoft Dynamics 365 CRM"
+leadhead: "Overall, the integration of Chargify and Microsoft Dynamics 365 CRM is a powerful way for businesses to streamline their processes and improve efficiency"
+leadtext: "Whether you're looking for better subscription management or improved customer insights, this integration can help you achieve your goals."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Chargify and Microsoft Dynamics 365 CRM</h1>
+	<p>In today's digital world, businesses are always looking for ways to streamline their processes and improve efficiency. One way to do this is by integrating different software solutions to create a unified system. In this article, we'll explore the integration of Chargify and Microsoft Dynamics 365 CRM.</p>
+
+	<h2>Chargify</h2>
+	<p>Chargify is a subscription billing management platform that helps businesses handle the complexities of recurring billing. It offers a suite of tools that allow businesses to set up and manage subscription plans, automate billing and payment processes, and analyze revenue data.</p>
+
+	<h2>Microsoft Dynamics 365 CRM</h2>
+	<p>Microsoft Dynamics 365 CRM is a customer relationship management platform that helps businesses manage their interactions with customers. It offers a variety of tools for sales, marketing, and customer service, all within a single, unified platform.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of Chargify and Microsoft Dynamics 365 CRM can be achieved through the use of either an API or an SDK. The API allows for the transfer of data between the two platforms, while the SDK provides a more customizable integration experience through the use of code libraries.</p>
+
+	<h2>Problems their Integration solves</h2>
+	<p>The integration of Chargify and Microsoft Dynamics 365 CRM solves a variety of problems for businesses. First, it allows for the seamless transfer of subscription data from one platform to the other, making it easier for businesses to manage their recurring billing processes. It also provides a more complete view of customer data by integrating subscription data with other customer information, such as sales and support interactions.</p>
+
+	<h2>Conclusion</h2>
+	<p>Overall, the integration of Chargify and Microsoft Dynamics 365 CRM is a powerful way for businesses to streamline their processes and improve efficiency. Whether you're looking for better subscription management or improved customer insights, this integration can help you achieve your goals.</p>
+</div>

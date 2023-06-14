@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/postgresql/zendesk
+author: Edward Saunders
+title: "PostgreSQL and Zendesk Integration"
+leadhead: "The integration of PostgreSQL and Zendesk can greatly improve customer support and efficiency for businesses"
+leadtext: "With the right know-how, API or SDK integration is achievable. By solving problems like personalization, efficiency, and real-time data visualization, businesses can provide better support for their customers and stay ahead of the competition."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>PostgreSQL and Zendesk Integration</h1>
+	<p>PostgreSQL is a powerful open-source relational database management system. On the other hand, Zendesk is a cloud-based customer service software. Although they serve different purposes, the integration of the two can be a game-changer.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of PostgreSQL and Zendesk can be achieved through API or SDK. APIs allow communication between different software systems, while SDKs provide a set of tools to build software applications. Both options require some coding knowledge but can be easily done with the help of good documentation and tutorials.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of PostgreSQL and Zendesk solves several problems that businesses may face:</p>
+	<ul>
+		<li>Personalized customer support: By integrating these two systems, businesses can access customer data stored in PostgreSQL to personalize their responses and provide better customer support.</li>
+		<li>Efficient workflows: Automatically creating tickets on Zendesk when specific events occur in PostgreSQL can streamline workflows and reduce manual data entry.</li>
+		<li>Real-time data visualization: Integrating PostgreSQL with Zendesk can help teams to monitor customer support metrics in real-time and adjust their strategies accordingly.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of PostgreSQL and Zendesk can greatly improve customer support and efficiency for businesses. With the right know-how, API or SDK integration is achievable. By solving problems like personalization, efficiency, and real-time data visualization, businesses can provide better support for their customers and stay ahead of the competition.</p>
+</div>

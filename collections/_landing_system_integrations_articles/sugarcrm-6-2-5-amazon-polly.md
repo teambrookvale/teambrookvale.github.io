@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-polly
+author: Edward Saunders
+title: "Integrating SugarCRM 6.2-5 with Amazon Polly using API/SDK"
+leadhead: "The integration of SugarCRM 6.2-5 with Amazon Polly is a game-changer for businesses looking to improve their customer support process"
+leadtext: "By leveraging the power of text-to-speech technologies, businesses can automate their support process, reduce wait times, and provide a better overall experience for their customers. Additionally, generating audio versions of sales proposals and other documents using Polly significantly improves the effectiveness of the sales process. Overall, this integration is highly recommended for businesses looking to stay ahead of the competition and cater to the changing needs of their customers."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating SugarCRM 6.2-5 with Amazon Polly</h1>
+	<p>SugarCRM 6.2-5 is a popular customer relationship management (CRM) tool used by businesses to manage their interactions with customers. It offers a range of features such as lead and opportunity management, sales forecasting, and customer support. On the other hand, Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to convert written texts into natural-sounding speech.</p>
+	<h2>Integration through API/SDK</h2>
+	<p>To integrate SugarCRM with Amazon Polly, the two can be integrated using an application programming interface (API) or software development kit (SDK). This allows businesses to leverage the benefits of both tools to provide a better customer experience. The integration can be done by developers using various programming languages such as Java, Python, .Net, etc.</p>
+	<h2>Problems solved by integration</h2>
+	<p>One of the main benefits of integrating SugarCRM with Amazon Polly is that it enables businesses to automate their customer support process. With Polly's text-to-speech capabilities, businesses can easily create voice-based solutions for their support systems. For instance, when a customer calls in with a query, Polly can be used to convert the customer's question into speech and provide an automated response. This reduces the wait time for customers and improves the overall support experience. Moreover, integrating Polly with SugarCRM also allows businesses to generate audio versions of sales proposals and other important documents. This makes it easier for sales reps to communicate and engage with customers who prefer auditory content.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of SugarCRM 6.2-5 with Amazon Polly is a game-changer for businesses looking to improve their customer support process. By leveraging the power of text-to-speech technologies, businesses can automate their support process, reduce wait times, and provide a better overall experience for their customers. Additionally, generating audio versions of sales proposals and other documents using Polly significantly improves the effectiveness of the sales process. Overall, this integration is highly recommended for businesses looking to stay ahead of the competition and cater to the changing needs of their customers.</p>
+</div>

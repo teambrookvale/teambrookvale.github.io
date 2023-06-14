@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/amazon-ses/goto-training
+author: Edward Saunders
+title: "Integrating Amazon SES and GoTo Training: A Powerful Combination"
+leadhead: "The integration of Amazon SES and GoTo Training is a powerful combination that can help businesses communicate effectively and efficiently with their customers and employees"
+leadtext: "The seamless integration through API or SDK saves businesses time and ensures that attendees have all the information they need to attend the training session. Furthermore, the integration enables businesses to avoid any misunderstandings or missed sessions by improving email deliverability. Overall, the integration of Amazon SES and GoTo Training is a valuable solution for any businesses looking to streamline their communication and training processes."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Amazon SES and GoTo Training: A Powerful Combination</h1>
+	<p>Amazon SES (Simple Email Service) and GoTo Training are two powerful tools that can help businesses communicate effectively and efficiently with their customers and employees. And the great news is that these two tools can be integrated seamlessly through API or SDK.</p>
+
+	<h2>Amazon SES</h2>
+	<p>Amazon SES is an email platform designed for developers who need to send transactional emails. With SES, businesses can send emails to customers such as order confirmations, password resets, and alerts. SES is reliable, scalable, and cost-effective, making it a popular choice among businesses of all sizes.</p>
+
+	<h2>GoTo Training</h2>
+	<p>GoTo Training is a web-based training platform that allows businesses to conduct virtual training sessions. It is an ideal solution for businesses that have remote employees or need to train customers or partners. GoTo Training is easy to use, and the features include screen sharing, recording, and interactive whiteboard.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>The integration of Amazon SES and GoTo Training is straightforward and can be done through API or SDK. With the integration, businesses can send emails to their training attendees with the training link, session details, and any other relevant information. This automation saves businesses time and ensures that attendees have all the information they need to attend the training session.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>Integrating Amazon SES and GoTo Training solves two significant problems. The first is the challenge of sending training information to attendees. Before the integration, businesses had to manually send emails with the training link and information, which was time-consuming and inefficient. The integration automates this process, saving businesses time and ensuring that attendees have all the information they need to attend the training session.</p>
+	<p>The second problem that the integration solves is email deliverability. Amazon SES is designed to ensure that emails are delivered to their intended recipients. With the integration, businesses can be assured that the training emails will be delivered to their attendees' inboxes. This ensures that attendees have the information they need to attend the training session and helps businesses avoid any misunderstandings or missed sessions.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon SES and GoTo Training is a powerful combination that can help businesses communicate effectively and efficiently with their customers and employees. The seamless integration through API or SDK saves businesses time and ensures that attendees have all the information they need to attend the training session. Furthermore, the integration enables businesses to avoid any misunderstandings or missed sessions by improving email deliverability. Overall, the integration of Amazon SES and GoTo Training is a valuable solution for any businesses looking to streamline their communication and training processes.</p>
+</div>

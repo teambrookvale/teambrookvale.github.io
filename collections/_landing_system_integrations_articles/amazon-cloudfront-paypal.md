@@ -1,0 +1,30 @@
+---
+permalink: /landings/system-integrations/amazon-cloudfront/paypal
+author: Edward Saunders
+title: "Integrating Amazon CloudFront and PayPal"
+leadhead: "Integrating Amazon CloudFront and PayPal is a great way for businesses to improve their user experience while ensuring the security and speed of their online transactions"
+leadtext: "With this integration, they can provide faster page load times, better content delivery, and secure payment options for their customers. Take advantage of the benefits of these two services and integrate them today."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integrating Amazon CloudFront and PayPal</h1>
+	</header>
+	<section>
+		<h2>Amazon CloudFront</h2>
+		<p>Amazon CloudFront is a content delivery network (CDN) offered by Amazon Web Services. It is designed to speed up the delivery of static and dynamic web content, such as HTML, CSS, JavaScript, and images, to users all over the world.</p>
+
+		<h2>PayPal</h2>
+		<p>PayPal is a popular payment gateway that allows users to send and receive online payments securely. It is used by millions of businesses and individuals worldwide.</p>
+
+		<h2>Integration of the two through API or SDK</h2>
+		<p>The integration of Amazon CloudFront and PayPal is possible through the use of APIs or SDKs. With this integration, customers can make payments securely and enjoy faster content delivery around the world.</p>
+
+		<h2>Problems their integration solves</h2>
+		<p>Integration of Amazon CloudFront and PayPal solves integration challenges while ensuring secure and fast content delivery. Businesses can provide a better user experience for their customers with PayPal’s convenient payment options. They can also benefit from Amazon CloudFront’s low latency and high transfer speeds, which can enhance website performance and user satisfaction.</p>
+
+	</section>
+	<footer>
+		<h3>Conclusion</h3>
+		<p>Integrating Amazon CloudFront and PayPal is a great way for businesses to improve their user experience while ensuring the security and speed of their online transactions. With this integration, they can provide faster page load times, better content delivery, and secure payment options for their customers. Take advantage of the benefits of these two services and integrate them today.</p>
+	</footer>
+</div>

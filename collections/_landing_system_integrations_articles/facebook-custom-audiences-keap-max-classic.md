@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/keap-max-classic
+author: Edward Saunders
+title: "Integrating Facebook Custom Audiences with Keap Max Classic"
+leadhead: "Integrating Facebook Custom Audiences with Keap Max Classic is a powerful tool for businesses looking to take their marketing efforts to the next level"
+leadtext: "By leveraging user behavior within Keap, businesses can create highly targeted and effective campaigns on Facebook. This integration solves many problems for businesses and can help them improve their ROI and expand their reach. If you are looking to improve your marketing efforts, integrating Facebook Custom Audiences with Keap Max Classic is a must."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Facebook Custom Audiences with Keap Max Classic</h1>
+
+	<p>Facebook Custom Audiences is a powerful tool that allows businesses to target specific groups of users based on their Facebook activity. With the integration of Keap Max Classic, businesses can take their marketing efforts to the next level by targeting users based on their behavior within the Keap platform.</p>
+
+	<p>The integration of Facebook Custom Audiences with Keap Max Classic can be achieved through the use of API or SDK. With the API, businesses can easily import their Keap contacts to create Custom Audiences on Facebook. Similarly, the SDK allows businesses to track user behavior within Keap and retarget them through their Facebook campaigns.</p>
+
+	<p>This integration solves many problems for businesses. Firstly, it allows businesses to target users with more relevant and personalized ads. By leveraging user behavior within Keap, businesses can create Custom Audiences that are highly targeted and focused. This leads to more effective marketing campaigns and higher ROI.</p>
+
+	<p>Additionally, this integration allows businesses to expand their reach and improve their brand recognition. By retargeting users on Facebook, businesses can reach users who may not have engaged with their brand through other channels. This can help businesses increase their brand awareness and attract new customers.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating Facebook Custom Audiences with Keap Max Classic is a powerful tool for businesses looking to take their marketing efforts to the next level. By leveraging user behavior within Keap, businesses can create highly targeted and effective campaigns on Facebook. This integration solves many problems for businesses and can help them improve their ROI and expand their reach. If you are looking to improve your marketing efforts, integrating Facebook Custom Audiences with Keap Max Classic is a must.</p>
+
+</div>

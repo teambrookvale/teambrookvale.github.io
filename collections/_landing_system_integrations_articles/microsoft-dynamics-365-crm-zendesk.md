@@ -1,0 +1,46 @@
+---
+permalink: /landings/system-integrations/microsoft-dynamics-365-crm/zendesk
+author: Edward Saunders
+title: "Microsoft Dynamics 365 CRM and Zendesk Integration"
+leadhead: "The integration of Microsoft Dynamics 365 CRM and Zendesk can provide businesses with a range of benefits"
+leadtext: "By automating processes, reducing manual data entry, and gaining insights into customer behavior, businesses can improve their customer service and relationship management processes. As customer expectations continue to rise, businesses that integrate their customer service and relationship management processes will be better equipped to serve their customers and stay ahead of the competition."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <header>
+      <h1>Microsoft Dynamics 365 CRM and Zendesk Integration</h1>
+    </header>
+
+    <section>
+      <h2>What is Microsoft Dynamics 365 CRM?</h2>
+      <p>Microsoft Dynamics 365 CRM is a customer relationship management software that helps businesses manage interactions with their customers and potential customers. It provides a wide range of tools to manage sales, marketing, and customer service processes.</p>
+    </section>
+
+    <section>
+      <h2>What is Zendesk?</h2>
+      <p>Zendesk is a customer service software that allows businesses to manage customer support queries across various channels. It enables businesses to provide a better customer experience by streamlining customer interactions and improving response times.</p>
+    </section>
+
+    <section>
+      <h2>Integration of the two through API or SDK</h2>
+      <p>Microsoft Dynamics 365 CRM and Zendesk can be integrated using their APIs or SDKs. An API allows two software applications to communicate with each other, while an SDK provides a set of tools for building software applications. By integrating the two, businesses can create a seamless integration between their customer service and customer relationship management processes.</p>
+    </section>
+
+    <section>
+      <h2>Problems their integration solves</h2>
+      <p>Microsoft Dynamics 365 CRM and Zendesk integration can solve a range of problems for businesses, including:</p>
+      <ul>
+        <li>Improved customer service: By integrating customer service data with customer relationship management data, businesses can gain a more comprehensive view of their customers and improve their customer service interactions.</li>
+        <li>Increased efficiency: With the integration of Microsoft Dynamics 365 CRM and Zendesk, businesses can automate processes and reduce manual data entry, allowing them to work more efficiently.</li>
+        <li>Better decision-making: Integration enables businesses to gain insights into customer behavior and preferences, which can inform better decision-making.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Conclusion</h2>
+      <p>The integration of Microsoft Dynamics 365 CRM and Zendesk can provide businesses with a range of benefits. By automating processes, reducing manual data entry, and gaining insights into customer behavior, businesses can improve their customer service and relationship management processes. As customer expectations continue to rise, businesses that integrate their customer service and relationship management processes will be better equipped to serve their customers and stay ahead of the competition.</p>
+    </section>
+
+    <footer>
+      <p>Written by [Your Name]</p>
+    </footer>
+</div>

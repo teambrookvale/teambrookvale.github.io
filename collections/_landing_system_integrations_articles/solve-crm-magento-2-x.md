@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/solve-crm/magento-2-x
+author: Edward Saunders
+title: "Integrating Solve CRM and Magento 2.X"
+leadhead: "Integrating Solve CRM and Magento 2.X is a smart move for businesses that want to streamline their sales and customer relationship management processes"
+leadtext: "The integration can help businesses save time and improve their customer experience. Businesses can choose the integration method that works best for them and start enjoying the benefits of a unified platform."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integrating Solve CRM and Magento 2.X</h1>
+
+	<p>Solve CRM and Magento 2.X are two powerful tools that can greatly benefit businesses in terms of sales and customer relationship management. However, when used separately, they can also create a lot of manual work and data redundancy.</p>
+
+	<h2>Solve CRM</h2>
+
+	<p>Solve CRM is a cloud-based customer relationship management software that helps businesses manage their interactions with customers and prospects. It offers features such as lead and opportunity management, ticket tracking, contact management, and collaboration tools.</p>
+
+	<h2>Magento 2.X</h2>
+
+	<p>Magento 2.X is an open-source e-commerce platform that enables businesses to build and manage their online stores. It has a wide array of features such as product catalog management, shopping cart, checkout, payment and shipping integrations, and marketing tools.</p>
+
+	<h2>Integration of the Two</h2>
+
+	<p>The integration of Solve CRM and Magento 2.X can be achieved through various means such as API or SDK. With the integration, businesses can synchronize customer data, order history, and other relevant information. This means that sales and customer service teams can access real-time customer data from either platform without the need for manual data entry.</p>
+
+	<h2>Problems their Integration Solves</h2>
+
+	<p>The integration of Solve CRM and Magento 2.X solves the problem of data duplication and manual data entry. It also enables businesses to have a unified view of their customers, which helps them create more personalized experiences for their customers. For instance, if a customer has an issue with their order, the customer service team can easily access their order history from Solve CRM and quickly resolve the issue.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating Solve CRM and Magento 2.X is a smart move for businesses that want to streamline their sales and customer relationship management processes. The integration can help businesses save time and improve their customer experience. Businesses can choose the integration method that works best for them and start enjoying the benefits of a unified platform.</p>
+
+</div>

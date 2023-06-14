@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/servicenow/expensify
+author: Edward Saunders
+title: "ServiceNow and Expensify Integration"
+leadhead: "The integration of ServiceNow and Expensify provides businesses with a comprehensive solution for IT service management and expense management"
+leadtext: "It provides full automation for expenses reports, makes it easier to find and manage expense data, saves time, and eliminates errors due to manual data transfer. Organizations that integrate both software will be able to operate more efficiently and increase productivity."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>ServiceNow and Expensify Integration</h1>
+
+	<p>ServiceNow and Expensify are two powerful tools that can manage different aspects of businesses. ServiceNow is an IT service management platform that streamlines complex workflows, while Expensify is an expense management software that automates expense report generation. Both tools can greatly benefit organizations, but their integration can solve more complex challenges.</p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>The integration of ServiceNow and Expensify can be done through the use of API or SDK. By using the ServiceNow API, it allows developers to easily access ServiceNow data and functionality from third-party applications, including Expensify. In the same manner, the Expensify SDK enables developers to create custom integrations between Expensify and other business software, including ServiceNow.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>ServiceNow and Expensify integration offers a wide range of benefits. One of the main problems that it solves is the manual transfer of data between both systems. Users no longer have to manually copy and paste data from Expensify to ServiceNow, saving time and reducing the chances of errors. The integration also streamlines expense management by automating expense report generation and reconciliation, allowing organizations to have better control and visibility into their expenses.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of ServiceNow and Expensify provides businesses with a comprehensive solution for IT service management and expense management. It provides full automation for expenses reports, makes it easier to find and manage expense data, saves time, and eliminates errors due to manual data transfer. Organizations that integrate both software will be able to operate more efficiently and increase productivity.</p>
+
+</div>

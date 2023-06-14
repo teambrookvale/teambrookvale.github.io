@@ -1,0 +1,56 @@
+---
+permalink: /landings/system-integrations/goto-training/solve-crm
+author: Edward Saunders
+title: "GoTo Training and Solve CRM Integration"
+leadhead: "Integration of GoTo Training and Solve CRM can provide businesses with a one-stop
+      solution for customer engagement and training"
+leadtext: "By eliminating manual data entry, streamlining
+      workflow, and providing better reporting, businesses can save time, improve efficiency,
+      and enhance customer experience. Whether through API or SDK, businesses should consider
+      integrating GoTo Training and Solve CRM for a seamless and effective workflow."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>GoTo Training and Solve CRM Integration</h1>
+    <p>
+      GoTo Training is a web-based platform that enables businesses to conduct virtual
+      trainings, webinars, and meetings. On the other hand, Solve CRM is a customer
+      relationship management (CRM) software that helps organizations manage their
+      customer data and interactions. By integrating the two platforms through API or
+      SDK, businesses can achieve a seamless workflow from lead generation to
+      customer engagement and training.
+    </p>
+    <h2>Integration of GoTo Training and Solve CRM</h2>
+    <p>
+      Integration of GoTo Training and Solve CRM can be achieved through API or SDK.
+      API (Application Programming Interface) is a set of protocols and tools for building
+      software applications, while SDK (Software Development Kit) is a set of software development
+      tools that allows software developers to create applications for a certain platform, system,
+      or device. Once integrated, businesses can synchronize their customer data from Solve
+      CRM to GoTo Training platform, track training attendance, automate follow-up emails and
+      reminders, and analyze training results.
+    </p>
+    <h2>Problems their integration solves</h2>
+    <p>
+      By integrating GoTo Training and Solve CRM, businesses can solve several problems,
+      including:
+    </p>
+    <ul>
+      <li>Manual data entry: Integration eliminates the need for manual data entry and
+        duplication of efforts.</li>
+      <li>Incomplete data: Integration ensures that customer information is complete and
+        up-to-date across platforms.</li>
+      <li>Inefficient workflow: Integration streamlines the workflow from customer lead
+        generation to engagement and training, resulting in a more efficient and effective
+        process.</li>
+      <li>Poor reporting: Integration allows for better analysis of training results, which
+        can provide valuable insights into customers and training effectiveness.</li>
+    </ul>
+    <h2>Conclusion</h2>
+    <p>
+      Integration of GoTo Training and Solve CRM can provide businesses with a one-stop
+      solution for customer engagement and training. By eliminating manual data entry, streamlining
+      workflow, and providing better reporting, businesses can save time, improve efficiency,
+      and enhance customer experience. Whether through API or SDK, businesses should consider
+      integrating GoTo Training and Solve CRM for a seamless and effective workflow.
+    </p>
+</div>

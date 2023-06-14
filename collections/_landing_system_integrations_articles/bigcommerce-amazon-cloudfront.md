@@ -1,0 +1,22 @@
+---
+permalink: /landings/system-integrations/bigcommerce/amazon-cloudfront
+author: Edward Saunders
+title: "BigCommerce and Amazon CloudFront Integration: An Overview"
+leadhead: "The integration of BigCommerce and Amazon CloudFront through API or SDK is a powerful solution that addresses key issues businesses face when managing e-commerce websites"
+leadtext: "By leveraging the scalability and reliability of Amazon CloudFront, businesses can improve user experience, reduce latency, and enhance security. This integration allows businesses to focus on what they do best - building their brand and growing their customer base."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">        <h1>BigCommerce and Amazon CloudFront Integration: An Overview</h1>
+        
+        <p>BigCommerce is a popular e-commerce platform that allows businesses to create and manage their online stores. Amazon CloudFront, on the other hand, is a global content delivery network that speeds up the distribution of your static and dynamic web content, such as HTML, CSS, JavaScript, and images, to end users.</p>
+        
+        <p>The two services can be integrated through either the BigCommerce API or Amazon CloudFront SDK. This integration allows businesses to leverage the scalability and reliability of Amazon CloudFront to deliver fast and secure content to their customers without having to worry about infrastructure management.</p>
+        
+        <p>One of the main problems this integration solves is latency. Latency, or the delay between a user's request and the server's response, can have a significant impact on user experience. With Amazon CloudFront, businesses can reduce latency by caching content at edge locations closest to the user, resulting in faster load times and better performance.</p>
+        
+        <p>Another problem this integration solves is security. With Amazon CloudFront, businesses can add an extra layer of security to their content by using SSL/TLS certificates to encrypt data in transit. This helps protect user data and build trust with customers.</p>
+        
+        <h2>Conclusion</h2>
+        
+        <p>The integration of BigCommerce and Amazon CloudFront through API or SDK is a powerful solution that addresses key issues businesses face when managing e-commerce websites. By leveraging the scalability and reliability of Amazon CloudFront, businesses can improve user experience, reduce latency, and enhance security. This integration allows businesses to focus on what they do best - building their brand and growing their customer base.</p>
+</div>

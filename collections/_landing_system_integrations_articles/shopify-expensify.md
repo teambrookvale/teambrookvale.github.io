@@ -1,0 +1,37 @@
+---
+permalink: /landings/system-integrations/shopify/expensify
+author: Edward Saunders
+title: "Integrating Shopify and Expensify through API or SDK"
+leadhead: "Integrating Shopify and Expensify can provide significant benefits for businesses that use both tools"
+leadtext: "Whether a business develops the integration in-house or uses a third-party tool, the benefits of reducing manual data entry, minimizing errors, and providing real-time visibility into inventory and expenses can improve efficiency and streamline operations."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integrating Shopify and Expensify through API or SDK</h1>
+
+	<p>Shopify and Expensify are two popular software tools used by businesses around the world. While Shopify is a platform for e-commerce businesses to manage their online stores, Expensify is a tool for managing expenses and receipts.</p>
+
+	<p>Both of these tools have their own unique features and benefits, but businesses that use both of these tools often face the challenge of reconciling transactions between the two systems. This is where integrating the two tool comes in handy.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>Integrating Shopify and Expensify can be done using their respective APIs or SDKs. An API is an application programming interface that allows two systems to communicate with each other, while an SDK is a software development kit that provides tools and libraries for building integrations with another system.</p>
+
+	<p>The integration can be built in-house using developer resources or businesses can opt to use third-party tools to simplify the process. There are a number of tools on the market that provide pre-built integrations between Shopify and Expensify, such as Zapier and Synder.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration between Shopify and Expensify solves a number of problems for businesses that use both tools. Some of the key benefits include:</p>
+
+	<ul>
+		<li>Eliminating the need for manual data entry</li>
+		<li>Reducing the risk of data entry errors</li>
+		<li>Providing real-time visibility into inventory and expenses</li>
+		<li>Reducing the time it takes to reconcile transactions</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating Shopify and Expensify can provide significant benefits for businesses that use both tools. Whether a business develops the integration in-house or uses a third-party tool, the benefits of reducing manual data entry, minimizing errors, and providing real-time visibility into inventory and expenses can improve efficiency and streamline operations.</p>
+
+</div>

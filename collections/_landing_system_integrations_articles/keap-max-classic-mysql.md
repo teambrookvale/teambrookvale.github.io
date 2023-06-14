@@ -1,0 +1,37 @@
+---
+permalink: /landings/system-integrations/keap-max-classic/mysql
+author: Edward Saunders
+title: "Integrating Keap Max Classic with MySQL"
+leadhead: "Integrating Keap Max Classic with MySQL can drastically improve operational efficiency, allowing businesses to better understand and cater to their customers"
+leadtext: "By using the API or SDK, businesses can easily create a comprehensive workflow that combines the power of Keap and MySQL."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integrating Keap Max Classic with MySQL</h1>
+	</header>
+	
+	<section>
+		<h2>What is Keap Max Classic?</h2>
+		<p>Keap Max Classic is an all-in-one CRM for small businesses that helps manage customer relationships, automate sales and marketing, and streamline operations.</p>
+	</section>
+	
+	<section>
+		<h2>What is MySQL?</h2>
+		<p>MySQL is an open-source relational database management system that allows for the creation and manipulation of databases, making it a popular choice for web applications.</p>
+	</section>
+	
+	<section>
+		<h2>Integration of the Two Through API or SDK</h2>
+		<p>To integrate Keap Max Classic with MySQL, you can use their API or SDK. The API allows you to access and manipulate data in Keap, while the SDK provides a pre-built integration between Keap and MySQL.</p>
+	</section>
+	
+	<section>
+		<h2>Problems Their Integration Solves</h2>
+		<p>The integration of Keap Max Classic with MySQL solves the problem of having siloed data. By combining customer data from Keap with the ability to store and manipulate it in MySQL, businesses can create a more comprehensive and efficient workflow. This integration also enables businesses to run complex analyses on Keap data and create custom reports.</p>
+	</section>
+	
+	<footer>
+		<h3>Conclusion</h3>
+		<p>Integrating Keap Max Classic with MySQL can drastically improve operational efficiency, allowing businesses to better understand and cater to their customers. By using the API or SDK, businesses can easily create a comprehensive workflow that combines the power of Keap and MySQL. </p>
+	</footer>
+</div>

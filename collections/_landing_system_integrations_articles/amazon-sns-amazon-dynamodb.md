@@ -1,0 +1,36 @@
+---
+permalink: /landings/system-integrations/amazon-sns/amazon-dynamodb
+author: Edward Saunders
+title: "Integration of Amazon SNS and Amazon DynamoDB"
+leadhead: "Amazon SNS and Amazon DynamoDB are two powerful AWS services that, when integrated, can provide businesses with real-time notifications and scalable solutions for their database needs"
+leadtext: "With the use of APIs and SDKs, setting up this integration is easy and can solve a number of problems that businesses face in today's data-driven landscape."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+<h1>Integration of Amazon SNS and Amazon DynamoDB</h1>
+
+<p>Amazon SNS (Simple Notification Service) and Amazon DynamoDB are two of the most popular AWS services used today. SNS is a fully managed messaging service that makes it easy to send notifications from the cloud to various devices, platforms, and endpoints. On the other hand, DynamoDB is a fast and flexible NoSQL database service that provides the ability to store and retrieve data in real-time.</p>
+
+<p>So what happens when you integrate the two services together?</p>
+
+<h2>Integration using API or SDK</h2>
+
+<p>One of the ways you can integrate Amazon SNS and Amazon DynamoDB is through the use of API or SDK. Amazon provides APIs and SDKs for a number of programming languages including .NET, Java, Node.js, PHP, Python, and more.</p>
+
+<p>With the use of these APIs and SDKs, you can easily set up SNS topics and subscriptions, and configure your DynamoDB tables to trigger notifications to SNS whenever data is changed or added. This integration makes it possible to send notifications in real-time to various devices or applications whenever there is a change in your database.</p>
+
+<h2>Problems their integration solves</h2>
+
+<p>Integrating Amazon SNS and Amazon DynamoDB solves a number of problems for businesses:</p>
+
+<ul>
+  <li><strong>Real-time notifications</strong> - With this integration, you can easily set up real-time notifications whenever there is a change in your database. This can help you keep track of updates and changes in your data, and take necessary actions.</li>
+  <li><strong>Scalability</strong> - Both SNS and DynamoDB are designed to be highly scalable, which means that as your business grows, the integration can easily handle the increase in data and notifications.</li>
+  <li><strong>Cost-effective</strong> - Both services are pay-as-you-go, which means that you only pay for what you use. This makes the integration a cost-effective solution for businesses of all sizes.</li>
+</ul>
+
+<h2>Conclusion</h2>
+
+<p>Amazon SNS and Amazon DynamoDB are two powerful AWS services that, when integrated, can provide businesses with real-time notifications and scalable solutions for their database needs. With the use of APIs and SDKs, setting up this integration is easy and can solve a number of problems that businesses face in today's data-driven landscape.</p>
+
+</div>

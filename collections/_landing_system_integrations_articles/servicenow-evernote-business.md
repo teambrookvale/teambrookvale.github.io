@@ -1,0 +1,29 @@
+---
+permalink: /landings/system-integrations/servicenow/evernote-business
+author: Edward Saunders
+title: "Why Integrating ServiceNow and Evernote Business is the Best Solution for Your Company"
+leadhead: "The integration of ServiceNow and Evernote Business can help your company streamline its workflow and boost its productivity"
+leadtext: "By linking the two platforms together, important information can be easily accessed by the IT team, tasks can be assigned based on shared notes, and progress can be tracked in real-time. This integration is the best solution for companies that want to improve their workflow and productivity."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Why Integrating ServiceNow and Evernote Business is the Best Solution for Your Company</h1>
+
+	<p>ServiceNow and Evernote Business are two powerful tools that can greatly benefit any company. ServiceNow is a platform that offers comprehensive IT service management, while Evernote Business is a suite of productivity tools designed to help teams work better together. But what happens when you combine these two tools? You get an even more powerful solution that can help your company improve its workflow and boost its productivity.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of ServiceNow and Evernote Business can be made possible through API or SDK. The ServiceNow API can be used to create, update, and delete records in ServiceNow. This API can also be used to connect your ServiceNow instance with other tools like Evernote Business. On the other hand, Evernote Business offers a robust SDK that can be used to build custom integrations with other platforms. This allows for seamless integration between Evernote Business and ServiceNow.</p>
+
+	<h2>Problems their integration solve</h2>
+
+	<p>The integration of ServiceNow and Evernote Business can help solve several problems that companies face. Evernote Business can be used to capture and track important information while ServiceNow can be used to manage IT service requests. By integrating these two platforms, you can easily attach Evernote Business notes to ServiceNow incidents. This means that important information can be accessed by the IT team when needed without having to switch between platforms. This can save time and increase efficiency.</p>
+
+	<p>Another problem that can be solved by integrating ServiceNow and Evernote Business is the lack of visibility across teams. With Evernote Business, teams can easily share and collaborate on notes, while ServiceNow can be used to manage tasks and workflows. By integrating these tools, it becomes easier to assign tasks based on notes created in Evernote Business, and track progress in ServiceNow. This makes it easier to see what tasks are assigned to which team members and track their progress in real-time.</p>
+
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of ServiceNow and Evernote Business can help your company streamline its workflow and boost its productivity. By linking the two platforms together, important information can be easily accessed by the IT team, tasks can be assigned based on shared notes, and progress can be tracked in real-time. This integration is the best solution for companies that want to improve their workflow and productivity.</p>
+
+</div>

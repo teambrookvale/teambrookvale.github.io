@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/google-ads/amazon-ses
+author: Edward Saunders
+title: "Google Ads and Amazon SES Integration"
+leadhead: "Google Ads and Amazon SES integration can bring many benefits to businesses, such as improving their marketing ROI, enhancing their customer engagement, and minimizing email deliverability issues"
+leadtext: "It's worth considering for any business that wants to take their marketing and email strategies to the next level."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Why Integrate Google Ads and Amazon SES?</h1>
+	<p>Google Ads and Amazon SES are powerful tools that can help businesses grow and succeed. But have you ever thought about what would happen if you put them together? With an API or SDK (Software Development Kit) integration, you can take advantage of the strengths of both platforms and improve your overall business performance.</p>
+
+	<h2>Google Ads</h2>
+	<p>Google Ads (formerly known as Google AdWords) is an online advertising platform developed by Google. It allows businesses to advertise their products or services on Google's search engine results pages, websites, mobile apps, and video platforms. With Google Ads, businesses can reach more potential customers and increase their brand awareness.</p>
+
+	<h2>Amazon SES</h2>
+	<p>Amazon Simple Email Service (Amazon SES) is a cloud-based email sending service developed by Amazon. It enables businesses to send and receive emails through their applications and websites. With Amazon SES, businesses can send personalized emails, track email delivery, and improve their email deliverability rate.</p>
+
+	<h2>Integration of the Two Through API or SDK</h2>
+	<p>By integrating Google Ads and Amazon SES through an API or SDK, businesses can automate their marketing campaigns and improve their email marketing strategies. For example, businesses can use Google Ads to target specific audiences and drive traffic to their websites, and then use Amazon SES to send personalized and timely emails to those audiences based on their behaviors and interests.</p>
+
+	<h2>Problems Their Integration Solves</h2>
+	<p>The integration of Google Ads and Amazon SES can solve several problems that businesses face in their day-to-day operations:</p>
+	<ul>
+		<li>Improve marketing ROI (Return on Investment): By targeting specific audiences and delivering personalized messages, businesses can increase their conversion rates and reduce their advertising costs.</li>
+		<li>Enhance customer engagement: By sending relevant and timely emails to their customers, businesses can deepen their relationships and improve their customer satisfaction.</li>
+		<li>Minimize email deliverability issues: By using Amazon SES's email verification and feedback loop mechanisms, businesses can ensure their emails are delivered to their customers' inboxes rather than their spam folders.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>Google Ads and Amazon SES integration can bring many benefits to businesses, such as improving their marketing ROI, enhancing their customer engagement, and minimizing email deliverability issues. It's worth considering for any business that wants to take their marketing and email strategies to the next level.</p>
+</div>

@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/amazon-dynamodb/marketo
+author: Edward Saunders
+title: "Amazon DynamoDB and Marketo Integration"
+leadhead: "The integration of Amazon DynamoDB and Marketo is an excellent solution for businesses that want to gain deeper insights into their customers and improve their marketing campaigns"
+leadtext: "With real-time data and centralised customer data, businesses can make informed decisions quickly, leading to better customer experiences and increased ROI."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon DynamoDB and Marketo Integration</h1>
+
+	<p>Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. Marketo is a powerful marketing automation platform that helps businesses of all sizes engage with their customers and prospects.</p>
+
+	<p>The integration of Amazon DynamoDB and Marketo is made possible through the use of API or SDK. This integration allows businesses to collect, store and analyse customer data in real-time, enabling them to make informed decisions about their marketing campaigns.</p>
+
+	<p>One of the most significant advantages of this integration is that it solves the problem of siloed data. Businesses often collect vast amounts of data from multiple sources, but this data is often siloed and difficult to access or analyse. By integrating Amazon DynamoDB and Marketo, businesses can centralise their customer data and gain deeper insights into customer behaviour, preferences and needs.</p>
+
+	<p>Another problem that this integration solves is the need for real-time data. In today's highly competitive business environment, businesses need to act quickly on insights to gain a competitive advantage. With real-time data, businesses can make instant decisions about their marketing campaigns, leading to increased ROI and better customer experiences.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Amazon DynamoDB and Marketo is an excellent solution for businesses that want to gain deeper insights into their customers and improve their marketing campaigns. With real-time data and centralised customer data, businesses can make informed decisions quickly, leading to better customer experiences and increased ROI.</p>
+
+</div>

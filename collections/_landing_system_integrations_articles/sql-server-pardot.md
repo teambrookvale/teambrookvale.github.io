@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/sql-server/pardot
+author: Edward Saunders
+title: "Integrating SQL Server with Pardot: A Solution for Modern Businesses"
+leadhead: "Integrating SQL Server with Pardot through API or SDK provides businesses with a number of benefits"
+leadtext: "Not only does it save time and resources by automating marketing campaigns, but it also provides businesses with more comprehensive customer data and improves the overall efficiency of the business. With these benefits in mind, businesses should consider integrating SQL Server and Pardot to stay competitive in today's marketplace."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+  <h1>Integrating SQL Server with Pardot: A Solution for Modern Businesses</h1>
+
+  <p>SQL Server is a relational database management system developed by Microsoft that is widely used in businesses to manage and store data. Pardot, on the other hand, is a marketing automation software that helps businesses generate leads, track customer behavior, and create personalized campaigns. Both these tools have their own unique functionalities and benefits but integrating them through API or SDK can provide even greater value to businesses.</p>
+
+  <h2>Integration of the two through API or SDK</h2>
+
+  <p>The integration of SQL Server with Pardot can occur in a number of ways. One way is through using an API, which allows the two systems to communicate with each other. For example, Pardot can automatically pull data from SQL Server regarding customer behavior and preferences and use that data to create targeted marketing campaigns. Another way to integrate the two is through using an SDK, which is a software development kit that provides access to the internal workings of a software system. This allows developers to create custom integrations between SQL Server and Pardot to suit a business's specific needs.</p>
+
+  <h2>Problems their integration solves</h2>
+
+  <p>The integration of SQL Server and Pardot solves a number of problems for modern businesses. Firstly, it allows for the automation of marketing campaigns which saves time and resources while also creating more personalized experiences for customers. Secondly, it provides businesses with a more comprehensive view of their customers by combining data from multiple sources. This allows businesses to make better informed decisions about their marketing strategies and improve the overall customer experience. Lastly, it increases efficiency by reducing the need for manual data entry and minimizing the risk of human error.</p>
+
+  <h2>Conclusion</h2>
+
+  <p>Integrating SQL Server with Pardot through API or SDK provides businesses with a number of benefits. Not only does it save time and resources by automating marketing campaigns, but it also provides businesses with more comprehensive customer data and improves the overall efficiency of the business. With these benefits in mind, businesses should consider integrating SQL Server and Pardot to stay competitive in today's marketplace.</p>
+
+</div>

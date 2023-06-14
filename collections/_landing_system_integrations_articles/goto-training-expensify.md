@@ -1,0 +1,35 @@
+---
+permalink: /landings/system-integrations/goto-training/expensify
+author: Edward Saunders
+title: "Integrating GoTo Training and Expensify: A Comprehensive Guide"
+leadhead: "Integrating GoTo Training and Expensify is a simple process that can save you time and money in the long run"
+leadtext: "By automating the tracking of your GoTo Training expenses in Expensify, you can reduce errors and create reports quickly and efficiently. If you're someone who uses both applications, we highly recommend integrating them."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating GoTo Training and Expensify: A Comprehensive Guide</h1>
+	<p>If you're someone who uses both GoTo Training and Expensify, you're probably aware of how disconnected the two applications can be. However, there is a way to integrate the two and make your life a lot easier. In this article, we'll discuss the steps involved in integrating GoTo Training and Expensify and the problems this integration solves.</p>
+	<h2>What is GoTo Training?</h2>
+	<p>GoTo Training is a web-based tool that helps you create, manage, and schedule online training sessions. It's used by businesses of all sizes to provide training to their employees from anywhere with an internet connection. GoTo Training offers a wide range of features such as screen sharing, recording sessions, and real-time chat.</p>
+	<h2>What is Expensify?</h2>
+	<p>Expensify is a software application that helps you manage your business expenses. It allows you to track expenses, create reports, and get reimbursed for your expenses quickly. Expensify is used by businesses of all sizes to save time and reduce errors when handling expense reports.</p>
+	<h2>Integration of GoTo Training and Expensify</h2>
+	<p>Integrating GoTo Training and Expensify can be done through API or SDK. The steps involved in integrating the two are as follows:</p>
+	<ol>
+		<li>Sign in to your GoTo Training account and select the training you want to integrate with Expensify.</li>
+		<li>Click on the "API Access" tab and generate an API key.</li>
+		<li>Go to your Expensify account and select "Settings".</li>
+		<li>Click on the "Connections" tab and select "GoToTraining".</li>
+		<li>Enter the API key that you generated earlier in step 2.</li>
+		<li>Click on "Connect".</li>
+		<li>You can now track your GoTo Training expenses in Expensify.</li>
+	</ol>
+	<h2>Problems their integration solves</h2>
+	<p>Integrating GoTo Training and Expensify can solve the following problems:</p>
+	<ul>
+		<li>Save time - Instead of manually tracking your GoTo Training expenses, the integration allows you to automatically track expenses in Expensify.</li>
+		<li>Reduce errors - Since the integration is automated, there is less chance of errors in expense tracking, which can save you money in the long run.</li>
+		<li>Centralized tracking - By tracking all your expenses in one place, it's easier to create reports and get reimbursed for your expenses.</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>Integrating GoTo Training and Expensify is a simple process that can save you time and money in the long run. By automating the tracking of your GoTo Training expenses in Expensify, you can reduce errors and create reports quickly and efficiently. If you're someone who uses both applications, we highly recommend integrating them.</p>
+</div>

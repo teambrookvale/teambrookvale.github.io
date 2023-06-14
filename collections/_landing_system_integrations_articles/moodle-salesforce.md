@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/moodle/salesforce
+author: Edward Saunders
+title: "Moodle and Salesforce Integration"
+leadhead: "The integration of Moodle and Salesforce can offer many benefits to organizations"
+leadtext: "By using APIs or SDKs to connect the two systems, businesses can create a more efficient workflow that ensures that everyone has access to the right information. This integration is a great way for businesses to work smarter, not harder, and achieve their goals more effectively."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Moodle and Salesforce Integration</h1>
+	
+	<p>Moodle and Salesforce are two powerful tools that can help organizations achieve their business goals. Moodle is an open-source learning management system that allows educators to create and manage online courses. Salesforce, on the other hand, is a cloud-based customer relationship management tool that helps businesses manage their customer information, sales, and marketing activities.</p>
+
+	<p>By integrating Moodle and Salesforce, organizations can streamline their operations and work more efficiently. This integration can be achieved through APIs or SDKs that allow Moodle and Salesforce to communicate with each other.</p>
+
+	<h2>Benefits of Moodle and Salesforce Integration</h2>
+
+	<p>The integration of Moodle and Salesforce solves a number of problems that organizations often face. One of the main benefits of this integration is that it allows businesses to more effectively manage customer and employee data.</p>
+
+	<p>Moodle can be used to create and manage online training courses for employees, while Salesforce can be used to track employee and customer information. By integrating these two systems, organizations can create a seamless flow of data between the two systems, making it easier to manage information and ensure that everyone has access to the right information.</p>
+
+	<p>Another benefit of integrating Moodle and Salesforce is that it can help organizations improve their customer service. For example, if a customer contacts the support team with a question, the support team can quickly access the customer’s information in Salesforce and then check their training progress in Moodle to determine whether additional training may be required.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Moodle and Salesforce can offer many benefits to organizations. By using APIs or SDKs to connect the two systems, businesses can create a more efficient workflow that ensures that everyone has access to the right information. This integration is a great way for businesses to work smarter, not harder, and achieve their goals more effectively.</p>
+
+</div>

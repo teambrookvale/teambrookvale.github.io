@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/sugarcrm-6-2-5/zendesk
+author: Edward Saunders
+title: "SugarCRM 6.2-5 and Zendesk Integration"
+leadhead: "SugarCRM 6.2-5 and Zendesk are powerful tools on their own, but when integrated, they offer businesses the ability to improve their customer service and interactions"
+leadtext: "With seamless data sharing and automatic ticket generation, businesses can provide more personalized support and improve the overall customer experience."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>SugarCRM 6.2-5 and Zendesk Integration</h1>
+	<p>SugarCRM 6.2-5 is a powerful customer relationship management tool that helps businesses manage their customer interactions and data. Zendesk, on the other hand, is a customer service platform that allows businesses to provide support to their customers through various channels.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>Through API or SDK, SugarCRM and Zendesk can be integrated seamlessly. This integration allows businesses to gain a more holistic view of their customers by pulling together data from both systems.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>By integrating SugarCRM and Zendesk, businesses can provide a better customer experience. Customer data from SugarCRM can be used to better understand a customer’s history and previous interactions, which can then be used to personalize support interactions with the customer through Zendesk. Additionally, customer support tickets can be automatically generated in Zendesk from within SugarCRM, making it easier for businesses to manage all customer interactions in one centralized place.</p>
+
+	<h2>Conclusion</h2>
+	<p>SugarCRM 6.2-5 and Zendesk are powerful tools on their own, but when integrated, they offer businesses the ability to improve their customer service and interactions. With seamless data sharing and automatic ticket generation, businesses can provide more personalized support and improve the overall customer experience.</p>
+</div>

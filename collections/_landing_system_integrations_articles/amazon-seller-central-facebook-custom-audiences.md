@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/amazon-seller-central/facebook-custom-audiences
+author: Edward Saunders
+title: "How Amazon Seller Central and Facebook Custom Audiences Integration Solves Problems for E-Commerce Businesses"
+leadhead: "Integrating Amazon Seller Central and Facebook Custom Audiences can provide several benefits for e-commerce businesses"
+leadtext: "With this integration, businesses can target the right audience for their products and increase their chances of converting them into customers. This can result in increased sales and revenue for the business. If you are an e-commerce business looking to grow your sales, consider integrating these tools to help you achieve your goals."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>How Amazon Seller Central and Facebook Custom Audiences Integration Solves Problems for E-Commerce Businesses</h1>
+
+	<p>As e-commerce businesses continue to thrive, it is important to have tools that can help you effectively manage and market your products. Two powerful tools that businesses can use are Amazon Seller Central and Facebook Custom Audiences. These tools can be integrated through API or SDK, which can help solve several problems for e-commerce businesses.</p>
+
+	<h2>Amazon Seller Central</h2>
+	<p>Amazon Seller Central is a web interface provided by Amazon to help businesses manage their products and inventory on the Amazon marketplace. It provides a wide range of features including product listings, order management, fulfillment options, and customer communication. With Amazon Seller Central, businesses can sell their products to millions of buyers around the world.</p>
+
+	<h2>Facebook Custom Audiences</h2>
+	<p>Facebook Custom Audiences is a tool provided by Facebook that allows businesses to create targeted ads for specific groups of people. With this tool, businesses can upload customer data such as emails, phone numbers, or Facebook IDs, and create audiences for their ads. This helps businesses to target their ads to people who are most likely to be interested in their products.</p>
+
+	<h2>Integration of the Two Through API or SDK</h2>
+	<p>Amazon Seller Central and Facebook Custom Audiences can be integrated through API or SDK. This integration allows businesses to create custom audiences based on their Amazon sales data. For example, businesses can create custom audiences for customers who have purchased a specific product or for customers who have spent a certain amount of money. This helps businesses to target their Facebook ads to the right people, increasing the chances of converting them into customers.</p>
+
+	<h2>Problems their Integration Solves</h2>
+	<p>Integrating Amazon Seller Central and Facebook Custom Audiences can help solve several problems for e-commerce businesses. One of the biggest problems is targeting the right audience for their products. With this integration, businesses can create custom audiences based on their Amazon sales data, which helps them reach people who are most likely to be interested in their products.</p>
+
+	<p>Another problem that this integration solves is increasing sales. By targeting the right people with their Facebook ads, businesses can increase their chances of converting them into customers. This can result in increased sales and revenue for the business.</p>
+
+	<h2>Conclusion</h2>
+	<p>Integrating Amazon Seller Central and Facebook Custom Audiences can provide several benefits for e-commerce businesses. With this integration, businesses can target the right audience for their products and increase their chances of converting them into customers. This can result in increased sales and revenue for the business. If you are an e-commerce business looking to grow your sales, consider integrating these tools to help you achieve your goals.</p>
+
+</div>

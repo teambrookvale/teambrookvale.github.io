@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/amazon-cloudfront/sql-server
+author: Edward Saunders
+title: "Amazon CloudFront and SQL Server Integration"
+leadhead: "The integration of Amazon CloudFront and SQL Server through APIs or SDKs provides a powerful content delivery solution"
+leadtext: "It allows for the fast and secure delivery of data, better user experience, and reduced latency. By leveraging these technologies, organizations can save costs and improve their service delivery to their customers."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon CloudFront and SQL Server Integration</h1>
+	
+	<p>Amazon CloudFront is a content delivery network (CDN) that securely delivers data, videos, applications, and APIs to customers globally. SQL Server, on the other hand, is a relational database management system used to store and retrieve data.</p>
+	
+	<p>The integration of Amazon CloudFront and SQL Server is made possible through the use of APIs or SDKs. An API (application programming interface) is a set of protocols and tools used to build software applications. An SDK (software development kit) is a collection of software development tools used to create applications for a specific software package or hardware platform.</p>
+	
+	<p>One of the problems that their integration solves is the speed and security of delivering content. Amazon CloudFront improves the delivery speed of data, while SQL Server provides a secure and reliable way to store and retrieve data. When integrated, the two work together to provide a fast and secure content delivery system.</p>
+	
+	<h2>Benefits of Integration</h2>
+	
+	<p>The integration of Amazon CloudFront and SQL Server provides several benefits:</p>
+	
+	<ul>
+		<li>Improved delivery speed of content to users</li>
+		<li>Secure and reliable storage of data</li>
+		<li>Faster access to data</li>
+		<li>Reduced latency</li>
+		<li>Better user experience</li>
+		<li>Cost-effective solution for content delivery</li>
+	</ul>
+	
+	<h2>Conclusion</h2>
+	
+	<p>The integration of Amazon CloudFront and SQL Server through APIs or SDKs provides a powerful content delivery solution. It allows for the fast and secure delivery of data, better user experience, and reduced latency. By leveraging these technologies, organizations can save costs and improve their service delivery to their customers.</p>
+</div>

@@ -1,0 +1,24 @@
+---
+permalink: /landings/system-integrations/zendesk/amazon-cloudfront
+author: Edward Saunders
+title: "Zendesk and Amazon CloudFront Integration"
+leadhead: "In conclusion, the integration of Zendesk and Amazon CloudFront can lead to better customer support and faster content delivery with improved security"
+leadtext: "Businesses can benefit significantly from this integration by providing a better customer experience and reducing server load and page load times."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Zendesk and Amazon CloudFront Integration</h1>
+
+	<p>Zendesk is a cloud-based customer service platform that allows businesses to manage all their customer interactions in one place. Whereas, Amazon CloudFront is a content delivery network (CDN) that accelerates the delivery of content to users.</p>
+
+	<p>Integration of Zendesk and Amazon CloudFront through API or SDK can result in significant benefits for businesses. One of the main problems their integration solves is the efficient delivery of customer support content. With Amazon CloudFront, businesses can cache frequently accessed content closer to the end-user, resulting in better and faster delivery of Zendesk support pages, articles, and videos.</p>
+
+	<p>Furthermore, the integration can help businesses to reduce their overall page load times and decrease server load, thereby increasing website speed and performance.</p>
+
+	<p>Another advantage of integrating Zendesk and Amazon CloudFront is the improved security of customer data. CloudFront can help businesses to distribute authentication tokens and access keys securely, reducing the risk of unauthorized access to sensitive customer data.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>In conclusion, the integration of Zendesk and Amazon CloudFront can lead to better customer support and faster content delivery with improved security. Businesses can benefit significantly from this integration by providing a better customer experience and reducing server load and page load times.</p>
+
+</div>

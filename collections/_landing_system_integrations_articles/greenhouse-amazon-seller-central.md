@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/greenhouse/amazon-seller-central
+author: Edward Saunders
+title: "Greenhouse and Amazon Seller Central Integration"
+leadhead: "Integrating Greenhouse and Amazon Seller Central can help businesses simplify their hiring process, save valuable time, and improve their workflow"
+leadtext: "By automating job postings and candidate tracking, business owners and hiring managers can focus on finding the best-fit candidates for their organization. So, if you're an online retailer looking to streamline your recruitment process, it may be worth considering integrating these two platforms."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Greenhouse and Amazon Seller Central Integration</h1>
+
+	<p>If you’re a retail business owner, you most likely know about Amazon Seller Central. It is one of the most popular e-commerce platforms that online retailers use to sell their products. Meanwhile, Greenhouse is a top-of-the-line applicant tracking system that businesses use to manage their hiring processes. In this blog post, we’re going to discuss how the integration of these two platforms can benefit your business.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of Greenhouse and Amazon Seller Central is done through an API or SDK. Amazon provides a set of APIs to access the Seller Central so that developers can easily create integrations that share data between Amazon and their systems. Greenhouse, on the other hand, offers an SDK that allows businesses to integrate their ATS with other third-party applications, including Amazon Seller Central.</p>
+
+	<h2>Problems this integration solves</h2>
+	<p>The integration of Greenhouse and Amazon Seller Central helps businesses streamline their recruitment process and data flow between systems. Here are some of the problems that this integration solves:</p>
+	<ul>
+		<li>Seamless posting of job positions on Amazon Seller Central and other job boards.</li>
+		<li>Elimination of manual entry of candidate data from Amazon to Greenhouse and vice versa.</li>
+		<li>Improved employer branding through automated job postings on Amazon.</li>
+		<li>More efficient tracking of candidates sourced from Amazon and other platforms.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>Integrating Greenhouse and Amazon Seller Central can help businesses simplify their hiring process, save valuable time, and improve their workflow. By automating job postings and candidate tracking, business owners and hiring managers can focus on finding the best-fit candidates for their organization. So, if you're an online retailer looking to streamline your recruitment process, it may be worth considering integrating these two platforms.</p>
+</div>

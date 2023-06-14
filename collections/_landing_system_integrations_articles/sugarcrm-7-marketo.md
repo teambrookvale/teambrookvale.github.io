@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/sugarcrm-7-/marketo
+author: Edward Saunders
+title: "Integrating SugarCRM 7+ and Marketo"
+leadhead: "The integration of SugarCRM 7+ and Marketo can provide businesses with a seamless experience, improving their marketing, sales, and customer service activities"
+leadtext: "It is important for businesses to invest in integrating their software platforms to improve their productivity, revenue growth, and customer satisfaction."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating SugarCRM 7+ and Marketo</h1>
+	<p>SugarCRM 7+ is a powerful customer relationship management (CRM) software that helps businesses manage their sales, marketing, and customer service activities. Marketo, on the other hand, is a marketing automation software that enables businesses to automate their marketing campaigns, measure their success, and engage with leads and customers. Integrating these two software platforms can provide businesses with a seamless experience and improve their revenue growth.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>The integration of SugarCRM 7+ and Marketo is achieved through the use of Application Programming Interface (API) or Software Development Kits (SDK). Marketo provides a RESTful API that enables easy and secure communication between the two platforms. This allows users to create and update leads in SugarCRM 7+ based on their interactions with marketing campaigns in Marketo. Similarly, users can create and manage campaigns in Marketo based on information stored in SugarCRM 7+.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of SugarCRM 7+ and Marketo can solve several problems for businesses. Firstly, it can help businesses identify their high-quality leads and target them with personalized marketing campaigns. The integration also enables sales teams to access the latest data on leads and customers, improving their sales process and closing rates. Moreover, businesses can use the integration to automate their marketing and sales workflows, reducing manual processes and increasing productivity.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of SugarCRM 7+ and Marketo can provide businesses with a seamless experience, improving their marketing, sales, and customer service activities. It is important for businesses to invest in integrating their software platforms to improve their productivity, revenue growth, and customer satisfaction.</p>
+</div>

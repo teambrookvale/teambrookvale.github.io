@@ -1,0 +1,24 @@
+---
+permalink: /landings/system-integrations/marketo/postgresql
+author: Edward Saunders
+title: "Marketo and PostgreSQL Integration"
+leadhead: "Marketo and PostgreSQL are powerful platforms that can transform the marketing process"
+leadtext: "The integration of these two platforms enables businesses to store and manage their marketing data, automate their marketing campaigns, and improve their lead generation process. Developers can use the API and SDK provided by Marketo to connect their platform to PostgreSQL. By doing so, they can create a system that provides valuable insights into customer behavior and engagement, leading to increased conversion rates and business growth."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Marketo and PostgreSQL Integration</h1>
+
+	<p>Marketo is a powerful marketing automation software that helps businesses to streamline their marketing process. On the other hand, PostgreSQL is an open-source relational database management system that stores and manages data. The integration of these two platforms could further enhance the marketing process.</p>
+
+	<h2>Integration of Marketo and PostgreSQL through API or SDK</h2>
+
+	<p>Marketo provides API and SDK for developers to integrate their platform into other systems. PostgreSQL has a JDBC driver that can be used to connect to the database. Developers can use these resources to establish a connection between Marketo and PostgreSQL. Once the integration is implemented, data can be retrieved from Marketo and stored in PostgreSQL.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of Marketo and PostgreSQL solves several marketing problems. First, it enables businesses to store and manage their valuable marketing data. The data can be analyzed to gain insights into customer behavior, preferences, and engagement. Second, the integration allows businesses to automate their marketing campaigns. By retrieving data from Marketo and saving it in PostgreSQL, developers can create an automated system that runs marketing campaigns based on customer behavior and engagement. Finally, the integration can help businesses to improve their lead generation process. They can analyze customer data and create targeted campaigns that increase the likelihood of conversion.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Marketo and PostgreSQL are powerful platforms that can transform the marketing process. The integration of these two platforms enables businesses to store and manage their marketing data, automate their marketing campaigns, and improve their lead generation process. Developers can use the API and SDK provided by Marketo to connect their platform to PostgreSQL. By doing so, they can create a system that provides valuable insights into customer behavior and engagement, leading to increased conversion rates and business growth.</p>
+</div>

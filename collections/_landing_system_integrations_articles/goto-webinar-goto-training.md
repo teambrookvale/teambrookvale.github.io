@@ -1,0 +1,21 @@
+---
+permalink: /landings/system-integrations/goto-webinar/goto-training
+author: Edward Saunders
+title: "GoToWebinar and GoToTraining Integration | Solving Training Problems"
+leadhead: "GoToWebinar and GoToTraining are two of the most popular training and webinar platforms used today"
+leadtext: "With their integration through API and SDK, it is a big win for users, who can now manage their training and events from one central location to save time and effort. The integration solves some of the significant problems experienced when managing the two platforms, including reducing the administrative burden and improving overall productivity."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>GoToWebinar and GoToTraining Integration</h1>
+	<p>GoToWebinar and GoToTraining are two of the most popular online training and webinar platforms. While GoToWebinar is used specifically for webinars, GoToTraining offers a comprehensive training module that can help individuals and organizations provide training to their employees and other stakeholders. With the integration of the two through API or SDK, GoToWebinar users can now use GoToTraining to offer more targeted training courses and improve their overall training experience.</p>
+
+	<h2>API and SDK Integration</h2>
+	<p>The integration of these two platforms has been done through the use of APIs and SDKs. Developers can now access the respective APIs of GoToWebinar and GoToTraining to build custom integrations that enable data exchange and synchronization between the two platforms. This functionality enables users to manage their events and training sessions from one central location, improving the organization's overall efficiency and productivity.</p>
+
+	<h2>Problems Solved By Integration</h2>
+	<p>The integration of GoToWebinar and GoToTraining solves numerous problems faced by organizations that rely on these platforms to organize their training and webinars. Firstly, it eliminates the hassle of managing both platforms individually by enabling users to manage their events from one central location. Also, it makes it easier to track attendance, reduce administrative effort, and simplify the training process. These problems are solved through the use of integration provided by the platforms.</p>
+
+	<h2>Conclusion</h2>
+	<p>GoToWebinar and GoToTraining are two of the most popular training and webinar platforms used today. With their integration through API and SDK, it is a big win for users, who can now manage their training and events from one central location to save time and effort. The integration solves some of the significant problems experienced when managing the two platforms, including reducing the administrative burden and improving overall productivity. </p>
+
+</div>

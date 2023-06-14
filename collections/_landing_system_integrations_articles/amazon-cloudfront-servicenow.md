@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/amazon-cloudfront/servicenow
+author: Edward Saunders
+title: "Integration of Amazon CloudFront and ServiceNow"
+leadhead: "Integrating Amazon CloudFront and ServiceNow through APIs or SDKs offers several benefits for businesses and organizations, including automation, tracking, reporting, and streamlined workflows"
+leadtext: "By using the two services together, businesses can operate more efficiently and effectively, leading to increased productivity and cost savings in the long run."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integration of Amazon CloudFront and ServiceNow</h1>
+
+	<p>Amazon CloudFront is a content delivery network (CDN) service provided by Amazon Web Services (AWS). ServiceNow is an IT service management (ITSM) platform that offers a wide range of IT solutions. Both services are popular among businesses and organizations for their reliability and scalability. Recently, there has been an increased interest in integrating the two services to enhance their functionality and efficiency.</p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>The integration of Amazon CloudFront and ServiceNow can be achieved through the use of APIs (application programming interfaces) or SDKs (software development kits). The APIs and SDKs allow developers to build custom solutions and use the services' functionality in innovative ways.</p>
+
+	<p>For example, a developer can use the ServiceNow API to create a custom service catalog item that provisions an Amazon CloudFront distribution when a user requests it. This automated process streamlines the CloudFront distribution creation and provisioning process, reducing the time and effort required for manual provisioning.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of Amazon CloudFront and ServiceNow solves several common problems that businesses and organizations face:</p>
+
+	<ul>
+		<li>Manual provisioning: CloudFront distributions can be created and provisioned manually, which is time-consuming and error-prone. Integrating Amazon CloudFront and ServiceNow through APIs or SDKs automates the provisioning process, reducing the time and effort required.</li>
+		<li>Tracking and reporting: ServiceNow provides robust tracking and reporting capabilities, allowing organizations to monitor CloudFront usage, performance, and costs. By integrating the two services, administrators can keep track of CloudFront usage and expenses, enabling them to optimize their usage and reduce costs.</li>
+		<li>Streamlined workflows: Integrating Amazon CloudFront and ServiceNow through APIs or SDKs streamlines workflows and reduces the need for manual intervention. This can help businesses operate more efficiently and reduce errors, leading to increased productivity and cost savings in the long run.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating Amazon CloudFront and ServiceNow through APIs or SDKs offers several benefits for businesses and organizations, including automation, tracking, reporting, and streamlined workflows. By using the two services together, businesses can operate more efficiently and effectively, leading to increased productivity and cost savings in the long run.</p>
+
+</div>

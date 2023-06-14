@@ -1,0 +1,45 @@
+---
+permalink: /landings/system-integrations/amazon-ses/salesforce
+author: Edward Saunders
+title: "Integration of Amazon SES and Salesforce"
+leadhead: "The integration of Amazon SES and Salesforce through API or SDK can bring significant benefits to businesses"
+leadtext: "It allows
+		businesses to automate their email sending and tracking process, save time and effort, improve their email campaigns and
+		maintain up-to-date customer data. Therefore, it is recommended that businesses consider integrating Amazon SES and Salesforce
+		to streamline their email marketing strategy."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Amazon SES and Salesforce</h1>
+
+	<p>
+		Amazon SES (Simple Email Service) is a cloud-based email sending service. With Amazon SES, you can send and receive emails
+		at a large scale. Salesforce, on the other hand, is a cloud-based customer relationship management (CRM) software. It helps
+		you manage your customers, sales, and marketing campaigns.
+	</p>
+
+	<p>
+		Integrating Amazon SES and Salesforce through an API or SDK can help you automate your email sending and tracking process. You
+		can use Salesforce to manage your customer data and create email campaigns. Amazon SES can then be used to send these emails
+		to your customers. You can also track the email opens and clicks through Amazon SES and update your customer data in
+		Salesforce accordingly.
+	</p>
+
+	<p>
+		The integration of Amazon SES and Salesforce solves several problems for businesses. Firstly, it helps businesses save time
+		and effort by automating the email sending process. You no longer have to manually send emails to individual customers. You
+		can create a campaign in Salesforce and let Amazon SES handle the email sending. Secondly, it helps businesses track the
+		effectiveness of their email campaigns. With Amazon SES, you can track email opens and clicks and use this data to improve
+		your future campaigns. Lastly, it helps businesses keep their customer data up-to-date. With the integration, you can easily
+		update customer data in Salesforce based on their email interaction.
+	</p>
+
+	<h2>Conclusion</h2>
+
+	<p>
+		The integration of Amazon SES and Salesforce through API or SDK can bring significant benefits to businesses. It allows
+		businesses to automate their email sending and tracking process, save time and effort, improve their email campaigns and
+		maintain up-to-date customer data. Therefore, it is recommended that businesses consider integrating Amazon SES and Salesforce
+		to streamline their email marketing strategy.
+	</p>
+
+</div>

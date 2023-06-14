@@ -1,0 +1,38 @@
+---
+permalink: /landings/system-integrations/sugarcrm-7-/upwork
+author: Edward Saunders
+title: "Integrating SugarCRM 7+ with Upwork through API/SDK"
+leadhead: "Integrating SugarCRM 7+ with Upwork through API or SDK is an excellent solution for businesses that want to manage their customer relationships and freelancer projects in one place"
+leadtext: "It provides businesses with the benefit of improved efficiencies, accurate data, and streamlined workflows. Any business that values time, accuracy and quality would find it a worthwhile investment."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integrating SugarCRM 7+ with Upwork through API/SDK</h1>
+	</header>
+	<section>
+		<h2>SugarCRM 7+</h2>
+		<p>SugarCRM 7+ is a customer relationship management (CRM) software that helps businesses manage their customer interactions, sales, marketing, and customer service. It is an all-in-one CRM platform that can be customized to fit the specific needs of each business.</p>
+	</section>
+	<section>
+		<h2>Upwork</h2>
+		<p>Upwork is a popular online freelance platform that connects businesses with skilled freelancers from all over the world. It provides businesses with access to a global workforce, which can help them to find the right talent for their projects and save costs.</p>
+	</section>
+	<section>
+		<h2>Integration of the two through API or SDK</h2>
+		<p>Integrating SugarCRM 7+ with Upwork through API or SDK can provide businesses with a seamless, streamlined experience. This integration allows businesses to see all their Upwork projects and freelancers directly within SugarCRM 7+, which makes it easier for them to manage and track their projects, and helps to streamline their workflow.</p>
+		<p>The integration through API or SDK also allows businesses to automatically import data from Upwork into SugarCRM 7+. This data includes project details, freelancer information, billing information, and more. This saves the businesses time and effort by eliminating the need to manually enter data and reducing the risk of errors.</p>
+	</section>
+	<section>
+		<h2>Problems their integration solves</h2>
+		<p>Integrating SugarCRM 7+ with Upwork through API or SDK solves several problems for businesses:</p>
+		<ol>
+			<li><strong>Efficiency:</strong> The integration integrates the two systems in one place, allowing businesses to manage everything in one platform without having to switch between multiple platforms.</li>
+			<li><strong>Data accuracy:</strong> Manual data entry can be prone to errors, and the integration reduces this risk by importing data automatically, without any need for manual data entry.</li>
+			<li><strong>Streamlined workflow:</strong> Businesses can better manage their projects and freelancers with the integration, which can help with carrying out tasks seamlessly and avoiding errors.</li>
+		</ol>
+	</section>
+	<footer>
+		<h3>Conclusion</h3>
+		<p>Integrating SugarCRM 7+ with Upwork through API or SDK is an excellent solution for businesses that want to manage their customer relationships and freelancer projects in one place. It provides businesses with the benefit of improved efficiencies, accurate data, and streamlined workflows. Any business that values time, accuracy and quality would find it a worthwhile investment.</p>
+	</footer>
+</div>

@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/amazon-ec2/aws-lambda
+author: Edward Saunders
+title: "How Amazon EC2 and AWS Lambda Work Together for Efficient Computing: A Comprehensive Guide"
+leadhead: "Amazon EC2 and AWS Lambda are two of the most popular services in Amazon's cloud computing ecosystem"
+leadtext: "Their integration provides businesses with increased flexibility, reduced overhead costs, and the ability to build serverless architectures that scale up and down automatically based on user demand. With the use of APIs or SDKs, developers can easily build and deploy applications that utilize the scalability and flexibility of both Amazon EC2 and AWS Lambda."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>How Amazon EC2 and AWS Lambda Work Together for Efficient Computing: A Comprehensive Guide</h1>
+    
+    <p>Amazon Web Services provides a wide range of cloud computing services for businesses, developers, and individuals looking for affordable and scalable solutions. Two of the most popular services in the Amazon cloud computing ecosystem are Amazon EC2 and AWS Lambda. In this post, we'll explore how these two services work together and the benefits they bring to the table.</p>
+
+	<h2>Amazon EC2</h2>
+    
+    <p>Amazon Elastic Compute Cloud (EC2) is a scalable service that provides businesses with secure and resizable computing capacity in the cloud. The service is designed to make web-scale cloud computing easier for developers by providing a simple web interface for creating and managing virtual machines (VMs) on Amazon's massive infrastructure. Amazon EC2 makes it possible for businesses to quickly and easily deploy their applications and scale their compute capacity up or down as needed.</p>
+    
+    <h2>AWS Lambda</h2>
+    
+    <p>AWS Lambda is a compute service that lets you run code without provisioning or managing servers. AWS Lambda runs your code only when needed and scales automatically, from a few requests per day to thousands per second. AWS Lambda supports multiple programming languages and integrates with other AWS services, making it easy to build serverless architectures. Lambda is an event-driven service, meaning that it can be triggered by events such as object uploads to an S3 bucket or changes to a DynamoDB table.</p>
+    
+    <h2>Integration of the two through API or SDK</h2>
+    
+    <p>The integration of Amazon EC2 and AWS Lambda is made possible through API or Software Development Kit (SDK). Both sets of tools provide developers with the necessary resources for building and deploying serverless applications. For example, developers can use AWS Lambda to execute code in response to specific events, such as a change to an Amazon S3 bucket. Instead of running this code on EC2 instances, developers can run the code on AWS Lambda, which will automatically scale and manage the necessary resources. This integration provides businesses with increased flexibility and reduced overhead costs.</p>
+    
+    <h2>Problems their integration solves</h2>
+    
+    <p>The integration of Amazon EC2 and AWS Lambda solves several common problems in cloud computing. First, it ensures that resources are being used efficiently, as Lambda automatically scales resources based on usage. This means that businesses only pay for the compute capacity they're actually using, instead of paying for unused resources. Second, the integration enables devs to build serverless applications that scale up and down automatically based on user demand. Finally, the integration reduces administrative overhead, as IT staff no longer need to manage and provision servers.</p>
+    
+    <h2>Conclusion</h2>
+    
+    <p>Amazon EC2 and AWS Lambda are two of the most popular services in Amazon's cloud computing ecosystem. Their integration provides businesses with increased flexibility, reduced overhead costs, and the ability to build serverless architectures that scale up and down automatically based on user demand. With the use of APIs or SDKs, developers can easily build and deploy applications that utilize the scalability and flexibility of both Amazon EC2 and AWS Lambda.</p>
+
+</div>

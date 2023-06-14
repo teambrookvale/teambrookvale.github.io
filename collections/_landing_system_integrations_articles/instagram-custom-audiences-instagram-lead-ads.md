@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/instagram-custom-audiences/instagram-lead-ads
+author: Edward Saunders
+title: "Integrating Instagram Custom Audiences and Lead Ads"
+leadhead: "Instagram Custom Audiences and Lead Ads have become essential tools for businesses looking to reach their target audience on the platform"
+leadtext: "By integrating the two, businesses can unlock new capabilities and achieve even greater results. The ability to target the right people, shorten the sales funnel, and personalize messages all add up to a powerful ad campaign. So, if you're not already using these tools, now is the time to implement them and start seeing the benefits to your business."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integrating Instagram Custom Audiences and Lead Ads</h1>
+
+	<p>Instagram, one of the biggest social media platforms in the world, has become an essential marketing tool for businesses. With over a billion active users, it has become a hotbed for companies looking to reach their target audience with precision. Instagram Custom Audiences and Lead Ads are two powerful tools for businesses looking to drive more conversions and sales. These tools can be further integrated to unlock new capabilities and achieve even greater results.</p>
+
+	<h2>What are Instagram Custom Audiences?</h2>
+
+	<p>Instagram Custom Audiences is a feature that allows businesses to create specific target groups for their ads. It allows businesses to upload their customer data, such as email addresses and phone numbers, into the platform. Instagram then matches this data to its user database, enabling businesses to create specific target groups for their ads. With this, businesses can segment their audience based on metrics like demographics, interests, and behaviors. This ensures that they are targeting their messages to the right people at the right time.</p>
+
+	<h2>What are Instagram Lead Ads?</h2>
+
+	<p>Instagram Lead Ads is an advertising format that helps businesses collect leads directly from the Instagram platform. It allows businesses to create a form that potential customers can fill out without leaving the Instagram app. This form can be used to collect information such as name, email address, and phone number. With Lead Ads, businesses can generate high-quality leads at a lower cost than other lead generation methods.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>With Instagram's API or SDK, businesses can integrate their Custom Audiences with their Lead Ads to target their ads to people who are already interested in their product or service. By doing this, businesses can improve their conversion rates and reduce ad spend wastage. </p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>Integration of Instagram Custom Audiences and Lead Ads solves a host of problems for businesses. Firstly, it enhances targeting capabilities by allowing businesses to target people who are already interested in what they have to offer. This means businesses can cut down on ad spend and focus on quality leads rather than quantity. Secondly, this integration helps businesses shorten their sales funnel by eliminating the need for potential customers to leave the Instagram app to fill out a form. Thirdly, it allows businesses to personalize their messages to potential customers, thus increasing their chances of converting them into paying customers.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Instagram Custom Audiences and Lead Ads have become essential tools for businesses looking to reach their target audience on the platform. By integrating the two, businesses can unlock new capabilities and achieve even greater results. The ability to target the right people, shorten the sales funnel, and personalize messages all add up to a powerful ad campaign. So, if you're not already using these tools, now is the time to implement them and start seeing the benefits to your business.</p>
+
+</div>

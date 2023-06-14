@@ -1,0 +1,37 @@
+---
+permalink: /landings/system-integrations/pardot/facebook-lead-ads
+author: Edward Saunders
+title: "Integration of Pardot and Facebook Lead Ads"
+leadhead: "The integration of Pardot and Facebook Lead Ads is a powerful tool for businesses looking to streamline their lead generation efforts"
+leadtext: "By automating the transfer of leads, businesses can save time and improve their marketing campaigns. Whether using API or SDK, the integration of Pardot and Facebook Lead Ads will help businesses better nurture their leads and improve their sales."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <header>
+      <h1>Integration of Pardot and Facebook Lead Ads</h1>
+    </header>
+
+    <section>
+      <h2>Pardot</h2>
+      <p>Pardot is a marketing automation platform that helps businesses generate and nurture leads. It offers email marketing, lead generation, lead scoring, and other marketing automation tools.</p>
+    </section>
+
+    <section>
+      <h2>Facebook Lead Ads</h2>
+      <p>Facebook Lead Ads is a tool that allows businesses to capture customer information on Facebook. Lead Ads forms are automatically populated with the user's contact information, making it easier for businesses to generate leads.</p>
+    </section>
+
+    <section>
+      <h2>Integration of the two through API or SDK</h2>
+      <p>The integration of Pardot and Facebook Lead Ads allows businesses to automatically transfer leads from Facebook to Pardot. This integration can be done through API or SDK. The API integration allows businesses to customize the process of transferring leads, while the SDK integration provides a more streamlined process.</p>
+    </section>
+
+    <section>
+      <h2>Problems their integration solves</h2>
+      <p>The integration of Pardot and Facebook Lead Ads solves the problem of manually transferring leads from Facebook to Pardot. By automating this process, businesses can save time and ensure that leads are properly captured and nurtured. Additionally, businesses can use the data collected from Facebook Lead Ads to personalize their marketing campaigns and improve their lead generation efforts.</p>
+    </section>
+
+    <section>
+      <h2>Conclusion</h2>
+      <p>The integration of Pardot and Facebook Lead Ads is a powerful tool for businesses looking to streamline their lead generation efforts. By automating the transfer of leads, businesses can save time and improve their marketing campaigns. Whether using API or SDK, the integration of Pardot and Facebook Lead Ads will help businesses better nurture their leads and improve their sales.</p>
+    </section>
+</div>

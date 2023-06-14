@@ -1,0 +1,22 @@
+---
+permalink: /landings/system-integrations/sugarcrm-6-2-5/servicenow
+author: Edward Saunders
+title: "SugarCRM and ServiceNow Integration"
+leadhead: "The integration of SugarCRM and ServiceNow can benefit businesses by providing an end-to-end service management solution that streamlines customer service and automates IT service management tasks"
+leadtext: "Implementing the integration enables businesses to access real-time customer data, which can dramatically improve customer satisfaction."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">  <h1>SugarCRM and ServiceNow Integration</h1>
+  <p>SugarCRM 6.2-5 and ServiceNow are two popular software solutions in the market that are widely used by businesses worldwide. While SugarCRM enables businesses to manage customer relationship and provide excellent customer service, ServiceNow offers IT service management solutions. </p>
+
+  <h2>Integration of the Two through API or SDK</h2>
+  <p>Businesses can easily integrate SugarCRM and ServiceNow using API or SDK integration. API integration allows data to be shared between the two systems, and SDK integration enables developers to create custom integrations that best meet their business needs. </p>
+
+  <h2>Problems their Integration Solves </h2>
+  <p>Integrating SugarCRM and ServiceNow can solve various problems for businesses. Firstly, it can streamline service management processes by enabling customer service teams to access customer data directly from SugarCRM. The integration ensures that every interaction with a customer is recorded and tracked, making it easier to manage customer relationships.</p>
+  
+  <p>Also, the integration ensures that the support team has access to the latest customer data in real-time, enabling them to provide a more personalized and efficient customer service experience. Businesses can also benefit from increased efficiency and productivity, as ServiceNow automates IT service management tasks, such as incident management, problem management, and change management. </p>
+
+  <h2>Conclusion</h2>
+  <p>The integration of SugarCRM and ServiceNow can benefit businesses by providing an end-to-end service management solution that streamlines customer service and automates IT service management tasks. Implementing the integration enables businesses to access real-time customer data, which can dramatically improve customer satisfaction. </p>
+</div>

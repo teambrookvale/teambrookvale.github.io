@@ -1,0 +1,21 @@
+---
+permalink: /landings/system-integrations/marketo/microsoft-dynamics-365-crm
+author: Edward Saunders
+title: "Marketo and Microsoft Dynamics 365 CRM Integration"
+leadhead: "In conclusion, the integration of Marketo and Microsoft Dynamics 365 CRM through API or SDK has significant benefits for businesses"
+leadtext: "It enables them to automate their marketing and sales processes, saving time, and resources. It also provides businesses with valuable insights and a comprehensive view of their customer interactions, improving their decision-making processes. With the integration of these two tools, businesses can provide an excellent customer experience, leading to increased engagement and loyalty."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Marketo and Microsoft Dynamics 365 CRM Integration</h1>
+	<p>
+		As businesses grow, they need to manage their marketing and customer relationship effectively to stay ahead of their competitors. Two popular tools that businesses use for these purposes are Marketo and Microsoft Dynamics 365 CRM. Marketo is a marketing automation platform that helps businesses generate leads, manage their content, and measure their results. Microsoft Dynamics 365 CRM, on the other hand, is a software that helps businesses manage their customer interactions and automate their sales processes.
+	</p>
+	<p>
+		As businesses strive to provide a seamless customer experience, the integration of Marketo and Microsoft Dynamics 365 CRM through API or SDK has become essential. API (Application Programming Interface) and SDK (Software Development Kit) allow the transfer of data and automation between these two tools. For example, businesses can automatically sync leads generated in Marketo to Microsoft Dynamics 365 CRM and vice versa. This integration enables businesses to have a comprehensive view of their customer interactions and marketing campaigns, making it easier to analyze the results and make informed decisions.
+	</p>
+	<p>
+		The integration of Marketo and Microsoft Dynamics 365 CRM solves many problems. It reduces manual tasks, preventing errors and duplication of work. It also saves time by automating marketing and sales tasks, allowing businesses to focus on developing strategies and analyzing their results. Additionally, businesses can personalize their marketing campaigns, improving the customer experience by providing relevant content and offers based on their preferences and behaviors. The integration also improves the accuracy of data, reducing the risk of losing valuable insights due to incomplete or inaccurate information.
+	</p>
+	<h2>Conclusion</h2>
+	<p>
+		In conclusion, the integration of Marketo and Microsoft Dynamics 365 CRM through API or SDK has significant benefits for businesses. It enables them to automate their marketing and sales processes, saving time, and resources. It also provides businesses with valuable insights and a comprehensive view of their customer interactions, improving their decision-making processes. With the integration of these two tools, businesses can provide an excellent customer experience, leading to increased engagement and loyalty.</div>

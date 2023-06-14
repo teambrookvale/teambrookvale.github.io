@@ -1,0 +1,39 @@
+---
+permalink: /landings/system-integrations/microsoft-dynamics-365-crm/whmcs
+author: Edward Saunders
+title: "Integrating Microsoft Dynamics 365 CRM and WHMCS through API or SDK"
+leadhead: "Integrating Microsoft Dynamics 365 CRM and WHMCS through API or SDK can create new opportunities for businesses by solving problems and improving operational efficiency"
+leadtext: "The specific integration scenarios and methods will depend on the needs of the business, but the benefits of integration are clear. Whether you're a business that uses both applications or a developer looking to build integrations for clients, consider the potential of integrating Microsoft Dynamics 365 CRM and WHMCS."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Microsoft Dynamics 365 CRM and WHMCS through API or SDK</h1>
+	
+	<p>Microsoft Dynamics 365 CRM and WHMCS are two powerful software applications that serve different purposes. Microsoft Dynamics 365 CRM is a customer relationship management tool used by businesses to manage their interactions with customers and prospects. WHMCS, on the other hand, is a web hosting automation tool used by web hosting companies to manage their business operations. While these applications may seem unrelated, integrating them can solve problems and create new opportunities for businesses.</p>
+	
+	<h2>Integration of Microsoft Dynamics 365 CRM and WHMCS through API or SDK</h2>
+	
+	<p>Integrating Microsoft Dynamics 365 CRM and WHMCS can be achieved through APIs (Application Programming Interfaces) or SDKs (Software Development Kits). APIs are interfaces that allow applications to communicate with each other, while SDKs provide tools and resources for building integrations.</p>
+	
+	<p>There are several ways to integrate Microsoft Dynamics 365 CRM and WHMCS, depending on the specific needs of the business. One common integration scenario is syncing customer data between the two applications. This allows businesses to have a unified view of their customer interactions, from sales and support to billing and payments. Other integration scenarios include:</p>
+	
+	<ul>
+		<li>Creating sales orders in Microsoft Dynamics 365 CRM based on WHMCS customer orders</li>
+		<li>Generating invoices in WHMCS based on sales orders in Microsoft Dynamics 365 CRM</li>
+		<li>Tracking customer support requests in Microsoft Dynamics 365 CRM based on tickets created in WHMCS</li>
+	</ul>
+	
+	<h2>Problems their integration solves</h2>
+	
+	<p>Integrating Microsoft Dynamics 365 CRM and WHMCS can solve several problems that businesses face when operating these applications independently. For example:</p>
+	
+	<ul>
+		<li>Duplicate data entry: Integrating the two applications can eliminate the need for manually entering customer data in both systems.</li>
+		<li>Incomplete customer view: By syncing customer data, businesses can have a complete and accurate view of their interactions with customers, from pre-sales to post-sales.</li>
+		<li>Lack of automation: Integrating the applications can enable businesses to automate some of their key processes, such as generating invoices and tracking support requests.</li>
+	</ul>
+	
+	<h2>Conclusion</h2>
+	
+	<p>Integrating Microsoft Dynamics 365 CRM and WHMCS through API or SDK can create new opportunities for businesses by solving problems and improving operational efficiency. The specific integration scenarios and methods will depend on the needs of the business, but the benefits of integration are clear. Whether you're a business that uses both applications or a developer looking to build integrations for clients, consider the potential of integrating Microsoft Dynamics 365 CRM and WHMCS.</p>
+	
+</div>

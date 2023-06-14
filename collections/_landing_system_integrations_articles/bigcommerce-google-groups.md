@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/bigcommerce/google-groups
+author: Edward Saunders
+title: "BigCommerce and Google Groups Integration"
+leadhead: "Overall, the integration of BigCommerce and Google Groups is a powerful solution for businesses looking to streamline their ecommerce operation and improve their communication and collaboration"
+leadtext: "With the help of API or SDK, businesses can easily connect their online store with Google Groups, enabling them to achieve greater efficiency and productivity. If you are an ecommerce business owner looking to enhance your online store, consider integrating BigCommerce and Google Groups today."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>BigCommerce and Google Groups Integration</h1>
+
+	<p>BigCommerce and Google Groups are two powerful tools that when integrated together can provide a comprehensive solution for ecommerce businesses. With the help of API or SDK, businesses can seamlessly connect their ecommerce platform with Google Groups to achieve greater efficiency and productivity.</p>
+
+	<h2>BigCommerce</h2>
+
+	<p>BigCommerce is an ecommerce platform that offers a variety of features and tools to help businesses build and grow their online store. It provides a fully hosted solution that enables businesses to create an online store without worrying about server maintenance and security. Additionally, it offers a simple and intuitive interface that allows businesses to manage their store easily.</p>
+
+	<h2>Google Groups</h2>
+
+	<p>Google Groups is a web-based application that enables businesses to create and manage email groups. It provides an easy way for businesses to communicate and collaborate with their team members, customers, and partners. With Google Groups, businesses can create discussions, share files, and receive updates in real-time.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of BigCommerce and Google Groups can be achieved through API or SDK. The API allows businesses to connect their BigCommerce store with Google Groups, enabling them to send notifications or alerts to their team members or customers. The SDK provides a more advanced integration that allows businesses to customize the integration according to their specific needs.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of BigCommerce and Google Groups solves a number of problems that ecommerce businesses face on a daily basis. Firstly, it provides a more efficient way of communication and collaboration for businesses, allowing them to save time and effort. Secondly, it enables businesses to keep their team members or customers updated in real-time, ensuring that everyone is on the same page. Finally, it provides businesses with greater visibility into their ecommerce operation, enabling them to make better decisions and improvements.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Overall, the integration of BigCommerce and Google Groups is a powerful solution for businesses looking to streamline their ecommerce operation and improve their communication and collaboration. With the help of API or SDK, businesses can easily connect their online store with Google Groups, enabling them to achieve greater efficiency and productivity. If you are an ecommerce business owner looking to enhance your online store, consider integrating BigCommerce and Google Groups today.</p>
+
+</div>

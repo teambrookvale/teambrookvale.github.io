@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/amazon-cloudwatch/amazon-ses
+author: Edward Saunders
+title: "How Amazon CloudWatch and Amazon SES Integration Solves Common Problems"
+leadhead: "Amazon CloudWatch and Amazon SES integration is a great option for businesses looking to maintain a reliable email system while also monitoring its performance"
+leadtext: "This integration can help organizations avoid common issues with email delivery, save time, and avoid the revenue drain from missed opportunities. Amazon Web Services provides an intuitive and user-friendly interface to set up integrations, making the process seamless, and accessible to a wide variety of users."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>How Amazon CloudWatch and Amazon SES Integration Solves Common Problems</h1>
+	
+	<p>Amazon Web Services (AWS) has developed a comprehensive suite of tools to help businesses manage their IT infrastructure. Two of these tools, Amazon CloudWatch and Amazon SES, help companies mitigate common issues and make their services more efficient.</p>
+
+	<h2>What is Amazon CloudWatch?</h2>
+	<p>Amazon CloudWatch is a monitoring service for AWS resources and the applications running on them. This tool helps you collect and process log files, set up alarms, and monitor metrics in real-time. This service is fully managed and scales seamlessly with your applications.</p> 
+
+	<h2>What is Amazon SES?</h2>
+	<p>Amazon SES (Simple Email Service) is an email service that allows businesses to send bulk and transactional emails. This tool helps you create and manage email marketing campaigns while providing a cost-effective and reliable platform to deliver messages. Amazon SES is also fully managed and offers a pay-as-you-go pricing model.</p>
+
+	<h2>Integration of Amazon CloudWatch and Amazon SES</h2>
+	<p>By integrating Amazon CloudWatch with Amazon SES through the Application Programming Interface (API) or Software Development Kit (SDK), businesses can create custom alerts based on specific email performance metrics. Amazon SES provides CloudWatch with real-time email delivery, bounce, and complaint metrics. CloudWatch on the other hand, can create alarms based on those metrics to alert IT operations teams before the email system becomes overwhelmed or starts to fail.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>One of the most common problems in email marketing campaigns is the failure to deliver messages. When a business's email system is not working correctly, it can lead to missed opportunities and lost revenue. With Amazon CloudWatch and Amazon SES integration, companies can be alerted before email delivery problems spiral out of control. For example, if there is a sudden spike in bounced emails, CloudWatch can immediately alert the IT department, so they can investigate and prevent a total system crash due to a blacklisting of IPs.</p>
+
+	<h2>Conclusion</h2>
+	<p>Amazon CloudWatch and Amazon SES integration is a great option for businesses looking to maintain a reliable email system while also monitoring its performance. This integration can help organizations avoid common issues with email delivery, save time, and avoid the revenue drain from missed opportunities. Amazon Web Services provides an intuitive and user-friendly interface to set up integrations, making the process seamless, and accessible to a wide variety of users. </p>
+</div>

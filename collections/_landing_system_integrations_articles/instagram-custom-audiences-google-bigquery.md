@@ -1,0 +1,45 @@
+---
+permalink: /landings/system-integrations/instagram-custom-audiences/google-bigquery
+author: Edward Saunders
+title: "Instagram Custom Audiences and Google BigQuery Integration"
+leadhead: "The integration of Instagram Custom Audiences and Google BigQuery is a
+      valuable tool for businesses looking to improve their social media marketing
+      efforts"
+leadtext: "By leveraging their customer data, businesses can create more
+      personalized and effective Instagram campaigns, increasing the success of
+      their social media marketing efforts."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Instagram Custom Audiences and Google BigQuery Integration</h1>
+    <p>
+      Instagram Custom Audiences allow businesses to target their existing
+      customers, website visitors, and app users on the social media platform.
+      Google BigQuery, on the other hand, is a cloud-based data warehousing and
+      analytics solution that allows businesses to analyze large amounts of
+      data.
+    </p>
+    <p>
+      The integration of the two can be achieved through API or SDK, enabling businesses to
+      leverage their customer data to create more personalized and targeted
+      Instagram campaigns. The integration allows businesses to import their customer
+      data into Google BigQuery and then use this data to create custom audiences in
+      Instagram.
+    </p>
+    <p>
+      The integration of Instagram Custom Audiences and Google BigQuery solves common
+      problems that businesses face in social media marketing. By allowing
+      businesses to target their existing customers, they can increase their
+      customer lifetime value and generate more revenue. Furthermore, by analyzing
+      their customer data, businesses can gain insights into their audience's
+      behavior and preferences, allowing them to create more effective marketing
+      campaigns.
+    </p>
+    <h2>Conclusion</h2>
+    <p>
+      The integration of Instagram Custom Audiences and Google BigQuery is a
+      valuable tool for businesses looking to improve their social media marketing
+      efforts. By leveraging their customer data, businesses can create more
+      personalized and effective Instagram campaigns, increasing the success of
+      their social media marketing efforts.
+    </p>
+</div>

@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/shopify/pinterest
+author: Edward Saunders
+title: "Why Integrating Shopify and Pinterest Makes Sense: A Comprehensive Guide"
+leadhead: "The integration of Shopify and Pinterest offers many benefits for e-commerce businesses, from increased reach to higher conversion rates and improved SEO"
+leadtext: "By using the Shopify API and Pinterest SDK, businesses can streamline their online sales process and reach a wider audience. It is recommended for businesses to take advantage of this integration to maximize their online sales."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Why Integrating Shopify and Pinterest Makes Sense: A Comprehensive Guide</h1>
+	<p>Shopify and Pinterest are two of the most popular platforms used by e-commerce businesses. Shopify provides businesses with the tools they need to set up an online store and sell their products, while Pinterest is an image-based social media platform that allows users to discover and save ideas.</p>
+	
+	<h2>Integration of the two through API or SDK</h2>
+	<p>While these platforms serve different purposes, they can work together to drive traffic and sales. The integration of Shopify and Pinterest can be achieved through the use of API or SDK.</p>
+	<p>The Shopify API allows businesses to access their Shopify store data and automate tasks, while the Pinterest SDK allows businesses to add Pinterest Save and Buy buttons to their website.</p>
+	
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Shopify and Pinterest solves several problems that businesses face when selling online:</p>
+	<ol>
+		<li>Increased reach: Pinterest has over 465 million active users and a younger demographic, making it an ideal platform for businesses looking to expand their reach.</li>
+		<li>Higher conversion rates: Pinterest users are more likely to purchase products they discover on the platform, and the addition of Buy buttons makes it even easier for them to make a purchase.</li>
+		<li>Improved SEO: Pinterest is a search engine, and its content appears in Google searches. By integrating Pinterest into their Shopify store, businesses can improve their SEO and visibility.</li>
+		<li>Streamlined checkout process: The integration of Shopify and Pinterest allows businesses to offer a seamless checkout process with their buyers, making it more convenient for them to complete their purchase.</li>
+	</ol>
+	
+	<h2>Conclusion</h2>
+	<p>The integration of Shopify and Pinterest offers many benefits for e-commerce businesses, from increased reach to higher conversion rates and improved SEO. By using the Shopify API and Pinterest SDK, businesses can streamline their online sales process and reach a wider audience. It is recommended for businesses to take advantage of this integration to maximize their online sales.</p>
+</div>

@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/goto-webinar/google-bigquery
+author: Edward Saunders
+title: "Integration of GoTo Webinar and Google BigQuery"
+leadhead: "The integration of GoTo Webinar and Google BigQuery provides businesses with a powerful tool for analyzing and processing data from webinars"
+leadtext: "The real-time analytics and automatic data processing features provided by BigQuery can help businesses gain valuable insights and inform decision-making, leading to improved engagement, better marketing strategies, and increased revenue."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integration of GoTo Webinar and Google BigQuery</h1>
+	</header>
+
+	<article>
+		<h2>GoTo Webinar</h2>
+		<p>GoTo Webinar is a well-known online communication platform that allows businesses and individuals to host webinars, online meetings, and video conferences. It offers a range of features that makes it easy to set up and manage webinars, including registration pages, analytics, and engagement tools.</p>
+
+		<h2>Google BigQuery</h2>
+		<p>Google BigQuery is a fully managed cloud data warehouse that allows you to analyze and process large amounts of data in real-time. It offers high-performance and cost-effective solutions, allowing businesses to store, process, and analyze data with ease.</p>
+
+		<h2>Integration of the two through API or SDK</h2>
+		<p>The integration of GoTo Webinar and Google BigQuery can be achieved through their APIs or software development kits (SDKs). The API allows businesses to integrate GoTo Webinar with Google BigQuery and automatically pulls data from webinars into BigQuery. It also allows businesses to analyze the data in real-time and extract valuable insights.</p>
+
+		<h2>Problems their integration solves</h2>
+		<ul>
+			<li><strong>Real-time data analysis:</strong> The integration allows businesses to analyze data from webinars in real-time, providing insights that can inform decision-making.</li>
+			<li><strong>Automatic data processing:</strong> With the integration, data from webinars is automatically processed and stored in Google BigQuery without manual intervention, reducing the risk of errors and saving time.</li>
+			<li><strong>Better engagement:</strong> The integration allows businesses to analyze attendee engagement during webinars, identifying areas for improvement and increasing engagement with attendees.</li>
+			<li><strong>Improved marketing strategies:</strong> By analyzing attendee data, businesses can create targeted marketing strategies that increase conversions and retention rates.</li>
+		</ul>
+
+		<h2>Conclusion</h2>
+		<p>The integration of GoTo Webinar and Google BigQuery provides businesses with a powerful tool for analyzing and processing data from webinars. The real-time analytics and automatic data processing features provided by BigQuery can help businesses gain valuable insights and inform decision-making, leading to improved engagement, better marketing strategies, and increased revenue.</p>
+	</article>
+</div>

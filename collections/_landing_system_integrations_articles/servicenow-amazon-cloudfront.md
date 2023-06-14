@@ -1,0 +1,19 @@
+---
+permalink: /landings/system-integrations/servicenow/amazon-cloudfront
+author: Edward Saunders
+title: "Integrating ServiceNow with Amazon CloudFront"
+leadhead: "Integrating ServiceNow with Amazon CloudFront is a valuable addition to any business"
+leadtext: "The integration provides a seamless connection between the IT service management platform and the content delivery network, enhancing the accessibility and performance of IT services."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating ServiceNow with Amazon CloudFront</h1>
+	<p>ServiceNow is a popular cloud-based IT service management tool that helps businesses manage their IT services and operations. On the other hand, Amazon CloudFront is a content delivery network (CDN) that delivers content to end-users with low latency and high data transfer speeds.</p>
+	<p>Integrating the two platforms can enhance the performance and accessibility of the IT services offered by a business. This can be achieved through the use of APIs or SDKs, which provide a seamless integration between the two platforms.</p>
+	<h2>API and SDK Integration</h2>
+	<p>The integration of ServiceNow with Amazon CloudFront can be achieved by using either the API or SDK. The API integration involves the use of RESTful API calls to communicate between the two platforms. The SDK integration, on the other hand, involves the use of the Amazon CloudFront SDK for JavaScript or Java to integrate the two platforms.</p>
+	<h2>Solving Integration Problems</h2>
+	<p>Integrating ServiceNow with Amazon CloudFront has several benefits. Firstly, it enhances the accessibility of IT services to end-users by delivering content at low latency and high data transfer speeds. This ensures that end-users can access the IT services without any delays or slow loading times.</p>
+	<p>Secondly, the integration can help businesses to effectively manage their IT services and operations. ServiceNow provides a platform to manage IT services, while Amazon CloudFront offers a platform for content delivery. The integration of the two platforms enables businesses to effectively manage and deliver content to end-users.</p>
+	<h2>Conclusion</h2>
+	<p>Integrating ServiceNow with Amazon CloudFront is a valuable addition to any business. The integration provides a seamless connection between the IT service management platform and the content delivery network, enhancing the accessibility and performance of IT services.</p>
+</div>

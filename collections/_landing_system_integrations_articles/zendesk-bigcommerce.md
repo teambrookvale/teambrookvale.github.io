@@ -1,0 +1,30 @@
+---
+permalink: /landings/system-integrations/zendesk/bigcommerce
+author: Edward Saunders
+title: "Zendesk and BigCommerce Integration"
+leadhead: "Zendesk and BigCommerce integration can provide several benefits to eCommerce businesses"
+leadtext: "By automating tasks and providing better customer support, businesses can save time, money, and resources. Using API or SDK, integration can be done easily, making it an attractive option for eCommerce businesses."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Zendesk and BigCommerce Integration</h1>
+	<p>Zendesk and BigCommerce are two widely used software in the eCommerce industry. While Zendesk provides a customer support platform, BigCommerce provides an online store builder. These two platforms can be integrated using API or SDK to provide better customer support and automate tasks.</p>
+
+	<h2>API vs SDK</h2>
+	<p>API (Application Programming Interface) and SDK (Software Development Kit) are two different ways to integrate software. API is a set of endpoints that allow different software to communicate with each other. On the other hand, SDK is a set of tools and libraries that allow developers to build software on top of an existing platform.</p>
+
+	<h2>Integration of Zendesk and BigCommerce</h2>
+	<p>Zendesk and BigCommerce integration can be done using API and SDK. Using API, Zendesk can access customer data and order data from BigCommerce and provide better customer support. For example, when a customer raises a support ticket, Zendesk can automatically fetch their order history from BigCommerce and provide personalized support. Similarly, when an order is placed in BigCommerce, Zendesk can create a support ticket in its platform.</p>
+
+	<p>Using SDK, developers can build custom applications on top of Zendesk and BigCommerce to automate tasks. For example, a developer can build an application that fetches data from BigCommerce and creates custom reports in Zendesk.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Zendesk and BigCommerce solves several problems for eCommerce businesses:</p>
+	<ol>
+		<li>Better customer support: With access to customer and order data, Zendesk can provide personalized support to customers, leading to better customer satisfaction.</li>
+		<li>Automation of tasks: With custom applications built on top of the two platforms, eCommerce businesses can automate tasks and save time.</li>
+		<li>Lower cost: By using existing platforms and integrating them, eCommerce businesses can save on development costs.</li>
+	</ol>
+
+	<h2>Conclusion</h2>
+	<p>Zendesk and BigCommerce integration can provide several benefits to eCommerce businesses. By automating tasks and providing better customer support, businesses can save time, money, and resources. Using API or SDK, integration can be done easily, making it an attractive option for eCommerce businesses.</p>
+</div>

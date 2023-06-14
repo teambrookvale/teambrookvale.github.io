@@ -1,0 +1,36 @@
+---
+permalink: /landings/system-integrations/greenhouse/microsoft-dynamics-365-crm
+author: Edward Saunders
+title: "Integration of Greenhouse and Microsoft Dynamics 365 CRM"
+leadhead: "The integration of Greenhouse and Microsoft Dynamics 365 CRM provides businesses with a powerful solution to streamline their hiring process and improve customer relationships"
+leadtext: "By eliminating the need for manual data entry and providing a complete view of candidate and customer data, businesses can operate more efficiently and effectively. With the help of API or SDK, the integration of these two platforms is easy to achieve."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integration of Greenhouse and Microsoft Dynamics 365 CRM</h1>
+	</header>
+	<section>
+		<h2>What is Greenhouse?</h2>
+		<p>Greenhouse is a recruiting software that helps businesses streamline their hiring process. It allows hiring managers to post job openings, collect resumes, and track applicants throughout the hiring process.</p>
+	</section>
+
+	<section>
+		<h2>What is Microsoft Dynamics 365 CRM?</h2>
+		<p>Microsoft Dynamics 365 CRM is a customer relationship management software that helps businesses manage customer interactions and data. It provides tools for sales, marketing, and customer service teams to improve communication and streamline processes.</p>
+	</section>
+
+	<section>
+		<h2>Integration of Greenhouse and Microsoft Dynamics 365 CRM</h2>
+		<p>The integration of Greenhouse and Microsoft Dynamics 365 CRM can be achieved through API or SDK. This integration allows for seamless communication between the two platforms, eliminating the need for manual data entry. For example, when a candidate is hired, their information can be automatically transferred from Greenhouse to Microsoft Dynamics 365 CRM, updating their contact record and allowing sales and service teams to immediately start building a relationship with the new customer.</p>
+	</section>
+
+	<section>
+		<h2>Problems their integration solves</h2>
+		<p>The integration of Greenhouse and Microsoft Dynamics 365 CRM solves several problems for businesses. Firstly, it eliminates the need for manual data entry, reducing the risk of errors and saving time for employees. Secondly, it allows for a more efficient hiring process, as information is automatically transferred from Greenhouse to Microsoft Dynamics 365 CRM, providing a complete view of the candidate’s journey. Finally, it allows for improved customer relationships, as the integration ensures that customer data is always up-to-date and can be easily accessed by sales and service teams.</p>
+	</section>
+
+	<footer>
+		<h3>Conclusion</h3>
+		<p>The integration of Greenhouse and Microsoft Dynamics 365 CRM provides businesses with a powerful solution to streamline their hiring process and improve customer relationships. By eliminating the need for manual data entry and providing a complete view of candidate and customer data, businesses can operate more efficiently and effectively. With the help of API or SDK, the integration of these two platforms is easy to achieve.</p>
+	</footer>
+</div>

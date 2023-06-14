@@ -1,0 +1,19 @@
+---
+permalink: /landings/system-integrations/greenhouse/pinterest
+author: Edward Saunders
+title: "Integrating Greenhouse and Pinterest: Solving Recruitment Roadblocks"
+leadhead: "Integrating Greenhouse and Pinterest through API or SDK offers numerous benefits to recruiters and companies"
+leadtext: "It solves recruitment roadblocks and makes it easier for recruiters to find top talent. If you're a recruiter, it's time to consider integrating Greenhouse and Pinterest to make your recruitment process smoother and more effective."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating Greenhouse and Pinterest: Solving Recruitment Roadblocks</h1>
+    <p>If you're a recruiter, you're already aware of the difficulties of finding top talent. Not to mention the numerous applicants that apply to positions only to never be seen again. Well, there is a way to make your recruitment process smoother and more efficient: integrating Greenhouse and Pinterest through API or SDK.</p>
+    <h2>What is Greenhouse and Pinterest?</h2>
+    <p>Greenhouse is a powerful recruitment software that helps companies in their hiring process. It streamlines the recruitment process and offers an applicant tracking system (ATS) that allows companies to find the best candidates for their positions. Pinterest, on the other hand, is a popular social media platform where users can discover and save ideas. </p>
+    <h2>Integration with API or SDK</h2>
+    <p>Integrating Greenhouse and Pinterest can be done through their API or Software Development Kit (SDK). This allows companies to share job postings from Greenhouse to Pinterest, increasing visibility and exposure to potential applicants. It also allows companies to track applicants that came from Pinterest, making it easier to measure the success of this integration.</p>
+    <h2>Problems This Integration Solves</h2>
+    <p>Recruiters are always searching for top candidates, and integrating Greenhouse and Pinterest through API or SDK can solve many recruitment roadblocks. Firstly, it makes it easier for companies to promote their job postings and reach a larger audience. Secondly, it allows for easy tracking of applicants, so recruiters can determine exactly where successful applicants are coming from. Lastly, it streamlines the recruitment process, saving recruiters time and resources. </p>
+    <h2>Conclusion</h2>
+    <p>Integrating Greenhouse and Pinterest through API or SDK offers numerous benefits to recruiters and companies. It solves recruitment roadblocks and makes it easier for recruiters to find top talent. If you're a recruiter, it's time to consider integrating Greenhouse and Pinterest to make your recruitment process smoother and more effective.</p>
+</div>

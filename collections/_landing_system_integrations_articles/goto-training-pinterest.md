@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/goto-training/pinterest
+author: Edward Saunders
+title: "Integration of GoTo Training and Pinterest"
+leadhead: "The integration of GoTo Training and Pinterest has significant benefits for both businesses and users"
+leadtext: "It offers a marketing opportunity for businesses looking to promote their courses, and it provides a convenient learning experience for users. The integration can be easily achieved through the API or SDK provided by both platforms. If you're a business looking to market your training courses or a user interested in learning new things, the integration of GoTo Training and Pinterest is something you should consider."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of GoTo Training and Pinterest</h1>
+	<p>GoTo Training and Pinterest are two popular platforms that cater to different needs. GoTo Training is an online training and e-learning platform that enables businesses to conduct virtual training sessions, while Pinterest is a social media platform that allows users to discover, share, and save ideas and inspiration.</p>
+	<h2>API or SDK Integration</h2>
+	<p>Both these platforms can be integrated through their application programming interface (API) or software development kit (SDK). The integration allows users to share their ideas and creations on Pinterest directly from the training sessions conducted on GoTo Training. This integration enables businesses to market and promote their training courses on Pinterest, which has a massive user base that is always looking for new ideas and inspiration.</p>
+	<h2>Problems Solved</h2>
+	<p>The integration of GoTo Training and Pinterest solves two significant problems. Firstly, it enables businesses to reach a wider audience. By marketing their courses on Pinterest, businesses can tap into a vast pool of users who may be interested in their training programs. Secondly, it offers a streamlined learning experience to users. Users can easily access the courses they are interested in from Pinterest and attend the training sessions from GoTo Training. This integration eliminates the need for users to manually search for courses and training programs and provides a convenient and effortless learning experience.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of GoTo Training and Pinterest has significant benefits for both businesses and users. It offers a marketing opportunity for businesses looking to promote their courses, and it provides a convenient learning experience for users. The integration can be easily achieved through the API or SDK provided by both platforms. If you're a business looking to market your training courses or a user interested in learning new things, the integration of GoTo Training and Pinterest is something you should consider.</p>
+</div>

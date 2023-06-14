@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/moodle/keap-max-classic
+author: Edward Saunders
+title: "Moodle and Keap Max Classic Integration"
+leadhead: "The integration of Moodle and Keap Max Classic provides a seamless connection between two critical systems that result in better communication and engagement between students and educators"
+leadtext: "With the automation of lead management and targeted communication, educators can focus on the essential task of teaching and support students' success, ultimately resulting in better student outcomes."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">        <h1>Moodle and Keap Max Classic Integration</h1>
+        
+        <h2>What is Moodle?</h2>
+        <p>Moodle is a learning management system (LMS) that is widely used by educational institutions to create and manage online learning courses. It provides a platform for educators to create and deliver digital content and for students to learn and interact with that content.</p>
+        
+        <h2>What is Keap Max Classic?</h2>
+        <p>Keap Max Classic is a customer relationship management (CRM) software that helps small businesses automate their sales and marketing processes. It provides tools for lead generation, sales management, email marketing, and more.</p>
+        
+        <h2>Integration of Moodle and Keap Max Classic</h2>
+        <p>The integration of Moodle and Keap Max Classic is made possible through the use of API or SDK. With the integration, educators and institutions can automate their marketing and communication processes with students. When a student registers on Moodle, their information is automatically sent to Keap Max Classic as a new lead. From there, the teacher or institution can send targeted email campaigns and communication based on the student's progress and inactivity in a course, increasing the chance of engagement.</p>
+        
+        <h2>Problems their Integration solves</h2>
+        <p>The integration between Moodle and Keap Max Classic solves several common problems for educators and institutions. Firstly, it saves time and reduces manual work in lead management and marketing, allowing teachers to focus on the essential task of teaching students and their well-being. With an accessible lead management system, it is easier to create campaigns that resonate with student needs and communicate in a personalized manner that increases engagement and retention—resulting in better outcomes and building stronger relationships with students.</p>
+        
+        <h2>Conclusion</h2>
+        <p>The integration of Moodle and Keap Max Classic provides a seamless connection between two critical systems that result in better communication and engagement between students and educators. With the automation of lead management and targeted communication, educators can focus on the essential task of teaching and support students' success, ultimately resulting in better student outcomes. </p>
+</div>

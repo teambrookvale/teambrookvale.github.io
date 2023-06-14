@@ -1,0 +1,30 @@
+---
+permalink: /landings/system-integrations/linkedin-ads/aws-lambda
+author: Edward Saunders
+title: "LinkedIn Ads and AWS Lambda Integration"
+leadhead: "The integration of LinkedIn Ads and AWS Lambda can provide several benefits to advertisers, including automated bidding, custom reporting, and dynamic ad creatives"
+leadtext: "By automating marketing tasks and leveraging powerful cloud computing, advertisers can save time and increase ROI."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>LinkedIn Ads and AWS Lambda Integration</h1>
+
+	<p>LinkedIn Ads is a powerful tool for marketing and advertising to professionals and businesses. It allows advertisers to reach a highly targeted audience based on various parameters such as location, job title, industry, etc.</p>
+
+	<p>AWS Lambda, on the other hand, is a serverless compute service that allows developers to run code without provisioning or managing servers. It supports a variety of programming languages, including Python, Node.js, Java, etc.</p>
+
+	<p>The integration of LinkedIn Ads and AWS Lambda can be done through APIs or SDKs. When used together, they can solve several problems faced by advertisers.</p>
+
+	<h2>Problems Solved by Integration</h2>
+
+	<h3>Automated Bidding</h3>
+	<p>LinkedIn Ads allows advertisers to bid for ad placement based on their budget and goals. However, managing bids manually can be time-consuming and inefficient. With AWS Lambda, advertisers can automate the bidding process and adjust bids in real-time based on performance data.</p>
+
+	<h3>Custom Reporting</h3>
+	<p>LinkedIn Ads provides a variety of standard reports to measure ad performance. However, sometimes advertisers need custom reports to track specific metrics or compare different campaigns. With AWS Lambda, advertisers can create custom reports and generate them automatically at regular intervals.</p>
+
+	<h3>Dynamic Ad Creatives</h3>
+	<p>LinkedIn Ads supports a variety of ad formats, including text ads, sponsored content, and sponsored InMail. However, creating ad creatives for each format can be time-consuming and require technical skills. With AWS Lambda, advertisers can create dynamic ad creatives that adapt to different formats and audiences, saving time and effort.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of LinkedIn Ads and AWS Lambda can provide several benefits to advertisers, including automated bidding, custom reporting, and dynamic ad creatives. By automating marketing tasks and leveraging powerful cloud computing, advertisers can save time and increase ROI. </p>
+</div>

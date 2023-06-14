@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/goto-training/snowflake
+author: Edward Saunders
+title: "Integrating GoTo Training and Snowflake | Blog"
+leadhead: "Integrating GoTo Training and Snowflake provides a more comprehensive way to manage learning environments and obtain meaningful insights into training programs"
+leadtext: "With real-time data analysis and quality reporting, this powerful integration provides the information businesses need to improve their overall effectiveness. Implementation involves a straightforward process that could unlock massive potential beyond the two platforms in matter of time."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating GoTo Training and Snowflake</h1>
+
+	<p>GoTo Training is a popular web-based training tool for hosting live and on-demand webinars, while Snowflake is a cloud-based data warehousing platform. Both platforms serve important functions for their respective users. However, through the integration of the two via API or SDK, businesses can leverage the data insights provided by Snowflake to improve their web-based training sessions on GoTo Training, ultimately achieving better outcomes for their employees or clients.</p>
+
+	<h2>The Benefits of Integration</h2>
+	<p>By integrating GoTo Training and Snowflake, businesses can create a more efficient and effective learning experience. By correlating attendance and engagement data from GoTo Training with data housed in Snowflake, businesses gain deeper insights into how their training sessions are driving results. As a result, businesses can:</p>
+	<ul>
+		<li>Identify gaps in training programs and implement changes to improve overall effectiveness</li>
+		<li>Have better control over their learning environment and reduce risk in nurturing employee/client knowledge</li>
+		<li>Understand where improvements are needed in real-time, allowing them to address issues before they become problematic</li>
+	</ul>
+
+	<h2>The Integration Process</h2>
+	<p>Integrating GoTo Training and Snowflake can be achieved through API or SDK. The process involves mapping data from GoTo Training to Snowflake, ensuring that data is updated in real time. The integration of the two platforms also allows businesses to analyze attendance patterns, engagement, and other important data points, enabling them to make data-driven decisions that are simpler to view and evaluate.</p>
+
+	<h2>Conclusion</h2>
+	<p>Integrating GoTo Training and Snowflake provides a more comprehensive way to manage learning environments and obtain meaningful insights into training programs. With real-time data analysis and quality reporting, this powerful integration provides the information businesses need to improve their overall effectiveness. Implementation involves a straightforward process that could unlock massive potential beyond the two platforms in matter of time.</p>
+</div>

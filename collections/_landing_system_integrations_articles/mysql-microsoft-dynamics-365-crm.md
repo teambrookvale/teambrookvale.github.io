@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/mysql/microsoft-dynamics-365-crm
+author: Edward Saunders
+title: "Integrating MySQL and Microsoft Dynamics 365 CRM"
+leadhead: "In conclusion, the integration of MySQL and Microsoft Dynamics 365 CRM is an essential step for businesses that are looking to streamline their operations and increase their efficiency"
+leadtext: "Whether through APIs or SDKs, the integration allows for seamless data transfer and real-time data synchronization between the two systems. This reduces the need for manual data entry, saves time, and ensures that all the data in both systems is accurate and up-to-date."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating MySQL and Microsoft Dynamics 365 CRM</h1>
+	<p>MySQL is a popular open-source relational database management system that is used by many organizations to store and manage their data. Microsoft Dynamics 365 CRM, on the other hand, is a customer relationship management software that helps businesses to manage their customer relationships and improve their sales and marketing processes.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>To achieve integration between MySQL and Microsoft Dynamics 365 CRM, developers can use either an API (Application Programming Interface) or an SDK (Software Development Kit). An API is a set of protocols and tools used to build software applications, while an SDK provides a set of software development tools that developers can use to build applications.</p>
+
+	<p>The integration between MySQL and Microsoft Dynamics 365 CRM can be done through the use of APIs that allow for data transfer between the two systems. In this case, data can be transferred from MySQL to Dynamics 365 CRM or vice versa. Developers can also use the SDK to build custom applications that integrate the two systems.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of MySQL and Microsoft Dynamics 365 CRM solves various problems that businesses face in their day-to-day operations. First, it allows for seamless data transfer between the two systems, which eliminates the need for manual data entry and reduces the risk of errors. This saves time and increases the efficiency of the organization's operations.</p>
+
+	<p>Secondly, the integration allows for real-time data synchronization between the two systems. This means that any changes made in one system are automatically reflected in the other system. This ensures that all the data in both systems is up-to-date and accurate.</p>
+
+	<h2>Conclusion</h2>
+	<p>In conclusion, the integration of MySQL and Microsoft Dynamics 365 CRM is an essential step for businesses that are looking to streamline their operations and increase their efficiency. Whether through APIs or SDKs, the integration allows for seamless data transfer and real-time data synchronization between the two systems. This reduces the need for manual data entry, saves time, and ensures that all the data in both systems is accurate and up-to-date.</p>
+
+</div>

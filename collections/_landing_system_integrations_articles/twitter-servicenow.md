@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/twitter/servicenow
+author: Edward Saunders
+title: "Twitter and ServiceNow Integration"
+leadhead: "The integration of Twitter and ServiceNow through API or SDK brings many benefits to organizations, including improved customer satisfaction, streamlined processes, real-time monitoring, and better data analysis"
+leadtext: "This integration can help businesses to stay ahead of the competition and provide exceptional customer service. Therefore, if you are looking for a way to improve your customer service and streamline your processes, consider integrating Twitter and ServiceNow together."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Twitter and ServiceNow Integration</h1>
+	<p>Twitter is a popular social media platform that allows users to share their thoughts, ideas and opinions. ServiceNow, on the other hand, is a cloud-based platform that helps organizations to streamline their operations and improve their services. These two platforms may seem unrelated, but integrating them together through API or SDK can bring remarkable benefits.</p>
+
+	<h2>Twitter</h2>
+	<p>Twitter is one of the most popular social media platforms that is used by individuals, businesses, and organizations to promote their brand, share news, and engage with their audience. Twitter has an estimated 330 million active users worldwide, and it is a powerful tool for companies to connect with their customers and get real-time feedback.</p>
+
+	<h2>ServiceNow</h2>
+	<p>ServiceNow is a cloud-based platform that offers IT service management, IT operations management, and IT business management solutions. ServiceNow helps organizations to streamline their processes, automate their workflows, and improve their operational efficiency. ServiceNow is used by hundreds of enterprises across various industries, including healthcare, finance, telecom, and more.</p>
+
+	<h2>Integration of the Two</h2>
+	<p>The integration of Twitter and ServiceNow via API or SDK makes it possible for organizations to monitor their social media channels, track customer feedback, and create incidents or requests in ServiceNow based on the data collected. For example, if a customer tweets about a product issue, a ServiceNow incident can be automatically created, and the support team can quickly respond and resolve the issue. This integration brings a lot of benefits to organizations, including:</p>
+
+	<ul>
+		<li>Improved customer satisfaction - by resolving customer issues quickly and efficiently</li>
+		<li>Streamlined processes - by automating workflows and eliminating manual tasks</li>
+		<li>Real-time monitoring - by tracking social media channels and responding to customer feedback in real-time</li>
+		<li>Better data analysis - by collecting and analyzing data from social media channels and ServiceNow to identify patterns and trends</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Twitter and ServiceNow through API or SDK brings many benefits to organizations, including improved customer satisfaction, streamlined processes, real-time monitoring, and better data analysis. This integration can help businesses to stay ahead of the competition and provide exceptional customer service. Therefore, if you are looking for a way to improve your customer service and streamline your processes, consider integrating Twitter and ServiceNow together.</p>
+
+</div>

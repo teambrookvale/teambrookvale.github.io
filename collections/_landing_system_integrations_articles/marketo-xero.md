@@ -1,0 +1,42 @@
+---
+permalink: /landings/system-integrations/marketo/xero
+author: Edward Saunders
+title: "Marketo and Xero Integration: A Powerful Combination"
+leadhead: "The integration of Marketo and Xero is a powerful combination that helps businesses streamline their operations, improve customer insights, and make better informed decisions"
+leadtext: "With automatic syncing of lead information and real-time visibility into financial health, businesses can save time, reduce errors, and improve cash flow management. So, if you're looking to take your business to the next level, consider integrating Marketo and Xero today!"
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Marketo and Xero Integration: A Powerful Combination</h1>
+	</header>
+
+	<section>
+		<h2>What is Marketo and Xero?</h2>
+		<p>Marketo is a marketing automation tool that helps companies manage their lead generation and customer engagement. Xero, on the other hand, is a cloud-based accounting software that simplifies financial management for small and medium-sized businesses.</p>
+	</section>
+
+	<section>
+		<h2>Integration of Marketo and Xero through API or SDK</h2>
+		<p>The integration of Marketo and Xero can be achieved through API (Application Programming Interface) or SDK (Software Development Kit). Some of the benefits of integration include:</p>
+		<ol>
+			<li>Automatic syncing of lead information between Marketo and Xero, making it easier for sales teams to close deals</li>
+			<li>Ability to track customer purchase history in Xero and use that information to create targeted marketing campaigns in Marketo</li>
+			<li>Real-time visibility into the financial health of the business, which helps in making informed decisions</li>
+		</ol>
+	</section>
+
+	<section>
+		<h2>Problems their integration solves</h2>
+		<p>The integration of Marketo and Xero solves a number of problems faced by businesses:</p>
+		<ul>
+			<li>No more manual data entry: With automatic syncing of lead information, businesses can save time and reduce errors caused by manual data entry</li>
+			<li>Better customer insights: By tracking customer purchase history, businesses can gain better insights into customer behavior and preferences</li>
+			<li>Improved cash flow management: With real-time visibility into the financial health of the business, businesses can make informed decisions about cash flow management</li>
+		</ul>
+	</section>
+
+	<footer>
+		<h3>Conclusion</h3>
+		<p>The integration of Marketo and Xero is a powerful combination that helps businesses streamline their operations, improve customer insights, and make better informed decisions. With automatic syncing of lead information and real-time visibility into financial health, businesses can save time, reduce errors, and improve cash flow management. So, if you're looking to take your business to the next level, consider integrating Marketo and Xero today!</p>
+	</footer>
+</div>

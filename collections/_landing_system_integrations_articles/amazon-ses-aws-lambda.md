@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/amazon-ses/aws-lambda
+author: Edward Saunders
+title: "Integration of Amazon SES and AWS Lambda"
+leadhead: "The integration of Amazon SES and AWS Lambda through API or SDK provides a powerful solution for businesses looking to automate their email delivery workflows and save costs in the process"
+leadtext: "The combination of these two services provides a scalable, flexible, and cost-effective solution that is ideal for businesses of all sizes."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Amazon SES and AWS Lambda</h1>
+	<p>Amazon SES (Simple Email Service) is a flexible and scalable email service that enables businesses to send and receive emails using their own domain names. AWS Lambda is a serverless computing service that allows developers to run code without the need for servers or infrastructure management. The integration of these two services through API or SDK provides several benefits for businesses.</p>
+	<h2>API or SDK Integration</h2>
+	<p>The integration of Amazon SES and AWS Lambda can be achieved through API or SDK. The API integration enables developers to programmatically send emails using Amazon SES. On the other hand, SDK integration allows developers to use code libraries to send emails using Amazon SES without the need for API calls.</p>
+	<h2>Problems Solved</h2>
+	<p>The integration of Amazon SES and AWS Lambda solves several problems for businesses. One of the significant challenges faced by businesses is sending a large number of emails cost-effectively. With the integration of Amazon SES and AWS Lambda, businesses can save costs by leveraging serverless computing to send emails. The integration also enables businesses to automate email delivery workflows, such as sending welcome emails, transactional emails, and customer support emails.</p>
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon SES and AWS Lambda through API or SDK provides a powerful solution for businesses looking to automate their email delivery workflows and save costs in the process. The combination of these two services provides a scalable, flexible, and cost-effective solution that is ideal for businesses of all sizes.</p>
+</div>

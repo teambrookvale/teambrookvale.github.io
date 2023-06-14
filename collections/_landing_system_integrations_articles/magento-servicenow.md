@@ -1,0 +1,29 @@
+---
+permalink: /landings/system-integrations/magento/servicenow
+author: Edward Saunders
+title: "Magento and ServiceNow Integration"
+leadhead: "The integration of Magento and ServiceNow has proved to be a game-changer for businesses looking to improve their customer experience"
+leadtext: "By leveraging these two technologies, businesses can optimize their operations, improve productivity and increase revenue. It is a must-have for businesses that want to thrive in a highly competitive online market."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Magento and ServiceNow Integration</h1>
+
+	<p>Magento and ServiceNow are two powerful technologies that businesses use to enhance their customer experience. Magento is an eCommerce platform that allows businesses to create online stores while ServiceNow is an IT service management platform that helps businesses manage their IT services.</p>
+
+	<p>Integrating Magento and ServiceNow through API or SDK can bring several benefits to businesses. For instance, it allows businesses to streamline their business processes, improve customer support, and increase sales. Through this integration, businesses can:</p>
+
+	<ul>
+		<li>Get real-time inventory data from Magento to ServiceNow</li>
+		<li>Create and update customer profiles from Magento to ServiceNow for efficient management of services</li>
+		<li>Monitor and resolve issues related to orders and payments in real-time</li>
+		<li>Automate the ordering process and reduce duplication of efforts</li>
+	</ul>
+
+	<p>The integration of Magento and ServiceNow eliminates the need for manual data entry. It also ensures that the data is consistent and accurate, which helps reduce errors and delays in order processing and fulfillment. This integration can save businesses time, increase efficiency and improve customer satisfaction.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Magento and ServiceNow has proved to be a game-changer for businesses looking to improve their customer experience. By leveraging these two technologies, businesses can optimize their operations, improve productivity and increase revenue. It is a must-have for businesses that want to thrive in a highly competitive online market. </p>
+
+</div>

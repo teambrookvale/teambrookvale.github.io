@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/aws-lambda/marketo
+author: Edward Saunders
+title: "AWS Lambda and Marketo Integration"
+leadhead: "The integration of AWS Lambda and Marketo is a powerful combination that can help businesses automate marketing tasks, improve customer engagement, and ultimately increase revenue"
+leadtext: "By using their respective APIs or SDKs, developers can easily build applications that respond to events triggered by Lambda functions and automate tasks in Marketo. This integration is definitely worth exploring for businesses looking to streamline their marketing efforts and improve their bottom line."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>AWS Lambda and Marketo Integration</h1>
+    <p>In today's digital age, companies are constantly exploring new ways to streamline their processes and improve customer engagement. Two popular tools that have emerged in recent years are AWS Lambda and Marketo.</p>
+    
+    <h2>What is AWS Lambda?</h2>
+    <p>AWS Lambda is a compute service that allows developers to run their code in response to events and automatically manage the underlying compute resources. It is a great tool for building serverless applications, as it eliminates the need to manage servers or infrastructure, and provides scalability and cost savings.</p>
+    
+    <h2>What is Marketo?</h2>
+    <p>Marketo is a marketing automation platform that allows businesses to streamline their marketing efforts, automate tasks, and engage with customers on multiple channels. It provides tools for lead generation, email marketing, social media management, and analytics.</p>
+    
+    <h2>Integration through API or SDK</h2>
+    <p>The integration of AWS Lambda and Marketo can be achieved through their respective APIs or SDKs. By using the AWS SDK for JavaScript and Marketo's REST API, developers can build applications that automate marketing tasks based on events triggered by Lambda functions.</p>
+    
+    <h2>Problems their integration solves</h2>
+    <p>Integrating AWS Lambda and Marketo can help businesses automate their marketing efforts, improve customer engagement, and increase revenue. For example, a Lambda function can be triggered when a prospect completes a form on a company's website. The function can then use Marketo's API to add the prospect's information to a lead nurturing campaign, which sends targeted emails based on the prospect's interests and behaviors.</p>
+    
+    <h2>Conclusion</h2>
+    <p>The integration of AWS Lambda and Marketo is a powerful combination that can help businesses automate marketing tasks, improve customer engagement, and ultimately increase revenue. By using their respective APIs or SDKs, developers can easily build applications that respond to events triggered by Lambda functions and automate tasks in Marketo. This integration is definitely worth exploring for businesses looking to streamline their marketing efforts and improve their bottom line.</p>
+</div>

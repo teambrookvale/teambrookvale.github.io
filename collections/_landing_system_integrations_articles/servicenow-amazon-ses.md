@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/servicenow/amazon-ses
+author: Edward Saunders
+title: "Integrating ServiceNow with Amazon SES"
+leadhead: "Integrating ServiceNow with Amazon SES provides organizations with an efficient, scalable, and reliable communication channel"
+leadtext: "Organizations can leverage Amazon SES's advanced email sending capabilities within ServiceNow to streamline their communication processes and reduce the time and effort required for manual email creation and sending."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integrating ServiceNow with Amazon SES</h1>
+
+	<p>ServiceNow is a cloud-based platform that provides IT service management (ITSM) solutions. On the other hand, Amazon SES (Simple Email Service) is a scalable email service provided by Amazon Web Services (AWS).</p>
+
+	<p>By integrating ServiceNow with Amazon SES using their API or SDK, organizations can benefit from faster and more efficient communication with their customers and stakeholders.</p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>Amazon SES provides an API that can be used to send emails from within ServiceNow. Using AWS SDKs, developers can incorporate SES functionalities into their ServiceNow applications. This allows organizations to streamline their email communication processes without leaving the ServiceNow environment.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration between ServiceNow and Amazon SES solves several challenges for organizations. Firstly, it provides a more efficient way to send emails, reducing the need for manual email creation and sending. Secondly, it enables organizations to track and monitor email deliveries and responses. This helps them to identify and address communication problems faster. Finally, ServiceNow and Amazon SES integration helps to improve customer satisfaction by improving overall communication with customers.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating ServiceNow with Amazon SES provides organizations with an efficient, scalable, and reliable communication channel. Organizations can leverage Amazon SES's advanced email sending capabilities within ServiceNow to streamline their communication processes and reduce the time and effort required for manual email creation and sending. </p>
+
+</div>

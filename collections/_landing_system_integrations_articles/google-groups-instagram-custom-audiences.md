@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/google-groups/instagram-custom-audiences
+author: Edward Saunders
+title: "Google Groups and Instagram Custom Audiences Integration"
+leadhead: "The integration of Google Groups and Instagram Custom Audiences is a powerful tool for marketers"
+leadtext: "By using an API or SDK, marketers can connect the two platforms and increase the effectiveness of their ads. This integration solves the problem of audience targeting and can help businesses reach a highly engaged and interested audience."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Google Groups and Instagram Custom Audiences Integration</h1>
+	<p>Google Groups and Instagram Custom Audiences are powerful tools for digital marketers. However, their integration can bring even more value. Through the use of an API or SDK, marketers can connect the two platforms and solve some of their biggest problems.</p>
+
+	<h2>Google Groups</h2>
+	<p>Google Groups is a free service that allows users to create and participate in online groups. It’s a great way to connect with others who share similar interests or work on similar projects. Google Groups can be used for a variety of purposes, including communication, collaboration, and knowledge sharing.</p>
+
+	<h2>Instagram Custom Audiences</h2>
+	<p>Instagram Custom Audiences is a feature that allows advertisers to target users based on their interactions with the brand. This includes people who have engaged with the brand on Instagram, visited the brand’s website, or are on the brand’s email list. By targeting users who have already shown interest in the brand, advertisers can increase their chances of conversion.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of Google Groups and Instagram Custom Audiences can be achieved through the use of an API or SDK. This allows marketers to import email addresses of Google Group members into Instagram Custom Audiences for targeted ads.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>One of the biggest problems that this integration solves is audience targeting. By using Google Groups, marketers can identify and target users who are already interested in the brand’s niche. By importing these email addresses into Instagram Custom Audiences, advertisers can serve ads to a highly targeted audience. This can increase the effectiveness of the ads and reduce the number of wasted impressions.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Google Groups and Instagram Custom Audiences is a powerful tool for marketers. By using an API or SDK, marketers can connect the two platforms and increase the effectiveness of their ads. This integration solves the problem of audience targeting and can help businesses reach a highly engaged and interested audience.</p>
+
+</div>

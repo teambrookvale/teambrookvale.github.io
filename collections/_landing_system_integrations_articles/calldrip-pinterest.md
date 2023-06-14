@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/calldrip/pinterest
+author: Edward Saunders
+title: "Calldrip-Pinterest Integration: A Solution for Better Lead Generation"
+leadhead: "The integration of Calldrip and Pinterest is a powerful tool for businesses looking to improve their lead generation efforts"
+leadtext: "It allows quick response to potential clients and gives them the edge over their competitors. With the significant number of active users on Pinterest, integrating Calldrip into business pages on the platform is a worthy investment. Lastly, with data derived from customers pins, businesses can measure the effectiveness of marketing efforts on the platform."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Calldrip-Pinterest Integration: A Solution for Better Lead Generation</h1>
+	</header>
+	<main>
+		<section>
+			<h2>What is Calldrip?</h2>
+			<p>Calldrip is a cloud-based sales acceleration platform that helps businesses connect with their leads faster. With Calldrip's software, businesses can immediately respond to their leads via phone call, text, or email as soon as they fill out a contact form on the company's website.</p>
+		</section>
+		<section>
+			<h2>What is Pinterest?</h2>
+			<p>Pinterest is a social media platform that allows users to discover, save, and share ideas and inspiration through visual content. Users can save and organize images into boards, follow other users' boards, and search for specific topics or categories.</p>
+		</section>
+		<section>
+			<h2>Integration of Calldrip and Pinterest</h2>
+			<p>Calldrip and Pinterest can be integrated through API or SDK. By integrating the two software, businesses can collect leads from Pinterest and respond to them in real-time with Calldrip's platform. When a user fills out a contact form on a business's Pinterest page, Calldrip will instantly call the business's sales team to connect with the lead.</p>
+		</section>
+		<section>
+			<h2>Problems their integration solves</h2>
+			<p>The integration of Calldrip and Pinterest solves several lead generation problems for businesses. Firstly, it ensures that leads are quickly responded to, giving businesses an edge over competitors. Additionally, the integration allows businesses to collect more leads from Pinterest, a platform that has over 250 million active users, spreading the reach of the businesses services or products. Lastly, it provides businesses with valuable data on the customer's interest based on what they are pinning, which can be used to measure the effectiveness of a company's marketing efforts on the platform.</p>
+		</section>
+	</main>
+	<footer>
+		<h3>Conclusion</h3>
+		<p>The integration of Calldrip and Pinterest is a powerful tool for businesses looking to improve their lead generation efforts. It allows quick response to potential clients and gives them the edge over their competitors. With the significant number of active users on Pinterest, integrating Calldrip into business pages on the platform is a worthy investment. Lastly, with data derived from customers pins, businesses can measure the effectiveness of marketing efforts on the platform.</p>
+	</footer>
+</div>

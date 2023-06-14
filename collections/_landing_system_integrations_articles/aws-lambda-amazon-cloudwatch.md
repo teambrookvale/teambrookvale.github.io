@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/aws-lambda/amazon-cloudwatch
+author: Edward Saunders
+title: "AWS Lambda and Amazon CloudWatch - A Powerful Combination"
+leadhead: "The integration of AWS Lambda and Amazon CloudWatch provides developers with a powerful set of tools to monitor, manage, and optimize their serverless applications"
+leadtext: "With real-time metrics, logs, and alarms, developers can gain visibility into their applications and quickly address issues before they become critical. By leveraging these tools, developers can build more responsive, reliable, and cost-effective solutions."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+<h1>AWS Lambda and Amazon CloudWatch - A Powerful Combination</h1>
+
+<p>AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS) that allows developers to run code without provisioning or managing servers. On the other hand, Amazon CloudWatch is a monitoring service that provides visibility into AWS resources and applications.</p>
+
+<h2>Integration of AWS Lambda and Amazon CloudWatch</h2>
+
+<p>AWS Lambda and Amazon CloudWatch can be integrated using APIs or SDKs to monitor and manage Lambda functions. By leveraging CloudWatch metrics, alarms, and logs, developers can gain insight into their Lambda applications and detect issues before they become critical.</p>
+
+<h2>Problems their integration solves</h2>
+
+<p>The integration of AWS Lambda and Amazon CloudWatch solves several problems that developers face when building and deploying applications in AWS. These include:</p>
+
+<ul>
+	<li><strong>Monitoring and Alerting:</strong> Using metrics and alarms in CloudWatch, developers can monitor and get alerts when a Lambda function is encountering issues, such as errors or timeouts. These issues can then be quickly addressed to prevent downtime or poor performance.</li>
+	<li><strong>Logging and Debugging:</strong> CloudWatch provides logs of Lambda function executions, making it easier for developers to debug and optimize their code. They can also use the logs to trace the flow of an application and identify bottlenecks.</li>
+	<li><strong>Cost Optimization:</strong> By monitoring resource utilization and adjusting runtime settings, developers can optimize their Lambda functions to reduce costs.</li>
+</ul>
+
+<h2>Conclusion</h2>
+
+<p>The integration of AWS Lambda and Amazon CloudWatch provides developers with a powerful set of tools to monitor, manage, and optimize their serverless applications. With real-time metrics, logs, and alarms, developers can gain visibility into their applications and quickly address issues before they become critical. By leveraging these tools, developers can build more responsive, reliable, and cost-effective solutions.</p>
+
+</div>

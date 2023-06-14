@@ -1,0 +1,41 @@
+---
+permalink: /landings/system-integrations/google-ads/xero
+author: Edward Saunders
+title: "Why Integrating Google Ads and Xero May Benefit Your Business"
+leadhead: "The integration of Google Ads and Xero can be a game-changer for businesses that want to streamline their advertising and accounting processes"
+leadtext: "By using an API or SDK, businesses can automate tasks such as invoice creation, expense categorization, and performance tracking, which can save time, reduce errors, and provide real-time visibility of cash flow and profitability. If you’re already using Google Ads and Xero, it’s worth considering integrating the two platforms to see the benefits for yourself."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Why Integrating Google Ads and Xero May Benefit Your Business</h1>
+
+	<p>Running a business entails keeping track of various aspects, including advertising and accounting. Thankfully, technology has made things much easier for entrepreneurs, as it’s now possible to integrate different tools and platforms to automate certain processes. Google Ads and Xero are two examples of such tools, and their integration may be beneficial for businesses of various sizes. </p>
+
+	<h2>Google Ads</h2>
+	<p>Google Ads is a powerful platform for online advertising. By using it, businesses can place their ads in Google search results, on websites that display Google Ads, and on YouTube. The platform allows users to target their audience based on criteria such as location, age, interests, and device. Google Ads is based on a pay-per-click (PPC) model, which means that advertisers only pay when someone clicks on their ad. </p>
+
+	<h2>Xero</h2>
+	<p>Xero is a cloud-based accounting software that helps businesses manage their finances. It allows users to keep track of income and expenses, create invoices, pay bills, reconcile bank accounts, and generate financial reports. Xero also integrates with other tools such as payment gateways, inventory management systems, and customer relationship management (CRM) software. </p>
+
+	<h2>Integration of the Two through API or SDK</h2>
+	<p>The integration of Google Ads and Xero can be done through an application programming interface (API) or a software development kit (SDK). Both options allow for the exchange of data between the two platforms, which can save time and reduce errors. Here are some examples of what can be achieved by integrating Google Ads and Xero:</p>
+
+	<ul>
+		<li>Automatic creation of invoices for Google Ads expenses.</li>
+		<li>Better tracking of campaign performance by linking click-through rates (CTR) and cost-per-click (CPC) data to revenue and profit.</li>
+		<li>Automatic categorization of Google Ads expenses in Xero based on campaign, ad group, or keyword.</li>
+		<li>Real-time visibility of cash flow and profitability, which can help with budgeting and forecasting decisions.</li>
+	</ul>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Google Ads and Xero can solve several problems for businesses:</p>
+
+	<ul>
+		<li>Manual data entry: By automating the transfer of data between the two platforms, businesses can avoid mistakes caused by manual data entry.</li> 
+		<li>Lack of visibility: By linking advertising expenses to revenue and profit, businesses can have a better understanding of their return on investment (ROI) and adjust their marketing strategies accordingly.</li>
+		<li>Time-consuming tasks: By automating tasks such as invoice creation and expense categorization, businesses can save time and focus on more important tasks.</li> 
+		<li>Human error: By reducing the need for manual input, businesses can reduce the risk of human error, which can have costly consequences.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Google Ads and Xero can be a game-changer for businesses that want to streamline their advertising and accounting processes. By using an API or SDK, businesses can automate tasks such as invoice creation, expense categorization, and performance tracking, which can save time, reduce errors, and provide real-time visibility of cash flow and profitability. If you’re already using Google Ads and Xero, it’s worth considering integrating the two platforms to see the benefits for yourself.</p>
+</div>

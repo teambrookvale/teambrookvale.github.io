@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/magento-2-x/goto-training
+author: Edward Saunders
+title: "Magento 2.X and GoTo Training Integration"
+leadhead: "The integration of Magento 2.X and GoTo Training is a smart move for businesses looking to enhance their online store and training capabilities"
+leadtext: "It allows for the automation of training processes and provides businesses with a comprehensive solution to manage their operations. By integrating these two platforms, businesses can optimize their workflow and save time and resources."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <header>
+      <h1>Magento 2.X and GoTo Training Integration</h1>
+    </header>
+    <article>
+      <h2>What is Magento 2.X?</h2>
+      <p>Magento is an e-commerce platform that allows businesses to create online stores and manage their sales and inventory. Magento 2.X is the latest version of this platform, released in 2015, and it offers improved performance and scalability compared to its predecessor.</p>
+      
+      <h2>What is GoTo Training?</h2>
+      <p>GoTo Training is a web-based platform that allows companies to create and deliver online training courses. It offers features like screen sharing, interactive polls, and performance analytics to enhance the learning experience.</p>
+      
+      <h2>Integration through API or SDK</h2>
+      <p>By integrating Magento 2.X with GoTo Training through APIs or SDKs, businesses can automate the process of creating and assigning training courses to their employees. The integration allows businesses to create a seamless experience between their e-commerce platform and training portal.</p>
+      
+      <h2>Problems their integration solves</h2>
+      <p>The integration of Magento 2.X and GoTo Training solves several problems for businesses. Firstly, it streamlines the process of training employees and integrating it into their workflow. Secondly, it helps businesses save time and resources by automating the creation and assignment of training courses. Finally, it provides businesses with a comprehensive solution for managing their online store and employee training.</p>
+  
+      <h2>Conclusion</h2>
+      <p>The integration of Magento 2.X and GoTo Training is a smart move for businesses looking to enhance their online store and training capabilities. It allows for the automation of training processes and provides businesses with a comprehensive solution to manage their operations. By integrating these two platforms, businesses can optimize their workflow and save time and resources.</p>
+    </article>
+</div>

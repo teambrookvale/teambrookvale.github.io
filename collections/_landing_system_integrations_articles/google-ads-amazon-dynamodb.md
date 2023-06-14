@@ -1,0 +1,22 @@
+---
+permalink: /landings/system-integrations/google-ads/amazon-dynamodb
+author: Edward Saunders
+title: "Integration of Google Ads and Amazon DynamoDB"
+leadhead: "The integration of Google Ads and Amazon DynamoDB is a powerful combination that can help businesses manage their advertising data more efficiently"
+leadtext: "With real-time data and the ability to scale as necessary, businesses can make informed decisions and stay ahead of the competition."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Google Ads and Amazon DynamoDB</h1>
+
+	<p>Google Ads is a platform that allows businesses to advertise their products or services on Google. On the other hand, Amazon DynamoDB is a managed NoSQL database service that can handle massive amounts of data and scale as necessary. </p>
+
+	<p>The integration of these two technologies can be done through an API or SDK. This integration allows businesses to track their advertising data in real-time and make faster decisions based on that data. </p>
+
+	<p>One of the problems that this integration solves is the time it takes to get data from Google Ads. With the integration, data is automatically sent to Amazon DynamoDB in real-time, which makes it easier to manage and analyze. </p>
+
+	<p>Another problem this integration solves is the ability to scale as necessary. With Amazon DynamoDB's ability to handle massive amounts of data, businesses can be assured that their data is secure and can be scaled to meet the needs of their growing business.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Google Ads and Amazon DynamoDB is a powerful combination that can help businesses manage their advertising data more efficiently. With real-time data and the ability to scale as necessary, businesses can make informed decisions and stay ahead of the competition. </p>
+</div>

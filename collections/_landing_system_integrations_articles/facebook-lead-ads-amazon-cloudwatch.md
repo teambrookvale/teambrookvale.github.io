@@ -1,0 +1,55 @@
+---
+permalink: /landings/system-integrations/facebook-lead-ads/amazon-cloudwatch
+author: Edward Saunders
+title: "Combining Facebook Lead Ads and Amazon CloudWatch: Solving Integration Problems"
+leadhead: "The integration of Facebook Lead Ads and Amazon CloudWatch is a powerful tool for businesses to track, collect, and monitor lead generation metrics in real-time"
+leadtext: "Businesses can use the insights gained from this integration to optimize their Facebook Advertising campaigns and improve their ROI. By leveraging the APIs and SDKs provided by both platforms, businesses can automate the process while gaining valuable insights into their advertising strategy."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<header>
+		<h1>Combining Facebook Lead Ads and Amazon CloudWatch: Solving Integration Problems</h1>
+	</header>
+
+	<main>
+
+		<section>
+			<h2>Facebook Lead Ads</h2>
+			<p>Facebook Lead Ads is a powerful advertising tool that allows businesses to collect customer information directly from their Facebook ads. With Lead Ads, users can submit their name, email, phone number and other contact details without ever having to leave Facebook. This feature makes lead generation a seamless and efficient process for businesses on Facebook.</p>
+		</section>
+
+		<section>
+			<h2>Amazon CloudWatch</h2>
+			<p>Amazon CloudWatch is a monitoring service provided by Amazon Web Services(AWS) that tracks and collects metrics, logs, and events from various AWS resources. This information is then used to gain insights into system and application performance, detect issues, and take necessary actions. CloudWatch provides robust monitoring capabilities for AWS resources such as EC2 instances, S3 buckets, RDS databases, and more.</p>
+		</section>
+
+		<section>
+			<h2>Integration of the two through API or SDK</h2>
+			<p>Businesses that use Facebook Lead Ads to gather customer information can integrate it with Amazon CloudWatch using APIs or SDKs. By setting up this integration, businesses can gain real-time insights into their lead generation metrics, track ad performance, and identify problems with the process if any.</p>
+			<p>The integration can be done through Facebook's Marketing API, which allows businesses to automate their advertising on Facebook. By using this API, businesses can create ads, track performance, and connect it to their CRM system. Using Amazon CloudWatch, businesses can leverage the metrics and logs collected in real-time to take immediate actions to improve their lead generation strategy.</p>
+		</section>
+
+		<section>
+			<h2>Problems their integration solves</h2>
+			<p>The integration of Facebook Lead Ads and Amazon CloudWatch solves many problems businesses face. By integrating the two, businesses can:</p>
+			<ul>
+				<li>Track lead generation metrics in real-time</li>
+				<li>Identify problems with the lead generation process</li>
+				<li>Optimize ads and improve performance</li>
+				<li>Set up alerts for lead generation metrics and take immediate action to fix issues</li>
+			</ul>
+			<p>Overall, the integration of Facebook Lead Ads and Amazon CloudWatch helps businesses to streamline and optimize their lead generation process and improve the ROI of their Facebook Advertising campaigns.</p>
+		</section>
+
+		<section>
+			<h2>Conclusion</h2>
+			<p>The integration of Facebook Lead Ads and Amazon CloudWatch is a powerful tool for businesses to track, collect, and monitor lead generation metrics in real-time. Businesses can use the insights gained from this integration to optimize their Facebook Advertising campaigns and improve their ROI. By leveraging the APIs and SDKs provided by both platforms, businesses can automate the process while gaining valuable insights into their advertising strategy.</p>
+		</section>
+
+	</main>
+
+	<footer>
+		<p>&copy; 2021. All rights reserved.</p>
+	</footer>
+	
+</div>

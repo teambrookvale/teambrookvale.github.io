@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/namely
+author: Edward Saunders
+title: "The Integration of Facebook Custom Audiences with Namely"
+leadhead: "The integration of Facebook Custom Audiences with Namely offers companies a powerful solution to their HR and marketing needs"
+leadtext: "By leveraging the data in Namely, companies can create targeted campaigns that are more likely to resonate with their target audience. This integration can help improve recruitment, retention, and overall business outcomes."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>The Integration of Facebook Custom Audiences with Namely</h1>
+
+	<p>Facebook Custom Audiences is an advertising tool that allows marketers to target their ads to a specific set of people. Namely, on the other hand, is an HR software that helps companies manage their HR activities.</p>
+
+	<p>When the two platforms are integrated, marketers can use the data in Namely to create Custom Audiences and target their ads more effectively. This integration can be achieved through API or SDK.</p>
+
+	<h2>Problems their Integration Solves</h2>
+
+	<p>Companies often struggle with employee turnover, especially in highly competitive industries. With the integration of Facebook Custom Audiences and Namely, companies can target their ads to former employees who may still be interested in returning to the company. This can help reduce recruitment costs and improve employee retention rates.</p>
+
+	<p>Moreover, the integration allows marketers to create Custom Audiences based on a variety of factors such as job title, location, and even employee engagement level. By narrowing down their target audience, marketers can increase their return on ad spend and improve the overall effectiveness of their campaigns.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Facebook Custom Audiences with Namely offers companies a powerful solution to their HR and marketing needs. By leveraging the data in Namely, companies can create targeted campaigns that are more likely to resonate with their target audience. This integration can help improve recruitment, retention, and overall business outcomes. </p>
+
+</div>

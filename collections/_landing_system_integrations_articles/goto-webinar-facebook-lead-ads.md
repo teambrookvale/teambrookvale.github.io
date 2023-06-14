@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/goto-webinar/facebook-lead-ads
+author: Edward Saunders
+title: "GoTo Webinar and Facebook Lead Ads Integration"
+leadhead: "By integrating GoTo Webinar and Facebook Lead Ads, you can streamline your lead-generation process and improve the effectiveness of your marketing campaigns"
+leadtext: "Whether you're looking to host virtual training sessions or promote your latest product launch, the integration of GoTo Webinar and Facebook Lead Ads offers endless possibilities."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>GoTo Webinar and Facebook Lead Ads Integration</h1>
+	<p>When it comes to conducting webinars and generating leads, GoTo Webinar and Facebook Lead Ads are two of the most popular tools out there. However, what if you could combine the power of both tools and create a seamless integration that allows you to generate leads directly from your webinars? This is exactly what the GoTo Webinar and Facebook Lead Ads integration can do for you.</p>
+
+	<h2>What is GoTo Webinar?</h2>
+	<p>GoTo Webinar is a platform that allows you to create and host webinars from anywhere in the world. It is an ideal tool for hosting live events, training sessions, and product demonstrations. With GoTo Webinar, you can easily engage your audience, share your screen, and collaborate with your team in real-time.</p>
+
+	<h2>What are Facebook Lead Ads?</h2>
+	<p>Facebook Lead Ads are an advertising format offered by Facebook that allows you to collect user information such as name, email ID, phone number, etc. directly from your Facebook ad. Instead of redirecting users to a landing page, Facebook Lead Ads allow you to generate leads within the Facebook app, saving users time and reducing drop-off rates.</p>
+
+	<h2>Integration of GoTo Webinar and Facebook Lead Ads</h2>
+	<p>The GoTo Webinar and Facebook Lead Ads integration is made possible through the use of APIs or SDKs. By integrating the two tools, you can automatically collect lead information from your webinars and add it to your Facebook ad account.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>One of the benefits of using the GoTo Webinar and Facebook Lead Ads integration is that it simplifies the lead-generation process. Instead of collecting user information manually and adding it to your CRM, the integration automates the process, saving you time and increasing the accuracy of your data. Also, by integrating GoTo Webinar and Facebook Lead Ads, you can easily retarget attendees of your webinars with follow-up ads, increasing your chances of converting them into customers.</p>
+
+	<h2>Conclusion</h2>
+	<p>By integrating GoTo Webinar and Facebook Lead Ads, you can streamline your lead-generation process and improve the effectiveness of your marketing campaigns. Whether you're looking to host virtual training sessions or promote your latest product launch, the integration of GoTo Webinar and Facebook Lead Ads offers endless possibilities.</p>
+</div>

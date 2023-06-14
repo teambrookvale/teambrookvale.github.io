@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/microsoft-dynamics-365-crm/aws-lambda
+author: Edward Saunders
+title: "Integration of Microsoft Dynamics 365 CRM and AWS Lambda"
+leadhead: "In conclusion, the integration of Microsoft Dynamics 365 CRM and AWS Lambda provides businesses with a powerful tool to improve business efficiency and customer service"
+leadtext: "By automating repetitive tasks and utilizing real-time data, businesses can make better decisions and provide their customers with a better experience."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Microsoft Dynamics 365 CRM and AWS Lambda</h1>
+	<p>
+		Microsoft Dynamics 365 CRM and AWS Lambda are two powerful tools that can be integrated to improve business efficiency. In this blog post, we will explore the integration of the two and the problems it solves.
+	</p>
+	<h2>Microsoft Dynamics 365 CRM</h2>
+	<p>
+		Microsoft Dynamics 365 CRM is a customer relationship management system that helps businesses manage their relationships with customers. It provides a 360-degree view of customer interactions and helps businesses track customer interactions, sales, marketing and customer service activities. With its powerful features, Microsoft Dynamics 365 CRM is a popular choice among businesses of all sizes.
+	</p>
+	<h2>AWS Lambda</h2>
+	<p>
+		AWS Lambda is a serverless compute service that allows you to run code without provisioning or managing servers. It automatically scales applications in response to incoming traffic and only charges you for the time it takes to run the code. With AWS Lambda, developers can build applications that are scalable, highly available and fault-tolerant.
+	</p>
+	<h2>Integration of Microsoft Dynamics 365 CRM and AWS Lambda</h2>
+	<p>
+		The integration of Microsoft Dynamics 365 CRM and AWS Lambda can be achieved through API or SDK. The API allows for the exchange of data between the two platforms while the SDK provides developers with the necessary tools to build custom integrations. By integrating Microsoft Dynamics 365 CRM and AWS Lambda, businesses can automate tasks, improve customer service, and enhance their overall business efficiency.
+	</p>
+	<h2>Problems their integration solves</h2>
+	<p>
+		Integrating Microsoft Dynamics 365 CRM and AWS Lambda solves a number of business problems. For example, businesses can automate repetitive tasks such as data entry and marketing campaigns, freeing up time to focus on more important activities. Additionally, businesses can use the integration to improve customer service by automating the creation of customer support tickets and responding to inquiries in real-time.
+	</p>
+	<h2>Conclusion</h2>
+	<p>
+		In conclusion, the integration of Microsoft Dynamics 365 CRM and AWS Lambda provides businesses with a powerful tool to improve business efficiency and customer service. By automating repetitive tasks and utilizing real-time data, businesses can make better decisions and provide their customers with a better experience.
+	</p>
+</div>

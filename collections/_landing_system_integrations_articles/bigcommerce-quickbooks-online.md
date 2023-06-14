@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/bigcommerce/quickbooks-online
+author: Edward Saunders
+title: "Integration of BigCommerce and QuickBooks Online"
+leadhead: "The integration of BigCommerce and QuickBooks Online can offer significant benefits to businesses looking to streamline their eCommerce and accounting processes"
+leadtext: "By automating the transfer of data between systems, businesses can save time, reduce errors, and gain better visibility into their finances. Whether via API or SDK, businesses can choose the integration method that best suits their needs and start reaping the benefits right away."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integration of BigCommerce and QuickBooks Online</h1>
+    
+	<p>For many businesses, it can be a challenge to keep their sales and financial data in sync between their eCommerce platform and their accounting software. This is where the integration of BigCommerce and QuickBooks Online can be particularly helpful.</p>
+	
+    <h2>BigCommerce</h2>
+    <p>BigCommerce is a powerful, cloud-based eCommerce platform that allows businesses to set up and manage online stores. It provides a range of features and tools such as search engine optimization, inventory management, payment processing, and shipping tracking, among others.</p>
+    
+    <h2>QuickBooks Online</h2>
+    <p>QuickBooks Online is a cloud-based accounting software that helps businesses keep track of their financial transactions, manage their finances, and generate comprehensive reports. It offers various modules such as invoicing, bill management, payroll, and tax reporting, among others.</p>
+    
+    <h2>Integration of the two through API or SDK</h2>
+    <p>The integration of BigCommerce and QuickBooks Online can be achieved via API or SDK. The former allows developers to build custom integrations that connect business systems and automate data transfer, while the latter offers pre-built, ready-to-use integrations that can be easily installed and set up.</p>
+
+    <h2>Problems their integration solves</h2>
+    <p>The integration of BigCommerce and QuickBooks Online solves several problems for businesses. First, it eliminates the need for manual data entry, which can be time-consuming and error-prone. Second, it ensures that sales data, inventory data, and financial data are consistently up to date and accurate across systems. Lastly, it streamlines the accounting processes and provides better visibility into business performance and cash flow.</p>
+
+    <h2>Conclusion</h2>
+    <p>The integration of BigCommerce and QuickBooks Online can offer significant benefits to businesses looking to streamline their eCommerce and accounting processes. By automating the transfer of data between systems, businesses can save time, reduce errors, and gain better visibility into their finances. Whether via API or SDK, businesses can choose the integration method that best suits their needs and start reaping the benefits right away.</p>
+
+</div>

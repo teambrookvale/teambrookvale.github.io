@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/amazon-ec2/quickbooks-online
+author: Edward Saunders
+title: "Integration of Amazon EC2 and QuickBooks Online"
+leadhead: "Integrating Amazon EC2 and QuickBooks Online is a great way for small businesses to streamline their accounting processes"
+leadtext: "By using API or SDK, businesses can automate their accounting, reduce errors, monitor their financial status in real-time, and save time and effort. With these benefits, it's no wonder why more and more businesses are integrating these two tools."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Amazon EC2 and QuickBooks Online</h1>
+	<p>Amazon EC2, or Elastic Compute Cloud, is a cloud-based web service that provides scalable computing capacity. On the other hand, QuickBooks Online is an accounting software for small businesses. These two tools can be integrated through API or SDK to provide a more streamlined workflow.</p>
+	<h2>API and SDK</h2>
+	<p>API, or Application Programming Interface, is a set of protocols, routines, and tools used for building software applications. Its purpose is to provide a standard way for different software components to communicate with each other. SDK, or Software Development Kit, is a collection of tools, documentation, and libraries used by developers to create software applications.</p>
+	<h2>Problems Solved by Integration</h2>
+	<p>Integrating Amazon EC2 and QuickBooks Online solves several problems for small businesses. The integration allows businesses to automate their accounting processes and reduce the risk of errors. With the integration, businesses can also monitor their expenses and revenue in real-time and get a comprehensive view of their financial status. Moreover, the integration can help businesses save time and effort by eliminating manual data entry and enabling accurate tracking of financial transactions.</p>
+	<h2>Conclusion</h2>
+	<p>Integrating Amazon EC2 and QuickBooks Online is a great way for small businesses to streamline their accounting processes. By using API or SDK, businesses can automate their accounting, reduce errors, monitor their financial status in real-time, and save time and effort. With these benefits, it's no wonder why more and more businesses are integrating these two tools.</p>
+</div>

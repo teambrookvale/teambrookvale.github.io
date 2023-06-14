@@ -1,0 +1,22 @@
+---
+permalink: /landings/system-integrations/sql-server/goto-training
+author: Edward Saunders
+title: "Integrating SQL Server with GoTo Training through API or SDK"
+leadhead: "The integration of SQL Server and GoTo Training through API or SDK is a powerful and useful tool for trainers and learners alike"
+leadtext: "By enabling the creation of more customized training sessions and streamlining the management and organization of training materials, it can help to improve the effectiveness of training programs and provide valuable insights into learner progress."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integrating SQL Server with GoTo Training through API or SDK</h1>
+
+	<p>SQL Server is a relational database management system developed by Microsoft Corporation. It is used to manage and organize large amounts of data and provide powerful data analysis capabilities. Similarly, GoTo Training is a web-based product developed by LogMeIn, Inc. that enables remote collaboration and training sessions.</p>
+
+	<p>The integration of SQL Server and GoTo Training can be achieved through API or SDK. An API (Application Programming Interface) provides a set of pre-built functions that can be used to interact with another system, while an SDK (Software Development Kit) is a set of tools and resources that allow developers to build custom integrations.</p>
+
+	<p>The integration of SQL Server and GoTo Training provides several benefits. Firstly, it enables the creation of more customized training sessions that are tailored to the needs of each individual learner. Secondly, it helps to streamline the management and organization of training materials by enabling the automatic transfer of data between the two systems. Finally, it can provide valuable insights into the effectiveness of training programs by allowing trainers to track the progress of each learner more closely.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of SQL Server and GoTo Training through API or SDK is a powerful and useful tool for trainers and learners alike. By enabling the creation of more customized training sessions and streamlining the management and organization of training materials, it can help to improve the effectiveness of training programs and provide valuable insights into learner progress.</p>
+
+</div>

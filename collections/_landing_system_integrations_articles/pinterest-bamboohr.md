@@ -1,0 +1,31 @@
+---
+permalink: /landings/system-integrations/pinterest/bamboohr
+author: Edward Saunders
+title: "Pinterest and BambooHR: Two Powerful Tools That Can Work Together"
+leadhead: "By integrating BambooHR with Pinterest, businesses can create a unique and comprehensive online presence"
+leadtext: "It can streamline operations, save time and improve recruitment efforts. Plus, it can demonstrate an innovative approach to the company's HR strategy."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Pinterest and BambooHR: Two Powerful Tools That Can Work Together</h1>
+    
+    <p>Pinterest and BambooHR are two of the most popular tools used in their own respective areas. Pinterest is one of the top social media platforms where users can share and discover new ideas through images, while BambooHR is a leading HR software that helps manage human resources for companies.</p>
+    
+    <img src="pinterest-bamboohr.jpg" alt="Pinterest and BambooHR integration">
+    
+    <h2>Integration of Pinterest and BambooHR</h2>
+    
+    <p>Although Pinterest and BambooHR are distinct, they are not incompatible. In fact, integrating the two could bring a number of benefits to companies who use both tools. One way to do that is through API (Application Programming Interface) or SDK (Software Development Kit).</p>
+    
+    <p>The API or SDK integration enables companies to seamlessly pull important data from BambooHR into their Pinterest account and vice versa, by syncing their employees' data with their Pinterest profiles. For instance, a company can directly share their latest job listings from their BambooHR account to their Pinterest profile, which can be seen by millions of users on the platform.</p>
+    
+    <h2>Problems their integration solves</h2>
+    
+    <p>This integration can solve several problems for HR teams and business owners. For instance, companies can leverage data from BambooHR like employee photos, company events and job postings to create visually appealing pinboards on their Pinterest profile. This can help in building their brand, attracting talent and driving website traffic. Additionally, it can improve employee engagement by sharing company culture and values with potential candidates.</p>
+    
+    <h2>Conclusion</h2>
+    
+    <p>By integrating BambooHR with Pinterest, businesses can create a unique and comprehensive online presence. It can streamline operations, save time and improve recruitment efforts. Plus, it can demonstrate an innovative approach to the company's HR strategy.</p>
+    
+    <p>In conclusion, Pinterest and BambooHR have different functionalities, but their integration can create a dynamic tool for companies to showcase their culture, strengthen their brand and attract top talent.</p>
+    
+</div>

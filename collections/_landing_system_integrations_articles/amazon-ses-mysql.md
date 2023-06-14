@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/amazon-ses/mysql
+author: Edward Saunders
+title: "Integration of Amazon SES and MySQL"
+leadhead: "By integrating Amazon SES and MySQL, businesses can take advantage of a cost-effective and reliable email sending service while also leveraging the benefits of a powerful relational database management system"
+leadtext: "This integration can help businesses streamline their email marketing efforts and improve customer engagement."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integration of Amazon SES and MySQL</h1>
+	</header>
+	<main>
+		<section>
+			<h2>Amazon SES</h2>
+			<p>Amazon Simple Email Service (SES) is a cloud-based email sending service that allows businesses and organizations to send emails to their customers. It is a cost-effective solution for sending email newsletters, promotions, updates, and other types of transactional emails.</p>
+		</section>
+		<section>
+			<h2>MySQL</h2>
+			<p>MySQL is a popular open-source relational database management system (RDBMS) that is commonly used for web-based applications. It is known for its scalability, reliability, and ease of use.</p>
+		</section>
+		<section>
+			<h2>Integration of the two through API or SDK</h2>
+			<p>Amazon SES and MySQL can be integrated using either the SES API or the SES SDK. The SES API allows developers to programatically send emails and manage sending domains and email addresses. The SES SDK provides code samples and libraries for several programming languages, making it easy for developers to integrate SES into their applications.</p>
+		</section>
+		<section>
+			<h2>Problems their integration solves</h2>
+			<p>Integrating Amazon SES and MySQL can solve several problems for businesses and web-based applications. By using Amazon SES to send emails, businesses can avoid the limitations and restrictions of traditional email sending services. Additionally, MySQL can be used to store email addresses and other customer data, making it easier to send personalized and targeted emails.</p>
+		</section>
+	</main>
+	<footer>
+		<h3>Conclusion</h3>
+		<p>By integrating Amazon SES and MySQL, businesses can take advantage of a cost-effective and reliable email sending service while also leveraging the benefits of a powerful relational database management system. This integration can help businesses streamline their email marketing efforts and improve customer engagement.</p>
+	</footer>
+</div>

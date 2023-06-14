@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/bigcommerce/namely
+author: Edward Saunders
+title: "BigCommerce and Namely Integration"
+leadhead: "The integration of BigCommerce and Namely can help businesses save time, increase efficiency, and reduce errors"
+leadtext: "Whether you choose to integrate through API or SDK, the benefits of this integration are clear. With this integration, businesses can easily manage their e-commerce website and their HR system, and focus on running a successful business."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>BigCommerce and Namely Integration</h1>
+	<p>BigCommerce is a popular e-commerce platform that makes it easy for businesses to sell online. On the other hand, Namely is a human resources management platform that helps businesses manage their employees. Both tools are essential for running a successful business, and integrating them through API or SDK can solve many business-related problems.</p>
+	
+	<h2>API or SDK Integration</h2>
+	<p>The integration of BigCommerce and Namely is possible through API or SDK. API stands for Application Programming Interface, which is a set of protocols that determine how different software components should interact with each other. With API integration, businesses can easily transfer important data between their e-commerce website and their HR system. On the other hand, SDK stands for Software Development Kit, which is a set of software development tools that help developers create software applications for a specific platform. With SDK integration, businesses can create custom integrations that meet their specific needs.</p>
+	
+	<h2>Problem Solving</h2>
+	<p>The integration of BigCommerce and Namely can solve many business-related problems. One of the main problems is the manual transfer of data from one system to another. For example, if an employee's information needs to be updated in Namely, it can be a time-consuming process to update this information in both systems. With API or SDK integration, businesses can automate this process and save time. Another problem that can be solved through integration is inaccurate data. By automating data transfer, businesses can avoid human errors and ensure that their data is accurate.</p>
+	
+	<h2>Conclusion</h2>
+	<p>The integration of BigCommerce and Namely can help businesses save time, increase efficiency, and reduce errors. Whether you choose to integrate through API or SDK, the benefits of this integration are clear. With this integration, businesses can easily manage their e-commerce website and their HR system, and focus on running a successful business.</p>
+</div>

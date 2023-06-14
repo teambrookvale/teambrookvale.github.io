@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/aws-lambda/sql-server
+author: Edward Saunders
+title: "Integration of AWS Lambda and SQL Server"
+leadhead: "The integration of AWS Lambda and SQL Server is a powerful combination that enables developers to create scalable, high-performance solutions for their businesses"
+leadtext: "With the ease of integration through API or SDK, companies can now process and analyze data in real-time, leading to better decision-making and increased productivity. If you want to stay ahead in the game, this integration is definitely worth considering."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of AWS Lambda and SQL Server</h1>
+
+	<h2>AWS Lambda</h2>
+	<p>AWS Lambda is a serverless computing service provided by Amazon Web Services. It allows you to run code in response to events, without having to manage any servers. You pay only for the compute time your code consumes, with no upfront fees or commitments.</p>
+
+	<h2>SQL Server</h2>
+	<p>SQL Server is a relational database management system developed by Microsoft. It is used to store and manage data, and provides a wide range of features such as data integration, reporting, and analysis.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>The integration of AWS Lambda and SQL Server can be achieved through the use of API or SDK. AWS Lambda supports several programming languages such as Java, Python, and Node.js, while SQL Server provides APIs for various programming languages such as C#, Java, and Python. This allows developers to easily integrate the two services and create powerful solutions.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of AWS Lambda and SQL Server helps solve several problems such as:</p>
+	<ul>
+		<li>Real-time data processing and analysis</li>
+		<li>Scalability and availability</li>
+		<li>Reduced infrastructure costs</li>
+		<li>Increased productivity and efficiency</li>
+		<li>Better data management and security</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+	<p>The integration of AWS Lambda and SQL Server is a powerful combination that enables developers to create scalable, high-performance solutions for their businesses. With the ease of integration through API or SDK, companies can now process and analyze data in real-time, leading to better decision-making and increased productivity. If you want to stay ahead in the game, this integration is definitely worth considering.</p>
+</div>

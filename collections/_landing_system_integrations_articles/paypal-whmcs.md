@@ -1,0 +1,37 @@
+---
+permalink: /landings/system-integrations/paypal/whmcs
+author: Edward Saunders
+title: "Integration of PayPal and WHMCS"
+leadhead: "The integration of PayPal and WHMCS can help you manage your online business more efficiently and effectively"
+leadtext: "By implementing this integration, you can provide a secure payment processing solution for your clients, set up automatic payments and recurring billing, and customize your payment solutions to meet the unique needs of your business. With the help of the integration of these two platforms, you can take your online business to the next level."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Integration of PayPal and WHMCS</h1>
+
+	<p>If you're running a web hosting business or any other type of online business that involves billing clients, you're probably familiar with both PayPal and WHMCS. PayPal is a popular payment gateway that allows you to securely process credit card payments online. WHMCS is a popular billing and automation platform that can help you manage your online business more efficiently.</p>
+
+	<p>What you might not know is that you can easily integrate PayPal and WHMCS through their API or SDK. This integration can solve a number of problems for your online business.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>WHMCS provides a built-in module that allows you to use PayPal as a payment gateway. You can easily configure this module with your PayPal API credentials. Once this is done, your clients will be able to pay their invoices using PayPal. You can also set up recurring billing and automatic payment reminders, which can save you time and ensure that you get paid on time.</p>
+
+	<p>If you want to take things a step further, you can use the PayPal SDK to create custom payment solutions. The SDK allows you to create custom checkout pages, integrate with third-party processors, and more. You can also use the SDK to create custom reports and analytics that can help you make better decisions for your business.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of PayPal and WHMCS can solve a number of problems for your online business. Here are some of the most important ones:</p>
+
+	<ul>
+		<li>Secure payments: PayPal is known for its secure payment processing, which can give your clients peace of mind when they're making payments online.</li>
+		<li>Automatic payments: With the integration of WHMCS and PayPal, you can set up automatic payments and recurring billing, which can save you time and reduce the risk of late payments.</li>
+		<li>Customization: Using the PayPal SDK, you can create customized payment solutions that meet the unique needs of your business.</li>
+		<li>Analytics: The integration of WHMCS and PayPal can provide you with useful data and analytics that can help you make better decisions for your business.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of PayPal and WHMCS can help you manage your online business more efficiently and effectively. By implementing this integration, you can provide a secure payment processing solution for your clients, set up automatic payments and recurring billing, and customize your payment solutions to meet the unique needs of your business. With the help of the integration of these two platforms, you can take your online business to the next level.</p>
+
+</div>

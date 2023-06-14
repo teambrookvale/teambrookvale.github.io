@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/amazon-cloudfront/goto-webinar
+author: Edward Saunders
+title: "Integrating Amazon CloudFront with GoTo Webinar"
+leadhead: "Integrating Amazon CloudFront with GoTo Webinar is an excellent way for businesses to offer a seamless and excellent customer experience"
+leadtext: "The integration offers many benefits, such as reduced latency, improved security, and reduced infrastructure costs. This integration can be achieved through the use of API or SDK, and it is highly recommended that businesses take advantage of it to improve their webinar experience for their customers."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating Amazon CloudFront with GoTo Webinar</h1>
+    <p>Amazon CloudFront is a content delivery network (CDN) that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer-friendly environment. GoTo Webinar, on the other hand, is a webinar platform that allows businesses to host live and recorded webinars and manage their audience engagement effectively.</p>
+    <p>Integrating these two platforms through API or SDK offers a seamless experience for customers. The primary benefit of this integration is that businesses can use Amazon CloudFront to distribute their GoTo Webinar content globally, ensuring low latency and high transfer speeds. Additionally, with this integration, businesses can reduce their infrastructure costs as Amazon CloudFront can cache frequently accessed content reducing the load on the webserver. </p>
+    <h2>How to integrate Amazon CloudFront with GoTo Webinar</h2>
+    <p>The integration between Amazon CloudFront and GoTo Webinar can be achieved through the use of API or SDK. You can use Amazon CloudFront's RESTful API to automate the configuration of your CloudFront distribution and add a custom origin pointing to your GoTo Webinar recorded sessions or streams. Alternatively, you can use the Amazon CloudFront SDK to programmatically create or manage your CloudFront distribution</p>
+    <h2>The problems their integration solves</h2>
+    <p>The integration of Amazon CloudFront with GoTo Webinar brings many advantages to businesses and customers. Some of these benefits include:</p>
+    <ul>
+      <li>Reduced latency in content delivery </li>
+      <li>Reduced infrastructure costs as frequently accessed content can be cached</li>
+      <li>Improved customer experience during live and recorded webinars</li>
+      <li>Improved scalability as businesses can handle increased traffic during high-volume webinars</li>
+      <li>Improved security as Amazon CloudFront provides secure credential management</li>
+    </ul>
+    <h2>Conclusion</h2>
+    <p>Integrating Amazon CloudFront with GoTo Webinar is an excellent way for businesses to offer a seamless and excellent customer experience. The integration offers many benefits, such as reduced latency, improved security, and reduced infrastructure costs. This integration can be achieved through the use of API or SDK, and it is highly recommended that businesses take advantage of it to improve their webinar experience for their customers.</p>
+</div>

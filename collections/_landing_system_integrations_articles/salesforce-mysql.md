@@ -1,0 +1,22 @@
+---
+permalink: /landings/system-integrations/salesforce/mysql
+author: Edward Saunders
+title: "Integration of Salesforce and MySQL"
+leadhead: "The integration of Salesforce and MySQL using API or SDK can provide businesses with a complete view of their customers and improve customer experience"
+leadtext: "It can also solve the problem of siloed data and lack of customizability of Salesforce. If your business is using Salesforce and MySQL, consider integrating the two systems to streamline your operations and gain a competitive edge."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Salesforce and MySQL</h1>
+
+	<p>Salesforce is a cloud-based Customer Relationship Management (CRM) platform trusted by millions of businesses around the world. It helps businesses manage customer interactions, predict customers' needs, and build stronger relationships with them. MySQL is an open-source Relational Database Management System (RDBMS) used by many businesses to store and manage their data.</p>
+
+	<p>The integration of Salesforce and MySQL using API or SDK can bring a lot of benefits to businesses. The API or SDK can allow data to flow between the two systems and eliminate the need for manual data entry, reducing the risk of errors and saving time. The integration can also provide businesses with a complete view of their customers, allowing them to make data-driven decisions and improve customer experience.</p>
+
+	<p>One of the problems that the integration of Salesforce and MySQL solves is the siloed data. Salesforce is great for managing customer interactions, but it has limited data storage capabilities. On the other hand, MySQL can store large amounts of data but doesn't have the same level of CRM functionality as Salesforce. By integrating the two systems, businesses can store large amounts of customer data in MySQL and still benefit from the rich CRM functionality of Salesforce.</p>
+
+	<p>Another problem that the integration can solve is the lack of customizability of Salesforce. While Salesforce is a highly customizable platform, some businesses may have unique business requirements that cannot be met by Salesforce alone. By integrating MySQL, businesses can build custom applications and workflows that meet their specific needs and still benefit from the CRM capabilities of Salesforce.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Salesforce and MySQL using API or SDK can provide businesses with a complete view of their customers and improve customer experience. It can also solve the problem of siloed data and lack of customizability of Salesforce. If your business is using Salesforce and MySQL, consider integrating the two systems to streamline your operations and gain a competitive edge.</p>
+</div>

@@ -1,0 +1,45 @@
+---
+permalink: /landings/system-integrations/bamboohr/zendesk
+author: Edward Saunders
+title: "BambooHR and Zendesk Integration"
+leadhead: "The integration of BambooHR and Zendesk can help businesses improve their HR and customer service processes, save time and resources, and enhance employee and customer experiences"
+leadtext: "It is easy to set up and provides a flexible, customizable tool that can be tailored to meet individual business needs."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>BambooHR and Zendesk Integration</h1>
+
+	<p>If your business is using both BambooHR for its HR needs and Zendesk for its customer support, you can integrate the two platforms using API or SDK to streamline your processes and improve efficiency.</p>
+
+	<h2>What is BambooHR?</h2>
+
+	<p>BambooHR is an HR management software that helps businesses manage their HR processes, including employee onboarding, performance tracking, and leave management. It offers various features that simplify HR operations, such as customizable workflows, automated reminders, and employee self-service portals.</p>
+
+	<h2>What is Zendesk?</h2>
+
+	<p>Zendesk is a customer support platform that allows businesses to manage customer interactions across various channels, including email, social media, and chat. It offers features that help businesses manage customer support requests, track customer interactions, and analyze customer feedback.</p>
+
+	<h2>Integration of BambooHR and Zendesk through API or SDK</h2>
+
+	<p>Integrating BambooHR and Zendesk involves using BambooHR's API or SDK to connect the two platforms. By integrating the two platforms, businesses can sync employee data, automate HR and customer service tasks, and improve employee and customer experiences.</p>
+
+	<p>The integration enables businesses to access employee data that is stored in BambooHR, such as employee contact information, job titles, and department, to automate customer support tasks. For instance, Zendesk can access employee data to route customer support tickets to the relevant employee or department.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>By integrating BambooHR and Zendesk, businesses can solve several problems, including:</p>
+
+	<ul>
+	    <li>Eliminating data silos: Integration provides a centralized platform for HR and customer support teams to access employee data, reducing the risk of data duplication and inconsistencies.</li>
+
+	    <li>Streamlining HR and customer service tasks: By automating HR and customer service tasks, businesses can free up employees' time to focus on more critical tasks.</li>
+
+	    <li>Improving efficiency: Integration of the two platforms can improve efficiency by automating repetitive tasks, reducing response time, and improving communication.</li>
+
+	    <li>Improving the employee and customer experience: Integration allows for more personalized customer service, better employee engagement, and increased customer satisfaction.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of BambooHR and Zendesk can help businesses improve their HR and customer service processes, save time and resources, and enhance employee and customer experiences. It is easy to set up and provides a flexible, customizable tool that can be tailored to meet individual business needs.</p>
+
+</div>

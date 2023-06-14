@@ -1,0 +1,39 @@
+---
+permalink: /landings/system-integrations/microsoft-dynamics-365-crm/pardot
+author: Edward Saunders
+title: "Maximizing Customer Relationship Management with Microsoft Dynamics 365 and Pardot"
+leadhead: "The integration of Microsoft Dynamics 365 CRM and Pardot provides businesses with a powerful tool for enhancing their customer relationship management and marketing automation capabilities"
+leadtext: "By eliminating data silos, streamlining sales processes, and providing more targeted and personalized campaigns, businesses can improve their ROI and gain a competitive advantage in today's marketplace."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Maximizing Customer Relationship Management with Microsoft Dynamics 365 and Pardot</h1>
+	</header>
+	
+	<main>
+		<h2>What is Microsoft Dynamics 365 CRM?</h2>
+		<p>Microsoft Dynamics 365 CRM is a customer relationship management software developed by Microsoft which includes various business applications such as customer service, sales, marketing, finance and operations. It provides businesses with a centralized platform for managing customer interactions, data and insights, and streamlining business operations.</p>
+
+		<h2>What is Pardot?</h2>
+		<p>Pardot is a marketing automation software from Salesforce that allows marketers to create, manage and measure their marketing campaigns across multiple channels such as email, social media, search and web. It also provides lead generation, lead scoring, and lead nurturing capabilities to help businesses improve their marketing ROI.</p>
+
+		<h2>Integration of the two through API or SDK</h2>
+		<p>Microsoft Dynamics 365 CRM and Pardot can be integrated using API or SDK (Software Development Kit) to enable seamless data synchronization between the two systems. The API allows businesses to develop custom integrations and access various functions of the software, while the SDK provides pre-built integrations and development tools to simplify integration tasks.</p>
+
+		<h2>Problems their integration solves</h2>
+		<p>The integration of Microsoft Dynamics 365 CRM and Pardot solves various problems faced by businesses, such as:</p>
+		<ul>
+			<li>Elimination of data silos: With the integration, customer data is synchronized between the two systems, eliminating the need for manual data entry and reducing the risk of data errors.</li>
+			<li>Improved marketing automation: The integration enables Pardot to access customer data from Microsoft Dynamics 365 CRM, allowing marketers to create more targeted and personalized campaigns based on customer behavior and preferences.</li>
+			<li>Streamlined sales process: The integration enables sales teams to access lead and customer data from Pardot within Microsoft Dynamics 365 CRM, providing them with a 360-degree view of the customer and enabling them to close deals faster.</li>
+			<li>Enhanced reporting and analytics: The integration allows businesses to access data from both systems in one place, enabling them to create more comprehensive reports and gain deeper insights into their marketing and sales performance.</li>
+		</ul>
+
+		<h2>Conclusion</h2>
+		<p>The integration of Microsoft Dynamics 365 CRM and Pardot provides businesses with a powerful tool for enhancing their customer relationship management and marketing automation capabilities. By eliminating data silos, streamlining sales processes, and providing more targeted and personalized campaigns, businesses can improve their ROI and gain a competitive advantage in today's marketplace.</p>
+	</main>
+
+	<footer>
+		<p>&copy;2021 Maximizing CRM. All rights reserved.</p>
+	</footer>
+</div>

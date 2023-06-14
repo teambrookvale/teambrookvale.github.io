@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/amazon-polly/sugarcrm-7-
+author: Edward Saunders
+title: "How Integration of Amazon Polly and SugarCRM 7+ through API and SDK Solves Problems"
+leadhead: "Amazon Polly and SugarCRM 7+ are two powerful tools that can help improve business operations"
+leadtext: "Integrating these tools through API or SDK can further enhance their capabilities and help solve some common business problems. By using Amazon Polly-generated speech in SugarCRM 7+ systems, businesses can provide a more engaging and personalized customer experience while improving their sales processes and overall revenue."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>How Integration of Amazon Polly and SugarCRM 7+ through API and SDK Solves Problems</h1>
+	<p>Amazon Polly and SugarCRM 7+ are two powerful tools that can significantly improve business operations. Amazon Polly is a text-to-speech (TTS) service that can turn written content into lifelike speech, while SugarCRM 7+ is a customer relationship management (CRM) platform that helps businesses manage customer interactions and sales processes. Integration of these two tools through API or SDK can provide businesses with additional benefits that can help solve common problems.</p>
+
+	<h2>The Power of Amazon Polly</h2>
+	<p>Amazon Polly is a TTS service that uses advanced deep learning technologies to turn written text into high-quality speech that sounds natural. With 60+ lifelike voices and support for multiple languages, businesses can use Amazon Polly to create engaging and dynamic content such as audiobooks, podcasts, videos, and even customer support chatbots.</p>
+
+	<h2>The Benefits of SugarCRM 7+</h2>
+	<p>SugarCRM 7+ is a CRM platform that helps businesses manage customer interactions, lead generation, and sales processes. With built-in automation tools, customization options, and reporting capabilities, businesses can improve their customer engagement strategies, streamline their sales processes, and ultimately boost revenue.</p>
+
+	<h2>Integration through API or SDK</h2>
+	<p>Integrating Amazon Polly and SugarCRM 7+ through API or SDK can provide businesses with additional benefits. For example, businesses can use Amazon Polly to generate speech for customer support chatbots created on SugarCRM 7+. This can improve the customer experience by providing them with a more efficient and personalized support experience. Similarly, sales teams can use Amazon Polly to create personalized sales pitches for potential customers. Additionally, Amazon Polly can automatically generate speech for SugarCRM 7+ notifications such as appointment reminders, payment confirmations, and updates on customer interactions.</p>
+
+	<h2>Problems their Integration Solves</h2>
+	<p>The integration of Amazon Polly and SugarCRM 7+ can help solve some common problems businesses face. For example, businesses may struggle with creating engaging content or differentiating themselves from their competitors. By using Amazon Polly to create unique audio content, businesses can engage their customers and stand out from their competitors. Additionally, businesses may struggle with providing timely and personalized support to customers. By using Amazon Polly-generated speech for customer support chatbots, businesses can provide a more efficient and personalized support experience.</p>
+
+	<h2>Conclusion</h2>
+	<p>Amazon Polly and SugarCRM 7+ are two powerful tools that can help improve business operations. Integrating these tools through API or SDK can further enhance their capabilities and help solve some common business problems. By using Amazon Polly-generated speech in SugarCRM 7+ systems, businesses can provide a more engaging and personalized customer experience while improving their sales processes and overall revenue.</p>
+</div>

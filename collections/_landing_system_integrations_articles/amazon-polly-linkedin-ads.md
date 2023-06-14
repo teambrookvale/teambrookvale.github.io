@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/amazon-polly/linkedin-ads
+author: Edward Saunders
+title: "Amazon Polly and LinkedIn Ads Integration"
+leadhead: "The integration of Amazon Polly and LinkedIn Ads through API or SDK can be a game-changer for marketers who want to engage with a professional audience"
+leadtext: "By creating personalized and engaging audio ads, they can increase their brand awareness and conversion rates while saving time and resources. It is a powerful tool that can be used by anyone looking to take their LinkedIn advertising to the next level."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon Polly and LinkedIn Ads Integration</h1>
+
+	<p>Amazon Polly is a text-to-speech service that allows users to convert text into speech in a variety of languages and voices. On the other hand, LinkedIn Ads is a platform for advertisers to reach LinkedIn's professional audience with targeted campaigns.</p>
+
+	<p>While these two services may seem unrelated, they can be integrated to create a more engaging and personalized advertising experience for LinkedIn users. This can be achieved through the use of APIs or SDKs.</p>
+
+	<h2>API and SDK Integration</h2>
+
+	<p>API stands for Application Programming Interface, while SDK stands for Software Development Kit. Both of these tools are used for software integration by helping different programs communicate with each other. In this case, the Amazon Polly API and the LinkedIn Ads SDK can work together to create personalized audio messages for LinkedIn ads.</p>
+
+	<p>By using the Amazon Polly API, marketers can generate an audio file from a text ad. This audio file can then be included in the LinkedIn ad using the LinkedIn Ads SDK. Since people are more likely to remember what they hear than what they read, this approach can be very effective in capturing the attention of LinkedIn users and increasing engagement rates.</p>
+
+	<h2>Problems Solved by Integration</h2>
+
+	<p>The integration of Amazon Polly and LinkedIn Ads solves several problems for marketers. Firstly, it allows them to have a more personalized approach to advertising, which can lead to higher conversion rates. Secondly, it creates a more engaging experience for LinkedIn users, which can result in longer browsing times and increased brand awareness. Finally, it saves time and resources by automating the process of creating audio ads.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Amazon Polly and LinkedIn Ads through API or SDK can be a game-changer for marketers who want to engage with a professional audience. By creating personalized and engaging audio ads, they can increase their brand awareness and conversion rates while saving time and resources. It is a powerful tool that can be used by anyone looking to take their LinkedIn advertising to the next level.</p>
+</div>

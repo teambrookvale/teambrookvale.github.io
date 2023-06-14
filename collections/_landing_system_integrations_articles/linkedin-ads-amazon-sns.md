@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/linkedin-ads/amazon-sns
+author: Edward Saunders
+title: "LinkedIn Ads and Amazon SNS Integration"
+leadhead: "The integration of LinkedIn Ads and Amazon SNS through API or SDK is a powerful tool that can help businesses reach a wider audience and engage with potential customers more effectively"
+leadtext: "By targeting the right audience with LinkedIn Ads and delivering real-time messages through Amazon SNS, businesses can increase conversions and grow their customer base."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>LinkedIn Ads and Amazon SNS Integration</h1>
+
+	<p>LinkedIn Ads and Amazon SNS are two powerful tools that can help businesses reach a wider audience and engage with potential customers. By integrating these two tools through API or SDK, businesses can take their advertising and communication strategies to the next level.</p>
+
+	<h2>LinkedIn Ads</h2>
+
+	<p>LinkedIn Ads is an advertising platform that allows businesses to create and run ads targeted at LinkedIn users. With LinkedIn Ads, businesses can target specific audiences based on certain criteria such as job title, industry, and location. This means that businesses can ensure that their ads are being seen by the right people, making their advertising budget more effective.</p>
+
+	<h2>Amazon SNS</h2>
+
+	<p>Amazon SNS is a messaging service that allows businesses to send messages, notifications, and alerts to their customers through various channels such as email, SMS, and mobile push notifications. With Amazon SNS, businesses can deliver messages to their customers in real-time, keeping them informed and engaged.</p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>By integrating LinkedIn Ads with Amazon SNS through API or SDK, businesses can automate the process of sending notifications to their customers based on their LinkedIn ad campaigns. For example, if a user clicks on a LinkedIn ad, businesses can automatically send them a follow-up message or notification through Amazon SNS. This integration allows businesses to engage with potential customers more effectively and increase conversions.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>One common problem businesses face is targeting the right audience with their ads. LinkedIn Ads solves this problem by allowing businesses to target specific audiences based on certain criteria. However, even with targeted ads, there is no guarantee that users will convert. That's where Amazon SNS comes in. By sending follow-up messages or notifications, businesses can keep users engaged and increase the chances of converting them into customers.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of LinkedIn Ads and Amazon SNS through API or SDK is a powerful tool that can help businesses reach a wider audience and engage with potential customers more effectively. By targeting the right audience with LinkedIn Ads and delivering real-time messages through Amazon SNS, businesses can increase conversions and grow their customer base.</p>
+
+</div>

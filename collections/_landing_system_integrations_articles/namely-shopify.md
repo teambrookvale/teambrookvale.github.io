@@ -1,0 +1,36 @@
+---
+permalink: /landings/system-integrations/namely/shopify
+author: Edward Saunders
+title: "Namely and Shopify: Streamlining HR and eCommerce"
+leadhead: "The integration of Namely and Shopify through APIs and SDKs allows businesses to streamline their HR and eCommerce processes"
+leadtext: "With automatic data transfer, streamlined payroll, and improved reporting, companies can save time and reduce the risk of errors. Overall, this integration can help businesses operate more efficiently and effectively."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Namely and Shopify: Streamlining HR and eCommerce</h1>
+
+	<p>As companies continue to adopt tech-based solutions, integration between different platforms becomes increasingly important. One such integration is between Namely, a human resources software, and Shopify, an eCommerce platform. Through the use of APIs and SDKs, these two systems can be connected to create a seamless experience for businesses.</p>
+
+	<h2>What is Namely?</h2>
+
+	<p>Namely is a software platform that streamlines various HR functions, including payroll, benefits administration, and performance management. It also offers a social newsfeed feature that allows employees to collaborate and connect with one another. The platform is designed to be user-friendly and can be customized to meet the unique needs of any organization.</p>
+
+	<h2>What is Shopify?</h2>
+
+	<p>Shopify is an eCommerce platform that enables businesses to create online stores and sell their products. With features such as inventory management, payment processing, and shipping options, Shopify simplifies the process of selling online. The platform also offers a wide range of customization options, making it easy for businesses to create a unique online presence.</p>
+
+	<h2>Integration of Namely and Shopify</h2>
+
+	<p>By using APIs and SDKs, Namely and Shopify can be integrated to create a seamless experience for businesses. Some of the benefits of this integration include:</p>
+
+	<ul>
+		<li>Automatic data transfer: When an employee is added to Namely, they can be automatically added to Shopify as well. This ensures that employee information is always up to date across all platforms.</li>
+		<li>Streamlined payroll: With the integration, payroll information can be easily transferred from Namely to Shopify. This saves time and reduces the risk of errors.</li>
+		<li>Improved reporting: With data available from both platforms, businesses can create more comprehensive reports that provide insights into both HR and eCommerce.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Namely and Shopify through APIs and SDKs allows businesses to streamline their HR and eCommerce processes. With automatic data transfer, streamlined payroll, and improved reporting, companies can save time and reduce the risk of errors. Overall, this integration can help businesses operate more efficiently and effectively.</p>
+
+</div>

@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/amazon-ses/amazon-polly
+author: Edward Saunders
+title: "Amazon SES and Amazon Polly Integration: A Game Changer"
+leadhead: "The integration of Amazon SES and Amazon Polly is a game changer for businesses looking to improve their customer communication strategies"
+leadtext: "By combining the power of email and text-to-speech technologies, businesses can create an engaging, accessible, and cost-effective way to communicate with their customers like never before."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Amazon SES and Amazon Polly Integration: A Game Changer</h1>
+	
+	<p>Amazon Web Services (AWS) is a provider of cloud computing platforms and APIs offering a wide range of services. Amazon SES (Simple Email Service) and Amazon Polly are two such services that have recently gained a lot of attention due to their incredible features and the integration capabilities they offer.</p>
+	
+	<h2>Amazon SES</h2>
+	<p>Amazon SES is a cloud-based email sending service that enables businesses to send transactional and marketing emails at scale. It offers a reliable and cost-effective solution for sending high volumes of emails with ease. Amazon SES also provides detailed reports on email delivery, bounces, and complaints, allowing businesses to monitor their email sender reputation and improve it over time.</p>
+	
+	<h2>Amazon Polly</h2>
+	<p>Amazon Polly is an artificial intelligence (AI) service that converts text to lifelike speech. It uses advanced deep learning technologies to create natural-sounding voices for various languages and dialects. Polly can be used to generate audio files in various formats that can be used in a wide range of applications.</p>
+	
+	<h2>Integration of Amazon SES and Amazon Polly</h2>
+	<p>The integration of Amazon SES and Amazon Polly through API or SDK opens up endless possibilities for businesses. With this integration, businesses can send emails with audio attachments, bringing a whole new dimension to their customer communication strategies.</p>
+	<p>For example, businesses can use Amazon Polly to generate an audio file for an email, which can be sent to customers through Amazon SES. This can be particularly useful for businesses that have clients who are visually impaired or prefer audio content over text. It can also be used to send personalized audio messages to customers, creating a more personalized experience.</p>
+	
+	<h2>Problems Their Integration Solves</h2>
+	<p>The integration of Amazon SES and Amazon Polly can solve several problems for businesses, including:</p>
+	<ul>
+		<li>Improving customer engagement: By sending personalized audio messages to customers, businesses can improve engagement and increase customer satisfaction.</li>
+		<li>Increased accessibility: By providing an audio option for email content, businesses can make their content more accessible to people with visual impairments or those who prefer audio content.</li>
+		<li>Cost savings: By using Amazon SES and Amazon Polly together, businesses can save on the cost of developing their own email and text-to-speech systems.</li>
+	</ul>
+	
+	<h2>Conclusion</h2>
+	<p>The integration of Amazon SES and Amazon Polly is a game changer for businesses looking to improve their customer communication strategies. By combining the power of email and text-to-speech technologies, businesses can create an engaging, accessible, and cost-effective way to communicate with their customers like never before.</p>
+</div>

@@ -1,0 +1,20 @@
+---
+permalink: /landings/system-integrations/namely/amazon-polly
+author: Edward Saunders
+title: "Namely and Amazon Polly Integration"
+leadhead: "Namely and Amazon Polly integration is essential for companies looking to enhance their HR processes and improve communication with employees"
+leadtext: "With the help of this integration, HR departments can create personalized voice messages, alerts, and notifications and improve the overall employee experience. By embracing this technology, companies can improve workplace inclusion and foster a more engaged and productive workforce."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Namely and Amazon Polly Integration</h1>
+	<p>If you are not familiar with Namely, it is a cloud-based platform that provides human resources (HR) software to small and mid-sized businesses. Namely offers features such as payroll, benefits administration, and talent management. Amazon Polly, on the other hand, is a text-to-speech service provided by Amazon Web Services (AWS). It can convert written text into lifelike speech, allowing computers and devices to talk like humans.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>Namely and Amazon Polly can be integrated with the help of an API or SDK. Using these tools, Namely customers can create personalized voice messages, alerts, and notifications. They can also convert HR documents into audio format for employees who prefer to listen rather than read. This integration creates a more inclusive environment for employees with visual disabilities or for those who prefer auditory learning.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>This integration solves several problems for companies using Namely. Firstly, it saves time and resources for HR departments by converting HR documents into audio rather than manually recording voice messages. Secondly, it improves communication with employees by providing them with audio messages and alerts that they can listen to on the go. Finally, it makes the workplace more inclusive by catering to employees with diverse learning abilities.</p>
+
+	<h2>Conclusion</h2>
+	<p>Namely and Amazon Polly integration is essential for companies looking to enhance their HR processes and improve communication with employees. With the help of this integration, HR departments can create personalized voice messages, alerts, and notifications and improve the overall employee experience. By embracing this technology, companies can improve workplace inclusion and foster a more engaged and productive workforce.</p>
+</div>

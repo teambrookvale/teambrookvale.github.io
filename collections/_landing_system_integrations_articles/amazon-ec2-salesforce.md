@@ -1,0 +1,29 @@
+---
+permalink: /landings/system-integrations/amazon-ec2/salesforce
+author: Edward Saunders
+title: "Amazon EC2 and Salesforce Integration"
+leadhead: "Amazon EC2 and Salesforce are two powerful tools that businesses can use to streamline their operations"
+leadtext: "By integrating the two through API or SDK, businesses can enjoy a range of benefits, including improved data accuracy, increased efficiency, better collaboration, and enhanced customer experience. Ultimately, the integration can help businesses focus on their core competencies and drive their bottom line."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Amazon EC2 and Salesforce Integration</h1>
+
+	<p>Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity in the cloud. Salesforce is a cloud-based customer relationship management (CRM) platform that helps companies manage their sales, marketing, and customer support. Both Amazon EC2 and Salesforce are powerful tools that businesses can use to streamline their operations and improve their bottom line.</p>
+
+	<p>By integrating Amazon EC2 and Salesforce through API or SDK, businesses can enjoy a host of benefits. For example:</p>
+
+	<ul>
+		<li>Improved data accuracy: With the integration, data is automatically synced between the systems, reducing the risk of errors caused by manual data entry.</li>
+		<li>Increased efficiency: The integration allows for automation of many processes, saving time and reducing the workload on manual labor.</li>
+		<li>Better collaboration: With both tools working hand-in-hand, teams can collaborate more easily, making it easier to get things done.</li>
+		<li>Enhanced customer experience: Salesforce makes it easy to manage customer interactions, while Amazon EC2 can support customer-facing applications to ensure a smooth and seamless experience for customers.</li>
+	</ul>
+
+	<p>With the integration, businesses can optimize their use of both Amazon EC2 and Salesforce, ensuring they get the most out of each platform. By streamlining processes, automating tasks, and improving collaboration, businesses can focus on their core competencies, delivering better value to their customers and ultimately driving their bottom line.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Amazon EC2 and Salesforce are two powerful tools that businesses can use to streamline their operations. By integrating the two through API or SDK, businesses can enjoy a range of benefits, including improved data accuracy, increased efficiency, better collaboration, and enhanced customer experience. Ultimately, the integration can help businesses focus on their core competencies and drive their bottom line.</p>
+
+</div>

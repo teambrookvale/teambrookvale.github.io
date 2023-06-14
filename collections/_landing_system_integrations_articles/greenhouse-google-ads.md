@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/greenhouse/google-ads
+author: Edward Saunders
+title: "Greenhouse and Google Ads Integration | Benefits and Functionality"
+leadhead: "The integration of Greenhouse and Google Ads offers businesses a range of benefits, including improved recruitment, streamlined hiring processes, and maximized advertising ROI"
+leadtext: "By connecting these two platforms through an API or SDK, businesses can save time and resources while improving the effectiveness of their recruitment and advertising strategies."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Greenhouse and Google Ads Integration | Benefits and Functionality</h1>
+	<p>Greenhouse is a human resource management platform that simplifies the recruiting process, allowing companies to track applicants, schedule interviews, and hire employees efficiently. On the other hand, Google Ads is an advertising platform that offers a range of advertising options for businesses, including search ads, display ads, and video ads, among others. </p>
+
+	<p>By integrating Greenhouse with Google Ads through an API or SDK, companies can improve their recruitment and advertising strategies while saving time and resources. Here are some of the problems that their integration solves:</p>
+
+	<h2>Improves Recruitment</h2>
+	<p>Greenhouse allows businesses to track applicants and monitor their progress throughout the recruitment process. With the integration of Google Ads, recruiters can create targeted job ads that appear on Google search results pages and other Google partner sites. This ensures that job postings reach a wider audience, increasing the chances of attracting top talent.</p>
+
+	<h2>Streamlines the Hiring Process</h2>
+	<p>Once a candidate applies for a job, Greenhouse automatically updates their profile, including the source of their application. With the integration of Google Ads, recruiters can track the performance of their job ads and adjust their strategy based on data insights. This allows businesses to optimize their hiring process and make better data-driven decisions.</p>
+
+	<h2>Maximizes Advertising ROI</h2>
+	<p>Google Ads provides businesses with detailed analytics on their advertising campaigns, including the number of clicks, the cost-per-click, and the conversion rate. With the integration of Greenhouse, businesses can track the performance of job applicants that come from specific advertisements. This data allows businesses to identify the most effective ads and adjust their advertising strategy to maximize their ROI.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Greenhouse and Google Ads offers businesses a range of benefits, including improved recruitment, streamlined hiring processes, and maximized advertising ROI. By connecting these two platforms through an API or SDK, businesses can save time and resources while improving the effectiveness of their recruitment and advertising strategies.</p>
+</div>

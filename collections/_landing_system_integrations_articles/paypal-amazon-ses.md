@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/paypal/amazon-ses
+author: Edward Saunders
+title: "Integration of PayPal and Amazon SES"
+leadhead: "Overall, integrating PayPal and Amazon SES can provide numerous benefits for merchants who want to streamline their payment and email systems"
+leadtext: "By using an API or SDK, merchants can automate the process of sending transactional emails and ensure that they are delivered reliably and securely. This can help improve the customer experience, save time and resources, and build trust and loyalty with customers."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of PayPal and Amazon SES</h1>
+
+	<p>PayPal is a popular online payment system that allows users to send and receive payments securely over the internet. Amazon SES (Simple Email Service) is a cloud-based email service that provides a reliable and scalable way to send transactional emails.</p>
+
+	<p>Integrating PayPal and Amazon SES through an API or SDK can provide numerous benefits. For example, merchants who use PayPal to process payments can use Amazon SES to send important transactional emails, such as order confirmations, shipping notifications, and payment receipts. By using Amazon SES, merchants can ensure that their emails are delivered reliably and securely, without the risk of being marked as spam or getting lost in transit.</p>
+
+	<p>Another benefit of integrating PayPal and Amazon SES is that it can save time and resources. Instead of manually sending out transactional emails to customers, merchants can automate the process using Amazon SES and focus on other important aspects of their business.</p>
+
+	<p>Additionally, integrating PayPal and Amazon SES can help improve the customer experience. By sending out prompt and informative transactional emails, merchants can build trust and loyalty with their customers, which can lead to repeat business and positive word-of-mouth recommendations.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Overall, integrating PayPal and Amazon SES can provide numerous benefits for merchants who want to streamline their payment and email systems. By using an API or SDK, merchants can automate the process of sending transactional emails and ensure that they are delivered reliably and securely. This can help improve the customer experience, save time and resources, and build trust and loyalty with customers.</p>
+
+</div>

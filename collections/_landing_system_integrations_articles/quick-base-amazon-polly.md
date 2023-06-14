@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/quick-base/amazon-polly
+author: Edward Saunders
+title: "Integrating Quick Base with Amazon Polly"
+leadhead: "Integrating Quick Base with Amazon Polly can offer businesses a new way to interact with their data"
+leadtext: "It provides a more efficient, accessible, and engaging way to present information to users. By using the AWS SDK for Javascript, businesses can easily implement this integration into their existing Quick Base applications."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Quick Base with Amazon Polly</h1>
+
+	<p>Quick Base is a cloud-based app development platform that allows businesses to create custom applications, automate workflows, and manage data. It features a user-friendly drag-and-drop interface and robust customization options.</p>
+
+	<p>Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It offers a choice of lifelike voices and supports multiple languages and dialects.</p>
+
+	<p>Integrating Quick Base with Amazon Polly through an API or SDK allows users to generate spoken versions of the data stored in Quick Base. The TTS feature can be used to automatically read out reports, notifications, and other information, making it accessible to users who prefer to listen rather than read.</p>
+
+	<p>This integration solves several problems faced by businesses. Firstly, it eliminates the need for users to manually read out report data or notifications, saving time and improving efficiency. Secondly, it makes the information more accessible to users with visual impairments or other disabilities. Thirdly, it can improve user engagement by offering an alternative way to interact with the data.</p>
+
+	<h2>How to Integrate Quick Base with Amazon Polly</h2>
+
+	<p>To integrate Quick Base with Amazon Polly, you need to use the AWS SDK for Javascript. The SDK provides a high-level API for Amazon Polly, which allows you to synthesize speech from text. You can also use the SDK to manage the Amazon Polly resources and settings.</p>
+
+	<p>You will need to configure your AWS account credentials and setup permissions to access the Amazon Polly services. Once you have done this, you can start using the Polly API to generate speech from text data stored in Quick Base.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating Quick Base with Amazon Polly can offer businesses a new way to interact with their data. It provides a more efficient, accessible, and engaging way to present information to users. By using the AWS SDK for Javascript, businesses can easily implement this integration into their existing Quick Base applications.</p>
+</div>

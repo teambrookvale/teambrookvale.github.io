@@ -1,0 +1,24 @@
+---
+permalink: /landings/system-integrations/microsoft-dynamics-365-crm/quickbooks-online
+author: Edward Saunders
+title: "Integrating Microsoft Dynamics 365 CRM and QuickBooks Online"
+leadhead: "The integration of Microsoft Dynamics 365 CRM and QuickBooks Online is essential in the optimization of business processes and data management"
+leadtext: "The two systems complement each other and improve productivity across teams. Businesses should leverage API or SDK integration to electronic data transfer, reduce errors, and improve customer service. A successful integration of both systems provides the following benefits: efficient data exchange, real-time updates across systems, improved decision-making from having access to comprehensive data and a better understanding of resources allocation."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Microsoft Dynamics 365 CRM and QuickBooks Online</h1>
+	<p>Microsoft Dynamics 365 CRM and QuickBooks Online are two essential business tools that perform different tasks but can be integrated using APIs or SDKs. Dynamics 365 is a customer relationship management software, while QuickBooks Online is an accounting software. Integration of these two systems can provide a host of benefits to businesses and solve common challenges companies face.</p>
+	<h2>Integration of the two through API or SDK</h2>
+	<p>The integration of Dynamics 365 and QuickBooks relies on the use of APIs or software development kits (SDKs). API integration is a faster way to integrate the software because it allows developers to access features and information in both systems. The SDKs provide tools to help developers write code and enable integration with the two software. Integration can be a one-way or two-way process depending on the needs of the business. </p>
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Dynamics 365 and QuickBooks Online helps businesses in the following ways:</p>
+	<ol>
+		<li>Elimination of duplicate data entry</li>
+		<li>Streamline business workflows, i.e. quote-to-cash</li>
+		<li>Real-time updates of accounting information</li>
+		<li>Access to customer data within accounting software - improving customer service</li>
+		<li>Financial reporting - access to customer data, revenue, and expenses</li>
+	</ol>
+	<h2>Conclusion</h2>
+	<p>The integration of Microsoft Dynamics 365 CRM and QuickBooks Online is essential in the optimization of business processes and data management. The two systems complement each other and improve productivity across teams. Businesses should leverage API or SDK integration to electronic data transfer, reduce errors, and improve customer service. A successful integration of both systems provides the following benefits: efficient data exchange, real-time updates across systems, improved decision-making from having access to comprehensive data and a better understanding of resources allocation. </p>
+</div>

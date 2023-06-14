@@ -1,0 +1,30 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/marketo
+author: Edward Saunders
+title: "Facebook Custom Audiences and Marketo Integration"
+leadhead: "The integration of Facebook Custom Audiences and Marketo is a valuable tool for businesses looking to streamline their marketing efforts and improve the effectiveness of their advertising"
+leadtext: "By utilizing the API or SDK, businesses can save time and increase the personalization of their ad content, driving better results for their campaigns."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Facebook Custom Audiences and Marketo Integration</h1>
+
+	<p>In today's marketing world, businesses are always looking for ways to reach their target audience in a more personalized and effective way. Two solutions that have been gaining popularity among marketers are Facebook Custom Audiences and Marketo.</p>
+
+	<h2>What are Facebook Custom Audiences?</h2>
+	<p>Facebook Custom Audiences allows businesses to target their existing customers or leads with personalized ads on Facebook. By uploading their customer or leads list to Facebook, businesses can reach their audience with relevant content while they're browsing the social media site.</p>
+
+	<h2>What is Marketo?</h2>
+	<p>Marketo is a marketing automation software that helps businesses streamline their marketing efforts by centralizing their campaign management, lead tracking and email marketing all in one place. </p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>Through the use of Facebook's API or Marketo's SDK, businesses can integrate the two platforms, enabling them to further personalize their ad content for their target audience.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>One of the main problems that Facebook Custom Audiences and Marketo integration solves is the inefficiency of manually syncing customer and lead lists between the two platforms. By automating the process, businesses can save time and ensure that their audience targeting is up-to-date.</p>
+	<p>Additionally, the integration allows for more personalized ad content to be served to their target audience, increasing the likelihood of conversion and improving the overall ROI of their marketing efforts.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Facebook Custom Audiences and Marketo is a valuable tool for businesses looking to streamline their marketing efforts and improve the effectiveness of their advertising. By utilizing the API or SDK, businesses can save time and increase the personalization of their ad content, driving better results for their campaigns.</p>
+
+</div>

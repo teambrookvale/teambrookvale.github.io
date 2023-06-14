@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/google-bigquery/sugarcrm-7-
+author: Edward Saunders
+title: "Integration of Google BigQuery and SugarCRM 7+"
+leadhead: "The integration of Google BigQuery and SugarCRM 7+ is a powerful solution that allows businesses to gain insights into their customer data and use that data to improve customer experiences"
+leadtext: "By leveraging APIs or SDKs, businesses can connect the two platforms and transfer data seamlessly, solving the problem of data silos. This integration is a valuable tool that businesses should consider incorporating into their technology stack to gain a competitive edge."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<header>
+		<h1>Integration of Google BigQuery and SugarCRM 7+</h1>
+	</header>
+	<section>
+		<h2>Google BigQuery</h2>
+		<p>Google BigQuery is a cloud-based data warehousing and business intelligence solution that allows businesses to analyze and process large datasets in real-time. It is a fully managed and highly scalable service that enables businesses to store and query data using SQL-like syntax.</p>
+	</section>
+	<section>
+		<h2>SugarCRM 7+</h2>
+		<p>SugarCRM 7+ is a customer relationship management (CRM) software that helps businesses manage customer interactions and relationships. It offers features such as sales automation, marketing automation, customer support, and analytics.</p>
+	</section>
+	<section>
+		<h2>Integration of the two through API or SDK</h2>
+		<p>The integration of Google BigQuery and SugarCRM 7+ is possible through the use of APIs or SDKs. By leveraging the API or SDK, businesses can connect the two platforms and transfer data between them in a seamless manner. This integration allows businesses to gain insights into their customer data and use that data to improve customer experiences.</p>
+	</section>
+	<section>
+		<h2>Problems their integration solves</h2>
+		<p>The integration of Google BigQuery and SugarCRM 7+ solves the problem of data silos. Often, customer data resides in different platforms and is not easily accessible, making it difficult for businesses to gain a complete picture of their customers. By integrating the two platforms, businesses can consolidate their customer data and gain a comprehensive understanding of their customers. This, in turn, allows them to make data-driven decisions and improve customer experiences.</p>
+	</section>
+	<footer>
+		<h2>Conclusion</h2>
+		<p>The integration of Google BigQuery and SugarCRM 7+ is a powerful solution that allows businesses to gain insights into their customer data and use that data to improve customer experiences. By leveraging APIs or SDKs, businesses can connect the two platforms and transfer data seamlessly, solving the problem of data silos. This integration is a valuable tool that businesses should consider incorporating into their technology stack to gain a competitive edge.</p>
+	</footer>
+</div>

@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/google-bigquery/goto-training
+author: Edward Saunders
+title: "Integration of Google BigQuery and GoToTraining via API"
+leadhead: "Integrating Google BigQuery and GoToTraining via API or SDK can provide numerous benefits for businesses that rely on online trainings"
+leadtext: "From centralizing data management to cost savings, this integration can help businesses make better decisions and save time and money in the process. So if you're considering integrating these two platforms, now is the time to explore your options and get started!"
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integration of Google BigQuery and GoToTraining via API</h1>
+    <p>If you're a business that collects data through online trainings, you'll probably use a variety of platforms and tools to manage your data. But have you considered integrating Google BigQuery and GoToTraining via API? Let's explore why this integration could be beneficial for your business.</p>
+    <h2>Google BigQuery</h2>
+    <p>Google BigQuery is a cloud-based data warehousing and analytics platform. It's designed to handle large amounts of data quickly and efficiently. Its key features include SQL-like queries, built-in machine learning capabilities, and real-time data streaming. Some use cases for Google BigQuery include fraud detection, customer analytics, and supply chain optimization.</p>
+    <h2>GoToTraining</h2>
+    <p>GoToTraining is a platform for hosting and managing online trainings. It has features such as screen sharing, recording, and interactive polls. It's commonly used for employee training, product demos, and webinars. With GoToTraining, businesses can reach a wider audience and reduce travel costs.</p>
+    <h2>Integration via API or SDK</h2>
+    <p>To integrate Google BigQuery and GoToTraining, you can use their API or SDK. The API allows you to programmatically interact with the platform, while the SDK gives you pre-built libraries that simplify the integration process. With the integration, you can automatically push data collected during trainings to Google BigQuery, where it can be analyzed and used for insights.</p>
+    <h2>Problems their integration solves</h2>
+    <p>Integrating Google BigQuery and GoToTraining can help businesses in several ways:</p>
+    <ul>
+      <li><b>Centralized data management:</b> All training data is stored in one place, making it easier to analyze and use for decision-making.</li>
+      <li><b>Real-time analytics:</b> With Google BigQuery's real-time data streaming, businesses can monitor trainings as they happen and adjust accordingly.</li>
+      <li><b>Improved training effectiveness:</b> Analyzing training data can help businesses see which topics are resonating with trainees and where they might need more help.</li>
+      <li><b>Cost savings:</b> With GoToTraining, businesses can avoid travel costs associated with in-person trainings. With Google BigQuery, they can optimize their supply chain and pricing strategies to save money.</li>
+    </ul>
+    <h2>Conclusion</h2>
+    <p>Integrating Google BigQuery and GoToTraining via API or SDK can provide numerous benefits for businesses that rely on online trainings. From centralizing data management to cost savings, this integration can help businesses make better decisions and save time and money in the process. So if you're considering integrating these two platforms, now is the time to explore your options and get started!</p>
+</div>

@@ -1,0 +1,33 @@
+---
+permalink: /landings/system-integrations/instagram-lead-ads/instagram-custom-audiences
+author: Edward Saunders
+title: "How Instagram Lead Ads and Custom Audiences Can Boost Your Marketing"
+leadhead: "Instagram Lead Ads and Custom Audiences are powerful marketing tools on their own, but when integrated through API or SDK, they can provide even greater benefits for businesses"
+leadtext: "By using Lead Ads to collect potential customer data and then using Custom Audiences to create personalized ad campaigns, businesses can generate more leads, increase conversions, and ultimately boost their bottom line. If you're not already using Instagram Lead Ads and Custom Audiences, now is the time to start!"
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>How Instagram Lead Ads and Custom Audiences Can Boost Your Marketing</h1>
+	
+	<p>Instagram is one of the most popular social media platforms in the world, with over one billion active users globally. With so many people scrolling through their Instagram feeds each day, the platform offers an incredible opportunity for businesses to reach new customers, generate leads, and boost sales. In this blog post, we'll look at two powerful Instagram marketing tools - Lead Ads and Custom Audiences - and how integrating them can provide significant benefits for your business.</p>
+	
+	<h2>Instagram Lead Ads</h2>
+	
+	<p>Lead Ads are a type of Instagram advertising where users can submit their contact information without leaving the app, making it easy to generate leads and capture potential customer information. These ads allow businesses to collect valuable data from interested individuals, such as email addresses, phone numbers, and location information. This information can then be used to create targeted marketing campaigns that are tailored to these potential customers' interests and needs.</p>
+	
+	<h2>Instagram Custom Audiences</h2>
+	
+	<p>Custom Audiences is a powerful tool that allows businesses to reach their target audience by using their own customer data for ad targeting. With Custom Audiences, businesses can upload their customer lists and create targeted ad campaigns that are personalized for their audience. This feature enables businesses to re-engage with existing customers, reach people with similar interests to their customers, and even exclude certain groups from their advertising campaigns.</p>
+	
+	<h2>Integration of the two through API or SDK</h2>
+	
+	<p>By integrating Instagram Lead Ads and Custom Audiences through API or SDK, businesses can further enhance their marketing efforts. With this integration, businesses can use the data collected through Lead Ads to create Custom Audiences. This means that businesses can target potential customers based on the information they provided in their Lead Ad submission. It also allows businesses to create more personalized advertising campaigns that are tailored to each potential customer.</p>
+	
+	<h2>Problems their integration solves</h2>
+	
+	<p>Integrating Instagram Lead Ads and Custom Audiences can solve several problems for businesses. For example, it allows them to generate leads more efficiently by using Lead Ads and then retargeting these potential customers with Custom Audiences. This helps to create a more personalized experience for each potential customer, which can increase the chances of converting them into a paying customer. Additionally, integrating these two tools can save businesses time and resources by automating certain aspects of their marketing campaigns.</p>
+	
+	<h2>Conclusion</h2>
+	
+	<p>Instagram Lead Ads and Custom Audiences are powerful marketing tools on their own, but when integrated through API or SDK, they can provide even greater benefits for businesses. By using Lead Ads to collect potential customer data and then using Custom Audiences to create personalized ad campaigns, businesses can generate more leads, increase conversions, and ultimately boost their bottom line. If you're not already using Instagram Lead Ads and Custom Audiences, now is the time to start!</p>
+	
+</div>

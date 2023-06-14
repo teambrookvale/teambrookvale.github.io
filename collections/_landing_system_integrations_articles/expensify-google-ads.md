@@ -1,0 +1,36 @@
+---
+permalink: /landings/system-integrations/expensify/google-ads
+author: Edward Saunders
+title: "Expensify and Google Ads Integration"
+leadhead: "The integration of Expensify and Google Ads is a game-changer for advertisers"
+leadtext: "It provides a streamlined, accurate, and time-saving way to manage your expenses and track your ad spending. By taking advantage of this integration, you'll be able to make more informed decisions about your advertising budget, optimize your ROI, and save time in the process. Get started today and see the results for yourself!"
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Expensify and Google Ads Integration</h1>
+
+	<p>If you're an advertiser who uses Google Ads, you know how complex managing your ad campaigns can be. There are so many variables to consider, from ad copy to targeting to bidding strategies. And on top of that, you have to stay on top of your budget and track your spending closely.</p>
+
+	<p>That's where Expensify comes in. Expensify is a powerful expense management tool that makes it easy to track your expenses and stay on top of your budget. By integrating Expensify with Google Ads, you can streamline your expense tracking and get a more complete picture of your advertising spending.</p>
+
+	<h2>How the Integration Works</h2>
+
+	<p>Integrating Expensify with Google Ads is easy. You can either use an API or SDK to connect the two platforms. Once you've done that, Expensify will automatically track your spending across all your Google Ads campaigns.</p>
+
+	<p>Expensify will pull in data from Google Ads, including information about your ad spend, clicks, impressions, and conversions. It will also import all your invoice and payment data, allowing you to see all your expenses in one place.</p>
+
+	<h2>Benefits of the Integration</h2>
+
+	<p>The integration of Expensify and Google Ads provides significant benefits to advertisers. Here are just a few:</p>
+
+	<ul>
+		<li><strong>More Accurate Budgeting:</strong> With Expensify, you'll be able to track all your expenses in one place, including your Google Ads spending. This allows you to get a more accurate picture of your overall budget and make more informed decisions about your ad spending.</li>
+		<li><strong>Better ROI Tracking:</strong> Knowing exactly how much you're spending on each campaign is crucial for tracking your return on investment (ROI). With Expensify's integration with Google Ads, you'll be able to see all your expenses in one place, making it easier to track and optimize your ROI.</li>
+		<li><strong>Time Savings:</strong> Manually tracking all your ad spending across multiple campaigns can be time-consuming and error-prone. By integrating Expensify with Google Ads, you can automate the process and save time, allowing you to focus on other aspects of your advertising strategy.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Expensify and Google Ads is a game-changer for advertisers. It provides a streamlined, accurate, and time-saving way to manage your expenses and track your ad spending. By taking advantage of this integration, you'll be able to make more informed decisions about your advertising budget, optimize your ROI, and save time in the process. Get started today and see the results for yourself!</p>
+
+</div>

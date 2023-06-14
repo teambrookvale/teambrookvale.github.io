@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/zendesk/namely
+author: Edward Saunders
+title: "Zendesk and Namely Integration: Solving HR and Customer Support Issues"
+leadhead: "Zendesk and Namely integration through API or SDK is a powerful solution that solves HR and customer support issues for businesses"
+leadtext: "By seamlessly integrating these two platforms, businesses can automate manual processes, improve data accuracy, and create a more efficient and effective overall system. If your business is struggling with HR and customer support issues, consider exploring the integration of Zendesk and Namely to see how it can help your company."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Zendesk and Namely Integration: Solving HR and Customer Support Issues</h1>
+
+    <p>In today's digital age, seamless integration between software applications is critical to business success. One such integration that solves HR and customer support issues is between Zendesk and Namely through API or SDK. Let's dive deeper into what each of these software platforms does and how their integration can benefit businesses.</p>
+
+    <h2>Zendesk</h2>
+    <p>Zendesk is a customer support platform that allows businesses to manage customer interactions across various channels, such as email, chat, social media, and phone. With Zendesk, businesses can track, prioritize, and solve customer issues quickly and efficiently. The platform also provides powerful analytics and reporting tools to help businesses measure the effectiveness of their customer support efforts.</p>
+
+    <h2>Namely</h2>
+    <p>Namely is an HR platform that streamlines HR management processes such as payroll, benefits, time tracking, and employee data management. Namely provides a single platform for businesses to manage all HR functions, saving time and reducing errors.</p>
+
+    <h2>Integration of Zendesk and Namely through API or SDK</h2>
+    <p>The integration of Zendesk and Namely through API or SDK allows businesses to streamline their HR and customer support functions, creating a more efficient and effective overall system. With the integration, businesses can automatically create employee records in Namely when they are added to Zendesk. This eliminates the need for manual data entry and reduces the chance of errors. Additionally, the integration allows HR and support teams to share information about employees, such as leave requests, so that everyone is aware of important employee information.</p>
+
+    <h2>Problems their integration solves</h2>
+    <p>The integration of Zendesk and Namely through API or SDK solves several problems for businesses. By automating the process of adding employees to Namely, businesses can save time, reduce errors, and improve data accuracy. Additionally, the integration allows HR and support teams to work more closely together, improving communication and ensuring that important employee information is shared appropriately. Overall, the integration helps businesses create a more efficient and effective HR and customer support system, leading to happier employees and customers.</p>
+
+    <h2>Conclusion</h2>
+    <p>Zendesk and Namely integration through API or SDK is a powerful solution that solves HR and customer support issues for businesses. By seamlessly integrating these two platforms, businesses can automate manual processes, improve data accuracy, and create a more efficient and effective overall system. If your business is struggling with HR and customer support issues, consider exploring the integration of Zendesk and Namely to see how it can help your company.</p>
+
+</div>

@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/goto-training/magento
+author: Edward Saunders
+title: "Integrating GoTo Training and Magento"
+leadhead: "The integration of GoTo Training and Magento can provide businesses with a streamlined training and sales management process"
+leadtext: "By connecting these two platforms through API or SDK, businesses can offer training sessions directly from their e-commerce websites and manage their training and sales processes more efficiently."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+<h1>Integrating GoTo Training and Magento</h1>
+
+<p>GoTo Training is an online training software that allows users to conduct live and on-demand training sessions for their employees and constituents. Magento is an e-commerce platform that enables businesses to create online stores and manage their inventory and customer data. The integration of these two platforms through API or SDK can provide businesses with a streamlined training and sales management process.</p>
+
+<h2>Integration through API or SDK</h2>
+
+<p>API integration refers to the process of connecting two software applications via a programming interface, while SDK integration involves the use of software development kits to build custom integrations. Both methods can be used to integrate GoTo Training and Magento, allowing businesses to manage their training sessions and e-commerce sales from one central platform.</p>
+
+<h2>Problems solved by the integration</h2>
+
+<p>By integrating GoTo Training and Magento, businesses can offer training sessions to their employees and customers directly from their e-commerce websites. This can help to increase sales by providing customers with the knowledge they need to make informed purchasing decisions. Additionally, this integration can help businesses to manage their training and sales processes more efficiently, reducing the need for manual data entry and increasing productivity.</p>
+
+<h2>Conclusion</h2>
+
+<p>The integration of GoTo Training and Magento can provide businesses with a streamlined training and sales management process. By connecting these two platforms through API or SDK, businesses can offer training sessions directly from their e-commerce websites and manage their training and sales processes more efficiently.</p>
+
+</div>

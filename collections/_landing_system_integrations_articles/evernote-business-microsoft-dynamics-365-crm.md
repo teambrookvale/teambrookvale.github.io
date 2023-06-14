@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/evernote-business/microsoft-dynamics-365-crm
+author: Edward Saunders
+title: "Integration of Evernote Business and Microsoft Dynamics 365 CRM"
+leadhead: "The integration of Evernote Business and Microsoft Dynamics 365 CRM can bring many benefits to businesses"
+leadtext: "The integration is made possible through API or SDK, and it can solve several problems for businesses, including streamlining workflow, centralizing information, increasing productivity and efficiency, and improving customer relationship management. Consider integrating Evernote Business and Microsoft Dynamics 365 CRM to make your business operations smoother."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext"><h1>Integration of Evernote Business and Microsoft Dynamics 365 CRM</h1>
+<p>Evernote Business and Microsoft Dynamics 365 CRM are two popular tools that businesses use to manage their workflow, customer relationship management, and more. Both tools have their own unique features and benefits, but what if you could integrate them to make your business operations smoother? That's where API and SDK come into play.</p>
+
+<h2>What is Evernote Business?</h2>
+<p>Evernote Business is a productivity app that allows teams to create, share, and collaborate on notes, tasks, and projects. It also has powerful search functionality that makes it easy to find information. With Evernote Business, businesses can organize their documents, track their projects, and improve their productivity.</p>
+
+<h2>What is Microsoft Dynamics 365 CRM?</h2>
+<p>Microsoft Dynamics 365 CRM is a cloud-based customer relationship management tool designed to help businesses manage customer interactions. It can help businesses with lead tracking, account management, sales forecasting, and more. Microsoft Dynamics 365 CRM integrates with Microsoft Office and other Microsoft tools such as SharePoint and Power BI.</p>
+
+<h2>Integration of the two through API or SDK</h2>
+<p>The integration of Evernote Business and Microsoft Dynamics 365 CRM is possible through API or SDK.</p>
+<p>An API (application programming interface) is a set of protocols and tools for building software applications. Evernote Business offers an API that developers can use to integrate Evernote Business with other tools. Microsoft Dynamics 365 CRM also offers an API that developers can use to build custom applications.</p>
+<p>An SDK (software development kit) is a collection of software development tools used to build applications for a specific platform. Both Evernote Business and Microsoft Dynamics 365 CRM offer SDKs that developers can use to build custom applications that integrate the two tools.</p>
+
+<h2>Problems their integration solves</h2>
+<p>The integration of Evernote Business and Microsoft Dynamics 365 CRM can solve several problems for businesses, including:</p>
+<ul>
+<li>Streamlining workflow</li>
+<li>Centralizing information</li>
+<li>Increasing productivity and efficiency</li>
+<li>Improving customer relationship management</li>
+</ul>
+
+<h2>Conclusion</h2>
+<p>The integration of Evernote Business and Microsoft Dynamics 365 CRM can bring many benefits to businesses. The integration is made possible through API or SDK, and it can solve several problems for businesses, including streamlining workflow, centralizing information, increasing productivity and efficiency, and improving customer relationship management. Consider integrating Evernote Business and Microsoft Dynamics 365 CRM to make your business operations smoother.</p>
+</div>

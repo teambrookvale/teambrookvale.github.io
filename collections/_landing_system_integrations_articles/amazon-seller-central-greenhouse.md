@@ -1,0 +1,22 @@
+---
+permalink: /landings/system-integrations/amazon-seller-central/greenhouse
+author: Edward Saunders
+title: "Amazon Seller Central and Greenhouse Integration"
+leadhead: "The integration of Amazon Seller Central and Greenhouse can provide significant benefits for sellers on Amazon's marketplace"
+leadtext: "By automating and streamlining the hiring process, sellers can save time and improve the quality of their hires. As businesses continue to invest in talent and staffing, integrations like this will become increasingly valuable."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Amazon Seller Central and Greenhouse Integration</h1>
+    
+    <p>Amazon Seller Central is a platform used for managing and selling products on Amazon's marketplace. Greenhouse, on the other hand, is a recruitment and hiring platform used by businesses to manage their hiring process.</p>
+    
+    <p>While the two platforms may seem unrelated, they can be integrated using an API or SDK. This integration can help streamline and improve the recruitment process for Amazon sellers.</p>
+    
+    <p>One of the main problems that the integration of Amazon Seller Central and Greenhouse solves is the manual tracking and management of job postings and applications. By integrating the two platforms, job postings can be automatically synced between the two systems, and applications can be received and managed through Greenhouse's recruiting platform.</p>
+    
+    <p>Additionally, the integration can help improve the quality of hires for Amazon sellers. By using Greenhouse's hiring tools and analytics, businesses can identify and select candidates that are the best fit for their organization. This can help reduce turnover and improve overall business performance.</p>
+    
+    <h2>Conclusion</h2>
+    
+    <p>The integration of Amazon Seller Central and Greenhouse can provide significant benefits for sellers on Amazon's marketplace. By automating and streamlining the hiring process, sellers can save time and improve the quality of their hires. As businesses continue to invest in talent and staffing, integrations like this will become increasingly valuable.</p>
+</div>

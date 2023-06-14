@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/webhooks-by-zapier
+author: Edward Saunders
+title: "Integrating Facebook Custom Audiences with Webhooks by Zapier"
+leadhead: "The integration of Facebook Custom Audiences with Webhooks by Zapier is an essential tool for advertisers and marketers"
+leadtext: "It saves time, improves targeting, and allows for more personalized ads. By using the API or SDK, you can easily set up a webhook integration and start reaping the benefits today."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Facebook Custom Audiences with Webhooks by Zapier</h1>
+	<p>Facebook Custom Audiences is a powerful tool for advertisers to target their ads to specific groups of people. It allows you to upload your own customer data, such as email addresses or phone numbers, and then target those users with ads on Facebook.</p>
+
+	<p>Webhooks by Zapier, on the other hand, is a automation tool that allows you to create workflows that react to events from other apps, such as Facebook Custom Audiences. It enables you to send data from one app to another in real-time, without having to manually enter it.</p>
+
+	<p>The integration of Facebook Custom Audiences with Webhooks by Zapier can be done through the use of API or SDK. The API is a set of programming instructions that allows two or more apps to communicate with each other. The SDK is a collection of software development tools that allows developers to create apps for a specific platform.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>This integration solves several problems that advertisers and marketers face. First, it saves time by automating the process of updating your custom audiences. Previously, you would have to manually update your custom audience with new data each time you obtained it. Now, you can set up a webhook integration to automatically update your custom audience with the new data as it becomes available.</p>
+
+	<p>Second, it improves targeting for your ads. With Webhooks by Zapier, you can send detailed information about your customers to Facebook's ad platform. This information can include their purchase history, interests, and demographics. By having more information about your customers, you can create more personalized ads that are more likely to resonate with them.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Facebook Custom Audiences with Webhooks by Zapier is an essential tool for advertisers and marketers. It saves time, improves targeting, and allows for more personalized ads. By using the API or SDK, you can easily set up a webhook integration and start reaping the benefits today.</p>
+</div>

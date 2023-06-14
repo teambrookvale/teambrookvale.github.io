@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/snowflake/facebook-custom-audiences
+author: Edward Saunders
+title: "Snowflake and Facebook Custom Audiences Integration"
+leadhead: "In conclusion, integrating Snowflake and Facebook Custom Audiences is a smart move for businesses that want to create personalized campaigns and reach their ideal customers"
+leadtext: "With Snowflake's fast and flexible data warehouse, and Facebook Custom Audiences' targeting capabilities, businesses can create ads that are more likely to convert, and save time and resources in the process. By taking advantage of the API and SDK provided by both platforms, businesses can easily integrate the two and start seeing results today."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Snowflake and Facebook Custom Audiences Integration</h1>
+	<p>Recently, there has been a lot of buzz around integrating Snowflake and Facebook Custom Audiences. In this blog post, we'll explore the benefits of integrating these two platforms, and how it can solve some of the common problems businesses face today.</p>
+
+	<h2>Snowflake</h2>
+	<p>Snowflake is a cloud-based data warehouse that allows users to store, analyze, and share data securely. It was designed to be fast, flexible, and easy to use, making it a popular choice for businesses of all sizes. With Snowflake, businesses can analyze their data in real-time, which provides them with valuable insights that can help them make data-driven decisions.</p>
+
+	<h2>Facebook Custom Audiences</h2>
+	<p>Facebook Custom Audiences is a targeting tool that allows businesses to reach their ideal customers on Facebook using their own customer data. With Custom Audiences, businesses can create highly-targeted ads for their existing customers, website visitors, or even lookalike audiences. This means that businesses can create personalized ads that are more likely to convert.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>Integrating Snowflake and Facebook Custom Audiences is easy thanks to the API and SDK provided by both platforms. By integrating the two, businesses can use their Snowflake data to create highly-targeted Facebook ads and campaigns. This means that they can use their existing data to reach their ideal customers, and create campaigns that are more likely to convert.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>By integrating Snowflake and Facebook Custom Audiences, businesses can solve some common problems they face today. For example, most businesses struggle to create personalized ads that resonate with their target audience. With Snowflake data and Facebook Custom Audiences, they can create highly-targeted campaigns that are more likely to convert. Additionally, businesses can save time and resources by using their existing data to create ads and campaigns, rather than starting from scratch.</p>
+
+	<h2>Conclusion</h2>
+	<p>In conclusion, integrating Snowflake and Facebook Custom Audiences is a smart move for businesses that want to create personalized campaigns and reach their ideal customers. With Snowflake's fast and flexible data warehouse, and Facebook Custom Audiences' targeting capabilities, businesses can create ads that are more likely to convert, and save time and resources in the process. By taking advantage of the API and SDK provided by both platforms, businesses can easily integrate the two and start seeing results today.</p>
+</div>

@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/greenhouse
+author: Edward Saunders
+title: "Integrating Facebook Custom Audiences with Greenhouse"
+leadhead: "The integration of Facebook Custom Audiences with Greenhouse is a game-changer for recruiters who want to target their job ads to specific groups of people"
+leadtext: "By tapping into Facebook's vast audience data, recruiters can ensure that their job ads are seen by the right people, resulting in more qualified applicants and a more efficient hiring process."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating Facebook Custom Audiences with Greenhouse</h1>
+
+    <p>Facebook Custom Audiences is a powerful tool that allows advertisers to target their ads to specific groups of people based on their Facebook activity, such as pages they have liked or their email addresses. Greenhouse, on the other hand, is a popular recruiting platform used by companies to manage their hiring process.</p>
+
+    <p>By integrating Facebook Custom Audiences with Greenhouse through an API or SDK, recruiters can now target job ads to people who have shown interest in their company on Facebook, resulting in more qualified applicants.</p>
+
+    <h2>Problems their integration solves</h2>
+
+    <p>Prior to this integration, recruiters had limited options for targeting job ads to specific groups of people. They could either rely on job boards or sponsor their ads on social media and hope that the right people would see them.</p>
+
+    <p>But with the integration of Facebook Custom Audiences and Greenhouse, job ads can be targeted to people who have already shown interest in the company by liking their Facebook page or engaging with their content. This increases the likelihood that the ad will be seen by qualified candidates who are more likely to apply.</p>
+
+    <h2>Conclusion</h2>
+
+    <p>The integration of Facebook Custom Audiences with Greenhouse is a game-changer for recruiters who want to target their job ads to specific groups of people. By tapping into Facebook's vast audience data, recruiters can ensure that their job ads are seen by the right people, resulting in more qualified applicants and a more efficient hiring process.</p>
+
+</div>

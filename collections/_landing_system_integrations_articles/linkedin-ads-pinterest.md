@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/linkedin-ads/pinterest
+author: Edward Saunders
+title: "The Benefits of Integrating LinkedIn Ads and Pinterest through API"
+leadhead: "LinkedIn Ads and Pinterest offer unique advantages to businesses looking to expand their reach and attract new customers"
+leadtext: "By leveraging the power of LinkedIn Ads and Pinterest through integration, businesses can achieve their marketing goals more efficiently and effectively. With the many benefits of integrating these two platforms through API or SDK, businesses can take their advertising campaigns to the next level and increase their overall ROI."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>The Benefits of Integrating LinkedIn Ads and Pinterest through API</h1>
+
+	<p>LinkedIn Ads and Pinterest are both powerful advertising platforms that can help businesses to significantly increase their audience reach, improve customer engagement and drive more sales. However, taking advantage of these platforms independently may not be enough to achieve a company's marketing goals. This is where the integration of the two through API or SDK comes in to play.</p>
+
+	<h2>LinkedIn Ads</h2>
+
+	<p>LinkedIn Ads is a professional networking site that can help businesses to target a highly specific audience with their advertisements. With over 700 million users, LinkedIn is the largest professional social media platform available, and it provides a great way for businesses to get in front of the right people.</p>
+
+	<h2>Pinterest</h2>
+
+	<p>Pinterest is another popular social media platform that is particularly useful for businesses that want to showcase their products or services in a visually appealing way. Pinterest's user base is also growing at a rapid pace, and it has become one of the most popular social media platforms for people to seek out inspiration for their daily lives.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of LinkedIn Ads and Pinterest through API or SDK allows businesses to automatically sync their advertising campaigns on both platforms, which saves time and eliminates the need for manual updates. With this kind of integration, businesses can create advertising campaigns that reach the right target audience on both platforms in one go.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>By integrating LinkedIn Ads and Pinterest, businesses can extend their reach and visibility to a larger audience. Also, this integration can solve the problem of advertising on two different platforms separately, which can be time-consuming and expensive due to the need for multiple creatives and customer data. This integration streamlines the entire process, reducing costs and effort.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>LinkedIn Ads and Pinterest offer unique advantages to businesses looking to expand their reach and attract new customers. By leveraging the power of LinkedIn Ads and Pinterest through integration, businesses can achieve their marketing goals more efficiently and effectively. With the many benefits of integrating these two platforms through API or SDK, businesses can take their advertising campaigns to the next level and increase their overall ROI.</p>
+</div>

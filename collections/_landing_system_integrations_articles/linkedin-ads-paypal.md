@@ -1,0 +1,21 @@
+---
+permalink: /landings/system-integrations/linkedin-ads/paypal
+author: Edward Saunders
+title: "LinkedIn Ads and PayPal Integration"
+leadhead: "By integrating LinkedIn Ads and PayPal, you can streamline your online marketing and payment processes, resulting in a more efficient and profitable business"
+leadtext: "Make sure to explore the available APIs and SDKs to find the integration solution that best fits your needs."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>LinkedIn Ads and PayPal Integration</h1>
+	<p>LinkedIn Ads and PayPal are two powerful tools that help businesses reach out to their target audience and process online payments, respectively. But what happens when you combine these two platforms through API or SDK integration? Let's find out.</p>
+	<h2>Integration of LinkedIn Ads and PayPal</h2>
+	<p>When you integrate LinkedIn Ads and PayPal, you can use LinkedIn's powerful targeting options to reach your ideal audience, and then use PayPal to accept payments from those users who are interested in your product or service.</p>
+	<h2>Problems their Integration Solves</h2>
+	<p>By integrating LinkedIn Ads and PayPal, you solve two big problems for your business:</p>
+	<ol>
+		<li>You can target your ideal audience on LinkedIn with precision, increasing your chances of conversion.</li>
+		<li>You can accept payments securely and efficiently through PayPal, a trusted payment gateway used by millions of users worldwide.</li>
+	</ol>
+	<h2>Conclusion</h2>
+	<p>By integrating LinkedIn Ads and PayPal, you can streamline your online marketing and payment processes, resulting in a more efficient and profitable business. Make sure to explore the available APIs and SDKs to find the integration solution that best fits your needs.</p>
+</div>

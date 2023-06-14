@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/microsoft-dynamics-365-crm/linkedin-ads
+author: Edward Saunders
+title: "Integration of Microsoft Dynamics 365 CRM with LinkedIn Ads API"
+leadhead: "The integration of Microsoft Dynamics 365 CRM with LinkedIn Ads API or SDK provides businesses with a powerful tool to manage their customer data and create highly targeted advertising campaigns"
+leadtext: "By leveraging the data from their CRM, businesses can create personalized marketing campaigns that are more likely to convert, and easily track the success of these campaigns within the CRM platform."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of Microsoft Dynamics 365 CRM with LinkedIn Ads API</h1>
+
+	<p>Microsoft Dynamics 365 CRM is a powerful customer relationship management tool used to manage the interactions between a business and its customers. It provides organizations with a comprehensive way to manage their entire sales, marketing, and customer service processes in one platform.</p>
+
+	<p>LinkedIn Ads, on the other hand, is a highly targeted advertising platform that enables businesses to reach their ideal audiences on the world's largest professional network.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of Microsoft Dynamics 365 CRM with LinkedIn Ads can be done through an application programming interface (API) or a software development kit (SDK). By using either of these methods, businesses can seamlessly integrate their CRM data with LinkedIn Ads to create highly targeted and effective advertising campaigns.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>One of the biggest problems that the integration of Microsoft Dynamics 365 CRM with LinkedIn Ads solves is the lack of insight into the effectiveness of marketing campaigns. By integrating these two platforms, businesses can easily track the success of their LinkedIn Ads campaigns within the CRM platform.</p>
+
+	<p>Another problem that their integration solves is the lack of personalized marketing. By leveraging the data from their CRM, businesses can create highly targeted and personalized LinkedIn Ads campaigns that are more likely to convert.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Microsoft Dynamics 365 CRM with LinkedIn Ads API or SDK provides businesses with a powerful tool to manage their customer data and create highly targeted advertising campaigns. By leveraging the data from their CRM, businesses can create personalized marketing campaigns that are more likely to convert, and easily track the success of these campaigns within the CRM platform.</p>
+</div>

@@ -1,0 +1,35 @@
+---
+permalink: /landings/system-integrations/facebook-custom-audiences/goto-training
+author: Edward Saunders
+title: "Integrating Facebook Custom Audiences and GoTo Training: Solving Problems with API or SDK"
+leadhead: "The integration of Facebook Custom Audiences and GoTo Training through API or SDKs is a powerful solution for businesses that are looking to create more effective training programs and target their advertising campaigns to the right audiences"
+leadtext: "By sharing data between these two platforms, businesses can ensure they are delivering the right message to the right people at the right time, resulting in more effective training and higher engagement rates."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Facebook Custom Audiences and GoTo Training: Solving Problems with API or SDK</h1>
+
+	<p>Facebook Custom Audiences is a powerful tool that allows businesses to target their advertisements to a specific group of people who have already shown interest in their brand. Meanwhile, GoTo Training is a software platform that is used to deliver online training programs.</p>
+
+	<p>By integrating these two solutions through API or SDK, businesses can use the data they have collected on Facebook to create more effective training programs on GoTo Training.</p>
+
+	<h2>Integration with API or SDK</h2>
+
+	<p>The API or SDK allows businesses to share data between the two platforms. For example, if a business has collected data on Facebook that suggests their customers are struggling with a particular aspect of their product, they can use this information to create a training program on GoTo Training that addresses this issue.</p>
+
+	<p>Additionally, if a business has a training program on GoTo Training that is highly effective in increasing sales or engagement, they can use Facebook Custom Audiences to target their advertising campaigns to people who have completed this program.</p>
+
+	<h2>Problems Solved with Integration</h2>
+
+	<p>There are several problems that this integration can solve for businesses, including:</p>
+
+	<ul>
+		<li><strong>Ineffective Training:</strong> By using the data collected through Facebook Custom Audiences, businesses can create training programs that are tailored to the unique needs and preferences of their customers. This can result in more effective training and higher engagement rates.</li>
+		<li><strong>Wasted Advertising Spend:</strong> When businesses target their advertising campaigns to a broad audience, they may be wasting money on people who are not interested in their products or services. By using Facebook Custom Audiences to target their advertising campaigns to people who have completed certain training programs on GoTo Training, businesses can ensure they are only spending money on people who have demonstrated interest in their brand.</li>
+		<li><strong>Missed Opportunities:</strong> If a business is not aware of the specific challenges their customers are facing, they may miss opportunities to provide them with the support and guidance they need. By using Facebook Custom Audiences to collect data on their customers' preferences and behavior, businesses can identify areas where they need additional training or resources.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Facebook Custom Audiences and GoTo Training through API or SDKs is a powerful solution for businesses that are looking to create more effective training programs and target their advertising campaigns to the right audiences. By sharing data between these two platforms, businesses can ensure they are delivering the right message to the right people at the right time, resulting in more effective training and higher engagement rates.</p>
+
+</div>

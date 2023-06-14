@@ -1,0 +1,26 @@
+---
+permalink: /landings/system-integrations/pardot/amazon-cloudfront
+author: Edward Saunders
+title: "Pardot and Amazon CloudFront: The Perfect Integration"
+leadhead: "The integration of Pardot and Amazon CloudFront is a powerful tool that can help businesses streamline their marketing and content delivery processes, as well as improve the user experience and increase engagement and conversions"
+leadtext: "If you are looking for the perfect integration to enhance your marketing automation and content delivery efforts, look no further than Pardot and Amazon CloudFront."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Pardot and Amazon CloudFront: The Perfect Integration</h1>
+	<p>When it comes to marketing automation and content delivery, Pardot and Amazon CloudFront are two of the most popular and useful tools used by companies all over the world. But did you know that by integrating the two through API or SDK, you can solve many problems and streamline your marketing and content delivery processes?</p>
+
+	<h2>What is Pardot?</h2>
+	<p>Pardot is a powerful marketing automation tool that helps businesses of all sizes to streamline their lead management and lead generation processes, automate their marketing campaigns, and analyze the performance of their marketing efforts.</p>
+
+	<h2>What is Amazon CloudFront?</h2>
+	<p>Amazon CloudFront is a content delivery network (CDN) that helps businesses to accelerate the delivery of their web content and improve the user experience. It enhances the speed of delivery by caching the content across a global network of data centers, reducing latency and increasing reliability.</p>
+
+	<h2>Integration of the Two</h2>
+	<p>By integrating Pardot and Amazon CloudFront through API or SDK, you can improve the speed and accuracy of your marketing campaigns and content delivery processes, as well as reduce the load on your web servers. The integration allows you to cache your Pardot landing pages and other marketing content on Amazon CloudFront, improving the speed and reliability of the delivery of this content to your target audience. This integration reduces the load on your web servers and ensures that your visitors have a smooth user experience, leading to higher engagement and conversions. </p>
+
+	<h2>Problems their Integration solves</h2>
+	<p>The integration of Pardot and Amazon CloudFront solves some problems that businesses face when it comes to marketing automation and content delivery. One common problem is slow page load times, which can lead to higher bounce rates and lower engagement rates. This integration solves this issue by caching the content on Amazon CloudFront and delivering it faster to the visitors, leading to better user experience and increased engagement. Another problem is the high load on web servers, which can lead to downtime and slow loading times. This integration reduces the load on web servers and distributes it across a global network, ensuring that visitors have a seamless experience even during high traffic times.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Pardot and Amazon CloudFront is a powerful tool that can help businesses streamline their marketing and content delivery processes, as well as improve the user experience and increase engagement and conversions. If you are looking for the perfect integration to enhance your marketing automation and content delivery efforts, look no further than Pardot and Amazon CloudFront.</p>
+</div>

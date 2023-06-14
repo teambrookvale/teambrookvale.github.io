@@ -1,0 +1,21 @@
+---
+permalink: /landings/system-integrations/greenhouse/goto-webinar
+author: Edward Saunders
+title: "Greenhouse and GoTo Webinar: A Powerful Integration"
+leadhead: "The integration of Greenhouse and GoTo Webinar is a smart move for recruiters and hiring teams looking to streamline their recruitment process"
+leadtext: "This integration allows recruiters to save time, reduce errors and increase their reach. It also ensures that the candidate experience is seamless and that candidates are kept informed throughout the process. By investing in an integrated solution, recruiters can focus on what really matters, finding the best talent for their organization."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Greenhouse and GoTo Webinar: A Powerful Integration</h1>
+	<p>Greenhouse is a popular applicant tracking system (ATS) used by many businesses and recruiters to manage their hiring process. GoTo Webinar, on the other hand, is a leading web conferencing and webinar solution. When these two powerful tools are integrated using APIs or SDKs, they become even more useful and effective in streamlining the recruitment process. </p>
+
+	<h2>Integration of the two through API or SDK</h2>
+	<p>The integration of Greenhouse and GoTo Webinar is made possible through Application Programming Interface (API) or Software Development Kit (SDK). These tools allow the two systems to communicate with each other, share data and information seamlessly. For instance, when a hiring manager schedules an interview using Greenhouse, this information is automatically communicated to GoTo Webinar, which sends an invitation to the candidate and allows them to join the interview. This integration eliminates the need for manual input of data, thus saving time and reducing errors.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>The integration of Greenhouse and GoTo Webinar solves many problems for hiring teams. For example, this integration ensures that the candidate experience is seamless and efficient. Instead of manually scheduling interviews and sending out invitations, the integration automates the process, which eliminates the chances of missing out or sending incorrect information to the candidate. This integration also allows recruiters and hiring teams to expand their reach and attract more talent by conducting virtual or remote interviews.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Greenhouse and GoTo Webinar is a smart move for recruiters and hiring teams looking to streamline their recruitment process. This integration allows recruiters to save time, reduce errors and increase their reach. It also ensures that the candidate experience is seamless and that candidates are kept informed throughout the process. By investing in an integrated solution, recruiters can focus on what really matters, finding the best talent for their organization.</p>
+
+</div>

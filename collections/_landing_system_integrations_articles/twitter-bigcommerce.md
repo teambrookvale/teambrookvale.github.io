@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/twitter/bigcommerce
+author: Edward Saunders
+title: "Integration of Twitter and BigCommerce through API or SDK"
+leadhead: "The integration of Twitter and BigCommerce through API or SDK provides businesses with many benefits"
+leadtext: "It helps businesses to promote their brand and products on Twitter, reach a wider audience, and engage with their customers. The integration solves many problems for businesses and saves time and effort in promoting products on Twitter. It is a great way for businesses to grow their online presence and increase their customer base."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integration of Twitter and BigCommerce through API or SDK</h1>
+    <p>In today's world, businesses are always looking for ways to grow their online presence and increase their customer base. Social media platforms like Twitter have become an integral part of this growth strategy. BigCommerce, on the other hand, is a leading e-commerce platform that helps businesses build and manage their online stores. Integration of the two through API or SDK can provide businesses with many benefits.</p>
+
+    <h2>Twitter</h2>
+    <p>Twitter is a social media platform that allows users to share short messages called tweets. It has become a popular platform for businesses to promote their brand and products, engage with customers, and increase their reach. With over 330 million monthly active users, Twitter is a great platform to connect with potential customers and increase brand awareness.</p>
+
+    <h2>BigCommerce</h2>
+    <p>BigCommerce is an e-commerce platform that allows businesses to build and manage their online stores. It provides businesses with a simple and intuitive platform to create an online store, manage inventory, process payments, and fulfill orders. With over 60,000 online stores using its platform, BigCommerce is a leading e-commerce platform that helps businesses grow their online sales.</p>
+
+    <h2>Integration of the two through API or SDK</h2>
+    <p>The integration of Twitter and BigCommerce through API or SDK can provide businesses with many benefits. The integration allows businesses to:</p>
+    <ul>
+        <li>Automatically post new products from their BigCommerce store to their Twitter account</li>
+        <li>Promote their brand and products to a wider audience on Twitter</li>
+        <li>Engage with customers and answer questions about their products</li>
+        <li>Increase their customer base by reaching potential customers on Twitter</li>
+    </ul>
+
+    <h2>Problems their integration solves</h2>
+    <p>Integration of Twitter and BigCommerce solves many problems for businesses. It saves time and effort in promoting products on Twitter as businesses do not have to manually create tweets for new products. It also helps businesses to increase their reach and connect with potential customers on Twitter. The integration helps businesses to engage with their customers and answer their questions about products, which can lead to increased customer satisfaction and loyalty.</p>
+
+    <h2>Conclusion</h2>
+    <p>The integration of Twitter and BigCommerce through API or SDK provides businesses with many benefits. It helps businesses to promote their brand and products on Twitter, reach a wider audience, and engage with their customers. The integration solves many problems for businesses and saves time and effort in promoting products on Twitter. It is a great way for businesses to grow their online presence and increase their customer base.</p>
+</div>

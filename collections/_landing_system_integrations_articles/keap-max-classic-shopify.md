@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/keap-max-classic/shopify
+author: Edward Saunders
+title: "Integrating Keap Max Classic and Shopify"
+leadhead: "The integration of Keap Max Classic and Shopify provides businesses with a powerful tool to streamline their sales and marketing activities"
+leadtext: "By leveraging the APIs and SDKs, businesses can create customized solutions to improve their customer experience, automate processes, and boost sales."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Keap Max Classic and Shopify Integration</h1>
+
+	<p>Keap Max Classic is a customer relationship management (CRM) software used by small businesses to manage their sales and marketing activities. On the other hand, Shopify is an e-commerce platform used by businesses to create online stores.</p>
+
+	<p>By integrating Keap Max Classic and Shopify, businesses can streamline their sales and marketing activities, and provide a seamless shopping experience for their customers.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of Keap Max Classic and Shopify can be done through their respective APIs or software development kits (SDKs). This allows businesses to create custom solutions and automate processes such as order management, customer data sync, and marketing automation.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of Keap Max Classic and Shopify offers several solutions to common problems faced by businesses.</p>
+
+	<ul>
+		<li>Automated order management: With the integration, businesses can automatically create tags, tasks, and follow-up sequences based on the purchase history of their customers.</li>
+		<li>Improved customer data management: The integration allows businesses to sync customer data between Keap Max Classic and Shopify, providing a complete view of customer interactions and purchases.</li>
+		<li>Seamless marketing automation: By integrating the two platforms, businesses can create automated marketing campaigns based on customer behavior and purchase history.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Keap Max Classic and Shopify provides businesses with a powerful tool to streamline their sales and marketing activities. By leveraging the APIs and SDKs, businesses can create customized solutions to improve their customer experience, automate processes, and boost sales.</p>
+
+</div>

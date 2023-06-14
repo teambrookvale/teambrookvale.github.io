@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/sql-server/amazon-dynamodb
+author: Edward Saunders
+title: "Integration of SQL Server and Amazon DynamoDB"
+leadhead: "The integration of SQL Server and Amazon DynamoDB offers several benefits for businesses looking to modernize their applications and improve scalability, flexibility, and cost-efficiency"
+leadtext: "By leveraging APIs and SDKs, developers can seamlessly connect to DynamoDB from SQL Server instances and perform data operations. This integration enables businesses to manage their data more efficiently and cost-effectively."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integration of SQL Server and Amazon DynamoDB</h1>
+	<p>
+		SQL Server is a relational database management system developed by Microsoft Corporation. It is primarily used for storing and managing data in traditional tabular format. Amazon DynamoDB, on the other hand, is a NoSQL database service provided by Amazon Web Services (AWS). It provides a scalable, fast, and flexible database solution for modern, cloud-based applications.
+	</p>
+	<p>
+		The integration of these two databases can be achieved through various methods. The most common way is through the use of APIs and SDKs provided by AWS. These tools allow developers to seamlessly connect to DynamoDB from their SQL Server instances and perform data operations.
+	</p>
+	<p>
+		Some of the benefits of integrating SQL Server and DynamoDB include:
+	</p>
+	<ul>
+		<li>Scaling - DynamoDB can handle large amounts of data and traffic with ease, allowing SQL Server to offload some of its workload and scale as per its needs.</li>
+		<li>Flexibility - DynamoDB offers a schema-less data model, which allows developers to store and query data without worrying about traditional data constraints and structures.</li>
+		<li>Reduced Costs - By leveraging DynamoDB's pay-as-you-go pricing model and scaling capabilities, businesses can save on infrastructure and maintenance costs.</li>
+	</ul>
+	<h2>Conclusion</h2>
+	<p>
+		The integration of SQL Server and Amazon DynamoDB offers several benefits for businesses looking to modernize their applications and improve scalability, flexibility, and cost-efficiency. By leveraging APIs and SDKs, developers can seamlessly connect to DynamoDB from SQL Server instances and perform data operations. This integration enables businesses to manage their data more efficiently and cost-effectively. 
+	</p>
+</div>

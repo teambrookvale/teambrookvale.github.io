@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/namely/zendesk
+author: Edward Saunders
+title: "Integrating Namely and Zendesk"
+leadhead: "Integrating Namely and Zendesk can bring noteworthy benefits to any mid-sized company"
+leadtext: "By bridging HR and customer service teams, companies can unify communication channels, decrease redundant tasks, and create a more connected employee and customer experience. If you are looking to improve collaboration across your organization, integrating Namely and Zendesk is definitely worth considering."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating Namely and Zendesk</h1>
+    <p>Namely is a cloud-based HR software platform that provides HR solutions for midsize companies while Zendesk is a customer service software designed to connect and communicate with customers. Integrating the two can effectively bridge HR and customer service teams, providing a more connected and seamless experience for employees and customers alike.</p>
+    <h2>Integration of the two through API or SDK</h2>
+    <p>Integrating Namely and Zendesk can be done through API or SDK. By using Namely’s API, users can push HR data from Namely to Zendesk, while using Zendesk's API enables them to pull customer data and other relevant information to Namely. This enables both systems to share the necessary data with ease, and HR and customer service teams can collaborate with accurate and up-to-date information on both sides of the system. </p>
+    <h2>Problems their integration solves</h2>
+    <p>The integration of Namely and Zendesk solves many issues that companies encounter while managing HR and customer service teams. It can help keep track of any incidents reported by employees to HR and can allow customer service teams access to critical HR data while communicating with customers, such as employee status, work history, and benefits information. With this integration, HR and customer service managers can work collaboratively to improve employee satisfaction, customer experience, and overall efficiency across their organization. </p>
+    <h2>Conclusion</h2>
+    <p>Integrating Namely and Zendesk can bring noteworthy benefits to any mid-sized company. By bridging HR and customer service teams, companies can unify communication channels, decrease redundant tasks, and create a more connected employee and customer experience. If you are looking to improve collaboration across your organization, integrating Namely and Zendesk is definitely worth considering.</p>
+</div>

@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/namely/facebook-custom-audiences
+author: Edward Saunders
+title: "Namely and Facebook Custom Audiences Integration: Solving Marketing Problems"
+leadhead: "The integration of Namely and Facebook Custom Audiences offers a powerful marketing solution, allowing businesses to reach the right audience with their ads"
+leadtext: "By integrating these two tools through API or SDK, marketers can save money and time by only showing their ads to a select group of people. If you are looking for an effective way to improve your marketing outcomes, consider integrating Namely and Facebook Custom Audiences today!"
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Namely and Facebook Custom Audiences Integration: Solving Marketing Problems</h1>
+	<p>Namely and Facebook Custom Audiences are two powerful tools that can be integrated to solve problems marketers face today. Namely is an HR software that aims to simplify HR processes, such as payroll, benefits, and talent management, among others. On the other hand, Facebook Custom Audiences allows advertisers to target specific groups of people with their ads. By integrating the two, marketers are able to target the right people for their ads with ease.</p>
+
+	<h2>What is Facebook Custom Audiences?</h2>
+	<p>Facebook Custom Audiences is a powerful targeting tool that allows marketers to create a custom audience based on their existing customer list. With this tool, advertisers can reach people who have already shown interest in their brand.</p>
+
+	<h2>How can Namely integrate with Facebook Custom Audiences?</h2>
+	<p>Namely can integrate with Facebook Custom Audiences through the use of API or SDK. With API integration, Namely can communicate with Facebook, providing advertisers with access to their target audiences stored in Namely. With SDK integration, Namely can activate Custom Audiences directly on the platform, allowing brands to reach their audience more effectively.</p>
+
+	<h2>What problems does their integration solve?</h2>
+	<p>The integration of Namely and Facebook Custom Audiences solves a number of marketing problems. Firstly, it helps marketers to target the right people for their ads, which can ultimately lead to increased conversions and revenue. Secondly, using Custom Audiences can reduce ad spend and increase ROI since the ads are only shown to a specific group of people who are more likely to engage with them. Finally, with Namely, marketers can have better control over their audiences and ensure that they are targeting the right people with their ads.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Namely and Facebook Custom Audiences offers a powerful marketing solution, allowing businesses to reach the right audience with their ads. By integrating these two tools through API or SDK, marketers can save money and time by only showing their ads to a select group of people. If you are looking for an effective way to improve your marketing outcomes, consider integrating Namely and Facebook Custom Audiences today!</p>
+</div>

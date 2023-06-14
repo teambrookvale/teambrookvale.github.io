@@ -1,0 +1,34 @@
+---
+permalink: /landings/system-integrations/goto-training/servicenow
+author: Edward Saunders
+title: "GoTo Training and ServiceNow - Integration through API or SDK"
+leadhead: "Integrating GoTo Training with ServiceNow is a powerful combination that can add numerous benefits to your organization"
+leadtext: "It can help you automate processes, increase efficiency, and reduce workload, among other things. But most importantly, it can provide you with the tools and resources needed to stay competitive in the challenging business environment of today. So, if you are looking to streamline your ITSM practices and make them more adept, integrating these two platforms is a smart choice."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>GoTo Training and ServiceNow - Integration through API or SDK</h1>
+
+	<p>GoTo Training is a web-based tool that allows businesses to train employees remotely. It is one of the best options available for virtual training today. On the other hand, ServiceNow is a cloud-based platform that is designed to help organizations manage their IT services, including ITSM, ITOM, and ITBM. Both tools are essential when it comes to improving organizational efficiency and effectiveness. However, integrating the two platforms can improve the functionality and solve a plethora of business problems.</p>
+
+	<h2>Integration of GoTo Training and ServiceNow using API or SDK</h2>
+
+	<p>By integrating GoTo Training and ServiceNow, companies can ensure that their ITSM practices are more adept and functional. Without integration, companies need to manually handle all tasks, including adding or removing users from GoTo Training, managing training schedules, sending reminders, and so on. However, with API or SDK integration, the entire process can be automated, improving efficiency and reducing the workload on the IT staff. IT staff can spend more time focusing on other critical tasks, increasing productivity.</p>
+
+	<p>The integration can happen via API or SDK. An API enables the two platforms to share data seamlessly. On the other hand, an SDK provides developers with the tools and resources needed to create custom integrations between the two platforms. This means that developers can build tailor-made solutions that precisely meet the needs of their organizations.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>There are several problems that this integration can solve. These include:</p>
+
+	<ul>
+		<li><strong>Efficiency:</strong> By integrating GoTo Training with ServiceNow, you can automate several processes, saving time and increasing efficiency.</li>
+		<li><strong>Security:</strong> With integration, organizations can ensure that access to their GoTo Training account is limited only to authorized individuals.</li>
+		<li><strong>Scalability:</strong> Integration makes it easier to scale your training program and ensure that you can support a growing number of trainees.</li>
+		<li><strong>Transparency:</strong> By integrating the two platforms, companies can gain insight into how they are performing and identify areas for improvement.</li>
+	</ul>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating GoTo Training with ServiceNow is a powerful combination that can add numerous benefits to your organization. It can help you automate processes, increase efficiency, and reduce workload, among other things. But most importantly, it can provide you with the tools and resources needed to stay competitive in the challenging business environment of today. So, if you are looking to streamline your ITSM practices and make them more adept, integrating these two platforms is a smart choice.</p>
+
+</div>

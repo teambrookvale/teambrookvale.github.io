@@ -1,0 +1,32 @@
+---
+permalink: /landings/system-integrations/pinterest/goto-training
+author: Edward Saunders
+title: "Pinterest and GoTo Training Integration"
+leadhead: "The integration of Pinterest and GoTo Training is a powerful tool for businesses and organizations looking to enhance their training programs and increase their brand presence"
+leadtext: "By leveraging the visual and interactive capabilities of Pinterest and the flexibility and convenience of GoTo Training, companies can provide effective and engaging training to employees, customers and partners."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Pinterest and GoTo Training Integration</h1>
+
+	<h2>What is Pinterest?</h2>
+	<p>Pinterest is a social media platform that allows users to discover, save and share images and videos of their interests. It has become a popular tool for marketers, businesses and individuals to showcase their products, services and ideas.</p>
+
+	<h2>What is GoTo Training?</h2>
+	<p>GoTo Training is a cloud-based software that enables businesses and organizations to deliver online training to their employees, customers and partners. It is a cost-effective and efficient way to provide education and skills development while ensuring flexibility and convenience for both learners and trainers.</p>
+
+	<h2>Integration of Pinterest and GoTo Training</h2>
+	<p>Integration of Pinterest and GoTo Training can be achieved through API (Application Programming Interface) or SDK (Software Development Kit). API allows different applications to communicate and exchange data while SDK provides a set of programming tools and resources for building and integrating software.</p>
+
+	<h2>Problems their integration solves</h2>
+	<p>Integration of Pinterest and GoTo Training can help businesses and organizations in several ways:</p>
+
+	<ol>
+		<li><strong>Enhance training content:</strong> By incorporating Pinterest's visual content into training materials, it can make training more engaging, interactive and memorable for learners.</li>
+		<li><strong>Facilitate learning:</strong> Learners can easily access and save training materials on Pinterest, making it more convenient for them to review and apply what they have learned.</li>
+		<li><strong>Increase brand visibility:</strong> Organizations can leverage Pinterest's large user base to promote their brand and products through their training materials.</li>
+		<li><strong>Improve training outcomes:</strong> By combining Pinterest's inspirational and educational content with GoTo Training's effective training platform, businesses can deliver high-quality training that leads to improved skills and performance.</li>
+	</ol>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Pinterest and GoTo Training is a powerful tool for businesses and organizations looking to enhance their training programs and increase their brand presence. By leveraging the visual and interactive capabilities of Pinterest and the flexibility and convenience of GoTo Training, companies can provide effective and engaging training to employees, customers and partners.</p>
+</div>

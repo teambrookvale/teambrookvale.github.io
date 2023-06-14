@@ -1,0 +1,36 @@
+---
+permalink: /landings/system-integrations/marketo/google-ads
+author: Edward Saunders
+title: "Marketo Integration with Google Ads: A Game-Changer for Digital Marketers"
+leadhead: "The Marketo-Google Ads integration is a game-changer for digital marketers"
+leadtext: "By integrating these two powerful tools, you can create more targeted and effective marketing campaigns, track customer engagement across all channels, and improve your overall ROI. Whether you're a small business owner or a large enterprise, the Marketo-Google Ads integration can help you take your marketing efforts to the next level and achieve your business goals."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Marketo Integration with Google Ads: A Game-Changer for Digital Marketers</h1>
+
+	<p>As a digital marketer, you know that having the right tools for the job is crucial to success. Two of the most powerful tools in your arsenal are Marketo and Google Ads. But what if you could integrate the two to create a more efficient and effective marketing strategy? That's where the Marketo-Google Ads integration comes in.</p>
+
+	<h2>What is Marketo?</h2>
+
+	<p>Marketo is a powerful marketing automation tool that allows you to streamline your marketing efforts and create more personalized experiences for your customers. It's designed to help businesses of all sizes automate and optimize their marketing campaigns, from lead generation to customer retention and everything in between.</p>
+
+	<h2>What is Google Ads?</h2>
+
+	<p>Google Ads (formerly known as Google AdWords) is an advertising platform that allows businesses to create and display ads across Google's vast network of search results, websites, and apps. With Google Ads, you can target specific audiences based on demographics, location, interests, and more to reach the right people at the right time.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The Marketo-Google Ads integration is made possible through APIs and SDKs. APIs (Application Programming Interfaces) allow different software applications to communicate with each other and share data. In the case of Marketo and Google Ads, APIs enable Marketo to pull customer data from Google Ads and use it to create more targeted and effective marketing campaigns.</p>
+
+	<p>SDKs (Software Development Kits) are similar to APIs in that they allow different software applications to communicate with each other. SDKs, however, are designed to simplify the development of software applications by providing the necessary tools, documentation, and code libraries to developers. With an SDK, developers can create custom integrations between Marketo and Google Ads to meet their specific business needs.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The Marketo-Google Ads integration solves several problems for digital marketers. First, it allows you to create more targeted and effective marketing campaigns by using customer data from Google Ads. With this data, you can create more personalized experiences for your customers and improve your overall campaign performance.</p>
+
+	<p>Second, the integration simplifies the process of tracking and measuring your marketing campaigns. With Marketo, you can track customer engagement across all channels, including Google Ads, and use this data to optimize your campaigns and improve your return on investment (ROI).</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The Marketo-Google Ads integration is a game-changer for digital marketers. By integrating these two powerful tools, you can create more targeted and effective marketing campaigns, track customer engagement across all channels, and improve your overall ROI. Whether you're a small business owner or a large enterprise, the Marketo-Google Ads integration can help you take your marketing efforts to the next level and achieve your business goals.</p>
+</div>

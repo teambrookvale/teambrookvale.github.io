@@ -1,0 +1,27 @@
+---
+permalink: /landings/system-integrations/google-ads/greenhouse
+author: Edward Saunders
+title: "Google Ads and Greenhouse Integration: Solving Problems and Boosting Recruitment"
+leadhead: "The integration of Google Ads and Greenhouse is a powerful tool that can help businesses manage their recruitment process more efficiently and effectively"
+leadtext: "By using an API or SDK to link these two platforms, businesses can create a seamless process that streamlines the entire recruitment process, from job posting to hiring. This integration saves time, reduces errors, and ensures a consistent candidate experience, all while boosting the ROI on job advertising."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Google Ads and Greenhouse Integration: Solving Problems and Boosting Recruitment</h1>
+	
+	<p>Recruitment has become increasingly complex, especially with the rise of digital advertising. While there are many tools available for companies to advertise their job openings, they often struggle to create a seamless process that integrates all of their recruitment platforms. This is where the integration of Google Ads and Greenhouse can help.</p>
+
+	<h2>What is Google Ads?</h2>
+	<p>Google Ads (previously known as Google AdWords) is a platform that allows businesses to create and display ads on Google’s search engine, YouTube, and other websites that are part of the Google Network.</p>
+
+	<h2>What is Greenhouse?</h2>
+	<p>Greenhouse is a recruitment platform that helps businesses manage their job openings, processes, and candidates. It offers features such as applicant tracking, interview scheduling, and reporting.</p>
+
+	<h2>Integration of the Two through API or SDK</h2>
+	<p>The integration of Google Ads and Greenhouse can be achieved through an API or SDK. This integration allows businesses to create job ads on Google Ads that link directly to the job postings on Greenhouse. When a candidate clicks on the ad, they are directed to the Greenhouse application page.</p>
+
+	<h2>Problems their Integration Solves</h2>
+	<p>With this integration, businesses can streamline their recruitment process and improve their ROI on job advertising. It eliminates the need for manual data entry and reduces the risk of errors in the process. It also allows businesses to track the effectiveness of their Google Ads campaigns and measure the success of their job postings in real-time. Finally, it ensures a consistent candidate experience by directing applicants to the same landing page as the job posting, creating a unified brand image.</p>
+
+	<h2>Conclusion</h2>
+	<p>The integration of Google Ads and Greenhouse is a powerful tool that can help businesses manage their recruitment process more efficiently and effectively. By using an API or SDK to link these two platforms, businesses can create a seamless process that streamlines the entire recruitment process, from job posting to hiring. This integration saves time, reduces errors, and ensures a consistent candidate experience, all while boosting the ROI on job advertising.</p>
+</div>

@@ -1,0 +1,37 @@
+---
+permalink: /landings/system-integrations/quickbooks-online/marketo
+author: Edward Saunders
+title: "QuickBooks Online and Marketo Integration - Solving Problems with API and SDK"
+leadhead: "The integration of QuickBooks Online and Marketo offers businesses tremendous value"
+leadtext: "By eliminating manual data entry and providing a more holistic view of their finances and marketing efforts, businesses can improve their efficiency, gain valuable insights, and ultimately provide a better customer experience. Whether it's through API or SDK, businesses should strongly consider integrating these two platforms to stay competitive in today's digital landscape."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>QuickBooks Online and Marketo Integration - Solving Problems with API and SDK</h1>
+	
+	<p>Businesses today rely heavily on technology to streamline their operations. Two platforms that have become increasingly popular for managing finances and marketing campaigns are QuickBooks Online and Marketo. These platforms serve different purposes, but integrating them can provide businesses with valuable insights and improved efficiency.</p>
+
+	<h2>QuickBooks Online</h2>
+
+	<p>QuickBooks Online is a cloud-based financial management software that is widely used by small to medium-sized businesses. It offers features such as accounting, invoicing, banking, and inventory management. QuickBooks Online allows businesses to manage their finances in real-time and from any location, making it a popular choice for businesses with remote teams.</p>
+
+	<h2>Marketo</h2>
+
+	<p>Marketo is a marketing automation software that helps businesses generate leads and manage their marketing campaigns. With Marketo, businesses can create and execute marketing campaigns, track the performance of their campaigns, and automate their lead generation and lead nurturing processes. Marketo allows businesses to personalize their marketing efforts based on customer behavior and preferences, which improves the chances of converting leads into customers.</p>
+
+	<h2>Integration of the two through API or SDK</h2>
+
+	<p>The integration of QuickBooks Online and Marketo can be achieved through API or SDK. The QuickBooks API allows third-party apps to access QuickBooks data and functions, while the Marketo SDK allows developers to build custom integrations with Marketo. With this integration, businesses can streamline their workflows and gain valuable insights into their finances and marketing efforts.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>The integration of QuickBooks Online and Marketo solves several problems for businesses. Firstly, it eliminates the need for manual data entry between the two platforms. Businesses can automatically sync their customer data, invoices, and payment information, which saves time and reduces the chances of errors.</p>
+
+	<p>Secondly, it provides businesses with a more holistic view of their finances and marketing efforts. With integrated data, businesses can analyze the impact of their marketing campaigns on their bottom line. For example, they can analyze how much revenue a specific campaign generated or how many sales came from a specific market segment.</p>
+
+	<p>Finally, the integration enables businesses to improve their customer experience. By syncing data between QuickBooks Online and Marketo, businesses can personalize their marketing efforts and financial interactions with customers. For example, they can send targeted promotions to customers who have made repeat purchases or follow up on overdue payments with personalized reminders.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of QuickBooks Online and Marketo offers businesses tremendous value. By eliminating manual data entry and providing a more holistic view of their finances and marketing efforts, businesses can improve their efficiency, gain valuable insights, and ultimately provide a better customer experience. Whether it's through API or SDK, businesses should strongly consider integrating these two platforms to stay competitive in today's digital landscape.</p>
+
+</div>

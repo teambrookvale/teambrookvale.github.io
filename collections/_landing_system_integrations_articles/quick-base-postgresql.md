@@ -1,0 +1,17 @@
+---
+permalink: /landings/system-integrations/quick-base/postgresql
+author: Edward Saunders
+title: "Integrating Quick Base and PostgreSQL"
+leadhead: "Integrating Quick Base and PostgreSQL is an excellent option for businesses that want to combine the power and flexibility of both platforms"
+leadtext: "With the integration, businesses can streamline workflows, improve data access and visibility, and gain insights into their operations. By leveraging the power of APIs or SDKs, businesses can automate tasks and create custom applications that improve productivity and drive growth."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating Quick Base and PostgreSQL</h1>
+    <p>Quick Base is a popular cloud-based database management system that helps businesses create customized solutions for automating tasks and managing data. PostgreSQL, on the other hand, is a powerful open-source relational database that is known for its scalability, reliability, and performance.</p>
+    <h2>Integration of Quick Base and PostgreSQL through API or SDK</h2>
+    <p>Integrating Quick Base and PostgreSQL can be done through API or SDK integration, which enables data synchronization between the two platforms. Using APIs, businesses can automate tasks by programmatically accessing and manipulating Quick Base and PostgreSQL data. With SDKs, developers can create custom applications and workflows that use Quick Base and PostgreSQL data and functionality together.</p>
+    <h2>Problems their integration solves</h2>
+    <p>Integrating Quick Base and PostgreSQL can solve many problems for businesses. For example, businesses can use Quick Base to capture customer information, orders, and inventory, and then use PostgreSQL to analyze and manage the data. This integration can also help to avoid data silos and improve data accuracy by enabling data to flow more seamlessly between systems.</p>
+    <h2>Conclusion</h2>
+    <p>Integrating Quick Base and PostgreSQL is an excellent option for businesses that want to combine the power and flexibility of both platforms. With the integration, businesses can streamline workflows, improve data access and visibility, and gain insights into their operations. By leveraging the power of APIs or SDKs, businesses can automate tasks and create custom applications that improve productivity and drive growth.</p>
+</div>

@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/amazon-cloudfront/greenhouse
+author: Edward Saunders
+title: "Amazon CloudFront and Greenhouse Integration"
+leadhead: "The integration of Amazon CloudFront and Greenhouse is a game-changer for companies looking to optimize their recruiting processes"
+leadtext: "This integration ensures that companies have access to the latest technology to help them identify and attract top talent quickly. This ultimately results in a faster time-to-hire and improved candidate experience. By leveraging the power of Amazon CloudFront, Greenhouse users can deliver a more reliable and seamless candidate experience."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">
+	<h1>Amazon CloudFront and Greenhouse Integration</h1>
+
+	<p>Amazon CloudFront is a content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally. On the other hand, Greenhouse is a platform that enables companies to manage their recruitment processes more efficiently. By integrating these two platforms through API or SDK, users can optimize their hiring processes and reduce their time-to-hire significantly.</p>
+
+	<h2>Integration through API or SDK</h2>
+
+	<p>Amazon CloudFront’s APIs and SDKs enable seamless integration with Greenhouse, giving recruiters better visibility into candidates' details. They can see a candidate’s resume, work experience, and other critical information in one place.</p>
+
+	<h2>Problems their Integration Solves</h2>
+
+	<p>Before the integration of Amazon CloudFront and Greenhouse, managing recruitment processes was time-consuming and complicated. The integration of these two platforms enables recruiters to streamline their hiring processes. They can easily track candidate progress through the pipeline and use CloudFront's advanced analytics to monitor the candidate experience. It gives them the data they need to improve their recruiting processes and provide better insight into candidate behavior.</p>
+
+	<p>On top of that, CloudFront ensures better delivery of recruitment materials like videos, application materials, and other content. This means that recruiters can impress potential candidates and provide them with a better experience.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of Amazon CloudFront and Greenhouse is a game-changer for companies looking to optimize their recruiting processes. This integration ensures that companies have access to the latest technology to help them identify and attract top talent quickly. This ultimately results in a faster time-to-hire and improved candidate experience. By leveraging the power of Amazon CloudFront, Greenhouse users can deliver a more reliable and seamless candidate experience.</p>
+
+</div>

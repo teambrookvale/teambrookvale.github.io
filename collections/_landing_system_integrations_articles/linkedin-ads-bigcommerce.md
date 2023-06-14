@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/linkedin-ads/bigcommerce
+author: Edward Saunders
+title: "Integrating LinkedIn Ads with BigCommerce"
+leadhead: "Integrating LinkedIn Ads with BigCommerce through API or SDK offers many benefits for businesses of all types and sizes"
+leadtext: "By streamlining their advertising efforts and improving their targeting, businesses can see a significant improvement in their ROI. With the ability to track conversions and target the right customers, businesses can make their advertising spend go further and achieve greater success in their online marketing efforts."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating LinkedIn Ads with BigCommerce</h1>
+
+	<p>LinkedIn Ads and BigCommerce are two very powerful tools in the online marketing and eCommerce world. LinkedIn Ads allows businesses to reach a highly targeted audience, while BigCommerce provides a comprehensive solution for selling products online. Integrating the two through API or SDK can provide many benefits for businesses of all types and sizes.</p>
+
+	<h2>Integration of LinkedIn Ads with BigCommerce</h2>
+
+	<p>By integrating LinkedIn Ads with BigCommerce through the use of API or SDK, businesses can streamline their advertising efforts and improve their ROI. The integration allows for seamless tracking of conversions, enabling businesses to see which LinkedIn Ads campaigns are leading to the most sales on their BigCommerce website.</p>
+
+	<p>The integration also allows businesses to create targeted LinkedIn Ads campaigns based on their BigCommerce customer data. This means that businesses can target their advertising efforts to customers who have previously purchased from them, increasing the likelihood of repeat sales.</p>
+
+	<h2>Problems their integration solves</h2>
+
+	<p>One of the biggest problems this integration solves is the issue of tracking conversions. Without the integration, businesses would have to manually track the success of their LinkedIn Ads campaigns by cross-referencing their website analytics with campaign data. This can be time-consuming and prone to errors, which can result in lost sales and wasted advertising spend.</p>
+
+	<p>The integration also solves the problem of targeting the right customers. By leveraging their BigCommerce customer data, businesses can create LinkedIn Ads campaigns that are highly targeted and relevant to their audience. This leads to better engagement and a higher likelihood of converting clicks into sales.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>Integrating LinkedIn Ads with BigCommerce through API or SDK offers many benefits for businesses of all types and sizes. By streamlining their advertising efforts and improving their targeting, businesses can see a significant improvement in their ROI. With the ability to track conversions and target the right customers, businesses can make their advertising spend go further and achieve greater success in their online marketing efforts.</p>
+</div>

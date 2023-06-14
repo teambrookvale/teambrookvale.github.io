@@ -1,0 +1,23 @@
+---
+permalink: /landings/system-integrations/quickbooks-online/amazon-polly
+author: Edward Saunders
+title: "Integrating QuickBooks Online and Amazon Polly"
+leadhead: "Integrating QuickBooks Online and Amazon Polly is a great way for businesses to improve their communication with visually impaired clients or those who prefer speech-based communication"
+leadtext: "The integration solves the problem of businesses having to manually read out financial data, saving time and improving accuracy. By following the simple steps outlined above, businesses can start generating speech-based financial documents quickly and easily."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating QuickBooks Online and Amazon Polly</h1>
+	<p>QuickBooks Online is a popular accounting software that helps businesses manage their financial transactions. On the other hand, Amazon Polly is a text-to-speech service that enables developers to convert text into lifelike speech.</p>
+	<p>By integrating the two through API or SDK, businesses can generate speech-based financial reports, invoices, and statements for visually impaired clients or for those who prefer speech-based communication.</p>
+	<p>The integration of QuickBooks Online and Amazon Polly solves the problem of businesses having to manually read out financial data to clients who prefer speech-based communication. This can be time-consuming and lead to errors when delivering financial information. By automating this process through integration, businesses can save time and improve the accuracy of data delivery.</p>
+	<h2>How to Integrate QuickBooks Online and Amazon Polly</h2>
+	<p>To get started, businesses can follow these steps:</p>
+	<ol>
+		<li>Sign up for Amazon Polly and obtain an API key.</li>
+		<li>Use the API key to call Amazon Polly’s text-to-speech engine and generate speech based on the financial data in QuickBooks Online.</li>
+		<li>Save the speech as an MP3 file and attach it to the relevant financial document in QuickBooks Online.</li>
+	</ol>
+	<p>The integration can also be accomplished using an SDK, which simplifies the API calls using pre-built code.</p>
+	<h2>Conclusion</h2>
+	<p>Integrating QuickBooks Online and Amazon Polly is a great way for businesses to improve their communication with visually impaired clients or those who prefer speech-based communication. The integration solves the problem of businesses having to manually read out financial data, saving time and improving accuracy. By following the simple steps outlined above, businesses can start generating speech-based financial documents quickly and easily.</p>
+</div>

@@ -1,0 +1,24 @@
+---
+permalink: /landings/system-integrations/paypal/aws-lambda
+author: Edward Saunders
+title: "PayPal and AWS Lambda: A Powerful Integration"
+leadhead: "The integration of PayPal and AWS Lambda provides merchants with a powerful payment processing system that is scalable, reliable, and cost-effective"
+leadtext: "By automating their payment workflows and leveraging the serverless compute power of AWS Lambda, merchants can focus on growing their business without worrying about the technical details of payment processing. This integration is a great example of how two technologies can come together to create a solution that is greater than the sum of its parts."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>PayPal and AWS Lambda: A Powerful Integration</h1>
+
+	<p>PayPal is one of the most popular payment processors in the world. It provides an easy and secure way for merchants to accept payments from customers. AWS Lambda, on the other hand, is a serverless compute service that allows developers to run code without managing servers. When these two technologies work together, they create a powerful payment processing system that is reliable, scalable, and cost-effective.</p>
+
+	<h2>Integration of PayPal and AWS Lambda</h2>
+
+	<p>Integrating PayPal with AWS Lambda can be achieved through API or SDK. The PayPal API enables merchants to process payments and retrieve transaction details, while the AWS Lambda SDK provides a simple way to call Lambda functions from your application. Developers can use these tools to create custom payment processing workflows that fit their business needs.</p>
+
+	<h2>Problems their Integration Solves</h2>
+
+	<p>Integrating PayPal with AWS Lambda solves a number of problems for merchants. First, it allows them to automate their payment processing workflows, reducing the risk of error and improving efficiency. Second, the integration provides scalable and reliable payment processing, allowing merchants to handle large volumes of transactions without worrying about server capacity or downtime. Finally, the integration is cost-effective, as merchants only pay for the computing resources they use, reducing their infrastructure costs.</p>
+
+	<h2>Conclusion</h2>
+
+	<p>The integration of PayPal and AWS Lambda provides merchants with a powerful payment processing system that is scalable, reliable, and cost-effective. By automating their payment workflows and leveraging the serverless compute power of AWS Lambda, merchants can focus on growing their business without worrying about the technical details of payment processing. This integration is a great example of how two technologies can come together to create a solution that is greater than the sum of its parts.</p>
+</div>

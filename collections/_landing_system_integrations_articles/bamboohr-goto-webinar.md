@@ -1,0 +1,21 @@
+---
+permalink: /landings/system-integrations/bamboohr/goto-webinar
+author: Edward Saunders
+title: "BambooHR and GoTo Webinar Integration | Blog Post"
+leadhead: "The integration of BambooHR and GoTo Webinar through APIs or SDKs is a great way for businesses to streamline their HR and webinar hosting processes"
+leadtext: "It enables seamless data management, automated webinar scheduling, and streamlined attendance tracking. By integrating the two platforms, businesses can save time, improve their workflow, and provide a better experience for their workforce and webinar attendees."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>BambooHR and GoTo Webinar Integration</h1>
+    <p>BambooHR and GoTo Webinar are two popular software solutions used by businesses worldwide. BambooHR is a cloud-based HR management system that provides HR professionals with various tools and features to manage their workforce. GoTo Webinar is a web-based platform that enables users to host webinars, online meetings, and conferences.</p>
+    <p>Businesses can integrate the two platforms using APIs (Application Programming Interfaces) or SDKs (Software Development Kits). This integration enables businesses to streamline their HR and webinar hosting processes, saving them time and improving their workflow.</p>
+    <h2>Problems Their Integration Solves</h2>
+    <p>Integrating BambooHR and GoTo Webinar helps businesses solve the following problems:</p>
+    <ul>
+        <li><strong>Seamless Data Management:</strong> BambooHR enables HR professionals to manage employee data, while GoTo Webinar manages webinar attendee data. Integrating the two platforms ensures seamless data management between the two.</li>
+        <li><strong>Automated Webinar Scheduling:</strong> The integration enables businesses to schedule webinars automatically using BambooHR data. For instance, they can automatically schedule a new-hire orientation webinar for every new employee added to the system.</li>
+        <li><strong>Streamlined Attendance Tracking:</strong> The integration enables faster and more accurate tracking of webinar attendance. HR professionals no longer need to track webinar attendance separately and manually. Instead, they can automate attendance tracking using BambooHR data.</li>
+    </ul>
+    <h2>Conclusion</h2>
+    <p>The integration of BambooHR and GoTo Webinar through APIs or SDKs is a great way for businesses to streamline their HR and webinar hosting processes. It enables seamless data management, automated webinar scheduling, and streamlined attendance tracking. By integrating the two platforms, businesses can save time, improve their workflow, and provide a better experience for their workforce and webinar attendees.</p>
+</div>

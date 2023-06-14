@@ -1,0 +1,28 @@
+---
+permalink: /landings/system-integrations/quickbooks-online/xero
+author: Edward Saunders
+title: "Integrating QuickBooks Online and Xero"
+leadhead: "The integration of QuickBooks Online and Xero through API or SDK can offer multiple benefits for businesses"
+leadtext: "It can reduce manual entry, improve accuracy, increase efficiency, and provide better insights into financial performance. Integrating the two platforms can help businesses manage their finances more effectively and efficiently."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">    <h1>Integrating QuickBooks Online and Xero through API or SDK</h1>
+    <p>As cloud-based accounting software, QuickBooks Online and Xero are widely used by small to medium-sized businesses, freelancers, and accountants. While both platforms have their unique features and advantages, there are times when businesses want to integrate them for better efficiency.</p>
+    <h2>QuickBooks Online</h2>
+    <p>QuickBooks Online is an accounting software that offers a variety of features such as invoicing, expense tracking, payroll management, and tax preparation. It enables you to access your financial data from anywhere as long as you have an internet connection. QuickBooks Online also has mobile apps for Android and iOS devices.</p>
+    <h2>Xero</h2>
+    <p>Xero is another popular accounting software that offers similar features to QuickBooks Online. It allows you to manage your finances, track expenses, and create invoices. Xero also provides integrations with over 800 business apps and services.</p>
+    <h2>Integration through API or SDK</h2>
+    <p>Both QuickBooks Online and Xero offer APIs (application programming interfaces) and SDKs (software development kits) that enable integration with other software or services. API is a set of protocols that enables communication between different software systems. SDK, on the other hand, includes libraries, documentation, and tools that allow developers to create applications that can interact with the software.</p>
+    <p>The integration of QuickBooks Online and Xero through API or SDK enables businesses to transfer data between the two platforms automatically. For example, if a business creates an invoice in QuickBooks Online, the data can be automatically synced with Xero without manual entry. This can save time, reduce errors, and improve accuracy.</p>
+    <h2>Problems their integration solves</h2>
+    <p>The integration of QuickBooks Online and Xero can solve several problems for businesses:</p>
+    <ul>
+        <li>Eliminates duplicate data entry - With integration, businesses can avoid manual data entry in both platforms. This can save time and reduce errors.</li>
+        <li>Improves accuracy - Since the data is synced automatically, the chances of errors or discrepancies are reduced.</li>
+        <li>Increases efficiency - Integration enables businesses to work on both platforms simultaneously, which can improve productivity.</li>
+        <li>Provides better insights - When data is synced in real-time, businesses can have better visibility and insights into their financial performance.</li>
+    </ul>
+    <h2>Conclusion</h2>
+    <p>The integration of QuickBooks Online and Xero through API or SDK can offer multiple benefits for businesses. It can reduce manual entry, improve accuracy, increase efficiency, and provide better insights into financial performance. Integrating the two platforms can help businesses manage their finances more effectively and efficiently.</p>
+</div>

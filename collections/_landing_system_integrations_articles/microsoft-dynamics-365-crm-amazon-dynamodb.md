@@ -1,0 +1,25 @@
+---
+permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-dynamodb
+author: Edward Saunders
+title: "Integrating Microsoft Dynamics 365 CRM and Amazon DynamoDB"
+leadhead: "Integrating Microsoft Dynamics 365 CRM and Amazon DynamoDB can bring many benefits to a business like efficient data management, gaining comprehensive insights, and making data-driven decisions"
+leadtext: "With API or SDK integration, businesses can supercharge their data management systems and gain a competitive edge over their competitors."
+image: /assets/images/articles/people-sitting-near-table.webp
+---
+<div class="arttext">	<h1>Integrating Microsoft Dynamics 365 CRM and Amazon DynamoDB</h1>
+	
+	<p>Microsoft Dynamics 365 CRM and Amazon DynamoDB are two great solutions for businesses when it comes to data management. Microsoft Dynamics 365 CRM is a customer relationship management solution while Amazon DynamoDB is a NoSQL database service, both of which can be leveraged for efficient data management in a business environment.</p>
+	
+	<h2>Integration of the two through API or SDK</h2>
+	
+	<p>If a business wants to use both Microsoft Dynamics 365 CRM and Amazon DynamoDB together, the two systems can be integrated through an API or SDK. An API (Application Programming Interface) enables communication between two applications while an SDK (Software Development Kit) is a set of software development tools that enables developers to create applications of a specific software.</p>
+	
+	<h2>Problems their integration solves</h2>
+	
+	<p>Integrating Microsoft Dynamics 365 CRM and Amazon DynamoDB can solve a lot of problems for a business. For example, a business may have customer data stored in both systems but may need to analyze and report on this data in one place. By integrating the two systems, the business can have a holistic view of customers and can make data-driven decisions accurately and efficiently.</p>
+	
+	<h2>Conclusion</h2>
+	
+	<p>Integrating Microsoft Dynamics 365 CRM and Amazon DynamoDB can bring many benefits to a business like efficient data management, gaining comprehensive insights, and making data-driven decisions. With API or SDK integration, businesses can supercharge their data management systems and gain a competitive edge over their competitors.</p>
+	
+</div>
