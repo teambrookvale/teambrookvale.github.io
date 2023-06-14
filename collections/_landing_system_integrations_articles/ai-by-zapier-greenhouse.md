@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/greenhouse
 author: Edward Saunders
 title: "AI by Zapier and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Greenhouse is set to change the HR automation space by making it easier for businesses to manage their recruitment processes"
 leadtext: "The systems can integrate through API or SDK and create automated workflows to help businesses post job adverts, track applications, and other recruitment processes with ease. The platforms integrate with ease and are user-friendly, enabling businesses of all sizes to automate their recruiting processes."
 image: /assets/images/articles/people-sitting-near-table.webp

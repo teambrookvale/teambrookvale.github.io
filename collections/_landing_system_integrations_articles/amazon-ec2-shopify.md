@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/shopify
 author: Edward Saunders
 title: "How Amazon EC2 & Shopify Integration Solves E-commerce Problems"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 & Shopify through API or SDK brings many benefits to e-commerce businesses, including scalability, reliability, and cost-effectiveness"
 leadtext: "It not only enhances website performance but also improves the overall user experience by ensuring the website loads faster, providing a seamless checkout process, and managing inventory efficiently. With Amazon EC2 & Shopify integration, businesses can focus on growth and enjoy peace of mind, knowing that their website performance is in safe hands."
 image: /assets/images/articles/people-sitting-near-table.webp

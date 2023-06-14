@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/ai-by-zapier
 author: Edward Saunders
 title: "GoTo Webinar and AI by Zapier Integration - Solving Problems with Automation"
+topic: System Integration
 leadhead: "GoTo Webinar and AI by Zapier integration offers a powerful and effective way for businesses to automate their webinar workflows, providing a reliable and efficient way to handle their attendee data"
 leadtext: "Businesses can dramatically increase their productivity and engagement by applying key automation decisions and data-driven insights that AI by Zapier provides with the help of connecting GoTo Webinar and make the most of it to better communicate information and achieve business objectives."
 image: /assets/images/articles/people-sitting-near-table.webp

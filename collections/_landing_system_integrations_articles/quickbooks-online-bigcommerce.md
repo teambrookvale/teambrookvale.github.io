@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/bigcommerce
 author: Edward Saunders
 title: "QuickBooks Online & BigCommerce Integration - Solving Workflow Problems"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and BigCommerce through API or SDK enables businesses to enjoy a seamless workflow by reducing manual data entry and errors, increasing accuracy, streamlining order fulfillment, and improving inventory management"
 leadtext: "Businesses can operate more efficiently and effectively with this integration, saving time and resources."
 image: /assets/images/articles/people-sitting-near-table.webp

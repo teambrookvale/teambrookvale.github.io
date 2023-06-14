@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/marketo
 author: Edward Saunders
 title: "MySQL and Marketo Integration for Efficient Business Processes"
+topic: System Integration
 leadhead: "MySQL and Marketo integration is a game-changer for businesses that want to optimize their marketing efforts and streamline their processes"
 leadtext: "By leveraging the power of API or SDK, businesses can easily integrate MySQL and Marketo, and automate their business processes to boost their productivity and efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

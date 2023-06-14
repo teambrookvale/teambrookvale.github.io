@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-cloudwatch
 author: Edward Saunders
 title: "Magento and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Amazon CloudWatch can provide eCommerce businesses with a powerful and effective tool for monitoring and managing their online store in the cloud"
 leadtext: "By leveraging the real-time monitoring and alerting capabilities of CloudWatch, users can ensure high performance, availability, and cost-effectiveness of their eCommerce website. This integration can help businesses gain a competitive advantage and improve their customers' experience."
 image: /assets/images/articles/people-sitting-near-table.webp

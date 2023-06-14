@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/keap-max-classic
 author: Edward Saunders
 title: "Greenhouse and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Keap Max Classic is a smart move for companies looking to improve their recruitment process and sales and marketing effectiveness"
 leadtext: "With APIs and SDKs available, integration is straightforward, and the benefits are clear. Improved efficiency, data accuracy, and team collaboration are just some of the advantages that come with linking these powerful platforms together."
 image: /assets/images/articles/people-sitting-near-table.webp

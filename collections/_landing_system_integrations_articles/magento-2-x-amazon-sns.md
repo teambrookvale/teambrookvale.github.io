@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-sns
 author: Edward Saunders
 title: "Integration of Magento 2.X and Amazon SNS Via API or SDK"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Amazon SNS through API or SDK presents an excellent opportunity for online retailers to enhance their customer experience, reduce cart abandonment rates, and improve their supply chain operations"
 leadtext: "It is an easy and straightforward process that requires minimal coding skills and yields significant benefits for retailers who implement it."
 image: /assets/images/articles/people-sitting-near-table.webp

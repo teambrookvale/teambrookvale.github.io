@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/magento
 author: Edward Saunders
 title: "Shopify and Magento: Integrating the Two"
+topic: System Integration
 leadhead: "Integrating Shopify and Magento through API or SDK can provide businesses with several benefits, such as cost-effectiveness, increased productivity, and easier management of products and inventory"
 leadtext: "While both platforms have their strengths, combining them can enable businesses to take advantage of their most useful features. Whether you are a small business or a large enterprise, integrating Shopify and Magento can help you take your e-commerce store to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

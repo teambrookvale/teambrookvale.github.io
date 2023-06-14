@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/goto-training
 author: Edward Saunders
 title: "Integrating Facebook Custom Audiences and GoTo Training: Solving Problems with API or SDK"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and GoTo Training through API or SDKs is a powerful solution for businesses that are looking to create more effective training programs and target their advertising campaigns to the right audiences"
 leadtext: "By sharing data between these two platforms, businesses can ensure they are delivering the right message to the right people at the right time, resulting in more effective training and higher engagement rates."
 image: /assets/images/articles/people-sitting-near-table.webp

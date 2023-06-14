@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/chargify
 author: Edward Saunders
 title: "Integrating SQL Server and Chargify"
+topic: System Integration
 leadhead: "Integrating SQL Server and Chargify can offer businesses many benefits, including streamlined accounting and billing processes, as well as insights into subscription-based revenue streams"
 leadtext: "By using the API or SDK provided by Chargify, businesses can develop custom integrations that are tailored to their specific needs. Overall, integrating SQL Server and Chargify can help businesses achieve greater efficiency and profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

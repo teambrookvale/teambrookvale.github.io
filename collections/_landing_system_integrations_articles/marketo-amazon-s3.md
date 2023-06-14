@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/amazon-s3
 author: Edward Saunders
 title: "Marketo and Amazon S3 Integration - What You Need to Know"
+topic: System Integration
 leadhead: "In conclusion, integrating Marketo with Amazon S3 should be a priority for any business seeking to optimize its marketing automation and data storage capabilities"
 leadtext: "The integration solves problems regarding data storage, retrieval, and security, and enhances the scalability of Marketo as a marketing automation tool. As a result, businesses can realize greater value from their marketing campaigns and drive revenue growth over time."
 image: /assets/images/articles/people-sitting-near-table.webp

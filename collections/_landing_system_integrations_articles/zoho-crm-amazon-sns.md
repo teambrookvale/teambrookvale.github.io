@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/amazon-sns
 author: Edward Saunders
 title: "Zoho CRM and Amazon SNS Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Zoho CRM and Amazon SNS is a great way for businesses to improve their customer engagement and loyalty"
 leadtext: "By combining the power of these two platforms, businesses can streamline their communication processes, boost their sales, and provide better customer support. If you're looking for ways to enhance your customer relationship management strategy, this integration is worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

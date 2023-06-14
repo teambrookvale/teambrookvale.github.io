@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/snowflake
 author: Edward Saunders
 title: "Shopify and Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Snowflake can help businesses streamline their operations, gain valuable insights, and provide a better customer experience"
 leadtext: "By using these two platforms together, businesses can stay ahead of the competition and succeed in the digital age."
 image: /assets/images/articles/people-sitting-near-table.webp

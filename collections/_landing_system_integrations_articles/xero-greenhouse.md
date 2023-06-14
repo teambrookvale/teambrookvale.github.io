@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/greenhouse
 author: Edward Saunders
 title: "Integrating Xero and Greenhouse - Benefits and Solutions"
+topic: System Integration
 leadhead: "The integration of Xero and Greenhouse through API or SDK is an excellent way to simplify and streamline a company's accounting and human resource management processes"
 leadtext: "It eliminates duplicative tasks and reduces the likelihood of errors, while also reducing the time, resources, and effort associated with maintaining two separate systems. Ultimately, you'll be able to improve efficiency, accuracy, and decision-making, all of which can help your business grow and succeed."
 image: /assets/images/articles/people-sitting-near-table.webp

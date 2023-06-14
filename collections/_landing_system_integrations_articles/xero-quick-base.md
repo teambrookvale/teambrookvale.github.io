@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/quick-base
 author: Edward Saunders
 title: "Xero and Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Quick Base through API or SDK is a smart choice for businesses looking to improve their accounting processes"
 leadtext: "By automating data transfer and providing real-time access to financial data, businesses can save time, reduce errors, and make better informed decisions. If you're using Xero and Quick Base, it's worth exploring their integration options to see how they can benefit your business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/marketo
 author: Edward Saunders
 title: "PayPal and Marketo: The Power of Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Marketo can be a powerful tool for businesses looking to improve their marketing efforts, increase sales, and provide a seamless experience to customers"
 leadtext: "By tracking and analyzing PayPal transaction data within Marketo, businesses can gain valuable insights into their customers' behavior and tailor their marketing efforts accordingly. By integrating PayPal into Marketo landing pages or forms, businesses can provide customers with a seamless purchasing experience that can lead to increased sales and customer satisfaction. If you're looking to take your marketing efforts to the next level, consider integrating PayPal and Marketo today!"
 image: /assets/images/articles/people-sitting-near-table.webp

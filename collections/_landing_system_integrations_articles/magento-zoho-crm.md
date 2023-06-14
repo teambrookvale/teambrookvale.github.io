@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/zoho-crm
 author: Edward Saunders
 title: "How Integration of Magento and Zoho CRM Can Solve Business Problems"
+topic: System Integration
 leadhead: "The integration of Magento and Zoho CRM offers significant benefits to businesses of all sizes"
 leadtext: "It allows them to streamline their sales processes, improve customer engagement and experience, and, ultimately, grow their businesses. By integrating these two platforms through API or SDK, businesses can leverage the power of both and gain a competitive edge in today's market."
 image: /assets/images/articles/people-sitting-near-table.webp

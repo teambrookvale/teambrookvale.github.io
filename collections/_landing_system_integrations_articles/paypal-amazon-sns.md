@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/amazon-sns
 author: Edward Saunders
 title: "Using PayPal and Amazon SNS for Integration: Solving Problems Conveniently"
+topic: System Integration
 leadhead: "In conclusion, the fusion of PayPal and Amazon SNS tools provides e-commerce businesses with a convenient solution for financial transaction notification and record keeping"
 leadtext: "This integration is easy, user-friendly, and provides accuracy and transparency for both businesses and their customers. Furthermore, this integration is readily available through APIs and SDKs, so there should be no excuse for not integrating both tools."
 image: /assets/images/articles/people-sitting-near-table.webp

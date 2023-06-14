@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/keap-max-classic
 author: Edward Saunders
 title: "Integration of Magento 2.X and Keap Max Classic"
+topic: System Integration
 leadhead: "Integrating Magento 2.X and Keap Max Classic through API or SDK can provide businesses with a host of benefits, from improved efficiency to better customer segmentation"
 leadtext: "The integration also helps in reducing errors and saving time. With these benefits, it is clear that integrating the two systems is a smart move for businesses that want to streamline their operations and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/solve-crm
 author: Edward Saunders
 title: "Salesforce and Solve CRM Integration: A Perfect Match"
+topic: System Integration
 leadhead: "In conclusion, the integration of Salesforce and Solve CRM is a perfect match for businesses of all sizes"
 leadtext: "The two platforms complement each other in terms of functionality and integration can help businesses to streamline data management, reduce errors, and improve decision making. If you are planning to improve your business' efficiency and profitability, it’s time to integrate Salesforce and Solve CRM."
 image: /assets/images/articles/people-sitting-near-table.webp

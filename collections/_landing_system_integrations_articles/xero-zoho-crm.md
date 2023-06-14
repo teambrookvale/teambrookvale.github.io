@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/zoho-crm
 author: Edward Saunders
 title: "Xero and Zoho CRM Integration – A Comprehensive Solution"
+topic: System Integration
 leadhead: "Integrating Xero and Zoho CRM is a smart move for any business as it streamlines financial processes, improves data accuracy, and provides a complete view of sales and financial data"
 leadtext: "By enabling businesses to make data-driven decisions, the integration can help you save time and drive more sales."
 image: /assets/images/articles/people-sitting-near-table.webp

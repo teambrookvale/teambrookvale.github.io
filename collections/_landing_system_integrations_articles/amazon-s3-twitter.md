@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/twitter
 author: Edward Saunders
 title: "Integrating Amazon S3 and Twitter to Solve Data Storage and Sharing Problems"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Twitter through API or SDK can provide tremendous benefits for businesses and individuals that require scalable, reliable, and secure data storage and sharing solutions"
 leadtext: "By using this integration, businesses can streamline their data management processes and improve their social media analytics capabilities, ultimately leading to better decision-making and business performance."
 image: /assets/images/articles/people-sitting-near-table.webp

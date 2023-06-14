@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/servicenow
 author: Edward Saunders
 title: "Upwork and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and ServiceNow is a great way to enhance your business operations and take advantage of the benefits of both platforms"
 leadtext: "Whether you're looking to hire freelancers for a specific project or streamline your IT service management, the integration can help you save time, reduce costs, and improve productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

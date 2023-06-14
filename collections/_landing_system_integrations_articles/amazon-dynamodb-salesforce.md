@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/salesforce
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Salesforce - The Solution for Your Data Management"
+topic: System Integration
 leadhead: "Overall, the integration of Amazon DynamoDB and Salesforce is a powerful solution for managing your data and improving your business processes"
 leadtext: "By using these tools together, you can create a data management system that is both efficient and effective, enabling you to make better decisions and achieve your business goals. So if you are looking for a way to streamline your data management processes, then consider integrating Amazon DynamoDB and Salesforce today."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/instagram-lead-ads
 author: Edward Saunders
 title: "Moodle and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "Moodle and Instagram Lead Ads integration can be a game changer for organizations looking to streamline their lead generation process and improve their student enrollment rates"
 leadtext: "With the API or SDK integration, organizations can ensure a seamless transition from lead generation to student enrollment, resulting in a better experience for both educators and students."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/zendesk
 author: Edward Saunders
 title: "Integrating Google BigQuery and Zendesk: A Solution to Streamline Data Management"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Zendesk is a powerful solution to streamline data management and solve problems related to data silos and disparate systems"
 leadtext: "By enabling businesses to combine data from different sources and analyze it in a centralized location, the integration facilitates informed decision-making and helps businesses achieve their goals. Whether it's for analytics or customer support, the integration of these tools is sure to provide value to any business seeking to leverage the power of data."
 image: /assets/images/articles/people-sitting-near-table.webp

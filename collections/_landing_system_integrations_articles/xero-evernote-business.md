@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/evernote-business
 author: Edward Saunders
 title: "Enabling Seamless Business Management with Xero and Evernote Business Integration"
+topic: System Integration
 leadhead: "Integrating Xero and Evernote Business is a critical investment for any small business owner or manager"
 leadtext: "It not only creates efficient workflows but centralizes business management, increases accuracy in accounting management, and simplifies the sharing of project information, making it easier to stay on top of projects and financial management concerns."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/google-groups
 author: Edward Saunders
 title: "Integrating PayPal and Google Groups"
+topic: System Integration
 leadhead: "Integrating PayPal and Google Groups through API or SDK is a great way to improve the user experience of group discussions"
 leadtext: "It provides a secure and easy payment method for buying and selling goods and services within the group, eliminating the need to switch between different apps or websites. This integration enables seamless transactions, saving time and simplifying the process."
 image: /assets/images/articles/people-sitting-near-table.webp

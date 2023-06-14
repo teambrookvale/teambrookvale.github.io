@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/bamboohr
 author: Edward Saunders
 title: "BigCommerce and BambooHR Integration"
+topic: System Integration
 leadhead: "Integration between BigCommerce and BambooHR is an excellent example of how e-commerce and HR processes can work together to create a seamless workflow"
 leadtext: "By building custom integrations through API or SDK, businesses can automate various workflows, reduce manual data entry, shorten onboarding time, and provide employees with a single access point. Ultimately, this leads to increased efficiency, better decision-making, and a more productive workforce."
 image: /assets/images/articles/people-sitting-near-table.webp

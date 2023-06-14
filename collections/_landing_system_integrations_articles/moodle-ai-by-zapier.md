@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/ai-by-zapier
 author: Edward Saunders
 title: "Moodle and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and AI by Zapier is an insightful approach to learning management"
 leadtext: "It can help educators to automate routine tasks, personalize learning, and simplify complex workflows. If you are an educator, it is high time to leverage the benefits of their integration and enhance the learning experience of your students."
 image: /assets/images/articles/people-sitting-near-table.webp

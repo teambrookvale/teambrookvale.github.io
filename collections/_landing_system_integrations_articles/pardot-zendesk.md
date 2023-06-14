@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/zendesk
 author: Edward Saunders
 title: "Integrating Pardot and Zendesk"
+topic: System Integration
 leadhead: "The integration of Pardot and Zendesk is an effective solution for businesses that want to maximize their marketing and customer service efforts"
 leadtext: "By automating data synchronization and providing access to relevant information, businesses can provide better customer experiences and build stronger relationships with their clients. If you are using both platforms separately, you may want to consider exploring the possibilities that their integration can bring to your business."
 image: /assets/images/articles/people-sitting-near-table.webp

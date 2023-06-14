@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/namely
 author: Edward Saunders
 title: "Integrating GoTo Training and Namely"
+topic: System Integration
 leadhead: "Integrating GoTo Training and Namely is a great idea for HR managers who want to streamline their training process and keep all their employee data in one place"
 leadtext: "By using API or SDK to integrate the two software systems, managers can save time, ensure data accuracy, and make informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

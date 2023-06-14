@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/bamboohr
 author: Edward Saunders
 title: "Integration of Instagram Lead Ads and BambooHR"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and BambooHR is a great example of how different systems can be integrated to improve efficiency and productivity for businesses"
 leadtext: "By streamlining lead generation and automating HR processes, businesses can save time, increase accuracy, and focus on growth and development."
 image: /assets/images/articles/people-sitting-near-table.webp

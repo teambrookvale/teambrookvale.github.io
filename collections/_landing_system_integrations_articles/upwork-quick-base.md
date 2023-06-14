@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/quick-base
 author: Edward Saunders
 title: "Upwork and Quick Base Integration"
+topic: System Integration
 leadhead: "Integrating Upwork with Quick Base is a smart move for any business looking to improve its workflows and increase productivity"
 leadtext: "By automating tasks and transferring data between the two platforms, you can save time and money while also gaining valuable insights into your business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

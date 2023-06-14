@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/amazon-s3
 author: Edward Saunders
 title: "AWS Lambda and Amazon S3 Integration Explained"
+topic: System Integration
 leadhead: "Integrating AWS Lambda and Amazon S3 enables businesses to take advantage of a highly scalable, cost-effective, and efficient cloud computing system"
 leadtext: "The combination provides businesses with the flexibility to design a system that fits their specific needs while also being able to handle multiple tasks at the same time. With the elimination of servers and automatic scaling of resources, businesses can enjoy cost savings and improved efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

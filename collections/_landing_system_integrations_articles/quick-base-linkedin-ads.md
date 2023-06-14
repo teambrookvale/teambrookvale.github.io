@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/linkedin-ads
 author: Edward Saunders
 title: "Quick Base and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Quick Base and LinkedIn Ads is a powerful combination for businesses looking to streamline their data management and advertising efforts"
 leadtext: "By automating the process of creating and managing LinkedIn Ads campaigns based on the data in their Quick Base application, businesses can save time, reduce errors, and improve their ROI. Additionally, by using Quick Base to track and analyze their LinkedIn Ads campaign data, businesses can make data-driven decisions to optimize their campaigns and improve their results. Overall, this integration is a great example of how two powerful tools can come together to create a more efficient and effective process for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/xero
 author: Edward Saunders
 title: "Marketo and Xero Integration: A Powerful Combination"
+topic: System Integration
 leadhead: "The integration of Marketo and Xero is a powerful combination that helps businesses streamline their operations, improve customer insights, and make better informed decisions"
 leadtext: "With automatic syncing of lead information and real-time visibility into financial health, businesses can save time, reduce errors, and improve cash flow management. So, if you're looking to take your business to the next level, consider integrating Marketo and Xero today!"
 image: /assets/images/articles/people-sitting-near-table.webp

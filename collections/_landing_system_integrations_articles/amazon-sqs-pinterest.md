@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/pinterest
 author: Edward Saunders
 title: "Integration of Amazon SQS and Pinterest through API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Pinterest through an API or SDK can provide a number of benefits for businesses and individuals"
 leadtext: "It can make it easier to automate social media posting and increase the reach of your content. With the rise of social media and e-commerce, this integration can be a valuable tool for businesses looking to expand their online presence."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/keap-max-classic
 author: Edward Saunders
 title: "Amazon CloudFront and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Keap Max Classic can provide businesses with several benefits, including improved content delivery performance, better security, and greater insight into content delivery performance"
 leadtext: "The integration can be achieved through API or SDK and can help businesses to streamline their operations, improve their customer experience, and increase their revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

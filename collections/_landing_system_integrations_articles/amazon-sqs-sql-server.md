@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/sql-server
 author: Edward Saunders
 title: "Amazon SQS and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and SQL Server streamlines data communication, resulting in a more resilient, scalable, and flexible system"
 leadtext: "Developers can explore the available API and SDK options to suit their use cases and leverage Amazon SQS's extensive messaging capability to enhance communication efficiently. Additionally, the integration of these two platforms automates processes, increases accuracy, and reduces manual processes, which boosts productivity and minimizes human error."
 image: /assets/images/articles/people-sitting-near-table.webp

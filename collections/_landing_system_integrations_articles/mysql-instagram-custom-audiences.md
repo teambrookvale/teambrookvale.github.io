@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/instagram-custom-audiences
 author: Edward Saunders
 title: "MySQL and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and Instagram Custom Audiences provides advertisers with a powerful tool for reaching their target audience and driving more conversions"
 leadtext: "By using the Instagram API or SDK, developers can create custom audiences based on a wide range of criteria, from user behavior to demographic information. This, in turn, enables advertisers to create highly targeted campaigns that yield better results. With the ability to track results and optimize campaigns, the integration of MySQL and Instagram Custom Audiences is a must-have for any business looking to succeed in today's digital landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

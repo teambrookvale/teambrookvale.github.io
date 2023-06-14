@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/bigcommerce
 author: Edward Saunders
 title: "Integrating LinkedIn Ads with BigCommerce"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads with BigCommerce through API or SDK offers many benefits for businesses of all types and sizes"
 leadtext: "By streamlining their advertising efforts and improving their targeting, businesses can see a significant improvement in their ROI. With the ability to track conversions and target the right customers, businesses can make their advertising spend go further and achieve greater success in their online marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

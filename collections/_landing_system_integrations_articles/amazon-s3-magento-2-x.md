@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/magento-2-x
 author: Edward Saunders
 title: "Amazon S3 & Magento 2: A Perfect Integration"
+topic: System Integration
 leadhead: "Integrating Amazon S3 with Magento 2 provides businesses with an effective way to store and manage large amounts of data securely and efficiently"
 leadtext: "With S3's scalability, security, reliability, and cost-effectiveness, businesses can build e-commerce websites that can handle the demands of today's digital marketplace. Magento 2's APIs, coupled with S3's SDK, make it easy for developers to build custom integrations between the two systems and achieve their business goals seamlessly."
 image: /assets/images/articles/people-sitting-near-table.webp

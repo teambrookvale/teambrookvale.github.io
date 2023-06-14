@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/instagram-custom-audiences
 author: Edward Saunders
 title: "SugarCRM 7+ and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Instagram Custom Audiences through their APIs or SDKs can be a game-changer for businesses"
 leadtext: "It can help improve their targeted advertising, conversions, and marketing processes. If you're using SugarCRM 7+, consider integrating it with Instagram Custom Audiences to take your marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

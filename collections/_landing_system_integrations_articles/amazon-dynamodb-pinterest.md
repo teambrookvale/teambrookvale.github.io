@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/pinterest
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB with Pinterest Using API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Pinterest through API or SDK brings a lot of benefits to both platforms, and provides new opportunities for developers to create innovative solutions"
 leadtext: "With the ability to store and retrieve data quickly, businesses can leverage the power of Pinterest to expand their reach and engage with customers more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

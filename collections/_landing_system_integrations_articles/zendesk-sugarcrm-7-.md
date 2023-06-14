@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/sugarcrm-7-
 author: Edward Saunders
 title: "Zendesk and SugarCRM 7+ Integration"
+topic: System Integration
 leadhead: "Integrating Zendesk and SugarCRM 7+ can provide businesses with a more efficient way to manage customer interactions and relationships"
 leadtext: "With the integration, businesses can streamline communication between customer service and sales teams, reduce errors, and provide better customer experiences. The use of APIs and SDKs make this integration possible, and businesses of all sizes can implement this integration to improve their workflows."
 image: /assets/images/articles/people-sitting-near-table.webp

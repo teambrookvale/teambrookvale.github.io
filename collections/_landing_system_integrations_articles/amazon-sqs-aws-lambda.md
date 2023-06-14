@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/aws-lambda
 author: Edward Saunders
 title: "Integrating Amazon SQS and AWS Lambda"
+topic: System Integration
 leadhead: "Amazon SQS and AWS Lambda are two of the most powerful services offered by AWS"
 leadtext: "By integrating these services, we can design a highly scalable, resilient, and cost-efficient application architecture. We can achieve this by decoupling our application components and handling the surges in traffic and load effortlessly. The integration process is straightforward and can be done in a few simple steps."
 image: /assets/images/articles/people-sitting-near-table.webp

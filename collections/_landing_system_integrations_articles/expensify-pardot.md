@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/pardot
 author: Edward Saunders
 title: "Expensify and Pardot Integration: Streamlining Your Business Operations"
+topic: System Integration
 leadhead: "In summary, integrating Expensify and Pardot can streamline various business operations and offer valuable insights that can be used to develop targeted marketing campaigns"
 leadtext: "This integration eliminates manual data entry and provides a wealth of data that can facilitate faster and more effective marketing campaign development. If you're currently using Expensify and Pardot, consider integrating them to optimize your business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

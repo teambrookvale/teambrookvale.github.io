@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/google-ads
 author: Edward Saunders
 title: "Integrating Google Ads with Chargify through API or SDK"
+topic: System Integration
 leadhead: "Integrating Chargify with Google Ads through API or SDK can greatly benefit businesses by automating subscription billing and advertising efforts, providing a more comprehensive view of business operations, and improving overall efficiency"
 leadtext: "By using the API or SDK provided by Chargify and Google Ads, businesses can fully leverage the potential of these two powerful software platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

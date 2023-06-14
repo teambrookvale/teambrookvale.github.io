@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/servicenow
 author: Edward Saunders
 title: "WHMCS and ServiceNow Integration: A Winning Combination"
+topic: System Integration
 leadhead: "The integration of WHMCS and ServiceNow via APIs or SDKs results in improved business processes, better customer service, and increased efficiency"
 leadtext: "By using the two systems together, businesses can focus on their core objectives and not worry about minor IT processes. Investing in the integration of WHMCS and ServiceNow is a step in the right direction for businesses looking to enhance their IT support capabilities."
 image: /assets/images/articles/people-sitting-near-table.webp

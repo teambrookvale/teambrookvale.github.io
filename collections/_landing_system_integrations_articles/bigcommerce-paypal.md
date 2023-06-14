@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/paypal
 author: Edward Saunders
 title: "BigCommerce and PayPal Integration"
+topic: System Integration
 leadhead: "BigCommerce and PayPal integration is a must-have for businesses that want to provide their customers with a secure, efficient, and seamless online shopping experience"
 leadtext: "By using the API or SDK, businesses can quickly integrate PayPal into their online store, improving customer satisfaction and boosting sales."
 image: /assets/images/articles/people-sitting-near-table.webp

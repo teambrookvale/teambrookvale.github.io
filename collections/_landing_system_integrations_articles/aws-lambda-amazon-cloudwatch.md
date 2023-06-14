@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/amazon-cloudwatch
 author: Edward Saunders
 title: "AWS Lambda and Amazon CloudWatch - A Powerful Combination"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Amazon CloudWatch provides developers with a powerful set of tools to monitor, manage, and optimize their serverless applications"
 leadtext: "With real-time metrics, logs, and alarms, developers can gain visibility into their applications and quickly address issues before they become critical. By leveraging these tools, developers can build more responsive, reliable, and cost-effective solutions."
 image: /assets/images/articles/people-sitting-near-table.webp

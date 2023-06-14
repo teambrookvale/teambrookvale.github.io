@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/upwork
 author: Edward Saunders
 title: "Integrating Pardot and Upwork: A Solution for Streamlining Marketing Efforts"
+topic: System Integration
 leadhead: "Integrating Pardot and Upwork can help businesses streamline their marketing efforts by automating tasks and data exchange"
 leadtext: "It saves time, increases efficiency, and improves accuracy. This integration is just one example of how different software tools can work together to create a more unified and productive environment."
 image: /assets/images/articles/people-sitting-near-table.webp

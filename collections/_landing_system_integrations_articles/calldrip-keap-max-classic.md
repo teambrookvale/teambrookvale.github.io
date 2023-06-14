@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/keap-max-classic
 author: Edward Saunders
 title: "Calldrip and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Keap Max Classic is a solution for businesses to automate lead response times while maintaining personalized customer outreach"
 leadtext: "The integration solves the problems of leads falling through the cracks and data fragmentation, ultimately creating a more efficient and effective workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

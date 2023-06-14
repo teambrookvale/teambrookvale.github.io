@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of PayPal and Amazon CloudFront"
+topic: System Integration
 leadhead: "The integration of PayPal and Amazon CloudFront through API and SDK provides businesses with a range of benefits that improve payment processing efficiency and content delivery speed"
 leadtext: "As such, businesses and individuals looking to upscale their online presence and reach a wider audience should consider integrating the two platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

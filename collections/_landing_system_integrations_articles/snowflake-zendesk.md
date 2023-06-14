@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/zendesk
 author: Edward Saunders
 title: "Snowflake and Zendesk Integration through API or SDK"
+topic: System Integration
 leadhead: "The integration of Snowflake and Zendesk through API or SDK can unlock a wide range of benefits for companies across different industries"
 leadtext: "By enabling data-driven decision making, improving customer satisfaction, and increasing efficiency and productivity, this integration can help companies stay competitive and provide better customer service experiences. Whether you are a small startup or a large enterprise, integrating these two platforms can be a smart business decision that pays dividends in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

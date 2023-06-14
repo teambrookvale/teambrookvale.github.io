@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "How Google Ads and Microsoft Dynamics 365 CRM Integration Benefits Your Business"
+topic: System Integration
 leadhead: "The integration of Google Ads and Microsoft Dynamics 365 CRM through API or SDK is a powerful tool for businesses looking to optimize their advertising and customer relationship management efforts"
 leadtext: "By automating their data entry and tracking their advertising performance and customer interactions in one place, businesses can improve their ROI and provide exceptional customer experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

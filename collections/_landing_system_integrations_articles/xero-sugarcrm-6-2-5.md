@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Xero and SugarCRM Integration with API or SDK"
+topic: System Integration
 leadhead: "The integration of Xero and SugarCRM through API or SDK offers a more streamlined approach to managing business processes"
 leadtext: "By sharing information between the two systems, businesses can reduce errors, improve customer service, and increase efficiency. For small businesses looking for a cost-effective and efficient way to manage their financial and customer data, integrating Xero and SugarCRM can be a great solution."
 image: /assets/images/articles/people-sitting-near-table.webp

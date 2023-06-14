@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/ai-by-zapier
 author: Edward Saunders
 title: "Facebook Lead Ads and AI by Zapier: A Match Made in Marketing Heaven"
+topic: System Integration
 leadhead: "By combining the power of Facebook Lead Ads with the automation capabilities of AI by Zapier, businesses can take their marketing efforts to the next level"
 leadtext: "The integration of these two tools streamlines lead generation and management, freeing up valuable time and resources that can be used to focus on other aspects of your marketing strategy. With the right API or SDK integration, the possibilities are endless."
 image: /assets/images/articles/people-sitting-near-table.webp

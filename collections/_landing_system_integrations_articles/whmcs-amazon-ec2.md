@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-ec2
 author: Edward Saunders
 title: "Integrating WHMCS and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of WHMCS and Amazon EC2 presents web hosting providers with numerous benefits"
 leadtext: "With the ability to manage Amazon EC2 instances easily and automate business processes, web hosting providers can focus on delivering quality service to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

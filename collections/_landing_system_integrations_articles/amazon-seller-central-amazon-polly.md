@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/amazon-polly
 author: Edward Saunders
 title: "Amazon Seller Central and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Amazon Polly is a game-changer for sellers who want to improve their communication with customers, increase sales, and streamline their operations"
 leadtext: "By leveraging the benefits of TTS technology, sellers can create a more engaging and inclusive shopping experience that caters to a wider audience. If you're an Amazon seller, consider integrating Amazon Polly into your Seller Central account and see the difference it can make."
 image: /assets/images/articles/people-sitting-near-table.webp

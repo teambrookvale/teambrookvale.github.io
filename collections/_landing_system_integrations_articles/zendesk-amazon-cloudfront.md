@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/amazon-cloudfront
 author: Edward Saunders
 title: "Zendesk and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Zendesk and Amazon CloudFront can lead to better customer support and faster content delivery with improved security"
 leadtext: "Businesses can benefit significantly from this integration by providing a better customer experience and reducing server load and page load times."
 image: /assets/images/articles/people-sitting-near-table.webp

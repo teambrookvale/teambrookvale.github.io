@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/linkedin-ads
 author: Edward Saunders
 title: "BigCommerce and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of BigCommerce and LinkedIn Ads is a powerful tool for e-commerce businesses that want to expand their reach and optimize their advertising campaigns"
 leadtext: "By leveraging the features of both platforms, businesses can create more effective campaigns that drive more conversions and revenue. If you're an e-commerce business owner, it's definitely worth considering integrating these two platforms and taking advantage of the benefits that it can bring."
 image: /assets/images/articles/people-sitting-near-table.webp

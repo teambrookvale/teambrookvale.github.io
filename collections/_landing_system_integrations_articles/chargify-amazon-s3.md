@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-s3
 author: Edward Saunders
 title: "Chargify and Amazon S3 Integration"
+topic: System Integration
 leadhead: "Ultimately, integrating Chargify with Amazon S3 is a smart move for any business that needs to store and manage large amounts of customer data"
 leadtext: "Whether you're dealing with images, video, or audio files, Amazon S3 provides a reliable and scalable way to store and access that data. By integrating it with Chargify, you can streamline your operations and focus on growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

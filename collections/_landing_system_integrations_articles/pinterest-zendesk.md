@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/zendesk
 author: Edward Saunders
 title: "The Benefits of Integrating Pinterest and Zendesk"
+topic: System Integration
 leadhead: "The integration between Pinterest and Zendesk is a powerful tool for businesses"
 leadtext: "By streamlining customer service inquiries and providing quick responses, businesses can offer a better customer experience, which can result in increased customer loyalty and satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

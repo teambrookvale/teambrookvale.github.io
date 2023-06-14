@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/instagram-custom-audiences
 author: Edward Saunders
 title: "Snowflake and Instagram Custom Audience Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Instagram Custom Audiences is an effective way for businesses to leverage their data and create effective advertising campaigns"
 leadtext: "By integrating Snowflake's cloud-based data warehousing platform with Instagram Custom Audiences, businesses can create targeted campaigns based on specific customer segments, making their marketing efforts more efficient. This integration leads to increased customer engagement, higher conversions, and ultimately better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

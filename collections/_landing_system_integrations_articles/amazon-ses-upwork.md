@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/upwork
 author: Edward Saunders
 title: "Integration of Amazon SES and Upwork through API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Upwork through API or SDK can bring many benefits to businesses that rely on email communication with their Upwork clients"
 leadtext: "It allows for a more efficient, automated, and scalable approach to email marketing and transactional messaging, while minimizing the risk of spam or non-compliance. With the growing popularity of remote work and freelancing, this integration can be a valuable asset for businesses looking to streamline their online communication and improve their client relationships."
 image: /assets/images/articles/people-sitting-near-table.webp

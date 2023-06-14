@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/namely
 author: Edward Saunders
 title: "Expensify and Namely Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Namely through API or SDK can provide many benefits to businesses"
 leadtext: "By automating the transfer of data between the two platforms, businesses can save time, reduce the risk of errors, and create a unified system for managing their data. If your business uses Expensify and Namely, consider exploring the option of integrating the two platforms to streamline your processes."
 image: /assets/images/articles/people-sitting-near-table.webp

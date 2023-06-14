@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/amazon-polly
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Amazon Polly"
+topic: System Integration
 leadhead: "Integrating QuickBooks Online and Amazon Polly is a great way for businesses to improve their communication with visually impaired clients or those who prefer speech-based communication"
 leadtext: "The integration solves the problem of businesses having to manually read out financial data, saving time and improving accuracy. By following the simple steps outlined above, businesses can start generating speech-based financial documents quickly and easily."
 image: /assets/images/articles/people-sitting-near-table.webp

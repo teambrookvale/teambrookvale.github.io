@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/salesforce
 author: Edward Saunders
 title: "Integrating SugarCRM 7+ and Salesforce for Better Business Efficiency"
+topic: System Integration
 leadhead: "Integrating SugarCRM 7+ and Salesforce can help businesses improve their sales and marketing processes, eliminate duplicate data entry, and increase collaboration between teams"
 leadtext: "With the right integration tool, businesses can easily connect the two platforms and start reaping the benefits of a more streamlined CRM strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

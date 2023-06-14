@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/quick-base
 author: Edward Saunders
 title: "QuickBooks Online and Quick Base Integration"
+topic: System Integration
 leadhead: "Integrating QuickBooks Online and Quick Base through API or SDK can provide businesses with a seamless experience by eliminating manual entry and providing real-time access to financial and operational data"
 leadtext: "This integration can help businesses make informed decisions and take actions that can positively impact their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

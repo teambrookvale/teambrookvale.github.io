@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/twitter
 author: Edward Saunders
 title: "Greenhouse and Twitter API Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Greenhouse and Twitter through API or SDK can provide several benefits for businesses"
 leadtext: "It can help businesses reach a wider audience, streamline the recruitment process, and save time and effort.
 		Therefore, businesses should consider integrating the two platforms to optimize their recruitment efforts and stay ahead in the competition."

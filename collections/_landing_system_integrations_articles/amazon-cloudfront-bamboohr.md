@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/bamboohr
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and BambooHR"
+topic: System Integration
 leadhead: "Overall, the integration of Amazon CloudFront and BambooHR through API or SDK can help organizations to streamline their HR processes and provide a better experience to their employees"
 leadtext: "By allowing for real-time updates and providing a fast and reliable service, the integration can help HR managers to manage employee data more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/zendesk
 author: Edward Saunders
 title: "Integrating Amazon S3 and Zendesk for a Complete Customer Support Solution"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon S3 and Zendesk through API or SDK provides businesses with a complete customer support solution"
 leadtext: "This integration ensures that support teams can easily attach necessary files and documents, enabling them to resolve issues quickly and efficiently. It also provides a secure, centralized repository for support-related files and documents. With this integration, businesses can increase their productivity, improve their customer service, and ultimately enhance their brand's reputation."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/paypal
 author: Edward Saunders
 title: "Integrating Amazon CloudFront and PayPal"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront and PayPal is a great way for businesses to improve their user experience while ensuring the security and speed of their online transactions"
 leadtext: "With this integration, they can provide faster page load times, better content delivery, and secure payment options for their customers. Take advantage of the benefits of these two services and integrate them today."
 image: /assets/images/articles/people-sitting-near-table.webp

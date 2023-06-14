@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/upwork
 author: Edward Saunders
 title: "Integration of Snowflake and Upwork"
+topic: System Integration
 leadhead: "In conclusion, the integration of Snowflake and Upwork through API or SDK offers businesses a great solution for managing their data and workforce"
 leadtext: "It enables them to make better decisions based on insights from their data while streamlining their processes to manage their workforce better. If you're a business that uses Snowflake and Upwork, it's worth exploring their integration and the benefits it offers for your operations and analysis."
 image: /assets/images/articles/people-sitting-near-table.webp

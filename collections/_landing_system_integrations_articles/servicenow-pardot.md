@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/pardot
 author: Edward Saunders
 title: "How Integration of ServiceNow and Pardot through API or SDK Solves Problems"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Pardot through API or SDK is highly beneficial for businesses as it streamlines data processes, saves time, reduces errors, and improves overall productivity"
 leadtext: "To fully leverage the benefits of this integration, businesses must make sure to choose a reliable and experienced integration partner."
 image: /assets/images/articles/people-sitting-near-table.webp

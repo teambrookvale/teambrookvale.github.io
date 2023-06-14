@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/expensify
 author: Edward Saunders
 title: "Integrating Pinterest and Expensify for a Better Experience"
+topic: System Integration
 leadhead: "Integrating Pinterest and Expensify through API or SDK can enhance the user experience of both applications"
 leadtext: "The integration solves several problems by providing users with an integrated platform for managing financial data and visual content. Developers can take advantage of the tools provided by both applications to create more innovative and efficient software."
 image: /assets/images/articles/people-sitting-near-table.webp

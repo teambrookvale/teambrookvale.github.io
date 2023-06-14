@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/magento
 author: Edward Saunders
 title: "Facebook Lead Ads and Magento Integration"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads with Magento through API or SDK is a smart move for businesses looking to streamline their lead capture process and improve their sales"
 leadtext: "By leveraging the power of social media marketing through Facebook Lead Ads and the e-commerce capabilities of Magento, businesses can stay ahead of the curve and reach more potential customers online."
 image: /assets/images/articles/people-sitting-near-table.webp

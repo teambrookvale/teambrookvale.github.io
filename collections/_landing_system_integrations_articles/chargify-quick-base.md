@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/quick-base
 author: Edward Saunders
 title: "How Chargify and Quick Base Integration Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Chargify and Quick Base provides businesses with a powerful toolset that can help them solve many business problems"
 leadtext: "By automating subscription billing and custom application development, businesses can streamline their workflows, reduce manual errors, and gain valuable insights into their performance metrics. We recommend that businesses consider integrating Chargify and Quick Base to unlock these benefits and improve their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

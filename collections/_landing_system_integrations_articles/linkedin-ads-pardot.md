@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/pardot
 author: Edward Saunders
 title: "Benefits of Integrating LinkedIn Ads and Pardot"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads and Pardot can provide many benefits for your business, including improved targeting, lead nurturing, ad performance, and ROI"
 leadtext: "Take advantage of the LinkedIn Ads API and Pardot SDK to integrate the two and start seeing the results today."
 image: /assets/images/articles/people-sitting-near-table.webp

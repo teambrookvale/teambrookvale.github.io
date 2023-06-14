@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/zoho-crm
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and Zoho CRM"
+topic: System Integration
 leadhead: "In conclusion, integrating LinkedIn Ads and Zoho CRM through API or SDK is a powerful tool for businesses looking to increase their advertising and sales effectiveness"
 leadtext: "This integration not only allows businesses to target the right audiences, but also to automate their lead generation and follow-up processes, and track the performance of their advertising campaigns more efficiently. With this integration, businesses can save time, increase their chances of converting leads into customers, and ultimately grow their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

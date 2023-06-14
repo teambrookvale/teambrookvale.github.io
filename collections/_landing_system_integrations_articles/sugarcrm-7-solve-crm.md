@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/solve-crm
 author: Edward Saunders
 title: "SugarCRM 7+ and Solve CRM Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Solve CRM is a valuable investment for businesses looking to improve their CRM efforts"
 leadtext: "The integration enables businesses to consolidate their customer data, streamline their workflows, and optimize their customer support efforts. Whether businesses choose to integrate the two platforms through API or SDK, they are guaranteed to reap the benefits of a powerful and robust CRM system."
 image: /assets/images/articles/people-sitting-near-table.webp

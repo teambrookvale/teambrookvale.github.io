@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/ai-by-zapier
 author: Edward Saunders
 title: "BigCommerce and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of BigCommerce and AI by Zapier is a powerful tool for businesses looking to streamline their operations and increase efficiency"
 leadtext: "By automating tasks and workflows, businesses can save time and resources and focus on growing their business. With the API or SDK integration, businesses can easily customize their integration to meet their specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

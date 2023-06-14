@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/pinterest
 author: Edward Saunders
 title: "Integration of GoTo Training and Pinterest"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Pinterest has significant benefits for both businesses and users"
 leadtext: "It offers a marketing opportunity for businesses looking to promote their courses, and it provides a convenient learning experience for users. The integration can be easily achieved through the API or SDK provided by both platforms. If you're a business looking to market your training courses or a user interested in learning new things, the integration of GoTo Training and Pinterest is something you should consider."
 image: /assets/images/articles/people-sitting-near-table.webp

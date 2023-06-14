@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-ec2
 author: Edward Saunders
 title: "Integration of Shopify and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of Shopify and Amazon EC2 is a powerful combination that offers businesses scalability, reliability, and efficiency"
 leadtext: "With the use of API or SDK, businesses can easily connect their Shopify stores with Amazon EC2 and enjoy the benefits of cloud computing. By integrating the two systems, businesses can focus on what they do best - selling their products and services online."
 image: /assets/images/articles/people-sitting-near-table.webp

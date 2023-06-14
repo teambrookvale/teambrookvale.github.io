@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/amazon-ses
 author: Edward Saunders
 title: "Integrating AI by Zapier and Amazon SES"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Amazon SES is a powerful tool for businesses looking to automate their email communications"
 leadtext: "By integrating these two platforms, you can streamline your email campaigns, save time and effort, and increase the efficiency of your business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/keap-max-classic
 author: Edward Saunders
 title: "MySQl and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and Keap Max Classic offers businesses a comprehensive solution for managing their customer data"
 leadtext: "By eliminating manual data entry and providing a more comprehensive view of customer data, businesses can make more informed decisions about their marketing and sales strategies. Whether you choose to integrate your platforms through API or SDK, the integration is a must-have for businesses looking to grow their customer base and drive sales."
 image: /assets/images/articles/people-sitting-near-table.webp

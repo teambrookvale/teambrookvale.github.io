@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/google-ads
 author: Edward Saunders
 title: "Integration of QuickBooks Online and Google Ads"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Google Ads is a powerful combination that can help businesses make data-driven decisions and achieve better ad results"
 leadtext: "The use of API or SDK allows businesses to seamlessly integrate financial data into ad campaigns, target specific audiences and manage campaigns with ease. Therefore, businesses that are serious about online advertising should consider integrating QuickBooks Online and Google Ads."
 image: /assets/images/articles/people-sitting-near-table.webp

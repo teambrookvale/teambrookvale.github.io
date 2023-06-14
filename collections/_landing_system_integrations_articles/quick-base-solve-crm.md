@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/solve-crm
 author: Edward Saunders
 title: "Quick Base and Solve CRM Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Quick Base and Solve CRM is a great way for businesses to streamline their workflows, eliminate data silos, and improve collaboration between teams"
 leadtext: "By using Quick Base's API or SDK, businesses can easily integrate the two platforms and start reaping the benefits of a streamlined workflow. Whether you're a small business or a large enterprise, integrating Quick Base and Solve CRM is a smart investment that will pay off in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

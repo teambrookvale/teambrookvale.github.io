@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/google-ads
 author: Edward Saunders
 title: "Integration of SQL Server and Google Ads - Benefits and Overview"
+topic: System Integration
 leadhead: "Integrating SQL Server with Google Ads through API or SDK provides tremendous opportunities for businesses"
 leadtext: "It enables businesses to extract and analyze data from their SQL Server databases and use it to create more targeted and effective ad campaigns. The integration reduces the chances of data errors and increases efficiency, thereby leading to increased revenue. Overall, the integration of SQL Server and Google Ads is a win-win situation for businesses looking to enhance their advertising efforts and better leverage their data."
 image: /assets/images/articles/people-sitting-near-table.webp

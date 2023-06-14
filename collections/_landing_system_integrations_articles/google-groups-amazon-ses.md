@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/amazon-ses
 author: Edward Saunders
 title: "Google Groups and Amazon SES Integration"
+topic: System Integration
 leadhead: "The integration of Google Groups and Amazon SES is a powerful solution for businesses and organizations looking to improve their communication and email delivery capabilities"
 leadtext: "It offers a range of benefits, including improved delivery rates, reduced chances of emails being marked as spam, and cost-effective email delivery. With the use of API or SDK, businesses can seamlessly integrate these two platforms and ensure that their messages are delivered to their intended recipients."
 image: /assets/images/articles/people-sitting-near-table.webp

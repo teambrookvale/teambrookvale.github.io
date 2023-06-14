@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/chargify
 author: Edward Saunders
 title: "MySQL and Chargify Integration"
+topic: System Integration
 leadhead: "Integrating MySQL and Chargify through an API or SDK is a great way to automate common subscription management tasks"
 leadtext: "This integration saves time and reduces the risk of errors. By automating billing and handling failed payments, you can focus on growing your business and providing the best customer experience possible."
 image: /assets/images/articles/people-sitting-near-table.webp

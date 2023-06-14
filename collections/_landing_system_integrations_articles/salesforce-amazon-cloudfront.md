@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Salesforce with Amazon CloudFront"
+topic: System Integration
 leadhead: "The integration of Salesforce with Amazon CloudFront is a powerful combination that provides businesses with the functionality they need to improve customer interactions and data management"
 leadtext: "The ability to deliver personalized content faster and more efficiently ultimately leads to customer satisfaction while enabling businesses to make more informed decisions based on data insights."
 image: /assets/images/articles/people-sitting-near-table.webp

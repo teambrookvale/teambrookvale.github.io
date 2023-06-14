@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/facebook-custom-audiences
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Facebook Custom Audiences is a powerful solution that can help businesses optimize their ad campaigns and reach their target audiences with precision"
 leadtext: "By using these tools together, businesses can achieve better ad performance, increased ROI, and ultimately, business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

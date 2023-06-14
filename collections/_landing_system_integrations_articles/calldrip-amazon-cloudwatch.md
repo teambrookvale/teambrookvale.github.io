@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-cloudwatch
 author: Edward Saunders
 title: "Calldrip and Amazon CloudWatch Integration - Benefits and Advantages"
+topic: System Integration
 leadhead: "The integration of Calldrip and Amazon CloudWatch offers numerous benefits and advantages for businesses that want to improve their lead management, optimize their applications, and gain insights into real-time data"
 leadtext: "If you're interested in integrating these two solutions, make sure to consult with a trusted cloud service provider to ensure a smooth and successful integration."
 image: /assets/images/articles/people-sitting-near-table.webp

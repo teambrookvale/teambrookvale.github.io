@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/mysql
 author: Edward Saunders
 title: "Integration of Snowflake and MySQL"
+topic: System Integration
 leadhead: "Integrating Snowflake and MySQL through API or SDK offers an effective solution to common data management and analytics problems"
 leadtext: "By leveraging the strengths of both systems, businesses can improve their data processing, storage, and reporting capabilities. They can also improve data accuracy and consistency, streamline processing and analysis, and make more informed business decisions. As businesses continue to generate more data, the ability to integrate multiple data management systems will become increasingly important, and the integration of Snowflake and MySQL provides one promising solution."
 image: /assets/images/articles/people-sitting-near-table.webp

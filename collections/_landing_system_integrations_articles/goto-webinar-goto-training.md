@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/goto-training
 author: Edward Saunders
 title: "GoToWebinar and GoToTraining Integration | Solving Training Problems"
+topic: System Integration
 leadhead: "GoToWebinar and GoToTraining are two of the most popular training and webinar platforms used today"
 leadtext: "With their integration through API and SDK, it is a big win for users, who can now manage their training and events from one central location to save time and effort. The integration solves some of the significant problems experienced when managing the two platforms, including reducing the administrative burden and improving overall productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

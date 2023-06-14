@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating PayPal and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "Integrating PayPal and Microsoft Dynamics 365 CRM is a smart choice for businesses that want to increase efficiency in their payment processing while providing customers with a seamless buying experience"
 leadtext: "The integration allows for better financial management and improved customer experience, leading to increased sales performance and customer satisfaction. Whether through API or SDK, businesses can easily connect their payment gateway and customer relationship management platform to achieve these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/facebook-custom-audiences
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "By integrating Amazon DynamoDB and Facebook Custom Audiences through either API or SDK, developers can easily leverage the power of both tools to solve a number of problems, including efficient data management, targeted advertising, and increased ROI"
 leadtext: "This integration allows for quick decision-making, targeted campaigns, and high levels of scalability that help businesses stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

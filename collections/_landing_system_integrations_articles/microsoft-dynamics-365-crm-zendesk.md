@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/zendesk
 author: Edward Saunders
 title: "Microsoft Dynamics 365 CRM and Zendesk Integration"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Zendesk can provide businesses with a range of benefits"
 leadtext: "By automating processes, reducing manual data entry, and gaining insights into customer behavior, businesses can improve their customer service and relationship management processes. As customer expectations continue to rise, businesses that integrate their customer service and relationship management processes will be better equipped to serve their customers and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

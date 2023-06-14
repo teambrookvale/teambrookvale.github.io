@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/namely
 author: Edward Saunders
 title: "Integrating Keap Max Classic and Namely: A match made in heaven"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Namely is a powerful way to improve efficiency, enhance the customer experience, and improve communication between teams"
 leadtext: "By sharing data and eliminating the need for manual data entry, companies can save time, reduce errors, and gain a more comprehensive view of their customers and employees. So, if you want to take your business to the next level, consider integrating Keap Max Classic and Namely."
 image: /assets/images/articles/people-sitting-near-table.webp

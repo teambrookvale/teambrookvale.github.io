@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/google-bigquery
 author: Edward Saunders
 title: "Magento and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of Magento with Google BigQuery provides a powerful tool for businesses to gain insights into their sales data"
 leadtext: "By combining these two tools, businesses can make more informed decisions about their sales and inventory, identify trends and patterns that they might otherwise miss, and gain a more complete view of their customers. Through the use of APIs or SDKs, this integration can be achieved quickly, easily, and in real time."
 image: /assets/images/articles/people-sitting-near-table.webp

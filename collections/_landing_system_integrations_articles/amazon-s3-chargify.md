@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/chargify
 author: Edward Saunders
 title: "Amazon S3 and Chargify Integration - Benefits and Solutions"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Chargify provides scalable, secure, automated and easy solutions for businesses"
 leadtext: "This integration helps businesses to streamline their billing and data storage processes, ensuring convenience and improvements in operational efficiency. Integrating Amazon S3 and Chargify can empower businesses to spend less time on billing and data storage so they can focus on creating positive customer experiences and growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/moodle
 author: Edward Saunders
 title: "BambooHR and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of BambooHR and Moodle offers a complete HR solution for businesses of any size"
 leadtext: "By syncing employee data and training information, HR and L&D teams can manage their tasks more efficiently and focus on strategic initiatives. Moreover, employees benefit from an improved experience and training compliance. If you are looking for a comprehensive HR and training solution, consider integrating BambooHR and Moodle through API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

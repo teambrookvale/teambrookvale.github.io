@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/shopify
 author: Edward Saunders
 title: "Integrating Amazon SQS and Shopify: A Seamless Solution"
+topic: System Integration
 leadhead: "Integrating Amazon SQS and Shopify provides a powerful solution for businesses looking to streamline processes, optimize operation efficiency, and enhance their customers' experience"
 leadtext: "The seamless integration of the two provides businesses with a scalable and reliable solution that can adapt to their business needs with ease."
 image: /assets/images/articles/people-sitting-near-table.webp

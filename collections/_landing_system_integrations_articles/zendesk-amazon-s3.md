@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/amazon-s3
 author: Edward Saunders
 title: "Zendesk and Amazon S3 Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Zendesk and Amazon S3 through API or SDK is an excellent solution for businesses looking to streamline their customer support operations"
 leadtext: "By using Amazon S3 as a storage solution, businesses can free up space in Zendesk, improve system performance, and enhance the customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

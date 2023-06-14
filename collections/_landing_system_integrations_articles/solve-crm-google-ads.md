@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/google-ads
 author: Edward Saunders
 title: "Why Integration of Solve CRM and Google Ads is Crucial for Your Business"
+topic: System Integration
 leadhead: "Integrating Solve CRM with Google Ads can help your business achieve its marketing goals more effectively"
 leadtext: "By streamlining your marketing efforts, tracking your campaigns more efficiently and enhancing your customer experience, you can generate more leads, drive more sales, and improve your overall ROI. So, whether you're a small business or a large corporation, it's crucial to invest in these tools and integrate them to get the most out of your marketing strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

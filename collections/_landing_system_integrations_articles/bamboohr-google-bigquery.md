@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/google-bigquery
 author: Edward Saunders
 title: "BambooHR and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of BambooHR and Google BigQuery through API or SDK can help HR professionals analyze employee data and solve many HR-related problems"
 leadtext: "By leveraging the power of Google BigQuery, organizations can gain insights into employee performance, retention, and costs. The integration of these two platforms is easy to set up and use, making it a valuable tool for any HR professional."
 image: /assets/images/articles/people-sitting-near-table.webp

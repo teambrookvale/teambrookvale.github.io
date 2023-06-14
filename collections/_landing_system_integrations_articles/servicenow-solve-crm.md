@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/solve-crm
 author: Edward Saunders
 title: "ServiceNow and Solve CRM Integration"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Solve CRM provides businesses with a comprehensive customer service and CRM solution that streamlines processes, improves accuracy, and enhances collaboration"
 leadtext: "By using an API or SDK to connect the two platforms, businesses can automate data transfer and focus on providing exceptional customer service."
 image: /assets/images/articles/people-sitting-near-table.webp

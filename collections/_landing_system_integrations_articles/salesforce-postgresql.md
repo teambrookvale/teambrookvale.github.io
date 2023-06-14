@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/postgresql
 author: Edward Saunders
 title: "Integration of Salesforce and PostgreSQL"
+topic: System Integration
 leadhead: "The integration of Salesforce and PostgreSQL is a powerful tool for businesses that are looking to streamline their sales processes and improve their data management"
 leadtext: "By using APIs or SDKs, businesses can seamlessly exchange data between the two platforms and solve a number of problems related to data synchronization, reporting, and efficiency. With the right integration strategy, businesses can enhance their sales processes and gain better insights into their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

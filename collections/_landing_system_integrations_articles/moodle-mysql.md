@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/mysql
 author: Edward Saunders
 title: "Integrating Moodle and MySQL"
+topic: System Integration
 leadhead: "Integrating Moodle and MySQL through API or SDK can provide educators and organizations with a robust and scalable LMS that can handle increasing demands"
 leadtext: "It can automate processes, improve data management, and enhance security and reliability. By leveraging these technologies, educational institutions and organizations can offer quality and accessible online learning to their users."
 image: /assets/images/articles/people-sitting-near-table.webp

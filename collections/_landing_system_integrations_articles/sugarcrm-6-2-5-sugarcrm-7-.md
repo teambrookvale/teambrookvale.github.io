@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/sugarcrm-7-
 author: Edward Saunders
 title: "SugarCRM Integration: Solving Problems with API or SDK"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and SugarCRM 7+ using the API or SDK provides businesses with a more seamless and holistic view of their customer data"
 leadtext: "It improves team collaboration, customer interactions, and sales processes. With SugarCRM's range of features and integrations, businesses can streamline their customer relationship management processes and improve their bottom lines."
 image: /assets/images/articles/people-sitting-near-table.webp

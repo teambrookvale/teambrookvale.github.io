@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/paypal
 author: Edward Saunders
 title: "How Zapier’s AI and PayPal Integration Solves Problems for Businesses"
+topic: System Integration
 leadhead: "The Zapier-AI and PayPal integration is a perfect example of how two different tech verticals can come together and create value for businesses worldwide"
 leadtext: "The integration is a step towards digital transformation, enabling businesses to automate their processes, ensure a smooth experience between the seller, and the buyer along with reliable payment channels. Furthermore, it is imperative for businesses to choose automation tools with the potential to scale and integrate with other solutions, creating a seamless ecosystem that helps them achieve their business goals."
 image: /assets/images/articles/people-sitting-near-table.webp

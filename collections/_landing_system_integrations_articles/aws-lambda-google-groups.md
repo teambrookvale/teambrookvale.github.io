@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/google-groups
 author: Edward Saunders
 title: "Integration of AWS Lambda with Google Groups"
+topic: System Integration
 leadhead: "The integration of AWS Lambda with Google Groups is an ideal solution for organizations that need a more efficient and automated way to manage email communication"
 leadtext: "By using this integration, you can improve collaboration, reduce workload, and ensure that all stakeholders are informed of any changes or events that occur in your AWS Lambda functions. So, if you're looking to improve your email management processes, consider integrating AWS Lambda with Google Groups."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/ai-by-zapier
 author: Edward Saunders
 title: "Integration of SQL Server with AI by Zapier"
+topic: System Integration
 leadhead: "The integration of SQL Server with AI by Zapier is an excellent way for businesses to improve their efficiency and reduce manual effort"
 leadtext: "By automating tasks, businesses can reduce errors, save time, and improve their overall productivity. The use of API or SDK enables businesses to customize their integration solutions and gain more control over the integration process."
 image: /assets/images/articles/people-sitting-near-table.webp

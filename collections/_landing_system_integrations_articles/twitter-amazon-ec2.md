@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/amazon-ec2
 author: Edward Saunders
 title: "Twitter and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "Twitter and Amazon EC2 are two powerful tools that can be integrated for better performance"
 leadtext: "The integration of these two tools can help businesses to make better decisions, improve their marketing efforts, and provide better customer support. By using the Twitter API and Amazon EC2, businesses can analyze large amounts of Twitter data in real-time and scale their computing resources up or down depending on their needs. This integration can help businesses to stay competitive in today's digital marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Twitter and Amazon CloudFront for Better Performance"
+topic: System Integration
 leadhead: "Integrating Twitter and Amazon CloudFront can offer a faster and more reliable social media experience for its users"
 leadtext: "By leveraging CloudFront's CDN capabilities, Twitter can cache its content closer to its users, reduce latency, increase scalability, and improve reliability. Developers can use the Twitter API and the Amazon CloudFront SDK to achieve this integration and solve the performance problems related to social media."
 image: /assets/images/articles/people-sitting-near-table.webp

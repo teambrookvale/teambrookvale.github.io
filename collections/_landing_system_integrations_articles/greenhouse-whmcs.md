@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/whmcs
 author: Edward Saunders
 title: "Greenhouse and WHMCS Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and WHMCS provides businesses with a way to automate their hiring and onboarding processes"
 leadtext: "It streamlines communication, eliminates duplication, and reduces manual effort. With this integration, businesses can focus on their core operations while improving their overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

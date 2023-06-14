@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/goto-training
 author: Edward Saunders
 title: "Integrating Chargify and GoTo Training: A Solution for Streamlined Business Operations"
+topic: System Integration
 leadhead: "The integration of Chargify and GoTo Training is beneficial for businesses of all sizes"
 leadtext: "It streamlines the billing and subscription management process for virtual training sessions and allows businesses to track attendance and generate invoices more efficiently. By automating these processes, businesses can save time and focus on providing their clients with the best possible virtual training experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

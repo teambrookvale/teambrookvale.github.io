@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/quick-base
 author: Edward Saunders
 title: "Magento and Quick Base Integration: An Overview"
+topic: System Integration
 leadhead: "The integration of Magento and Quick Base through API or SDK is a powerful tool that allows businesses to streamline their operations and gain deeper insights into their customers and sales"
 leadtext: "This integration solves various problems that businesses face and enables them to create customized solutions that meet their specific needs. If you're interested in integrating Magento and Quick Base, don't hesitate to seek the assistance of a professional developer."
 image: /assets/images/articles/people-sitting-near-table.webp

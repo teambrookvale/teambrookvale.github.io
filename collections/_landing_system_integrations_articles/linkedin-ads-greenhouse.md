@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/greenhouse
 author: Edward Saunders
 title: "Integrating LinkedIn Ads with Greenhouse"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads with Greenhouse can provide additional benefits to businesses that use these platforms"
 leadtext: "By achieving more streamlined data management, improved targeting, and an optimized recruitment funnel, companies can achieve better results from their marketing and recruitment efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

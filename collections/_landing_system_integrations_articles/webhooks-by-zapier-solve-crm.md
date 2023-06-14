@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/solve-crm
 author: Edward Saunders
 title: "Integrating Webhooks by Zapier and Solve CRM"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Solve CRM is a powerful way to harness the power of both platforms and improve business processes"
 leadtext: "Whether you need to automate lead generation, streamline customer service, or synchronize data across different applications, this integration can help you achieve your goals faster and more efficiently. With Webhooks by Zapier and Solve CRM, the possibilities are virtually endless!"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/servicenow
 author: Edward Saunders
 title: "Integrating Amazon Polly and ServiceNow"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and ServiceNow through API or SDK can enhance IT service management by adding text-to-speech capabilities and improving accessibility for visually impaired users"
 leadtext: "This integration solves problems such as the need for audio notifications and can lead to quicker resolution of IT issues."
 image: /assets/images/articles/people-sitting-near-table.webp

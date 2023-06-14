@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/amazon-sns
 author: Edward Saunders
 title: "Instagram Custom Audiences and Amazon SNS Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Amazon SNS is a valuable tool for businesses looking to make their social media advertising more effective"
 leadtext: "By using custom audiences to target their ads, and then using Amazon SNS to send push notifications to those customers who match the criteria, businesses can increase the effectiveness of their advertising campaigns and keep their customers engaged and informed."
 image: /assets/images/articles/people-sitting-near-table.webp

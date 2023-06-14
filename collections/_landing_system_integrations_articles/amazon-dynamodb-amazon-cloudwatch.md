@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/amazon-cloudwatch
 author: Edward Saunders
 title: "Amazon DynamoDB and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Amazon CloudWatch provides customers with a powerful monitoring and management tool for their NoSQL databases"
 leadtext: "It enables customers to proactively monitor their databases, optimize performance, and cut costs. This integration is key to building scalable and distributed applications that require low latency and high throughput."
 image: /assets/images/articles/people-sitting-near-table.webp

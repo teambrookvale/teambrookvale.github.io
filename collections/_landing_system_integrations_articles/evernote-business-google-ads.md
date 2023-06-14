@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/google-ads
 author: Edward Saunders
 title: "Integration of Evernote Business and Google Ads"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Google Ads through API or SDK can greatly benefit any business looking to streamline their workflow and improve their marketing efforts"
 leadtext: "By automating tasks, tracking performance, and facilitating collaboration, businesses can achieve greater success and efficiency in their campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

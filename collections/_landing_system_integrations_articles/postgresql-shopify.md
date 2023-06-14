@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/shopify
 author: Edward Saunders
 title: "PostgreSQL and Shopify Integration"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Shopify through API or SDK provides businesses with a powerful combination that allows them to manage their online store more efficiently"
 leadtext: "By leveraging the strengths of both platforms, businesses can gain valuable insights that can help to improve their operations and bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

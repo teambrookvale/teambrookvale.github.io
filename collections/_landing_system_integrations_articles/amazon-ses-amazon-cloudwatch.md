@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/amazon-cloudwatch
 author: Edward Saunders
 title: "How Amazon SES and Amazon CloudWatch Integration Solves Email Delivery Problems"
+topic: System Integration
 leadhead: "Amazon SES and Amazon CloudWatch integration is an effective solution for businesses looking to improve their email delivery performance"
 leadtext: "The integration enables businesses to monitor and troubleshoot email delivery issues, providing data and insights to optimize email campaigns. With Amazon SES and Amazon CloudWatch integration, businesses can ensure reliable email delivery, build customer trust, and drive revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

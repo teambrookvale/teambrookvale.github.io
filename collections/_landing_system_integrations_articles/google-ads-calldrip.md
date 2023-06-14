@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/calldrip
 author: Edward Saunders
 title: "Integration of Google Ads and Calldrip through API or SDK"
+topic: System Integration
 leadhead: "The integration of Google Ads and Calldrip through API or SDK offers businesses a powerful tool for enhancing their lead generation and management efforts"
 leadtext: "By automating the process of capturing and following up with leads, businesses can improve their conversion rates, boost customer satisfaction and loyalty, and increase their return on investment in online advertising. As businesses continue to look for ways to streamline their operations and improve their bottom line, the integration of Google Ads and Calldrip is an increasingly valuable option to consider."
 image: /assets/images/articles/people-sitting-near-table.webp

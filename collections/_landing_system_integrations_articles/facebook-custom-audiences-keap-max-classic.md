@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/keap-max-classic
 author: Edward Saunders
 title: "Integrating Facebook Custom Audiences with Keap Max Classic"
+topic: System Integration
 leadhead: "Integrating Facebook Custom Audiences with Keap Max Classic is a powerful tool for businesses looking to take their marketing efforts to the next level"
 leadtext: "By leveraging user behavior within Keap, businesses can create highly targeted and effective campaigns on Facebook. This integration solves many problems for businesses and can help them improve their ROI and expand their reach. If you are looking to improve your marketing efforts, integrating Facebook Custom Audiences with Keap Max Classic is a must."
 image: /assets/images/articles/people-sitting-near-table.webp

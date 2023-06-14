@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/ai-by-zapier
 author: Edward Saunders
 title: "Pinterest and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Pinterest and AI by Zapier is a powerful tool for businesses"
 leadtext: "It can save time, reduce errors, and improve overall marketing strategy. By automating certain tasks related to Pinterest, businesses can focus on other important aspects of their business. If you haven't already, consider integrating these two tools and enjoy the many benefits that come with it."
 image: /assets/images/articles/people-sitting-near-table.webp

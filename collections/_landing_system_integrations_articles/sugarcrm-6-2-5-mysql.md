@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/mysql
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and MySQL Integration - Benefits and Solutions"
+topic: System Integration
 leadhead: "Integrating SugarCRM with MySQL can provide several benefits, including improved data management, faster data access, and reduced costs"
 leadtext: "This integration can solve various business problems, including data duplication, slow data access, and data loss. By leveraging the capabilities of SugarCRM and MySQL, businesses can improve their customer interaction and sales process and gain a competitive advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

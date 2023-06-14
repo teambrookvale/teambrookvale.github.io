@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/snowflake
 author: Edward Saunders
 title: "SugarCRM 7+ & Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Snowflake provides businesses with a powerful and efficient system that addresses several problems"
 leadtext: "From gaining valuable insights about customers to achieving automated synchronization, the integration provides numerous benefits for businesses. With APIs or SDKs, developers can easily create a link between these two platforms, unifying their tools to work towards a common goal - helping businesses improve their overall customer relationship management practices."
 image: /assets/images/articles/people-sitting-near-table.webp

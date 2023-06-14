@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/solve-crm
 author: Edward Saunders
 title: "Amazon Polly and Solve CRM Integration"
+topic: System Integration
 leadhead: "Integrating Amazon Polly and Solve CRM can help businesses create more engaging and efficient customer experiences"
 leadtext: "By using Amazon Polly's voice technology to enhance communication channels, businesses can improve customer engagement, streamline communication, and enhance accessibility. As businesses continue to rely more on digital channels, integrating powerful tools like Amazon Polly and Solve CRM can help provide a competitive edge and improve overall customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

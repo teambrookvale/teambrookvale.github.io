@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/moodle
 author: Edward Saunders
 title: "Integration of Google Ads and Moodle"
+topic: System Integration
 leadhead: "Integrating Google Ads and Moodle is a wise decision for educators looking to create online courses"
 leadtext: "The integration resolves issues of targeting audience and cost-effectiveness. To get the most out of the integration, it is important to set up and target your keywords and campaigns effectively. Create quality content, and you're set for success."
 image: /assets/images/articles/people-sitting-near-table.webp

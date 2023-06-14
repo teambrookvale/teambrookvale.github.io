@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/google-ads
 author: Edward Saunders
 title: "Integration of Snowflake and Google Ads through API/SDK"
+topic: System Integration
 leadhead: "The integration of Snowflake and Google Ads through API or SDK is a great way for businesses to streamline their advertising campaigns"
 leadtext: "Not only does it provide real-time insights, but it also makes it easier to manage, scale and secure large volumes of data. By integrating Snowflake with Google Ads, businesses can optimize their advertising campaigns quickly and efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

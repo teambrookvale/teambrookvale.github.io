@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/namely
 author: Edward Saunders
 title: "Integration of AI by Zapier and Namely"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Namely can significantly enhance HR processes, leading to greater efficiency, productivity, and cost savings"
 leadtext: "By automating redundant tasks and providing actionable insights into employee performance and satisfaction, organizations can streamline their HR processes and focus on strategic tasks. The API or SDK-based integration offers a seamless, straightforward, and adaptable integration between these two software solutions, leading to better results for organizations."
 image: /assets/images/articles/people-sitting-near-table.webp

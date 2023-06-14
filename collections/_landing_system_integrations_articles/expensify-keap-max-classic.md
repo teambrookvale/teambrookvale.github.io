@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/keap-max-classic
 author: Edward Saunders
 title: "Expensify and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Keap Max Classic through API or SDK is a powerful tool for businesses looking to streamline their operations and improve efficiency"
 leadtext: "By automating expense reporting and syncing data in real-time, businesses can save time, reduce errors, and make more informed decisions. If you're a business owner looking to optimize your processes, it's worth considering the integration of Expensify and Keap Max Classic."
 image: /assets/images/articles/people-sitting-near-table.webp

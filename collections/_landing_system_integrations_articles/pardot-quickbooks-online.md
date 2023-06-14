@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/quickbooks-online
 author: Edward Saunders
 title: "Pardot and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "Integrating Pardot and QuickBooks Online through API or SDK can offer significant benefits to businesses"
 leadtext: "By automating tasks, reducing errors, and providing real-time data, integration streamlines processes and increases efficiency. Through integration, businesses can focus on their core operations and achieve their goals effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

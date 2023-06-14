@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/google-groups
 author: Edward Saunders
 title: "SugarCRM 7+ and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Google Groups through API or SDK is a game-changer for businesses"
 leadtext: "It enables them to access real-time data on customers, streamlines their operations, and improves their overall performance. Businesses that have not yet integrated these solutions should consider doing so to stay ahead of their competitors."
 image: /assets/images/articles/people-sitting-near-table.webp

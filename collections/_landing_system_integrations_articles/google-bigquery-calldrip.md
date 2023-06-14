@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/calldrip
 author: Edward Saunders
 title: "Integration of Google BigQuery and Calldrip"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and Calldrip is an excellent way to optimize your sales process and gain valuable business insights"
 leadtext: "Whether you are a business owner or a developer, this integration is a must-have for your sales stack. With its real-time data push and powerful analytics tools, this integration can help your business make data-driven decisions and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

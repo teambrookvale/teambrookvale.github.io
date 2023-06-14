@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/goto-webinar
 author: Edward Saunders
 title: "BigCommerce and GoToWebinar Integration: A Solution for E-commerce Business Owners"
+topic: System Integration
 leadhead: "The integration of BigCommerce and GoToWebinar is a win for e-commerce business owners looking to expand their reach and improve customer engagement"
 leadtext: "The seamless collaboration between these two platforms enables businesses to focus on what matters most, growing their brand, and delivering quality products/services to customers."
 image: /assets/images/articles/people-sitting-near-table.webp

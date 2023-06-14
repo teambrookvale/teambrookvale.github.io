@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/keap-max-classic
 author: Edward Saunders
 title: "Google Groups and Keap Max Classic Integration: Solving Problems"
+topic: System Integration
 leadhead: "The integration of Google Groups and Keap Max Classic is a powerful tool that businesses can use to automate their sales and marketing processes and improve their customer engagement strategy"
 leadtext: "By using the two platforms together, businesses can save time, reduce errors in customer data, and improve their overall efficiency and productivity. With the rising competition in the market, integration of these two tools provides businesses with a competitive edge to stay ahead and achieve their goals efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

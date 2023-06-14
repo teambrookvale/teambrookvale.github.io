@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/pardot
 author: Edward Saunders
 title: "WHMCS and Pardot Integration - A Game Changer for Businesses"
+topic: System Integration
 leadhead: "Integrating WHMCS with Pardot is a game changer for businesses"
 leadtext: "By automating lead generation, marketing, and sales processes, businesses can save time, increase efficiency, and boost their bottom line. If you're a business owner, you should consider integrating these two platforms today!"
 image: /assets/images/articles/people-sitting-near-table.webp

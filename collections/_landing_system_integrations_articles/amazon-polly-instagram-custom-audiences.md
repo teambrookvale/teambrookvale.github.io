@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/instagram-custom-audiences
 author: Edward Saunders
 title: "Amazon Polly and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Instagram Custom Audiences can significantly improve a business's marketing strategy"
 leadtext: "By creating audio ads through Amazon Polly and targeting a specific audience through Instagram Custom Audiences, businesses can achieve cost-effective advertising that increases engagement. For businesses that have yet to try out these services, it could be a good time to look into them and take steps to integrate them into their marketing strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

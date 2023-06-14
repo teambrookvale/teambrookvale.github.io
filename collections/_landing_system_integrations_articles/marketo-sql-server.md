@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/sql-server
 author: Edward Saunders
 title: "Integration of Marketo and SQL Server - Solving Critical Business Problems"
+topic: System Integration
 leadhead: "The integration of Marketo and SQL Server offers businesses a range of benefits that are critical for improving marketing and database management processes"
 leadtext: "By choosing the right integration method and leveraging the functionalities of both systems, businesses can streamline their workflow, improve customer engagement, and boost revenue in the long run"
 image: /assets/images/articles/people-sitting-near-table.webp

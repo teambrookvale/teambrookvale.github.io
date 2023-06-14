@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/postgresql
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch with PostgreSQL | Blog"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch with PostgreSQL provides users with valuable insights into the performance, behavior, and security of their database"
 leadtext: "By sending logs and metrics to CloudWatch, users can proactively identify and address any performance issues and potential security threats before they become significant problems. This integration allows teams to optimize their database performance and build more secure database systems."
 image: /assets/images/articles/people-sitting-near-table.webp

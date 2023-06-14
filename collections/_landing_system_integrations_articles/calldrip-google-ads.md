@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/google-ads
 author: Edward Saunders
 title: "The Benefits of Integrating Calldrip and Google Ads"
+topic: System Integration
 leadhead: "Integrating Calldrip and Google Ads through an API or SDK can give businesses a competitive edge by providing them with real-time access to data, improving their response time, and giving them the ability to track ad campaigns' results"
 leadtext: "If you are using Calldrip or Google Ads, consider integrating them to enjoy these and other benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

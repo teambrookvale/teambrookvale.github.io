@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/goto-webinar
 author: Edward Saunders
 title: "Benefits of Integrating Amazon Seller Central with GoTo Webinar"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central with GoTo Webinar is a necessary step for businesses looking to grow their brands and increase their reach"
 leadtext: "The integration enables businesses to sell products and host webinars simultaneously, educate their customers about their products, and follow up with them after the webinar. With these benefits, it is easy to see why businesses should consider integrating the two platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

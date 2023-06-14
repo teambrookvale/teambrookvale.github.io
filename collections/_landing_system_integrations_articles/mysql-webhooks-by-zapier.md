@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/webhooks-by-zapier
 author: Edward Saunders
 title: "MySQL and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and Webhooks by Zapier can bring tremendous value to businesses"
 leadtext: "It can save time, increase productivity, and improve data accuracy. The integration is relatively easy and can be done using Webhooks by Zapier's API or SDK. If you haven't tried it before, we highly recommend you give it a try."
 image: /assets/images/articles/people-sitting-near-table.webp

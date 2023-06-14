@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/paypal
 author: Edward Saunders
 title: "Integrating Salesforce and PayPal"
+topic: System Integration
 leadhead: "The integration of Salesforce and PayPal is a powerful tool for businesses looking to streamline their operations, improve their customer experience, and enhance their bottom line"
 leadtext: "By harnessing the power of both platforms, you can automate tasks, gain deeper insights, and streamline processes that can save you time and money in the long run. So why not explore the possibilities of integrating Salesforce and PayPal today?"
 image: /assets/images/articles/people-sitting-near-table.webp

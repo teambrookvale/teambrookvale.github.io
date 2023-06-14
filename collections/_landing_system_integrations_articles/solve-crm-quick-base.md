@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/quick-base
 author: Edward Saunders
 title: "Integration of Solve CRM and Quick Base through API or SDK"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Quick Base through API or SDK can have many benefits for businesses, including automated data transfer, synchronization of data, and better reporting"
 leadtext: "While the process can be complex, solutions like the Solve CRM-Quick Base Connector make integration easier and more accessible."
 image: /assets/images/articles/people-sitting-near-table.webp

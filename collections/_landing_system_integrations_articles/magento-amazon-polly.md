@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-polly
 author: Edward Saunders
 title: "Magento and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Amazon Polly through API or SDK can greatly benefit merchants by providing a quick, easy, and effective way to create engaging product descriptions"
 leadtext: "The text-to-speech conversion of Amazon Polly can also make content more accessible and provide a better customer experience. By using these tools together, merchants can improve their online presence and potentially increase their sales."
 image: /assets/images/articles/people-sitting-near-table.webp

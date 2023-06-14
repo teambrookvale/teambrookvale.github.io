@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/expensify
 author: Edward Saunders
 title: "ServiceNow and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Expensify provides businesses with a comprehensive solution for IT service management and expense management"
 leadtext: "It provides full automation for expenses reports, makes it easier to find and manage expense data, saves time, and eliminates errors due to manual data transfer. Organizations that integrate both software will be able to operate more efficiently and increase productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

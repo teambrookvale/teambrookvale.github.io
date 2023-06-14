@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-seller-central
 author: Edward Saunders
 title: "Upwork and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "Integrating Upwork and Amazon Seller Central through API or SDK provides businesses with a convenient platform for all their work"
 leadtext: "The integration solves several problems that businesses face when managing their online sales on Amazon. With Upwork, businesses can access a pool of talented professionals who have experience with Amazon Seller Central, allowing businesses to get better results and increase their sales."
 image: /assets/images/articles/people-sitting-near-table.webp

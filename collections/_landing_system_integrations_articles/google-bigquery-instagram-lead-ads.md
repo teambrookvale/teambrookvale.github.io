@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/instagram-lead-ads
 author: Edward Saunders
 title: "Google BigQuery and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Instagram Lead Ads can provide businesses with a powerful tool for analyzing and managing their customer data"
 leadtext: "By automating the process of transferring data from Instagram Lead Ads to BigQuery, businesses can gain valuable insights into their target audience, which can help them to improve their marketing campaigns, drive more sales, and ultimately grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

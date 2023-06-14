@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/bamboohr
 author: Edward Saunders
 title: "LinkedIn Ads and BambooHR Integration"
+topic: System Integration
 leadhead: "LinkedIn Ads and BambooHR are two powerful tools that can help businesses streamline their HR and marketing efforts"
 leadtext: "By integrating the two through API or SDK, businesses can automate their HR and marketing tasks, improve their efficiency, and solve several problems. The integration of the two tools can be a game-changer for businesses looking to improve their HR and marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

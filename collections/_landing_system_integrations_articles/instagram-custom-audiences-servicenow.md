@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/servicenow
 author: Edward Saunders
 title: "Instagram Custom Audiences and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and ServiceNow is a powerful tool for businesses looking to streamline their advertising efforts"
 leadtext: "By connecting these two platforms through API or SDK, businesses can ensure that their ads are reaching the right people, while also improving workflow and data accuracy."
 image: /assets/images/articles/people-sitting-near-table.webp

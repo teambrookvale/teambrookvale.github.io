@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/linkedin-ads
 author: Edward Saunders
 title: "Pinterest and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Pinterest and LinkedIn Ads through API or SDK can help businesses to promote their products and services to a wider and more targeted audience"
 leadtext: "It can help businesses to track the performance of their Pinterest ads in LinkedIn Ads and optimize their ad campaigns. By using the same set of targeting options for both platforms, businesses can save time and effort. So, businesses should consider integrating Pinterest and LinkedIn Ads to get the maximum benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

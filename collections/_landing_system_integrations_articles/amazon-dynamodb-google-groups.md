@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/google-groups
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Google Groups"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Google Groups is a powerful tool that can help organizations to improve collaboration and data management"
 leadtext: "By using the right SDK or API, developers can create a seamless integration that provides fast and predictable performance, scalability, and data accessibility."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/sql-server
 author: Edward Saunders
 title: "Integration of Amazon SES and SQL Server through API/SDK"
+topic: System Integration
 leadhead: "Integrating Amazon SES and SQL Server through API or SDK can be a powerful tool for your organization"
 leadtext: "It can help you streamline your email communication process and manage your data more efficiently, which can lead to increased productivity and cost savings. If you are considering integrating Amazon SES and SQL Server, be sure to research the available options and consult with experts to determine the best approach for your organization."
 image: /assets/images/articles/people-sitting-near-table.webp

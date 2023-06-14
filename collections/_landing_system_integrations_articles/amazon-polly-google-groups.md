@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/google-groups
 author: Edward Saunders
 title: "Amazon Polly and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Google Groups paves the way for a more inclusive and comprehensive communication and collaboration experience"
 leadtext: "By allowing users to express themselves in their preferred language, the integration breaks down language barriers. Additionally, the voice capabilities of Amazon Polly provide users with flexibility and an alternative way to consume information. The integration provides a unique and effective communication solution for various industries, enhancing collaboration and productivity among individuals and teams."
 image: /assets/images/articles/people-sitting-near-table.webp

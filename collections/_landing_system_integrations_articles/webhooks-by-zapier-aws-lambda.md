@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/aws-lambda
 author: Edward Saunders
 title: "Webhooks by Zapier & AWS Lambda: A Powerful Combination for Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and AWS Lambda is a powerful combination that can help businesses automate tasks, streamline processes, and improve overall efficiency"
 leadtext: "By taking advantage of the automation and serverless capabilities of these tools, businesses can focus on what they do best and let technology take care of the rest."
 image: /assets/images/articles/people-sitting-near-table.webp

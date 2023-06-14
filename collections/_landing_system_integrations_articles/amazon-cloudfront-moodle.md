@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/moodle
 author: Edward Saunders
 title: "Amazon CloudFront and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Moodle through API or SDK can greatly improve content delivery and user experience"
 leadtext: "The benefits of using CloudFront, such as faster content delivery and scalability, are complemented by Moodle's LMS capabilities. This integration is a great solution for educational institutions looking to enhance their online learning platform."
 image: /assets/images/articles/people-sitting-near-table.webp

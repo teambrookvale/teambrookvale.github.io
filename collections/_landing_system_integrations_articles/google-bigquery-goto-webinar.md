@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/goto-webinar
 author: Edward Saunders
 title: "Integration of Google BigQuery and GoTo Webinar"
+topic: System Integration
 leadhead: "The integration of Google Big Query and GoTo Webinar creates a powerful tool, which assists businesses in making data-driven decisions about their webinars and online events"
 leadtext: "By automating the collection of data from webinars, businesses can save both time and resources, while obtaining real-time insights that help optimize future planning, improve audience engagement and create better experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

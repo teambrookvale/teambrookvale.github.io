@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/amazon-ses
 author: Edward Saunders
 title: "Google Ads and Amazon SES Integration"
+topic: System Integration
 leadhead: "Google Ads and Amazon SES integration can bring many benefits to businesses, such as improving their marketing ROI, enhancing their customer engagement, and minimizing email deliverability issues"
 leadtext: "It's worth considering for any business that wants to take their marketing and email strategies to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

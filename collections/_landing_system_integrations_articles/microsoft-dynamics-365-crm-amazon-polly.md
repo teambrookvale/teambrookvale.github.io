@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-polly
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and Amazon Polly"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Amazon Polly through API or SDK can be a game-changer for businesses"
 leadtext: "It can help them improve customer experience, reduce manual efforts, and boost productivity while expanding accessibility and enabling managers to provide feedback and training to their teams easily. The possibilities are endless, and it's up to businesses to explore them and leverage them to their advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

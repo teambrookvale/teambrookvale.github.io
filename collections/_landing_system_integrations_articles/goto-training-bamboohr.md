@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/bamboohr
 author: Edward Saunders
 title: "Integrating GoTo Training and BambooHR"
+topic: System Integration
 leadhead: "Integrating GoTo Training and BambooHR may seem like a small change, but it has significant impacts that benefit both employees and the company"
 leadtext: "By combining training and performance management, companies can get a comprehensive view of employee development and optimize their training programs to achieve better results."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/google-groups
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Google Groups"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Google Groups proves to be an excellent solution for online businesses to streamline their operations, reduce errors, and provide better customer service"
 leadtext: "By using this integration, businesses can focus on efficiently managing their sales and reputation while reducing the overall effort required to get their products to market."
 image: /assets/images/articles/people-sitting-near-table.webp

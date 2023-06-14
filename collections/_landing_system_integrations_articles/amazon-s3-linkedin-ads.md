@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/linkedin-ads
 author: Edward Saunders
 title: "Integration of Amazon S3 and LinkedIn Ads"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and LinkedIn Ads is a great way for businesses to streamline their advertising efforts"
 leadtext: "By using the data stored in Amazon S3 to create targeted audiences in LinkedIn Ads, businesses can reach the right people with the right message. This integration solves the problem of data silos and allows businesses to use their data more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

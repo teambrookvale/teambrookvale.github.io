@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/linkedin-ads
 author: Edward Saunders
 title: "Snowflake and LinkedIn Ads: Better Together"
+topic: System Integration
 leadhead: "In conclusion, the integration of Snowflake and LinkedIn Ads provides businesses with valuable data insights and optimization opportunities"
 leadtext: "By combining the power of these two platforms, businesses can create more effective ad campaigns, target the right audience, and generate more leads. To make the most of this integration, businesses should look into APIs or SDKs that allow them to seamlessly integrate Snowflake and LinkedIn Ads and begin reaping the benefits today."
 image: /assets/images/articles/people-sitting-near-table.webp

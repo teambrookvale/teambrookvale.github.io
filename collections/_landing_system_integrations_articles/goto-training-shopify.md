@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/shopify
 author: Edward Saunders
 title: "Integrating GoTo Training and Shopify"
+topic: System Integration
 leadhead: "Integrating GoTo Training and Shopify can be a valuable way to enhance your e-commerce business with online courses and training"
 leadtext: "Whether you're selling physical products or digital downloads, adding training courses can increase your revenue and customer engagement. With the help of the GoTo Training API or SDK, you can automate the enrollment process and provide a seamless user experience for your customers."
 image: /assets/images/articles/people-sitting-near-table.webp

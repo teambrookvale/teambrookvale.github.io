@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/paypal
 author: Edward Saunders
 title: "How GoTo Training and PayPal Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "The integration of GoTo Training and PayPal is a smart solution for businesses that want to offer online courses and training"
 leadtext: "By providing a simple and secure payment system, businesses can increase enrollment, simplify payment processing, and improve the overall experience for customers. If you're looking for a reliable and effective way to monetize your online courses, consider integrating GoTo Training and PayPal."
 image: /assets/images/articles/people-sitting-near-table.webp

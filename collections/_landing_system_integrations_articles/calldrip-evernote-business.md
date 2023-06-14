@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/evernote-business
 author: Edward Saunders
 title: "Calldrip and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Evernote Business through API or SDK provides a powerful tool for businesses to efficiently capture, store, and share information"
 leadtext: "This integration helps reduce the risk of lost information and provides better workflow and communication for teams. By utilizing both Calldrip and Evernote Business, businesses can enhance their sales and marketing efforts while improving team productivity and collaboration."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/magento
 author: Edward Saunders
 title: "Snowflake and Magento Integration: A Powerful Alliance"
+topic: System Integration
 leadhead: "In conclusion, the integration of Snowflake and Magento is a powerful alliance that can help businesses streamline their operations and make informed decisions based on their data"
 leadtext: "By centralizing their data and analytics tools, businesses can gain deeper insights into customer behavior and internal operations, leading to greater efficiency and profitability. So if you're looking for a reliable data warehousing solution and an efficient website platform, Snowflake and Magento are definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

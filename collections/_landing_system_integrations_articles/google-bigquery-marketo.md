@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/marketo
 author: Edward Saunders
 title: "Google BigQuery and Marketo Integration"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Marketo is a powerful tool for businesses looking to improve their marketing strategies"
 leadtext: "By syncing data between the two platforms, businesses can gain deeper insights into their customers and create more effective marketing campaigns. If you are looking to improve your marketing strategies, consider integrating Google BigQuery and Marketo."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/bamboohr
 author: Edward Saunders
 title: "Integration of Keap Max Classic and BambooHR through API"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and BambooHR through API or SDK can provide significant benefits for businesses"
 leadtext: "By automating data transfer between the two platforms, businesses can save time, reduce errors, and improve productivity. Moreover, by creating a single source of truth for customer and employee data, businesses can simplify collaboration and communication, which can lead to better outcomes overall."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Moodle and Amazon CloudFront: A Solution to Your Learning Management Problems"
+topic: System Integration
 leadhead: "Integrating Moodle and Amazon CloudFront can help you build a more efficient, scalable, and reliable learning management system that delivers an optimal experience to your learners"
 leadtext: "With CloudFront's ability to cache and distribute content from edge locations, you can improve content delivery speed and reduce latency, ultimately leading to better learner engagement and retention."
 image: /assets/images/articles/people-sitting-near-table.webp

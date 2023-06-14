@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/shopify
 author: Edward Saunders
 title: "Integrating SugarCRM 7+ and Shopify: A Comprehensive Overview"
+topic: System Integration
 leadhead: "Integrating Shopify with SugarCRM helps businesses to centralize customer and order data, streamline sales processes, and have access to in-depth customer insights to enhance their user experience"
 leadtext: "By combining these two solutions, businesses can create an e-commerce infrastructure that provides their clients with a user-friendly experience while improving their bottom-line through better sales management. So what are you waiting for? Try this integration today and experience the benefits of centralizing your e-commerce and CRM systems."
 image: /assets/images/articles/people-sitting-near-table.webp

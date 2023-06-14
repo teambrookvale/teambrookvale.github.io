@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/amazon-ec2
 author: Edward Saunders
 title: "Integration of Google Groups and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of Google Groups and Amazon EC2 through API or SDK can provide many benefits in terms of communication and collaboration for businesses"
 leadtext: "With this integration, companies can automate various tasks, monitor resources, and send notifications and alerts via Google Groups. This integration helps organizations improve productivity, reduce costs, and achieve their goals more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

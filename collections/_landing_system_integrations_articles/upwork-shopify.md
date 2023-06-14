@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/shopify
 author: Edward Saunders
 title: "Upwork and Shopify Integration"
+topic: System Integration
 leadhead: "Upwork and Shopify integration can help small businesses and entrepreneurs leverage the strengths of both platforms to build and grow their e-commerce businesses"
 leadtext: "It allows freelancers to offer their clients a full suite of e-commerce services without having to build an entire e-commerce platform from scratch. And it allows businesses to find the technical expertise and resources they need to set up and manage a successful online store."
 image: /assets/images/articles/people-sitting-near-table.webp

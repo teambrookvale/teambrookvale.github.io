@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/expensify
 author: Edward Saunders
 title: "Amazon CloudWatch and Expensify Integration for Efficient Workflow"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Expensify presents several opportunities for businesses to improve their performance, streamline their processes, and enhance profitability"
 leadtext: "With these two tools in place, organizations can have real-time monitoring of their resources and finance, allowing them to make more informed decisions and take necessary action. The integration of these tools is beneficial to any business looking to improve its operations."
 image: /assets/images/articles/people-sitting-near-table.webp

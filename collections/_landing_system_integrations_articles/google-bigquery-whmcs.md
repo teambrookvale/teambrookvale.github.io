@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/whmcs
 author: Edward Saunders
 title: "Integration of Google BigQuery and WHMCS"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and WHMCS can provide businesses with a comprehensive solution to manage their data and web hosting services"
 leadtext: "With the ability to extract, store, and analyze data efficiently, businesses can enhance their decision-making and customer experience. By using automation, businesses can improve their operational efficiency and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/amazon-ses
 author: Edward Saunders
 title: "Using Webhooks by Zapier to Integrate Amazon SES"
+topic: System Integration
 leadhead: "Integrating Amazon SES with Webhooks by Zapier is a great way to automate your email marketing and get more value out of your email list"
 leadtext: "With this powerful combination, you can streamline your email campaigns, track their success and reduce the time and effort required to manage your email marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

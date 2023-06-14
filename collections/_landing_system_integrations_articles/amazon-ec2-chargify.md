@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/chargify
 author: Edward Saunders
 title: "Integrating Amazon EC2 and Chargify - Solving Billing and Infrastructure Challenges"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Chargify has made it easier for businesses to manage their recurring billing and infrastructure requirements"
 leadtext: "The integration lets businesses automate their billing and invoicing processes and reduce manual intervention. By enabling businesses to focus on their core competencies, the integration helps them to grow and expand without worrying about infrastructure challenges."
 image: /assets/images/articles/people-sitting-near-table.webp

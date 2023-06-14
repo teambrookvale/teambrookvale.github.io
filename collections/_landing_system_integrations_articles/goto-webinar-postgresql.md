@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/postgresql
 author: Edward Saunders
 title: "Integrating GoTo Webinar and PostgreSQL"
+topic: System Integration
 leadhead: "In conclusion, the integration of GoTo Webinar and PostgreSQL through API or SDK provides numerous benefits for businesses and organizations"
 leadtext: "It streamlines the process of capturing and storing attendee data, making it easier to analyze and use for targeted marketing and sales strategies. Overall, this integration is a powerful tool for any organization looking to streamline their webinar and online meeting processes."
 image: /assets/images/articles/people-sitting-near-table.webp

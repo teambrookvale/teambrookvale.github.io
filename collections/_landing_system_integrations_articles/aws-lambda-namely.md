@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/namely
 author: Edward Saunders
 title: "AWS Lambda and Namely Integration"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Namely through an API or SDK can help organizations automate their HR processes and improve the management of employee data"
 leadtext: "By eliminating manual data entry, improving data synchronization, and enabling automation, HR teams can focus on more strategic tasks that add value to the organization. Overall, the integration of AWS Lambda and Namely can improve the efficiency and effectiveness of HR operations."
 image: /assets/images/articles/people-sitting-near-table.webp

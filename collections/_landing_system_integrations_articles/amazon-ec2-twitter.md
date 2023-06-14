@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/twitter
 author: Edward Saunders
 title: "How Amazon EC2 Integration with Twitter API Solves Problems for Businesses"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 with Twitter's API or SDK provides businesses with a powerful tool to engage with their audience, scale their social media efforts, and customize their strategies to meet their unique needs"
 leadtext: "By using this integration, businesses can stay ahead of the competition and build lasting relationships with their customers on social media."
 image: /assets/images/articles/people-sitting-near-table.webp

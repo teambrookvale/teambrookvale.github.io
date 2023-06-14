@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-cloudfront
 author: Edward Saunders
 title: "Amazon SQS & Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Amazon CloudFront provides a powerful solution for building scalable, reliable, and fast microservices architectures that can deliver high-quality content to users around the world"
 leadtext: "By leveraging these services through the use of APIs or SDKs, developers can streamline their development process and reduce the complexity of their applications."
 image: /assets/images/articles/people-sitting-near-table.webp

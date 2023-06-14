@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/salesforce
 author: Edward Saunders
 title: "Moodle and Salesforce Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Salesforce can offer many benefits to organizations"
 leadtext: "By using APIs or SDKs to connect the two systems, businesses can create a more efficient workflow that ensures that everyone has access to the right information. This integration is a great way for businesses to work smarter, not harder, and achieve their goals more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

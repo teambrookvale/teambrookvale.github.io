@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/whmcs
 author: Edward Saunders
 title: "Integration of BambooHR and WHMCS"
+topic: System Integration
 leadhead: "The integration of BambooHR and WHMCS is a powerful tool that can streamline HR and billing processes for web hosting companies"
 leadtext: "Companies can use the integration to automate manual tasks, reduce errors, and improve data accuracy. With the number of benefits it offers, it's no wonder that many businesses have adopted and benefited from this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/sugarcrm-7-
 author: Edward Saunders
 title: "Facebook Custom Audiences Integration with SugarCRM 7+"
+topic: System Integration
 leadhead: "Integrating Facebook Custom Audiences with SugarCRM 7+ provides businesses with an effective and efficient way to target their existing customers and prospects while also improving engagement rates"
 leadtext: "It’s a powerful combination that can help businesses drive better results for their advertising and sales efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

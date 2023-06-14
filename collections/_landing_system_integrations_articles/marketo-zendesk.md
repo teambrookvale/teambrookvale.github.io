@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/zendesk
 author: Edward Saunders
 title: "Marketo and Zendesk Integration: Solving Customer Relationship Problems"
+topic: System Integration
 leadhead: "Marketo and Zendesk are powerful CRM tools that, when integrated, offer many benefits"
 leadtext: "The integration helps businesses improve their lead conversion rates, provide a better customer experience, and align their marketing and support activities. As businesses continue to focus on customer relationships, integration with Marketo and Zendesk provides them with a competitive advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

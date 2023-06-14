@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating MySQL with Facebook Lead Ads"
+topic: System Integration
 leadhead: "Integrating MySQL with Facebook Lead Ads is an efficient way for businesses to generate leads and improve their conversions"
 leadtext: "By utilizing APIs and SDKs, developers can streamline data management and analysis for their Facebook campaigns. As a result, businesses can enhance their advertising strategy, increase their ROI, and ultimately drive more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

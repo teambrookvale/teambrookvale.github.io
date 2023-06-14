@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-sqs
 author: Edward Saunders
 title: "Upwork and Amazon SQS Integration"
+topic: System Integration
 leadhead: "Upwork and Amazon SQS can be integrated through APIs or SDKs to automate tasks, reduce errors, and improve efficiency"
 leadtext: "This integration can solve several problems faced by businesses and individuals in today's fast-paced world. By taking advantage of these technologies and their integration, businesses and individuals can streamline their workflows and focus on growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

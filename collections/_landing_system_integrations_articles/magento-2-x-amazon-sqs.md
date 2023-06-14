@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-sqs
 author: Edward Saunders
 title: "Magento 2.X and Amazon SQS Integration"
+topic: System Integration
 leadhead: "Magento 2.X and Amazon SQS integration is a powerful solution that can improve the scalability and fault tolerance of an e-commerce platform"
 leadtext: "Using API or SDK, the integration can be easily achieved, providing an architecture that enables decoupling of different services and high reliability in message delivery."
 image: /assets/images/articles/people-sitting-near-table.webp

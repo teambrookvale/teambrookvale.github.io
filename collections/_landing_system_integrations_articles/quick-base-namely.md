@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/namely
 author: Edward Saunders
 title: "Quick Base and Namely Integration: Streamline Your HR Management"
+topic: System Integration
 leadhead: "Overall, the integration between Quick Base and Namely can help businesses optimize HR management, making processes more efficient, minimizing errors and delays, and improving data accuracy"
 leadtext: "With the flexibility and scalability of Quick Base and the all-in-one features of Namely, businesses can give their HR teams the tools they need to succeed."
 image: /assets/images/articles/people-sitting-near-table.webp

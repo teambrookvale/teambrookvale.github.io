@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/goto-webinar
 author: Edward Saunders
 title: "SugarCRM and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM and GoTo Webinar through API or SDK is a valuable tool for businesses looking to streamline their lead generation and follow-up processes"
 leadtext: "By automating the data entry and follow-up process, businesses can save time and potentially convert more leads into customers. The integration also provides greater visibility into webinar attendance and helps sales teams make more informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

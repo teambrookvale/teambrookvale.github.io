@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/moodle
 author: Edward Saunders
 title: "Greenhouse and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Moodle can help companies streamline their recruitment and training processes, leading to improved employee performance and retention"
 leadtext: "By using APIs or SDKs, organizations can achieve seamless data transfer between the two systems, eliminating the need for manual data entry and improving the accuracy of candidate information and training records."
 image: /assets/images/articles/people-sitting-near-table.webp

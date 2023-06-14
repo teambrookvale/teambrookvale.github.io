@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/linkedin-ads
 author: Edward Saunders
 title: "Expensify and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and LinkedIn Ads is a powerful solution for businesses looking to streamline their advertising and expense management processes"
 leadtext: "By syncing their advertising data with the expense management platform, businesses can improve their financial reporting and make informed decisions about their advertising budget."
 image: /assets/images/articles/people-sitting-near-table.webp

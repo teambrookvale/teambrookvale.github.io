@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/pardot
 author: Edward Saunders
 title: "Namely and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Namely and Pardot is a game-changer for businesses looking to improve collaboration between HR and marketing teams"
 leadtext: "By integrating the two through API or SDK, businesses can streamline operations, enhance data accuracy, and improve productivity. Namely and Pardot are powerful tools on their own, but when combined, they provide even greater value to businesses in terms of data visibility and collaboration."
 image: /assets/images/articles/people-sitting-near-table.webp

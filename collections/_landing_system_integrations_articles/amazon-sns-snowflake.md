@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/snowflake
 author: Edward Saunders
 title: "Integration of Amazon SNS and Snowflake"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Snowflake provides a powerful combination for data management and analysis"
 leadtext: "It allows organizations to quickly and easily access real-time data and insights, while maintaining consistency across different systems."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-seller-central
 author: Edward Saunders
 title: "How Calldrip and Amazon Seller Central Integration Solves E-commerce Problems"
+topic: System Integration
 leadhead: "Calldrip and Amazon Seller Central are powerful tools on their own, but when integrated, they offer a solution to many e-commerce problems"
 leadtext: "This integration allows you to provide a faster, more efficient, and more personalized customer experience, all while reducing errors and increasing sales. If you’re an e-commerce seller on Amazon, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

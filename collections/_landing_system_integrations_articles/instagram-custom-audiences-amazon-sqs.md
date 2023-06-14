@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/amazon-sqs
 author: Edward Saunders
 title: "Instagram Custom Audiences and Amazon SQS Integration"
+topic: System Integration
 leadhead: "Overall, integrating Instagram Custom Audiences and Amazon SQS can help businesses improve their ad campaigns by allowing them to create targeted ads based on data they already have"
 leadtext: "By using Amazon SQS to manage the data, businesses can ensure that the messages sent and received are independent, which improves scalability and reliability. This integration is a great way for businesses to improve their data management and reach their desired audience."
 image: /assets/images/articles/people-sitting-near-table.webp

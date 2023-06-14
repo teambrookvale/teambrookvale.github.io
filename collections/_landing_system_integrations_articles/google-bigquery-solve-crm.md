@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/solve-crm
 author: Edward Saunders
 title: "Integration of Google BigQuery and Solve CRM"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Solve CRM through API or SDK provides businesses with a powerful tool for storing, analyzing, and managing customer data"
 leadtext: "This integration enables businesses to gain valuable insights into customer behavior and make data-driven decisions that drive business growth and improve customer satisfaction. By using this integration, businesses can stay ahead of the competition and deliver exceptional customer experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

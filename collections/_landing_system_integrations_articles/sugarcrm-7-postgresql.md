@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/postgresql
 author: Edward Saunders
 title: "SugarCRM 7+ and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and PostgreSQL provides businesses with a powerful solution for managing their customer relationships"
 leadtext: "By leveraging SugarCRM's flexibility and PostgreSQL's performance and scalability, businesses can streamline their customer management processes, tailor the system to their specific needs, and generate custom reports and analytics that provide valuable insights into their customer data."
 image: /assets/images/articles/people-sitting-near-table.webp

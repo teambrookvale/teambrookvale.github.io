@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of MySQL and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "In conclusion, the integration of MySQL and SugarCRM 6.2-5 through API or SDK has a number of benefits for businesses"
 leadtext: "It improves data accuracy, reduces data redundancy, and reduces time wastage. This integration is a powerful tool that can help businesses achieve their goals faster and more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

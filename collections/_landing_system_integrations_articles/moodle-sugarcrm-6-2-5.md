@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Moodle and SugarCRM 6.2-5 Integration"
+topic: System Integration
 leadhead: "Integrating software systems and platforms is essential for maximizing productivity and improving business operations"
 leadtext: "The integration of Moodle and SugarCRM 6.2-5 through API or SDK can help businesses manage their customer data and optimize training programs more effectively, ultimately leading to better outcomes for all involved."
 image: /assets/images/articles/people-sitting-near-table.webp

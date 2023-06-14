@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/amazon-seller-central
 author: Edward Saunders
 title: "Integrating Instagram Lead Ads and Amazon Seller Central"
+topic: System Integration
 leadhead: "Integrating Instagram lead ads and Amazon Seller Central through API or SDK can be a game-changer for your business"
 leadtext: "This integration allows you to streamline your lead generation process and target potential customers in a more efficient way. With the ability to track your sales, you can measure the effectiveness of your advertising efforts and make necessary changes. Don't miss out on this opportunity to optimize your social media advertising efforts for your Amazon business."
 image: /assets/images/articles/people-sitting-near-table.webp

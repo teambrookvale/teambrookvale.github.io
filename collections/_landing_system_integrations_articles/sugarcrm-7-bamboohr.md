@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/bamboohr
 author: Edward Saunders
 title: "SugarCRM 7+ and BambooHR Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating SugarCRM 7+ and BambooHR through API or SDK helps businesses to streamline their sales and HR processes, improve their customer experience, and ultimately drive growth"
 leadtext: "It is therefore important for businesses to explore this integration and take advantage of the benefits it offers."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/sql-server
 author: Edward Saunders
 title: "Integration of Pardot and SQL Server"
+topic: System Integration
 leadhead: "Integrating Pardot and SQL Server can reap significant benefits for businesses"
 leadtext: "It helps them manage their leads better, gain valuable data insights, and streamline their marketing processes. By leveraging these two powerful tools, businesses can stay ahead of the competition and drive more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

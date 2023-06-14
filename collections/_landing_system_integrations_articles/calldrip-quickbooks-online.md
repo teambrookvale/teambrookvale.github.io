@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/quickbooks-online
 author: Edward Saunders
 title: "Integrating Calldrip and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of Calldrip and QuickBooks Online is a smart move for businesses that want to streamline their lead management and accounting processes"
 leadtext: "With the help of API or SDK, the two systems can communicate seamlessly and provide many benefits, including time savings, better lead management, and accurate financial data."
 image: /assets/images/articles/people-sitting-near-table.webp

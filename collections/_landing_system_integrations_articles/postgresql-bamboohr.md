@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/bamboohr
 author: Edward Saunders
 title: "Integrating PostgreSQL and BambooHR through API or SDK - A Solution to Many Problems"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and BambooHR through API or SDK can provide many benefits to businesses"
 leadtext: "From automating HR-related tasks to providing real-time HR analytics and reporting, integration can save time and resources while ensuring data accuracy and integrity. It can also solve many HR-related problems faced by businesses today. Therefore, businesses looking to streamline their HR operations should consider integrating PostgreSQL and BambooHR through API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

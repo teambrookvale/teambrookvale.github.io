@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating Amazon S3 and Webhooks by Zapier to Streamline Your Workflows"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Webhooks by Zapier is a powerful way to streamline your business workflows and save time and energy"
 leadtext: "By using the APIs or SDKs of these tools, you can automate tasks and data management, and make sure that your data is shared seamlessly across different applications. When you integrate Amazon S3 and Webhooks by Zapier, you can enjoy more efficient workflows and greater productivity for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

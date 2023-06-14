@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/google-groups
 author: Edward Saunders
 title: "Integrating SQL Server with Google Groups API/SDK"
+topic: System Integration
 leadhead: "Integrating SQL Server with Google Groups API/SDK can significantly benefit businesses and organizations by streamlining workflows and improving communication"
 leadtext: "By leveraging these two tools' strengths, businesses can achieve better project management, save time and resources, and improve collaboration across teams."
 image: /assets/images/articles/people-sitting-near-table.webp

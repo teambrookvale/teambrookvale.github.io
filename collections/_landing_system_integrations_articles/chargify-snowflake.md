@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/snowflake
 author: Edward Saunders
 title: "Chargify and Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Snowflake can provide businesses with the ability to manage their subscriptions and data more efficiently"
 leadtext: "By using APIs or SDKs, businesses can seamlessly integrate these two platforms and solve common problems related to recurring billing, customer data management, and scaling their operations. With the integration of these platforms, businesses can become more data-driven and make more informed decisions about their business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

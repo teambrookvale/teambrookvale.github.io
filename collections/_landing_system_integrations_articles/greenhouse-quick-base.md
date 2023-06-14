@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/quick-base
 author: Edward Saunders
 title: "Greenhouse and Quick Base Integration to Streamline Recruitment Processes"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Quick Base provides a comprehensive solution for companies looking to optimize their recruitment processes"
 leadtext: "By leveraging the power of automation and customization, the integration streamlines communication and data management, reducing manual workload and increasing efficiency and accuracy. With this integration, companies can focus on finding the best talent and creating a positive candidate experience while leaving the tedious administrative tasks to the software."
 image: /assets/images/articles/people-sitting-near-table.webp

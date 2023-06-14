@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/instagram-lead-ads
 author: Edward Saunders
 title: "How Keap Max Classic and Instagram Lead Ads Integration Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Instagram Lead Ads can provide businesses with a powerful way to manage their leads and attract new customers"
 leadtext: "By using these two tools together, businesses can improve their lead tracking, lead quality, and follow-up time, which can ultimately lead to increased revenue and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

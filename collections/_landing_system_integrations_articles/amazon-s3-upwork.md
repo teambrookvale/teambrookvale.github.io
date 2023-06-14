@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/upwork
 author: Edward Saunders
 title: "Integrating Amazon S3 and Upwork: Solving Problems"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Upwork through API or SDK is a powerful tool that solves many problems for businesses"
 leadtext: "It enables secure, scalable, and cost-effective data storage and management, while also facilitating efficient collaboration between freelancers and businesses. By using these two tools together, businesses can improve productivity and reduce costs, ultimately leading to a more successful business."
 image: /assets/images/articles/people-sitting-near-table.webp

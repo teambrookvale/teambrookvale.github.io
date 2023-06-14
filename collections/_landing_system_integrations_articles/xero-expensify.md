@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/expensify
 author: Edward Saunders
 title: "Integrating Xero and Expensify: A Powerful Combination"
+topic: System Integration
 leadhead: "By integrating Xero and Expensify, businesses can take advantage of the best features of each software and get a complete view of their finances and expenses"
 leadtext: "Whether you're a small business owner or a finance manager for a large company, integrating Xero and Expensify is an investment that can save you time, money, and headaches in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

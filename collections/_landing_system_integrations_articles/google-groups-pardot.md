@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/pardot
 author: Edward Saunders
 title: "Integrating Google Groups and Pardot through API or SDK"
+topic: System Integration
 leadhead: "The integration of Google Groups and Pardot through API or SDK is a powerful marketing automation tool that enables businesses or organizations to automate their email marketing campaigns, improve their engagement levels, and drive more revenue"
 leadtext: "By using this integration, businesses or organizations can seamlessly add or remove subscribers from their email lists, track their email campaigns' performance, and create targeted email campaigns that resonate with their subscribers."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/facebook-custom-audiences
 author: Edward Saunders
 title: "Integrating ServiceNow and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Facebook Custom Audiences can be a game-changer for businesses looking to improve their marketing efforts"
 leadtext: "By leveraging the power of both platforms, businesses can take their customer data management and marketing campaigns to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

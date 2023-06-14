@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/linkedin-ads
 author: Edward Saunders
 title: "Zendesk and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and LinkedIn Ads is an ultimate combination that can help businesses enhance their customer support and marketing operations"
 leadtext: "It allows businesses to provide excellent customer experience and generate leads by syncing their customer support and marketing efforts. If you are looking to take your business to the next level, consider integrating Zendesk and LinkedIn Ads."
 image: /assets/images/articles/people-sitting-near-table.webp

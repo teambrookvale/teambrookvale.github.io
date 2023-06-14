@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/magento-2-x
 author: Edward Saunders
 title: "Zoho CRM and Magento 2.X Integration"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and Magento 2.X can bring significant benefits to businesses"
 leadtext: "Through the use of APIs or SDK, businesses can better manage their operations, avoid manual errors, and gain a more comprehensive view of their customers' experiences. By leveraging the power of these two software systems, businesses can optimize their operations and provide better customer service."
 image: /assets/images/articles/people-sitting-near-table.webp

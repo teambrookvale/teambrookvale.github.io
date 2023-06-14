@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/pardot
 author: Edward Saunders
 title: "Snowflake and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Pardot provides businesses with a powerful toolset for data analysis, lead tracking and marketing automation"
 leadtext: "The combination of Snowflake's data warehousing and analytics capabilities with Pardot's lead tracking and marketing automation features makes this integration a valuable tool for businesses looking to increase their sales and marketing effectiveness."
 image: /assets/images/articles/people-sitting-near-table.webp

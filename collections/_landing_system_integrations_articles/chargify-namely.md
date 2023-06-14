@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/namely
 author: Edward Saunders
 title: "Integrating Chargify and Namely: A Solution for HR and Billing Teams"
+topic: System Integration
 leadhead: "The integration of Chargify and Namely can help businesses streamline HR and billing tasks, reduce errors, and save time and money"
 leadtext: "By automating data entry and eliminating discrepancies between HR and billing information, businesses can optimize their workflows and ensure compliance with regulations."
 image: /assets/images/articles/people-sitting-near-table.webp

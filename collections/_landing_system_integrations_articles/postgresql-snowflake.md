@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/snowflake
 author: Edward Saunders
 title: "PostgreSQL and Snowflake Integration"
+topic: System Integration
 leadhead: "In conclusion, while PostgreSQL and Snowflake have different functionalities, their integration can provide significant benefits to organizations"
 leadtext: "PostgreSQL is known for its flexibility and advanced capabilities, while Snowflake offers cloud-based data warehousing and analytics."
 image: /assets/images/articles/people-sitting-near-table.webp

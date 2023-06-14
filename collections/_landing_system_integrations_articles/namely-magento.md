@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/magento
 author: Edward Saunders
 title: "Integrating Magento and Namely: Solving Your HR and eCommerce Challenges"
+topic: System Integration
 leadhead: "Integrating Namely, an HR management platform, with Magento, an eCommerce platform, has become effortless"
 leadtext: "By using API or SDK, eCommerce store owners can streamline their operations, reduce manual tasks, and boost their overall efficiency. The use of automated, reliable, and scalable technology for HR management and eCommerce creates a competitive advantage for businesses. The Namely and Magento integration helps eCommerce store owners steer away from tedious manual processes and focus instead on growing their business and meeting customer demands."
 image: /assets/images/articles/people-sitting-near-table.webp

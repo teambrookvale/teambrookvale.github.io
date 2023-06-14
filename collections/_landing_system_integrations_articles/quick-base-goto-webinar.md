@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/goto-webinar
 author: Edward Saunders
 title: "Integrating Quick Base and GoTo Webinar for Improved Efficiency"
+topic: System Integration
 leadhead: "Integrating Quick Base and GoTo Webinar is a simple but powerful way to improve efficiency and productivity in any business"
 leadtext: "With the integration, businesses can streamline their operations, reduce errors, save time, and make better decisions. Whether you're just starting out or looking to grow your business, integrating Quick Base and GoTo Webinar is an investment that can pay off in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

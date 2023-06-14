@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/salesforce
 author: Edward Saunders
 title: "Zapier and Salesforce Integration: How AI Makes it Better"
+topic: System Integration
 leadhead: "Zapier and Salesforce integration using API or SDK can help businesses automate repetitive tasks, gain insights from customer data, and increase their productivity"
 leadtext: "This powerful combination of automation and CRM tools can also save time, eliminate errors, and streamline processes for businesses. By leveraging the power of AI, businesses can gain a competitive edge in their industry and stay ahead of the curve."
 image: /assets/images/articles/people-sitting-near-table.webp

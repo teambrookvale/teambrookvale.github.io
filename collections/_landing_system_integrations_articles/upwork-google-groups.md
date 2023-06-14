@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/google-groups
 author: Edward Saunders
 title: "Integrating Upwork with Google Groups: A Solution to Streamline Your Workflow"
+topic: System Integration
 leadhead: "Integrating Upwork with Google Groups is a smart way to optimize your workflow and increase your productivity as a freelancer or business owner"
 leadtext: "By using the API or SDK, you can streamline your communication, updates, and collaborations in a single platform, and stay on top of your projects more effectively. Give it a try and see how it can transform your work experience!"
 image: /assets/images/articles/people-sitting-near-table.webp

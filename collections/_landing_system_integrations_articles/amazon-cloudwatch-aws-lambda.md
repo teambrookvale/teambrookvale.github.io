@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/aws-lambda
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and AWS Lambda"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and AWS Lambda via API or SDK is a useful way for developers to monitor and troubleshoot Lambda functions"
 leadtext: "This integration helps developers to easily monitor the performance and health of different Lambda functions, set up alarms to notify them of any issues, and optimize the cost and efficiency of Lambda functions. This integration is a must-have for any developers who rely on AWS Lambda to run their applications"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/chargify
 author: Edward Saunders
 title: "Integrating Amazon SNS and Chargify for Seamless Payment Processing"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and Chargify offers numerous benefits for businesses that rely on recurring revenue streams"
 leadtext: "By automating payment processing and subscription management, businesses can reduce manual intervention, improve the customer experience, and increase operational efficiency. With the use of APIs and SDKs, the integration is easy to implement and can be customized to fit the needs of any business."
 image: /assets/images/articles/people-sitting-near-table.webp

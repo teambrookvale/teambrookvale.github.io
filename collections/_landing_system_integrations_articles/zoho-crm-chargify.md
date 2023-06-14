@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/chargify
 author: Edward Saunders
 title: "Zoho CRM and Chargify Integration - Benefits and Advantages"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Chargify is a powerful solution for businesses looking to improve their sales and billing processes"
 leadtext: "With this integration, businesses can streamline their workflows, improve customer experience and increase revenue. Regardless of the size of your business, the integration of Zoho CRM and Chargify is definitely worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/aws-lambda
 author: Edward Saunders
 title: "PayPal and AWS Lambda: A Powerful Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and AWS Lambda provides merchants with a powerful payment processing system that is scalable, reliable, and cost-effective"
 leadtext: "By automating their payment workflows and leveraging the serverless compute power of AWS Lambda, merchants can focus on growing their business without worrying about the technical details of payment processing. This integration is a great example of how two technologies can come together to create a solution that is greater than the sum of its parts."
 image: /assets/images/articles/people-sitting-near-table.webp

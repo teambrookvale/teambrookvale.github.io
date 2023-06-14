@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/greenhouse
 author: Edward Saunders
 title: "Amazon Polly and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Greenhouse through API or SDK offers several benefits that help improve efficiency, accessibility, and user experience"
 leadtext: "Companies can leverage this integration to enhance their recruitment process and reach a wider audience, while also saving time and effort."
 image: /assets/images/articles/people-sitting-near-table.webp

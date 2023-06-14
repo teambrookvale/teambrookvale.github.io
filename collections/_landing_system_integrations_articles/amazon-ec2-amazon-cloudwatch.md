@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Amazon CloudWatch"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Amazon CloudWatch provides a powerful set of tools for managing and monitoring the AWS infrastructure"
 leadtext: "With the API or SDK, developers can easily access and use the CloudWatch features from within their applications or services running on EC2 instances. This integration helps in maintaining high availability, reliability, and performance of the cloud resources, and enables users to react quickly to any issues or changes in the system."
 image: /assets/images/articles/people-sitting-near-table.webp

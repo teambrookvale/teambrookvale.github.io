@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/magento
 author: Edward Saunders
 title: "Why integration of WHMCS and Magento can benefit e-commerce businesses"
+topic: System Integration
 leadhead: "In conclusion, integration of WHMCS and Magento can be a game-changer for e-commerce businesses"
 leadtext: "It streamlines the operations and improves the customer experience. With the integration through API or SDK, businesses can easily manage their web hosting and store operations, resulting in increased efficiency and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

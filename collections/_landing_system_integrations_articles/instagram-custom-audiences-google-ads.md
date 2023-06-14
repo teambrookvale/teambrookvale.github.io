@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/google-ads
 author: Edward Saunders
 title: "Instagram Custom Audiences and Google Ads Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Instagram Custom Audiences and Google Ads is an effective way to optimize your digital marketing strategy"
 leadtext: "By improving efficiency, increasing reach, and driving conversions, this integration is essential for any marketer looking to stay ahead of the competition. With so many benefits, it's clear that today's marketers need to take advantage of this integration and make it a priority in their digital marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/webhooks-by-zapier
 author: Edward Saunders
 title: "Amazon Polly and Webhooks by Zapier: A Powerful Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon Polly and Webhooks by Zapier is a powerful combination that can improve your customer engagement and save you time and resources"
 leadtext: "By using their API or SDK, you can easily integrate the two technologies and create personalized voice messages for your customers. It's time to take your customer engagement to the next level with Amazon Polly and Webhooks by Zapier."
 image: /assets/images/articles/people-sitting-near-table.webp

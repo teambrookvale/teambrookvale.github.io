@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/calldrip
 author: Edward Saunders
 title: "Integrating ServiceNow and Calldrip through API or SDK"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Calldrip through API or SDK can enable businesses to optimize their workflows, automate tasks, and improve customer interactions"
 leadtext: "By leveraging the strengths of both platforms, companies can achieve better outcomes and drive growth. If you are interested in implementing this integration for your business, consult with your IT department or contact the developers of ServiceNow and Calldrip."
 image: /assets/images/articles/people-sitting-near-table.webp

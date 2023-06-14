@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/marketo
 author: Edward Saunders
 title: "Amazon EC2 and Marketo Integration"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Marketo is a powerful tool that can help businesses to achieve their marketing goals more efficiently"
 leadtext: "By automating their marketing processes using the compute capacity provided by Amazon EC2, businesses can scale their marketing campaigns and process a larger volume of data more efficiently. Ultimately, this can result in better decisions and better results for the business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/upwork
 author: Edward Saunders
 title: "PayPal and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Upwork through API or SDK is a significant development that benefits both businesses and freelancers"
 leadtext: "By allowing businesses to pay their freelancers through PayPal, it streamlines the payment process and eliminates the need for businesses to use multiple payment gateways. This saves time and money and makes life easier for businesses and freelancers alike. Overall, the integration of PayPal and Upwork through API or SDK is a win-win situation for everyone involved."
 image: /assets/images/articles/people-sitting-near-table.webp

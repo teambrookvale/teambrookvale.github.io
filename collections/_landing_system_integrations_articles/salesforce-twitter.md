@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/twitter
 author: Edward Saunders
 title: "Salesforce and Twitter Integration: Solving Problems for Businesses"
+topic: System Integration
 leadhead: "The integration of Salesforce and Twitter through API or SDK offers businesses the opportunity to engage with customers in unprecedented ways"
 leadtext: "It can help businesses to better understand their customers, respond to their needs in real-time and provide immediate support. Integrating Twitter data with Salesforce allows businesses to better manage their customer relationships and improve their overall customer experience. The combination of these two powerful tools is a game-changer for businesses looking to stay ahead of their competition."
 image: /assets/images/articles/people-sitting-near-table.webp

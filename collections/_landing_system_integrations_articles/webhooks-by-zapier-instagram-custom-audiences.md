@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/instagram-custom-audiences
 author: Edward Saunders
 title: "Webhooks by Zapier and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Instagram Custom Audiences is a powerful tool for businesses looking to optimize their advertising strategies"
 leadtext: "By automating the process of creating and managing Custom Audiences, businesses can save time and ensure that their ads are being targeted to the right users. With the help of API or SDK, this integration can be set up quickly and easily."
 image: /assets/images/articles/people-sitting-near-table.webp

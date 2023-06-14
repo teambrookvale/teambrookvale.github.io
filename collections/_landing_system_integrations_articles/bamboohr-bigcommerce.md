@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/bigcommerce
 author: Edward Saunders
 title: "Integrating BambooHR and BigCommerce"
+topic: System Integration
 leadhead: "The integration of BambooHR and BigCommerce is a powerful tool for e-commerce businesses that want to streamline their HR processes and improve their efficiency"
 leadtext: "By automating tasks and improving communication between HR and e-commerce teams, businesses can save time, reduce errors, and focus on growing their online stores."
 image: /assets/images/articles/people-sitting-near-table.webp

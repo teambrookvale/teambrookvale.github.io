@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/goto-webinar
 author: Edward Saunders
 title: "Expensify and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Expensify and GoTo Webinar is a useful tool that can improve efficiency and accuracy in expense tracking and reporting"
 leadtext: "By utilizing their API or SDK, users can streamline the process and reduce potential errors while also gaining better visibility and control of expenses associated with webinars."
 image: /assets/images/articles/people-sitting-near-table.webp

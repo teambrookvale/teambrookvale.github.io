@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/chargify
 author: Edward Saunders
 title: "Integration of Marketo and Chargify"
+topic: System Integration
 leadhead: "The integration of Marketo and Chargify through API or SDK solves many problems faced by businesses that are looking to improve their marketing automation and subscription billing process"
 leadtext: "This integration helps to streamline the billing process, automate marketing efforts, and improve sales performance, resulting in improved revenue growth for the business. Therefore, it is recommended that businesses consider integrating these two platforms to optimize their revenue strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

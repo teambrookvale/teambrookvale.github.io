@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/magento-2-x
 author: Edward Saunders
 title: "GoTo Webinar and Magento 2.X Integration: Solving E-commerce Problems"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Magento 2.X through an API or SDK is a powerful way for businesses to increase engagement, establish authority, generate more qualified leads, and reduce churn"
 leadtext: "As competition in e-commerce continues to intensify, businesses that are willing to explore new tools and technologies are more likely to stay ahead of the curve."
 image: /assets/images/articles/people-sitting-near-table.webp

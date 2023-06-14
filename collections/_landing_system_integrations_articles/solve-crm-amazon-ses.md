@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-ses
 author: Edward Saunders
 title: "Solving CRM Problems with Amazon SES Integration"
+topic: System Integration
 leadhead: "The integration of Solve CRM with Amazon SES can help businesses solve several problems they may face when sending emails to customers"
 leadtext: "Low inbox deliverability, email reputation management, and scalability can all be addressed by integrating Solve CRM with Amazon SES. By doing so, businesses can ensure that their emails reach their intended recipients and improve the overall success of their email marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

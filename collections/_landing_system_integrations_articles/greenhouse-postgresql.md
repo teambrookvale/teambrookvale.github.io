@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/postgresql
 author: Edward Saunders
 title: "The Integration of Greenhouse and PostgreSQL"
+topic: System Integration
 leadhead: "The integration of Greenhouse and PostgreSQL is a powerful solution for businesses looking to streamline their recruitment processes"
 leadtext: "It can help companies save time, reduce manual work, centralize data, and improve tracking and reporting. In today's competitive market, businesses need every advantage they can get. Integrating these two tools is an excellent way to stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

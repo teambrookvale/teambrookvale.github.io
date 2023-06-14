@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/amazon-cloudwatch
 author: Edward Saunders
 title: "Pinterest and Amazon CloudWatch Integration- How It Solves Problems"
+topic: System Integration
 leadhead: "The integration of Pinterest and Amazon CloudWatch through API or SDK provides businesses an opportunity to gather insights about potential and existing customers"
 leadtext: "It can help businesses to build better business strategies, enhance customer experience, and improve product development."
 image: /assets/images/articles/people-sitting-near-table.webp

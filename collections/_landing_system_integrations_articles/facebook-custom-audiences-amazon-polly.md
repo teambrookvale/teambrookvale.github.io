@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/amazon-polly
 author: Edward Saunders
 title: "How Facebook Custom Audiences and Amazon Polly Work Together"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Amazon Polly provides a unique and effective way for advertisers to reach their desired audience"
 leadtext: "By incorporating audio into their ads, they can make them more engaging and accessible. Additionally, the ability to create ads in multiple languages can help them reach a wider audience. Overall, this integration serves as a great example of how different technologies can work together to create new opportunities for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

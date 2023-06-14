@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/amazon-ec2
 author: Edward Saunders
 title: "Amazon CloudWatch and EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and EC2 is an essential component of any AWS-based application architecture"
 leadtext: "It provides real-time monitoring, automated scaling, and automatic task management, allowing your team to focus on developing and deploying applications that meet the needs of your business."
 image: /assets/images/articles/people-sitting-near-table.webp

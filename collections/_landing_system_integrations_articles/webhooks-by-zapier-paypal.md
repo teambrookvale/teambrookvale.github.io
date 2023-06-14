@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/paypal
 author: Edward Saunders
 title: "Integrating PayPal and Zapier Webhooks"
+topic: System Integration
 leadhead: "Integrating PayPal and Zapier Webhooks has become a game-changer for businesses that deal with online transactions"
 leadtext: "With seamless integration, they can automate tedious tasks and focus on scaling their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/bigcommerce
 author: Edward Saunders
 title: "Webhooks by Zapier and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and BigCommerce can make the management of an online store a whole lot easier"
 leadtext: "By automating the inventory management and payment processing processes, businesses can focus on other aspects of their business, such as marketing and customer service."
 image: /assets/images/articles/people-sitting-near-table.webp

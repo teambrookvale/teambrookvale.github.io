@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-dynamodb
 author: Edward Saunders
 title: "Magento and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Amazon DynamoDB is a powerful combination that can help ecommerce businesses to scale, customize, and provide a better user experience to their customers"
 leadtext: "By leveraging the advantages of these two technologies, businesses can stay ahead of their competition and succeed in today’s fast-paced ecommerce landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-s3
 author: Edward Saunders
 title: "The Integration of Amazon SQS and Amazon S3"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Amazon S3 provides numerous benefits to developers who are looking to build scalable and reliable applications"
 leadtext: "The integration of these two AWS services provides for a high level of flexibility, scalability, and security. It enables developers to build high-performance applications that can operate at scale and will continue to operate reliably and efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

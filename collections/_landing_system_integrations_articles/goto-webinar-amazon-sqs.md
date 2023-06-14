@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/amazon-sqs
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Amazon SQS is a powerful tool that enables organizations to manage and process complex data efficiently"
 leadtext: "By connecting the two, businesses can greatly streamline their automation workflows and cut down on the cost of running complex on-premises solutions. If you’re looking for a way to simplify your data management processes, consider integrating GoTo Webinar and Amazon SQS."
 image: /assets/images/articles/people-sitting-near-table.webp

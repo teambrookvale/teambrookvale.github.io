@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/amazon-sqs
 author: Edward Saunders
 title: "Integration of Pardot and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Pardot and Amazon SQS can provide significant benefits
       for businesses"
 leadtext: "Through this integration, lead data can flow seamlessly to

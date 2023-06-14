@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/pinterest
 author: Edward Saunders
 title: "Calldrip-Pinterest Integration: A Solution for Better Lead Generation"
+topic: System Integration
 leadhead: "The integration of Calldrip and Pinterest is a powerful tool for businesses looking to improve their lead generation efforts"
 leadtext: "It allows quick response to potential clients and gives them the edge over their competitors. With the significant number of active users on Pinterest, integrating Calldrip into business pages on the platform is a worthy investment. Lastly, with data derived from customers pins, businesses can measure the effectiveness of marketing efforts on the platform."
 image: /assets/images/articles/people-sitting-near-table.webp

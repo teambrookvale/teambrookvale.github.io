@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/pinterest
 author: Edward Saunders
 title: "Integrating Greenhouse and Pinterest: Solving Recruitment Roadblocks"
+topic: System Integration
 leadhead: "Integrating Greenhouse and Pinterest through API or SDK offers numerous benefits to recruiters and companies"
 leadtext: "It solves recruitment roadblocks and makes it easier for recruiters to find top talent. If you're a recruiter, it's time to consider integrating Greenhouse and Pinterest to make your recruitment process smoother and more effective."
 image: /assets/images/articles/people-sitting-near-table.webp

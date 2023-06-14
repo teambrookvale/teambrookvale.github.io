@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-dynamodb
 author: Edward Saunders
 title: "Calldrip and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Amazon DynamoDB offers companies a powerful tool for lead capture, tracking, and analysis"
 leadtext: "Whether using the API or SDK, businesses can ensure that all lead data is recorded and easily accessible, while also benefiting from DynamoDB's scalability and reliability. As more companies move towards cloud-based solutions, the integration of Calldrip and DynamoDB offers a competitive advantage for those looking to stay ahead in a crowded market."
 image: /assets/images/articles/people-sitting-near-table.webp

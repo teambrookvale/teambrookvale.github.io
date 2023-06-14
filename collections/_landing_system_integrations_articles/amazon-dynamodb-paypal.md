@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/paypal
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and PayPal: An Overview"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and PayPal is a powerful solution that can help businesses improve their payment processes while ensuring the security of their data"
 leadtext: "By reducing manual data entry and improving payment processing times, businesses can provide a better customer experience and increase their overall revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

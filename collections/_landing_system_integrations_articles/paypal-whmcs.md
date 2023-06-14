@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/whmcs
 author: Edward Saunders
 title: "Integration of PayPal and WHMCS"
+topic: System Integration
 leadhead: "The integration of PayPal and WHMCS can help you manage your online business more efficiently and effectively"
 leadtext: "By implementing this integration, you can provide a secure payment processing solution for your clients, set up automatic payments and recurring billing, and customize your payment solutions to meet the unique needs of your business. With the help of the integration of these two platforms, you can take your online business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

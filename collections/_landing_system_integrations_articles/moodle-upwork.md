@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/upwork
 author: Edward Saunders
 title: "Integration of Moodle and Upwork"
+topic: System Integration
 leadhead: "The integration of Moodle and Upwork provides a win-win situation for both educators and freelancers"
 leadtext: "It allows educators to create courses efficiently and easily find quality freelancers. On the other hand, freelancers can earn money by applying for course creation jobs, increasing their revenue. The integration also ensures that the course creation process maintains high standards, leading to better online learning experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

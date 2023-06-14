@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/google-bigquery
 author: Edward Saunders
 title: "Integrating Twitter and Google BigQuery for Improved Data Analysis"
+topic: System Integration
 leadhead: "Integrating Twitter and Google BigQuery can provide businesses with valuable insights into customer behavior, market trends, and much more"
 leadtext: "With the use of an API or SDK, the integration process is relatively straightforward, and businesses can start analyzing Twitter data in real-time. By leveraging the power of Google BigQuery, businesses can conduct advanced analytics on Twitter data, enabling them to make data-driven decisions that can improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

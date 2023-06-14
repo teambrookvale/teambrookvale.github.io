@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/aws-lambda
 author: Edward Saunders
 title: "Pardot and AWS Lambda Integration"
+topic: System Integration
 leadhead: "The integration of Pardot and AWS Lambda can help businesses improve their marketing strategies and automate their workflows"
 leadtext: "By leveraging Lambda functions, businesses can process and analyze data from Pardot and generate personalized content for their leads. With the help of API or SDK integration, businesses can easily set up this integration and start reaping the benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/moodle
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM and Moodle"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Moodle is a powerful tool for businesses and educational institutions alike"
 leadtext: "By exchanging customer data and leveraging it to improve sales, marketing, and learning experiences, this integration unlocks new possibilities for growth and innovation."
 image: /assets/images/articles/people-sitting-near-table.webp

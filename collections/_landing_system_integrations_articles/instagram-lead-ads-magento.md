@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/magento
 author: Edward Saunders
 title: "Instagram Lead Ads and Magento Integration"
+topic: System Integration
 leadhead: "Integrating Instagram Lead Ads and Magento is an excellent way for businesses to streamline their lead generation process and gain valuable insights into their marketing strategy"
 leadtext: "By automating the transfer of lead data, businesses can save time and focus on other important tasks. Furthermore, by tracking the conversion rate of leads to sales, businesses can make informed decisions about their marketing strategy moving forward."
 image: /assets/images/articles/people-sitting-near-table.webp

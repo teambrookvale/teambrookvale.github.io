@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/calldrip
 author: Edward Saunders
 title: "How Salesforce and Calldrip Integration benefit Businesses"
+topic: System Integration
 leadhead: "The integration of Salesforce and Calldrip is a game-changer for businesses"
 leadtext: "It enables businesses to streamline their sales and marketing process and improve customer relationship management. The Integration ensures that sales and marketing teams can access accurate and up-to-date data at all times while enjoying a better workflow, which enables higher conversion rates, close more deals, and foster better collaboration. Therefore, businesses should consider integrating their Salesforce and Calldrip systems for optimal results."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-seller-central
 author: Edward Saunders
 title: "Integrating Magento 2.x with Amazon Seller Central"
+topic: System Integration
 leadhead: "Overall, integrating Magento 2.x with Amazon Seller Central offers significant benefits for businesses looking to expand their reach and increase their revenue"
 leadtext: "By using the MWS or SP-API, businesses can easily manage their inventory and product listings across multiple platforms and connect with millions of customers. This integration is a great way for businesses to streamline their online operations and take their ecommerce business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

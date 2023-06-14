@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/goto-training
 author: Edward Saunders
 title: "Integration of MySQL and GoTo Training"
+topic: System Integration
 leadhead: "The integration of MySQL and GoTo Training offers several benefits for businesses"
 leadtext: "It allows efficient management of training data, better reporting and analysis, and integration with other systems. By using APIs or SDKs, businesses can easily integrate MySQL with GoTo Training and streamline their training processes."
 image: /assets/images/articles/people-sitting-near-table.webp

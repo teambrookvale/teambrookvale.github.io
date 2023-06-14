@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/twitter
 author: Edward Saunders
 title: "Pardot and Twitter Integration - The Perfect Combination"
+topic: System Integration
 leadhead: "The integration of Pardot and Twitter is a powerful tool that can help businesses extend their reach, engage with customers, and track ROI"
 leadtext: "By leveraging the strengths of each platform and bringing them together, businesses can create a comprehensive marketing strategy that generates leads and builds brand value."
 image: /assets/images/articles/people-sitting-near-table.webp

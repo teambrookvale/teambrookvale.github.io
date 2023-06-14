@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/greenhouse
 author: Edward Saunders
 title: "Expensify and Greenhouse Integration - Benefits and Solutions"
+topic: System Integration
 leadhead: "The integration of Expensify and Greenhouse provides an efficient and automated solution for businesses in managing their hiring and expenses"
 leadtext: "By synchronizing data between the two systems, companies can streamline their business processes, reduce errors, and save time and cost."
 image: /assets/images/articles/people-sitting-near-table.webp

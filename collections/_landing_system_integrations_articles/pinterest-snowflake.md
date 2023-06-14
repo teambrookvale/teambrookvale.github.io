@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/snowflake
 author: Edward Saunders
 title: "Pinterest and Snowflake: A Powerful Integration"
+topic: System Integration
 leadhead: "When used separately, Pinterest and Snowflake are powerful tools that can help businesses grow and make informed decisions"
 leadtext: "However, by integrating the two through an API or SDK, businesses can unlock even greater potential. With the ability to track, analyze, and optimize your Pinterest campaigns based on Snowflake insights, your business can stay ahead of the competition and achieve lasting success."
 image: /assets/images/articles/people-sitting-near-table.webp

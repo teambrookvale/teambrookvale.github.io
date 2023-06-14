@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/solve-crm
 author: Edward Saunders
 title: "Integration of SugarCRM 6.2-5 and Solve CRM"
+topic: System Integration
 leadhead: "Integrating SugarCRM and Solve CRM through API or SDK can create a powerful and agile CRM system that can help businesses transform their operations, sales, and customer management"
 leadtext: "By leveraging the strengths and capabilities of both CRMs, businesses can improve their workflows, enhance their data quality and consistency, and offer better customer experiences and outcomes. The integration can also boost their competitiveness, agility, and innovation, as well as generate better insights and ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

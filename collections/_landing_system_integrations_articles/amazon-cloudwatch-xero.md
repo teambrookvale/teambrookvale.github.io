@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/xero
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Xero for Efficient Operations"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Xero provides businesses with an efficient and streamlined way to manage their finances and operations"
 leadtext: "By using the APIs and SDKs, businesses can get access to real-time financial data, automated financial analysis and reporting, and enhanced visibility. It's safe to say that integrating these two cloud-based services can improve a business's overall efficiency and profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/bamboohr
 author: Edward Saunders
 title: "Integrating Calldrip and BambooHR for Streamlined Business Operations"
+topic: System Integration
 leadhead: "Calldrip and BambooHR are both powerful tools that can help your business run more smoothly and efficiently"
 leadtext: "By integrating them through API or SDK, you can gain even greater benefits. Not only will you be able to automate the flow of data between the two platforms, but you'll also eliminate the need for manual effort and reduce the chance of errors. If you're looking for a way to optimize your business operations, consider integrating these two tools today."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/amazon-polly
 author: Edward Saunders
 title: "Integrating AWS Lambda with Amazon Polly"
+topic: System Integration
 leadhead: "The integration of AWS Lambda with Amazon Polly can provide a seamless experience for developers to create lifelike speech in their applications"
 leadtext: "This integration can be beneficial in creating voice-enabled applications, audio books, podcast, among others. The adoption of this integration can also provide accessibility tools for people with visual impairment, creating a more inclusive and accessible digital world."
 image: /assets/images/articles/people-sitting-near-table.webp

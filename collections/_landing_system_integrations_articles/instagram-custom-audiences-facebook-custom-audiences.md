@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/facebook-custom-audiences
 author: Edward Saunders
 title: "The Power of Integrating Instagram Custom Audiences with Facebook Custom Audiences"
+topic: System Integration
 leadhead: "By integrating Instagram custom audiences with Facebook custom audiences through API or SDK, businesses can create highly targeted advertising campaigns that can improve engagement and conversion rates"
 leadtext: "This integration helps solve the problem of inconsistent targeting and can help businesses reach more people than they would through targeting on one platform alone."
 image: /assets/images/articles/people-sitting-near-table.webp

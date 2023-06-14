@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/instagram-lead-ads
 author: Edward Saunders
 title: "Integrating Instagram Custom Audiences and Lead Ads"
+topic: System Integration
 leadhead: "Instagram Custom Audiences and Lead Ads have become essential tools for businesses looking to reach their target audience on the platform"
 leadtext: "By integrating the two, businesses can unlock new capabilities and achieve even greater results. The ability to target the right people, shorten the sales funnel, and personalize messages all add up to a powerful ad campaign. So, if you're not already using these tools, now is the time to implement them and start seeing the benefits to your business."
 image: /assets/images/articles/people-sitting-near-table.webp

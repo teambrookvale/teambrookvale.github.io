@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/zoho-crm
 author: Edward Saunders
 title: "Zendesk and Zoho CRM Integration: Solving Your Business Problems"
+topic: System Integration
 leadhead: "Zendesk and Zoho CRM are powerful customer service and sales tools on their own"
 leadtext: "However, integrating the two can boost your business productivity, enhance your customer service, and streamline your sales processes. By leveraging the power of integration through API or SDK, you can solve many of your business problems and improve your bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

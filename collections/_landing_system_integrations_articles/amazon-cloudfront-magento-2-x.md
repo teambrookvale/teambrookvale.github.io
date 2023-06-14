@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/magento-2-x
 author: Edward Saunders
 title: "Integrating Amazon CloudFront with Magento 2.X"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront with Magento 2.X is a great way to improve the performance and security of your e-commerce website"
 leadtext: "With CloudFront's global reach and reliable infrastructure, you can ensure that your customers have a fast and responsive shopping experience, while also protecting your website from various security threats. Whether you're running a small online store or a large e-commerce website, integrating CloudFront with Magento 2.X is a smart choice."
 image: /assets/images/articles/people-sitting-near-table.webp

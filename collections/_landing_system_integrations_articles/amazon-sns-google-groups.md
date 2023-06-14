@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/google-groups
 author: Edward Saunders
 title: "Amazon SNS and Google Groups Integration for Efficient Communication"
+topic: System Integration
 leadhead: "Amazon SNS and Google Groups are two powerful tools that can be integrated to provide a reliable and efficient communication system for any organization"
 leadtext: "By centralizing and streamlining communication, this integration helps teams work more effectively together and achieve their goals. It's worth considering for any organization that values effective communication and collaboration."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/instagram-custom-audiences
 author: Edward Saunders
 title: "BigCommerce and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of BigCommerce and Instagram Custom Audiences is a powerful tool for online businesses"
 leadtext: "By using this integration, businesses can leverage customer data from BigCommerce and target their ads to a highly engaged audience on Instagram. This improves conversion rates, boosts ROI, and helps businesses to build a loyal customer base. If you are looking for ways to grow your business and increase your revenue, be sure to consider this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

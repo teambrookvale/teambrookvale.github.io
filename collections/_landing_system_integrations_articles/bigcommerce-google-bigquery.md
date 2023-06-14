@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/google-bigquery
 author: Edward Saunders
 title: "Integration of BigCommerce and Google BigQuery"
+topic: System Integration
 leadhead: "Integrating BigCommerce and Google BigQuery through API or SDK is a powerful way to improve e-commerce operations and gain valuable insights into customer behaviors and preferences"
 leadtext: "The integration enables businesses to process large datasets in real-time, which leads to improved decision-making and optimized operations. By integrating these two platforms, businesses can gain a competitive advantage in the e-commerce space and ensure long-term success."
 image: /assets/images/articles/people-sitting-near-table.webp

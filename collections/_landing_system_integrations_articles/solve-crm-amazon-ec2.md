@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-ec2
 author: Edward Saunders
 title: "Solving CRM and Amazon EC2 Integration with API or SDK"
+topic: System Integration
 leadhead: "The integration of CRM and Amazon EC2 can bring significant benefits to businesses"
 leadtext: "With the ability to automate processes, reduce errors, and gain valuable insights into customer behavior, this integration can help businesses stay competitive. Through the use of APIs or SDKs, businesses can easily integrate these two systems, providing a seamless experience for users, and ultimately improving the overall quality of their offerings."
 image: /assets/images/articles/people-sitting-near-table.webp

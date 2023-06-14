@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of Twitter and Amazon CloudWatch"
+topic: System Integration
 leadhead: "The integration between Twitter and Amazon CloudWatch provides businesses with a new level of insight into their social media performance"
 leadtext: "By connecting Twitter with Amazon CloudWatch through API or SDK, companies can track data and metrics that matter most to them. This integration can help businesses improve their social media strategy and enhance customer service, offering a better user experience to their followers and customers."
 image: /assets/images/articles/people-sitting-near-table.webp

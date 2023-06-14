@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/servicenow
 author: Edward Saunders
 title: "Greenhouse & ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and ServiceNow through API or SDK brings business efficiency, enabling HR professionals to automate repetitive tasks and improve data accuracy"
 leadtext: "The integration streamlines the recruitment and hiring process, providing businesses with a competitive advantage. For businesses looking to streamline their recruitment and hiring process, the Greenhouse and ServiceNow integration is a great solution."
 image: /assets/images/articles/people-sitting-near-table.webp

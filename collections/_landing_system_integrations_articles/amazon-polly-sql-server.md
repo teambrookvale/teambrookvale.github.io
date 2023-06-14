@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/sql-server
 author: Edward Saunders
 title: "Integrating Amazon Polly with SQL Server"
+topic: System Integration
 leadhead: "Integrating Amazon Polly with SQL Server is a great way to add a text-to-speech feature to your applications or websites"
 leadtext: "This integration allows users to store text data in SQL Server and generate speech using Amazon Polly. This improves accessibility, user experience, and reduces costs associated with creating and maintaining audio files."
 image: /assets/images/articles/people-sitting-near-table.webp

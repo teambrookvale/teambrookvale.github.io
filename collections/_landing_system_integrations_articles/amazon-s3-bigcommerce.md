@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/bigcommerce
 author: Edward Saunders
 title: "Benefits of Integrating Amazon S3 and BigCommerce"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and BigCommerce is a strategic move that e-commerce businesses can benefit from"
 leadtext: "By leveraging Amazon S3's scalable and secure cloud storage, businesses can improve their online store's performance and customer engagement, leading to better sales and improved ROI. Online businesses that choose to integrate Amazon S3 and BigCommerce can rest easy knowing that they have a seamless integration that can help them grow their online store and increase profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

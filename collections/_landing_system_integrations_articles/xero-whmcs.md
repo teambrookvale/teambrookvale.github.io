@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/whmcs
 author: Edward Saunders
 title: "Xero and WHMCS Integration: Streamlining Accounting for Your Business"
+topic: System Integration
 leadhead: "Integrating Xero and WHMCS can streamline your business's accounting and improve your financial health"
 leadtext: "With easy integration through API and SDK, businesses can save time and reduce errors. Plus, having a complete view of your finances can help you make better business decisions. Try integrating Xero and WHMCS today and see the benefits for yourself."
 image: /assets/images/articles/people-sitting-near-table.webp

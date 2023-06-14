@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/greenhouse
 author: Edward Saunders
 title: "Facebook Lead Ads and Greenhouse Integration"
+topic: System Integration
 leadhead: "Using Facebook Lead Ads and Greenhouse integration can benefit businesses of all sizes"
 leadtext: "It's a powerful solution that helps increase productivity and improves lead generation and recruitment efforts. It enables better collaboration between marketing and recruiting teams, leading to better results."
 image: /assets/images/articles/people-sitting-near-table.webp

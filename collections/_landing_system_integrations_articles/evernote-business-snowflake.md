@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/snowflake
 author: Edward Saunders
 title: "Integration of Evernote Business and Snowflake"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Snowflake is a powerful combination that can help businesses achieve their goals more effectively"
 leadtext: "By centralizing data, collaborating more effectively, and analyzing data, businesses can enhance their productivity and gain valuable insights."
 image: /assets/images/articles/people-sitting-near-table.webp

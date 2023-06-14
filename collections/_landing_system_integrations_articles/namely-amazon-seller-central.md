@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-seller-central
 author: Edward Saunders
 title: "Integrating Namely and Amazon Seller Central through API or SDK"
+topic: System Integration
 leadhead: "In summary, integrating Namely and Amazon Seller Central through API or SDK can provide a range of benefits for businesses that use both platforms"
 leadtext: "With this integration in place, businesses can streamline their HR and sales processes, automate employee onboarding, and improve data accuracy and consistency. If you're interested in integrating your Namely and Amazon Seller Central platforms, be sure to consult with a professional software developer to ensure optimal results."
 image: /assets/images/articles/people-sitting-near-table.webp

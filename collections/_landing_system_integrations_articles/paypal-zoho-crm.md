@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/zoho-crm
 author: Edward Saunders
 title: "PayPal and Zoho CRM Integration"
+topic: System Integration
 leadhead: "Integrating PayPal and Zoho CRM has numerous benefits for businesses, including saving time, money, and improving customer management"
 leadtext: "By automating their payment and customer data processes, businesses can focus more on delivering quality products and services to their customers. With the help of API or SDK, businesses can easily integrate these two applications and start reaping the benefits today."
 image: /assets/images/articles/people-sitting-near-table.webp

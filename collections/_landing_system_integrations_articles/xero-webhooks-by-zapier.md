@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/webhooks-by-zapier
 author: Edward Saunders
 title: "Xero and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Webhooks by Zapier is a powerful tool for businesses that want to streamline their financial workflows"
 leadtext: "With their APIs and SDKs, it's easy to connect the two tools and automate financial processes. By doing so, businesses can save time, minimize errors and improve their cash flow."
 image: /assets/images/articles/people-sitting-near-table.webp

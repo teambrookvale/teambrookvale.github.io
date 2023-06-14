@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/evernote-business
 author: Edward Saunders
 title: "Greenhouse and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration between Greenhouse and Evernote Business can help streamline the hiring process and improve collaboration amongst teams"
 leadtext: "By using the API or SDK, you can link the two platforms together and bring more efficiency, organization, and collaboration to your business."
 image: /assets/images/articles/people-sitting-near-table.webp

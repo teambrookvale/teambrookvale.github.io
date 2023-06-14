@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/namely
 author: Edward Saunders
 title: "Integration of ServiceNow and Namely"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Namely can greatly benefit companies by streamlining their HR and IT operations"
 leadtext: "With automated data sync between the two platforms, businesses can save time, reduce errors, and focus on their core operations. By leveraging the power of their APIs or SDKs, ServiceNow and Namely have made it easy for companies to integrate their platforms and reap the benefits of a more streamlined and efficient workplace."
 image: /assets/images/articles/people-sitting-near-table.webp

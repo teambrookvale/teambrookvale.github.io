@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/xero
 author: Edward Saunders
 title: "Why Integrating Google Ads and Xero May Benefit Your Business"
+topic: System Integration
 leadhead: "The integration of Google Ads and Xero can be a game-changer for businesses that want to streamline their advertising and accounting processes"
 leadtext: "By using an API or SDK, businesses can automate tasks such as invoice creation, expense categorization, and performance tracking, which can save time, reduce errors, and provide real-time visibility of cash flow and profitability. If you’re already using Google Ads and Xero, it’s worth considering integrating the two platforms to see the benefits for yourself."
 image: /assets/images/articles/people-sitting-near-table.webp

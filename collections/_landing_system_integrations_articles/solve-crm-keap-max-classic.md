@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/keap-max-classic
 author: Edward Saunders
 title: "Solving CRM Problems with Keap Max Classic Integration"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic with your CRM software is a strategic move that can benefit your business in several ways"
 leadtext: "Integration simplifies business processes, automates repetitive tasks, and improves communication with prospects and customers. By streamlining the workflows, businesses can focus on delivering quality service and closing deals, thereby boosting their productivity and sales growth."
 image: /assets/images/articles/people-sitting-near-table.webp

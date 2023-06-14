@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/goto-training
 author: Edward Saunders
 title: "Moodle and GoTo Training integration"
+topic: System Integration
 leadhead: "The integration of Moodle and GoTo Training can improve the experience of instructors and learners alike"
 leadtext: "It makes the creation of courses more streamlined, offers a centralized location for managing course materials, and provides a more intuitive experience for learners. Whether you’re an educator or a learner, take advantage of this integration to make learning more effective and enjoyable."
 image: /assets/images/articles/people-sitting-near-table.webp

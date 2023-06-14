@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/magento
 author: Edward Saunders
 title: "Chargify & Magento Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Magento offers businesses an opportunity to streamline their subscription management and billing processes"
 leadtext: "The integration can improve customer experience, reduce the workload on the business, and increase revenue. With the integration of API or SDK, businesses can automate recurring payments, manage subscriptions, and consolidate billing and invoicing processes. It is an ideal solution for businesses looking to simplify their online store management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

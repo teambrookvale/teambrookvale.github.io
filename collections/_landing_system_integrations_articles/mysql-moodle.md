@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/moodle
 author: Edward Saunders
 title: "Integrating MySQL with Moodle"
+topic: System Integration
 leadhead: "The integration of MySQL with Moodle is essential for educational institutions to store, manage and access student data effectively"
 leadtext: "It offers many advantages, such as better data analysis, improved student performance, and the ability to connect Moodle with other systems."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/zoho-crm
 author: Edward Saunders
 title: "Integrating Amazon Polly and Zoho CRM for a Better User Experience"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Zoho CRM can provide businesses with a way to create a better user experience while also saving time and resources"
 leadtext: "Using the API and SDK provided by Zoho CRM and Amazon Polly respectively, developers can create a seamless integration that provides customers with a text-to-speech option. This can help businesses cater to a wider range of customers and increase customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

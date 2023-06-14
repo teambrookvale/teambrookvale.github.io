@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/google-bigquery
 author: Edward Saunders
 title: "Integration of Amazon SNS and Google BigQuery"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Google BigQuery is a powerful combination that can help organizations streamline their operations and make data-driven decisions"
 leadtext: "It provides real-time analytics and monitoring capability that enables organizations to identify potential issues early and take appropriate action. As more organizations move towards data-driven decision-making, the integration of Amazon SNS and Google BigQuery is becoming increasingly important."
 image: /assets/images/articles/people-sitting-near-table.webp

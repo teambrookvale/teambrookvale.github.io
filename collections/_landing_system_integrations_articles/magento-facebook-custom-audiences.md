@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/facebook-custom-audiences
 author: Edward Saunders
 title: "Magento and Facebook Custom Audiences Integration"
+topic: System Integration
 leadhead: "Integrating Magento and Facebook Custom Audiences through API or SDK can help you take your eCommerce business to the next level"
 leadtext: "By targeting the right audience, you can increase your sales and save time in the process. If you haven't already, consider integrating these two platforms to optimize your advertising efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

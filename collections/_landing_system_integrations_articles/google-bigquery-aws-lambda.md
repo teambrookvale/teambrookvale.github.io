@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/aws-lambda
 author: Edward Saunders
 title: "Integrating Google BigQuery with AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and AWS Lambda through API or SDK provides a powerful solution for handling big data processing tasks"
 leadtext: "The combination of serverless computing and cloud-based data warehousing allows businesses to improve their data accuracy, reduce costs, and automate data processing tasks, streamlining their operations and allowing employees to focus on other areas. Overall, this integration is a great option for businesses looking to take advantage of the latest technologies to handle their data warehousing and processing needs."
 image: /assets/images/articles/people-sitting-near-table.webp

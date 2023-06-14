@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/bamboohr
 author: Edward Saunders
 title: "How Facebook Custom Audiences and BambooHR Integration Solves Problems"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and BambooHR is a game-changer for businesses"
 leadtext: "By leveraging the power of these two tools, you can solve many HR challenges and drive business success. So why not give it a try and see how it can help your business grow?"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/instagram-custom-audiences
 author: Edward Saunders
 title: "WHMCS and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of WHMCS and Instagram Custom Audiences is a powerful solution for businesses that sell products or services online"
 leadtext: "By using the WHMCS API or SDK, you can create and manage custom audiences in Instagram, allowing you to reach the right people with your marketing campaigns. With this integration, you can save time and effort, streamline your workflows, and increase the effectiveness of your marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-ec2
 author: Edward Saunders
 title: "Integrating Amazon SNS and EC2: A Solution to your Problems"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and EC2 through API or SDK can help you automate and streamline various aspects of your application or infrastructure, such as monitoring, scaling, and fault tolerance"
 leadtext: "By using Amazon SNS to send notifications and messages to your EC2 instances, you can improve the reliability and availability of your system while reducing the manual intervention required to manage it. Whether you are building a new application or migrating an existing one to the cloud, Amazon SNS and EC2 integration can provide you with a flexible and scalable solution to your problems."
 image: /assets/images/articles/people-sitting-near-table.webp

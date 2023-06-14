@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/mysql
 author: Edward Saunders
 title: "Marketo and MySQL Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Marketo and MySQL through API or SDK is an excellent way for marketers to streamline their data analysis processes, save time, and reduce the risk of data errors"
 leadtext: "It offers an opportunity to have centralized control over the data collected from multiple locations, enabling real-time data that allows for informed decisions. If you're a marketer, consider integrating these two powerful systems to optimize your marketing strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

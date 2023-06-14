@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/facebook-lead-ads
 author: Edward Saunders
 title: "Integration of Moodle and Facebook Lead Ads"
+topic: System Integration
 leadhead: "The integration of Moodle and Facebook Lead Ads is a valuable tool for educational institutions looking to streamline the registration process and reach potential students"
 leadtext: "By using API or SDK to connect the two platforms, institutions can ensure they have accurate and up-to-date information on their students while making it easier for students to enroll. Additionally, the use of lead ads on Facebook provides a way to reach a wider audience and attract potential new students."
 image: /assets/images/articles/people-sitting-near-table.webp

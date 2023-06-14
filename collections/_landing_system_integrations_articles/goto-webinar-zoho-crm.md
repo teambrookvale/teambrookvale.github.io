@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/zoho-crm
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Zoho CRM | Benefits and Solution"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Zoho CRM provides businesses with a powerful tool for improving their lead generation, customer engagement, and sales processes"
 leadtext: "By automating lead management and tracking webinar attendance and performance, businesses can optimize their marketing campaigns and improve customer engagement, ultimately leading to higher conversion rates and revenue growth."
 image: /assets/images/articles/people-sitting-near-table.webp

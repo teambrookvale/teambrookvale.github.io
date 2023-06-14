@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-cloudfront
 author: Edward Saunders
 title: "Greenhouse and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "Integrating Greenhouse with Amazon CloudFront can be a gamechanger for businesses looking to streamline their hiring process and provide a smoother candidate experience"
 leadtext: "By leveraging the scalability and reliability of CloudFront, businesses can improve their bottom line and reduce their reliance on expensive and cumbersome infrastructure."
 image: /assets/images/articles/people-sitting-near-table.webp

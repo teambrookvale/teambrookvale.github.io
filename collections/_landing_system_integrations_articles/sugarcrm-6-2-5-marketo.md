@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/marketo
 author: Edward Saunders
 title: "SugarCRM and Marketo Integration: A Match Made in Heaven"
+topic: System Integration
 leadhead: "The integration of SugarCRM and Marketo is highly beneficial for businesses that want to streamline their processes and improve their customer relationship management and marketing efforts"
 leadtext: "By using an API or SDK, businesses can achieve a more comprehensive and efficient workflow, leading to increased productivity and better results."
 image: /assets/images/articles/people-sitting-near-table.webp

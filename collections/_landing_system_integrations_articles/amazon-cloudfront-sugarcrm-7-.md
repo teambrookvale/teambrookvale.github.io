@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/sugarcrm-7-
 author: Edward Saunders
 title: "Amazon CloudFront and SugarCRM 7+ Integration"
+topic: System Integration
 leadhead: "Overall, integrating Amazon CloudFront with SugarCRM 7+ can provide businesses with a more efficient and effective way to deliver content and manage customer relationships"
 leadtext: "By leveraging the power of these two services together, businesses can gain valuable insights into customer behavior, improve content delivery speed and reliability, and ultimately drive greater sales and engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

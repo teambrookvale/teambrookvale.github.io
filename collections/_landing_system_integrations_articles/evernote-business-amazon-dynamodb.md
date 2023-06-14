@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/amazon-dynamodb
 author: Edward Saunders
 title: "The Integration of Evernote Business and Amazon DynamoDB"
+topic: System Integration
 leadhead: "Overall, the integration of Evernote Business and Amazon DynamoDB is a powerful tool for teams"
 leadtext: "It allows for better collaboration, organization, and analysis of data, which can lead to improved decision-making and productivity. Whether using the API or SDK, teams can benefit greatly from this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

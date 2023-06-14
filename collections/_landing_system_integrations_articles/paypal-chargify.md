@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/chargify
 author: Edward Saunders
 title: "PayPal and Chargify Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Chargify is a powerful tool for businesses looking to manage their subscription billing and payment processes effectively"
 leadtext: "It offers a seamless way to automate billing and helps to reduce errors and streamline the overall process. With the added security features, businesses can rest assure that their billing and payment data is protected at all times."
 image: /assets/images/articles/people-sitting-near-table.webp

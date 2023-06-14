@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/google-groups
 author: Edward Saunders
 title: "Improving Your Business Efficiency with Solve CRM and Google Groups Integration"
+topic: System Integration
 leadhead: "Optimizing workflow and enhancing productivity is critical in modern-day businesses"
 leadtext: "By integrating Solve CRM and Google Groups, companies can improve collaboration and reduce errors, boosting efficiency and productivity. The integration further enhances the effectiveness of customer engagement, an essential aspect of any business. Enhance your organization's productivity by integrating Solve CRM and Google Groups today!"
 image: /assets/images/articles/people-sitting-near-table.webp

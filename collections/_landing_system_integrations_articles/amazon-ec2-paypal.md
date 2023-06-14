@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/paypal
 author: Edward Saunders
 title: "Integration of Amazon EC2 and PayPal - A Game-Changer"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and PayPal is a game-changer for businesses looking to streamline their payment processing and manage high-volume sales"
 leadtext: "Whether you’re running a small e-commerce store or a large enterprise, this integration can greatly benefit your business operations. So, if you’re looking to optimize your payment processing, take advantage of this integration today!"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/instagram-lead-ads
 author: Edward Saunders
 title: "LinkedIn Ads and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads and Instagram Lead Ads can help businesses achieve their marketing goals more efficiently"
 leadtext: "It allows businesses to reach a broader audience, generate more leads, and improve their ROI. The API and SDK integration makes it easy for businesses to manage their campaigns across two different platforms. Ultimately, it's up to businesses to decide which platform suits their needs, but by integrating both, they can increase their chances of success."
 image: /assets/images/articles/people-sitting-near-table.webp

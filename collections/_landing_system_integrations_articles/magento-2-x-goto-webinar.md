@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/goto-webinar
 author: Edward Saunders
 title: "Magento 2.X and GoTo Webinar Integration: A Solution for Your Business"
+topic: System Integration
 leadhead: "Integrating Magento 2.X with GoTo Webinar can bring several benefits to your business"
 leadtext: "It can help you streamline your workflow, automate tasks, and improve your marketing strategy. If you are looking for a solution to enhance your online presence, this integration could be the answer."
 image: /assets/images/articles/people-sitting-near-table.webp

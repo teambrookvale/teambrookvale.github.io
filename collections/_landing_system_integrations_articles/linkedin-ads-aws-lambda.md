@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/aws-lambda
 author: Edward Saunders
 title: "LinkedIn Ads and AWS Lambda Integration"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and AWS Lambda can provide several benefits to advertisers, including automated bidding, custom reporting, and dynamic ad creatives"
 leadtext: "By automating marketing tasks and leveraging powerful cloud computing, advertisers can save time and increase ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

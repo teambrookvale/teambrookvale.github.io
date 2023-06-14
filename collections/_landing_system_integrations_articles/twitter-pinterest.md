@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/pinterest
 author: Edward Saunders
 title: "Integrating Twitter and Pinterest"
+topic: System Integration
 leadhead: "Integrating Twitter and Pinterest through their APIs or SDKs can be a powerful tool for businesses and users alike"
 leadtext: "By sharing content on both platforms, businesses can increase their reach and drive more traffic to their websites. Users can also benefit by discovering new content and ideas that they may not have found otherwise. Overall, integrating Twitter and Pinterest can help streamline social media marketing efforts and improve the user experience."
 image: /assets/images/articles/people-sitting-near-table.webp

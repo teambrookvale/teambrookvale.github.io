@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/amazon-seller-central
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Seller Central | Benefits and Solutions"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Seller Central is a boon for businesses that operate on the Amazon marketplace"
 leadtext: "It allows merchants to manage their online stores and back-end operations efficiently on a single platform, streamlining inventory, order, and shipment management. With this integration, businesses can provide better customer experiences and grow their sales on the Amazon marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

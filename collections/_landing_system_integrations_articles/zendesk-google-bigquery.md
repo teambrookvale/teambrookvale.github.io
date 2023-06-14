@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/google-bigquery
 author: Edward Saunders
 title: "Zendesk and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and Google BigQuery provides businesses with powerful tools that can be used to improve their customer support operations and gain deeper insights into customer data"
 leadtext: "By leveraging the strengths of each platform and integrating them, businesses can streamline their operations, improve their data quality, and gain competitive advantages."
 image: /assets/images/articles/people-sitting-near-table.webp

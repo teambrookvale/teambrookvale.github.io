@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/amazon-seller-central
 author: Edward Saunders
 title: "ServiceNow and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Amazon Seller Central can provide significant benefits for businesses, including improved efficiency, reduced manual data entry, and enhanced inventory management"
 leadtext: "By using APIs or SDKs provided by both platforms, businesses can take advantage of these benefits and streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

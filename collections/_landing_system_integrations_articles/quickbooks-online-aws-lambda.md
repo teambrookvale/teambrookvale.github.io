@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/aws-lambda
 author: Edward Saunders
 title: "QuickBooks Online and AWS Lambda Integration"
+topic: System Integration
 leadhead: "Businesses that use QBO and AWS Lambda’s integration through API or SDK gain a competitive edge, as this integration increases productivity and saves time and money by minimizing manual labor"
 leadtext: "Automation of repetitive tasks reduces the likelihood of errors being made whilst performing crucial repetitive tasks. Integration of the two services enables businesses to succeed by allowing them to focus on productivity, which in turn leads to growth and increased profits."
 image: /assets/images/articles/people-sitting-near-table.webp

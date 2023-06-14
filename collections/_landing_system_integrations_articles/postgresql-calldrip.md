@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/calldrip
 author: Edward Saunders
 title: "PostgreSQL and Calldrip Integration"
+topic: System Integration
 leadhead: "PostgreSQL and Calldrip integration is a powerful tool for businesses looking to improve their sales and customer service processes"
 leadtext: "It offers numerous benefits to businesses such as faster response times, better data accuracy, and improved sales tracking. Through integration, businesses can provide a more personalized and efficient customer experience, which ultimately leads to happier customers and increased revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

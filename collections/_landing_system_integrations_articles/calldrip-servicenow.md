@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/servicenow
 author: Edward Saunders
 title: "Integrating Calldrip and ServiceNow: Streamlining Business Communication"
+topic: System Integration
 leadhead: "The integration of Calldrip and ServiceNow is a great example of how APIs and SDKs can be used to streamline business operations"
 leadtext: "The integration solves the problem of manual data transfer and improves communication between business functions. This way, businesses can be more productive and provide better customer service. As such, businesses should adopt proper integration strategies to achieve maximum benefits from these popular solutions."
 image: /assets/images/articles/people-sitting-near-table.webp

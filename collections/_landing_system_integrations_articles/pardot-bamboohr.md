@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/bamboohr
 author: Edward Saunders
 title: "Pardot and BambooHR Integration"
+topic: System Integration
 leadhead: "The integration of Pardot and BambooHR provides businesses with a powerful tool to streamline their marketing and HR operations"
 leadtext: "It allows businesses to create more targeted campaigns and ensures that their prospect data and employee data are accurate, reducing manual effort and increasing productivity. With the API and SDK, businesses can build custom integrations to suit their specific needs and create a more efficient workplace."
 image: /assets/images/articles/people-sitting-near-table.webp

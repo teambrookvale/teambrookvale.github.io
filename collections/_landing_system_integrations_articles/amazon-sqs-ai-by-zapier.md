@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/ai-by-zapier
 author: Edward Saunders
 title: "Integrating Amazon SQS with AI by Zapier"
+topic: System Integration
 leadhead: "Integrating Amazon SQS with AI by Zapier provides a powerful toolset for developers and IT teams looking to build efficient and scalable workflows"
 leadtext: "By leveraging the power of Amazon SQS and AI by Zapier, organizations can enhance the efficiency, resiliency, and automation of their systems."
 image: /assets/images/articles/people-sitting-near-table.webp

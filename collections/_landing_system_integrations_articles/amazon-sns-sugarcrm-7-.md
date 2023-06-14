@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/sugarcrm-7-
 author: Edward Saunders
 title: "Integrating Amazon SNS with SugarCRM 7+"
+topic: System Integration
 leadhead: "The integration of Amazon SNS with SugarCRM 7+ is a powerful solution that can help businesses streamline their customer relationship management processes"
 leadtext: "By leveraging the strengths of both systems, businesses can automate their routine tasks, engage their customers in real-time, and improve overall productivity. The ease of integration through API or SDK makes it a viable solution for businesses of all sizes and types."
 image: /assets/images/articles/people-sitting-near-table.webp

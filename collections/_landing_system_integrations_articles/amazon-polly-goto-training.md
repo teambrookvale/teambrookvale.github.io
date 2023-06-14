@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/goto-training
 author: Edward Saunders
 title: "Amazon Polly and GoTo Training Integration"
+topic: System Integration
 leadhead: "Amazon Polly and GoTo Training's integration via API or SDK has proved to be a game-changer in the e-learning industry"
 leadtext: "Developers and end-users benefit from this integration because learners now have a better experience, e-learning developers can save time, and companies can reach more people. As we move forward, we can expect more and more integration options that will undoubtedly revolutionize the e-learning industry further. We hope that this post has helped you understand the power and utility of the Amazon Polly and GoTo Training integration. Thanks for reading!"
 image: /assets/images/articles/people-sitting-near-table.webp

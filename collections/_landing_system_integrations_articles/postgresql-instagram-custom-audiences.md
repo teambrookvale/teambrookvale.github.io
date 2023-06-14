@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/instagram-custom-audiences
 author: Edward Saunders
 title: "PostgreSQL and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Instagram Custom Audiences through API or SDK can provide several benefits for businesses"
 leadtext: "It can streamline customer data, improve ad targeting, and reduce manual work. By using the power of both platforms, businesses can create more effective and efficient advertising campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

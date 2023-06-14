@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/namely
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and Namely"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Namely is an excellent example of how APIs and SDKs can improve business processes and deliver better services"
 leadtext: "By caching content from Namely's web application, Amazon CloudFront can deliver content faster with low latency and high data transfer speeds. Integrating these two services can also help improve employee engagement, streamline HR processes, and increase the security of employee data."
 image: /assets/images/articles/people-sitting-near-table.webp

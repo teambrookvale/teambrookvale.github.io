@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/sql-server
 author: Edward Saunders
 title: "Integrating Xero with SQL Server through API or SDK"
+topic: System Integration
 leadhead: "Integrating Xero with SQL Server through API or SDK is a valuable way to streamline financial operations and improve overall efficiency"
 leadtext: "By eliminating the need for manual data entry and enabling real-time access to financial data, businesses can make better-informed decisions and focus on growth and innovation. With a range of API and SDK options available, businesses can choose the integration solution that best meets their specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

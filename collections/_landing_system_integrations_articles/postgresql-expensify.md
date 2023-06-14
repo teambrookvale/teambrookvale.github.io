@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/expensify
 author: Edward Saunders
 title: "PostgreSQL and Expensify Integration"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Expensify together can have multiple benefits for businesses"
 leadtext: "It saves time, improves the accuracy of data, and helps with the decision-making process. With the ease of integration through API or SDK, businesses can manage their expenses more efficiently and work towards their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

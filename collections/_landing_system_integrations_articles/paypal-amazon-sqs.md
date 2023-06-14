@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/amazon-sqs
 author: Edward Saunders
 title: "PayPal and Amazon SQS Integration"
+topic: System Integration
 leadhead: "Overall, integrating PayPal and Amazon SQS through API or SDK can provide numerous benefits to businesses"
 leadtext: "The integration automates order processing, streamlines payment processing, and enhances customer satisfaction. As such, businesses should leverage this integration to provide their customers with seamless payment and order fulfillment experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/goto-training
 author: Edward Saunders
 title: "Pardot and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Pardot and GoTo Training can be a powerful tool for businesses looking to take their marketing and sales efforts to the next level"
 leadtext: "With automated lead generation and nurturing, course enrollment, and comprehensive reporting, businesses can streamline their processes and achieve greater success."
 image: /assets/images/articles/people-sitting-near-table.webp

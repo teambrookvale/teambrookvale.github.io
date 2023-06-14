@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/linkedin-ads
 author: Edward Saunders
 title: "Integration of SQL Server and LinkedIn Ads"
+topic: System Integration
 leadhead: "The integration of SQL Server and LinkedIn Ads offers businesses an excellent opportunity to streamline their advertising processes and improve their marketing strategies' effectiveness"
 leadtext: "By storing and managing their data in a centralized location and synchronizing it in real-time, businesses can achieve better results and drive more ROI from their campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

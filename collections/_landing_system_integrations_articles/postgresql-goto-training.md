@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/goto-training
 author: Edward Saunders
 title: "PostgreSQL and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and GoTo Training offers a range of benefits to businesses who are looking to improve their training processes and better manage their data"
 leadtext: "By leveraging the capabilities of each platform and integrating them through API or SDK, businesses can streamline their workflows, improve efficiency, and ultimately achieve greater success in their training initiatives."
 image: /assets/images/articles/people-sitting-near-table.webp

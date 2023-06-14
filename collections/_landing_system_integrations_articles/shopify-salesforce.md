@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/salesforce
 author: Edward Saunders
 title: "Shopify and Salesforce Integration: Solving E-commerce Challenges"
+topic: System Integration
 leadhead: "Integrating Shopify and Salesforce can undoubtedly make a significant difference in how businesses operate"
 leadtext: "By working together seamlessly, the platforms can help businesses overcome e-commerce challenges and achieve their goals. As a result, businesses can improve their customers' experiences, increase efficiency, and maximize profits."
 image: /assets/images/articles/people-sitting-near-table.webp

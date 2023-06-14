@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/expensify
 author: Edward Saunders
 title: "How LinkedIn Ads and Expensify Integration Can Help Your Business"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Expensify through an API or SDK can provide numerous benefits to businesses of all sizes"
 leadtext: "By automating the expense tracking process and increasing the effectiveness of advertising, businesses can save time and money while increasing their bottom line. Consider integrating these two powerful platforms into your business strategy for even greater success."
 image: /assets/images/articles/people-sitting-near-table.webp

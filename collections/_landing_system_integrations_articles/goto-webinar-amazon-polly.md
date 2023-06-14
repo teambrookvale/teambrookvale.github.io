@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/amazon-polly
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Amazon Polly"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Amazon Polly is a powerful tool that can help businesses create more engaging and interactive online events"
 leadtext: "By using Polly to create lifelike speech from written content, presenters can create more engaging and dynamic presentations that keep their audience's attention. This can ultimately lead to more successful webinars and events, and can help businesses reach a wider audience. Whether you are a business owner, marketer, or presenter, the integration of GoTo Webinar and Amazon Polly is worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

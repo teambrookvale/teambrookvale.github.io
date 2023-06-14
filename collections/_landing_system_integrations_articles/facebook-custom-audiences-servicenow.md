@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/servicenow
 author: Edward Saunders
 title: "Facebook Custom Audiences and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and ServiceNow is a game-changer for businesses looking to improve their marketing efforts"
 leadtext: "With the help of API or SDK, organizations can seamlessly integrate their customer data from ServiceNow into Facebook Custom Audiences, leading to highly targeted and relevant ads that are more likely to convert viewers into customers. This integration also helps businesses streamline their processes and workflows, reducing costs and improving efficiency. By implementing this integration, businesses can take advantage of the benefits of both Facebook Custom Audiences and ServiceNow, leading to better customer experiences and improved returns on investment."
 image: /assets/images/articles/people-sitting-near-table.webp

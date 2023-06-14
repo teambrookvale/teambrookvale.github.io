@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/facebook-lead-ads
 author: Edward Saunders
 title: "Greenhouse and Facebook Lead Ads Integration: Solving Recruitment Woes"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Facebook Lead Ads offers a solution to the challenges recruiters face when trying to attract and hire the right talent"
 leadtext: "By leveraging the massive reach of Facebook and the powerful features of Greenhouse, organizations can streamline their recruitment process and focus on finding the perfect candidate for their organization."
 image: /assets/images/articles/people-sitting-near-table.webp

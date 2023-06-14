@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/mysql
 author: Edward Saunders
 title: "Integration of Salesforce and MySQL"
+topic: System Integration
 leadhead: "The integration of Salesforce and MySQL using API or SDK can provide businesses with a complete view of their customers and improve customer experience"
 leadtext: "It can also solve the problem of siloed data and lack of customizability of Salesforce. If your business is using Salesforce and MySQL, consider integrating the two systems to streamline your operations and gain a competitive edge."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/instagram-lead-ads
 author: Edward Saunders
 title: "Greenhouse and Instagram Lead Ads Integration: Solving Marketing Problems"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Instagram Lead Ads is a powerful tool that solves multiple marketing problems for businesses"
 leadtext: "It streamlines the recruitment process, targets the best candidates, and improves communication and collaboration among the team. By taking advantage of this integration, companies can hire faster, smarter, and with greater efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/paypal
 author: Edward Saunders
 title: "Greenhouse and PayPal - Solving Integration Problems"
+topic: System Integration
 leadhead: "The integration of Greenhouse and PayPal through API or SDK can help businesses improve their overall recruitment process and payment operations"
 leadtext: "By leveraging the strengths of each system, businesses can reduce manual work, enhance candidate experience and strengthen their brand. Furthermore, with the advent of digital payments, it has become increasingly important for businesses to offer secure and convenient payment options. Integrating PayPal with Greenhouse provides businesses with a trusted payment gateway, ensuring both the business and the applicants have a smooth transaction experience."
 image: /assets/images/articles/people-sitting-near-table.webp

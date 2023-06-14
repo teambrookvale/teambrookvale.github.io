@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/greenhouse
 author: Edward Saunders
 title: "Integration of Google Groups and Greenhouse"
+topic: System Integration
 leadhead: "The integration of Google Groups and Greenhouse can be beneficial for companies of all sizes"
 leadtext: "By allowing for better communication, increased collaboration, and a better candidate experience, this integration can streamline the hiring process and lead to better business outcomes. Companies can integrate these two tools through an API or SDK and reap the benefits of a more efficient and effective hiring process."
 image: /assets/images/articles/people-sitting-near-table.webp

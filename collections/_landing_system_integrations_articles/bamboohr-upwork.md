@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/upwork
 author: Edward Saunders
 title: "Integrating BambooHR and Upwork"
+topic: System Integration
 leadhead: "Integrating BambooHR and Upwork can provide businesses with several advantages"
 leadtext: "It helps to streamline HR processes and freelancer management. With API integration, businesses can efficiently onboard freelancers, better manage workflows and have centralized management of all employee information. If you are using both BambooHR and Upwork, it is worth exploring an API integration and streamlining your HR management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

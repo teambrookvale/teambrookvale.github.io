@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/amazon-sns
 author: Edward Saunders
 title: "Integration of Keap Max Classic and Amazon SNS"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Amazon SNS provides an effective solution for small businesses looking to improve their communication processes, increase efficiency, and engage their customers"
 leadtext: "By using API or SDK, businesses can seamlessly integrate the two platforms and enjoy the benefits of automated messaging and better targeting. This integration is a must-have for any small business looking to improve its customer communication and enhance its productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

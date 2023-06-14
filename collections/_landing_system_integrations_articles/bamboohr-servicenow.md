@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/servicenow
 author: Edward Saunders
 title: "BambooHR and ServiceNow: A Seamless Integration"
+topic: System Integration
 leadhead: "BambooHR and ServiceNow are both powerful software that provide efficient HR management tools"
 leadtext: "However, by integrating the two using API or SDK, the HR functions of an organization become more streamlined and automated. This integration can save time for HR managers, reduce errors and provide full visibility of HR processes. In summary, the integration of BambooHR and ServiceNow is a game-changer for HR management and is highly recommended for companies looking to optimize their HR functions."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/magento-2-x
 author: Edward Saunders
 title: "BigCommerce and Magento 2.X Integration"
+topic: System Integration
 leadhead: "BigCommerce and Magento 2.X are two powerful e-commerce platforms that can be integrated with each other through API or SDK"
 leadtext: "This integration allows businesses to combine the strengths of both platforms and solve many problems that they face while running their online stores. The integration of BigCommerce and Magento 2.X is a great solution for businesses that require a high level of customization, scalability, and control over their online store."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/facebook-lead-ads
 author: Edward Saunders
 title: "The Power of Integrating LinkedIn Ads and Facebook Lead Ads"
+topic: System Integration
 leadhead: "LinkedIn Ads and Facebook Lead Ads are powerful advertising platforms that businesses can use to reach their target audience and generate leads"
 leadtext: "However, integrating these two platforms can take your advertising efforts to the next level. By leveraging the power of both LinkedIn Ads and Facebook Lead Ads, businesses can expand their reach, improve targeting, reduce costs, and generate more leads efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

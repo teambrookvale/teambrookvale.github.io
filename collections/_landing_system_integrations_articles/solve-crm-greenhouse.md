@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/greenhouse
 author: Edward Saunders
 title: "Why Integrating Solve CRM and Greenhouse is a Gamechanger"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Greenhouse is a strategic move that can benefit businesses in many ways"
 leadtext: "By leveraging the power of real-time data flow, organizations can streamline their sales and recruitment processes and achieve better results. If you haven't integrated your Solve CRM and Greenhouse platforms, now is the time to explore your options to stay competitive."
 image: /assets/images/articles/people-sitting-near-table.webp

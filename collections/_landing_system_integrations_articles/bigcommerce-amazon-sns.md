@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-sns
 author: Edward Saunders
 title: "The Benefits of Integrating BigCommerce and Amazon SNS"
+topic: System Integration
 leadhead: "Integrating BigCommerce and Amazon SNS can provide several benefits to businesses"
 leadtext: "By enabling real-time communication between the two platforms, businesses can ensure that they never miss an order, manage their inventory efficiently, and provide timely shipping updates to customers. Overall, this integration can streamline operations and enhance the customer experience, making it a valuable investment for any business."
 image: /assets/images/articles/people-sitting-near-table.webp

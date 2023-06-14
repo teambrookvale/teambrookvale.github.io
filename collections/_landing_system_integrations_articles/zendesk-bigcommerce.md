@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/bigcommerce
 author: Edward Saunders
 title: "Zendesk and BigCommerce Integration"
+topic: System Integration
 leadhead: "Zendesk and BigCommerce integration can provide several benefits to eCommerce businesses"
 leadtext: "By automating tasks and providing better customer support, businesses can save time, money, and resources. Using API or SDK, integration can be done easily, making it an attractive option for eCommerce businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

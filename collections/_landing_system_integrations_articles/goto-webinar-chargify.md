@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/chargify
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Chargify"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and Chargify through the API or SDK is an effective way for businesses to simplify their subscription billing process and track the effectiveness of their webinars and events"
 leadtext: "This integration makes it easy to measure engagement and attendance, which can ultimately lead to increased revenue and growth opportunities. By leveraging the power of these two platforms together, businesses can focus on serving their customers and growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

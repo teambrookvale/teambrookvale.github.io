@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integration of Evernote Business and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Microsoft Dynamics 365 CRM can bring many benefits to businesses"
 leadtext: "The integration is made possible through API or SDK, and it can solve several problems for businesses, including streamlining workflow, centralizing information, increasing productivity and efficiency, and improving customer relationship management. Consider integrating Evernote Business and Microsoft Dynamics 365 CRM to make your business operations smoother."
 image: /assets/images/articles/people-sitting-near-table.webp

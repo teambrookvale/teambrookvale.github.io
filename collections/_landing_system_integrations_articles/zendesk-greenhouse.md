@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/greenhouse
 author: Edward Saunders
 title: "Zendesk and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and Greenhouse through API or SDK can help businesses improve their customer support experience and streamline their hiring process"
 leadtext: "By ensuring that the customer support team is aware of any new hires, businesses can provide personalized support right from day one."
 image: /assets/images/articles/people-sitting-near-table.webp

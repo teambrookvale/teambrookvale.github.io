@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/salesforce
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Salesforce"
+topic: System Integration
 leadhead: "Integrating QuickBooks Online and Salesforce through API or SDK is a smart move for businesses"
 leadtext: "The integration streamlines accounting and sales processes, provides real-time data, and eliminates errors caused by manual data entry. Overall, it can help businesses save time and money while gaining a better understanding of their financial situation."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/twitter
 author: Edward Saunders
 title: "Integrating PostgreSQL and Twitter: Solving Problems"
+topic: System Integration
 leadhead: "Integrating Twitter and PostgreSQL can bring about many benefits, including cost savings, improved efficiency, and enhanced security"
 leadtext: "By automating the process of storing, filtering, and analyzing Twitter data in a PostgreSQL database, developers can gain valuable insights into social media trends and customer behavior. So if you're looking to integrate Twitter and PostgreSQL, start exploring the available APIs and SDKs today!"
 image: /assets/images/articles/people-sitting-near-table.webp

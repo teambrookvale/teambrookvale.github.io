@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/facebook-lead-ads
 author: Edward Saunders
 title: "Chargify and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Facebook Lead Ads through API or SDK is a powerful way for businesses to streamline their billing processes and boost their ad engagement and conversion rates on the Facebook platform"
 leadtext: "By solving the problem of reconciliation and automating critical tasks, businesses can focus on what they do best - delivering value to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

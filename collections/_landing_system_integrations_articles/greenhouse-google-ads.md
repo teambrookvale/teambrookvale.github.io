@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/google-ads
 author: Edward Saunders
 title: "Greenhouse and Google Ads Integration | Benefits and Functionality"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Google Ads offers businesses a range of benefits, including improved recruitment, streamlined hiring processes, and maximized advertising ROI"
 leadtext: "By connecting these two platforms through an API or SDK, businesses can save time and resources while improving the effectiveness of their recruitment and advertising strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

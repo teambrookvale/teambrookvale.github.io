@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/mysql
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM with MySQL"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM with MySQL can provide businesses with a powerful solution that enhances their operations and improves their efficiency"
 leadtext: "Whether through API or SDK, businesses can benefit from seamless data transfer and a complete view of their business operations. So, consider integrating these two tools to gain a competitive edge and take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

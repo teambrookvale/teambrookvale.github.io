@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/bigcommerce
 author: Edward Saunders
 title: "Namely and BigCommerce: An Integration That Solves Your E-commerce Problems"
+topic: System Integration
 leadhead: "The integration of Namely and BigCommerce is a game-changer for any online retailer"
 leadtext: "By having your e-commerce and HR data in one place, you can streamline your business processes and automate repetitive tasks across your channels. It makes managing and scaling your online retail business easier than ever before."
 image: /assets/images/articles/people-sitting-near-table.webp

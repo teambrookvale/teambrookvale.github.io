@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/google-bigquery
 author: Edward Saunders
 title: "ServiceNow and Google BigQuery Integration - How it Solves Business Problems"
+topic: System Integration
 leadhead: "ServiceNow and Google BigQuery are two powerful tools for managing your organization's data"
 leadtext: "By integrating the two platforms, you can create more powerful reports, analysis, and dashboard solutions that can be used throughout your organization. This integration solves several business problems, including data consistency, automation, and real-time insights. Therefore, it is highly recommended for businesses looking to increase their data-driven capabilities and make better business decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

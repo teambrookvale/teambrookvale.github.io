@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/amazon-polly
 author: Edward Saunders
 title: "Integration of Google Groups and Amazon Polly"
+topic: System Integration
 leadhead: "By integrating Google Groups and Amazon Polly, businesses can improve communication, accessibility, and save valuable time in their daily operations"
 leadtext: "So, if you're looking for an efficient and advanced way to communicate with your team members, consider integrating Google Groups with Amazon Polly."
 image: /assets/images/articles/people-sitting-near-table.webp

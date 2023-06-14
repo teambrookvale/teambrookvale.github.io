@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/facebook-custom-audiences
 author: Edward Saunders
 title: "Marketo and Facebook Custom Audiences Integration: The Ultimate Guide"
+topic: System Integration
 leadhead: "By integrating Marketo and Facebook Custom Audiences, businesses can significantly improve their marketing efforts and stay ahead of the competition"
 leadtext: "The increased targeting, improved ROI, and streamlined workflow make this integration a must-have for any business looking to succeed in today's digital age."
 image: /assets/images/articles/people-sitting-near-table.webp

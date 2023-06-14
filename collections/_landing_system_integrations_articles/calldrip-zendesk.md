@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/zendesk
 author: Edward Saunders
 title: "Integration of Calldrip and Zendesk"
+topic: System Integration
 leadhead: "The integration of Calldrip and Zendesk is a game-changer for businesses that rely heavily on lead generation and customer service"
 leadtext: "With its powerful lead response management capabilities and customer service software, businesses can streamline their operations and provide exceptional customer support. This integration is worth considering for businesses that want to boost their lead conversion rates and improve customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

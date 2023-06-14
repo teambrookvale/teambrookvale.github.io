@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/webhooks-by-zapier
 author: Edward Saunders
 title: "Moodle and Webhooks Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Webhooks can provide a powerful solution for educational institutions and businesses looking to streamline their online learning processes"
 leadtext: "Whether you're looking to automate course enrollment, get real-time updates, or streamline workflow, the integration of Moodle and Webhooks can provide a powerful solution."
 image: /assets/images/articles/people-sitting-near-table.webp

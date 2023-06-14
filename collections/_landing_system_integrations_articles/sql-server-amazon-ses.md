@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/amazon-ses
 author: Edward Saunders
 title: "Integration of SQL Server and Amazon SES"
+topic: System Integration
 leadhead: "The integration of SQL Server and Amazon SES is a powerful tool for businesses that want to automate their email communications, while still maintaining a personal touch"
 leadtext: "By leveraging the power of both technologies, businesses can save time and resources, while still providing their customers with a high-quality email experience."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/snowflake
 author: Edward Saunders
 title: "Zoho CRM and Snowflake Integration: A Game Changer for Businesses"
+topic: System Integration
 leadhead: "Zoho CRM and Snowflake integration provide businesses with a powerful solution that helps manage customer data effectively and efficiently"
 leadtext: "With this integration, teams can make data-driven decisions, leading to enhanced customer experiences that drive business growth. Therefore, businesses that want to leverage the power of both platforms should consider integrating them through an API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

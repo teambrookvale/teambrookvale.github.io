@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/servicenow
 author: Edward Saunders
 title: "Evernote Business and ServiceNow Integration"
+topic: System Integration
 leadhead: "Integrating Evernote Business and ServiceNow can significantly benefit teams by streamlining their workflows, reducing errors, and ensuring consistency"
 leadtext: "The integration can be achieved through API or SDK, and it solves several problems that teams face when using these two applications separately. Overall, the integration can lead to increased productivity, better collaboration, and improved project management."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/xero
 author: Edward Saunders
 title: "Amazon S3 and Xero Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Xero provides a seamless and efficient way for businesses to manage their financial data"
 leadtext: "By automating the process of importing and storing financial data, businesses can save time and reduce the risk of errors, while also ensuring that their financial data is easily accessible and up-to-date."
 image: /assets/images/articles/people-sitting-near-table.webp

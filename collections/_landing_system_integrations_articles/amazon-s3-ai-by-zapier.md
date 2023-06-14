@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/ai-by-zapier
 author: Edward Saunders
 title: "Integration of Amazon S3 and AI by Zapier"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon S3 and AI by Zapier is a powerful combination that can help businesses solve complex data processing challenges"
 leadtext: "Whether you want to automate the process of analyzing customer feedback or extract insights from large volumes of data, this integration can help you improve the accuracy, speed, and efficiency of your data processing. By leveraging the power of Amazon S3 and AI by Zapier, businesses can gain a competitive edge and make better decisions based on accurate and timely data insights."
 image: /assets/images/articles/people-sitting-near-table.webp

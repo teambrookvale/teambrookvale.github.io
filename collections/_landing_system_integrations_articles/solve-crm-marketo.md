@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/marketo
 author: Edward Saunders
 title: "Benefits of Integrating Solve CRM and Marketo"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Marketo is a win-win strategy for businesses in today's competitive market"
 leadtext: "It enables them to leverage the strengths of each tool and maximize their business potential. By automating key marketing and sales processes, businesses can improve customer engagement and revenue generation, and gain insights that help to enhance their competitive advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

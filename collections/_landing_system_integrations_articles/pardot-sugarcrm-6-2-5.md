@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of Pardot and SugarCRM"
+topic: System Integration
 leadhead: "Integrating Pardot and SugarCRM can help businesses improve their marketing, sales, and overall business processes"
 leadtext: "The integration can be done through API or SDK and provides real-time insights and data that can help businesses make informed decisions. With reduced manual data entry, eliminated errors, and improved visibility of customer data, businesses can focus on their core competencies and improve customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

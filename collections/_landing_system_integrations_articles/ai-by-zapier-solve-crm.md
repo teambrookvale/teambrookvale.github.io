@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/solve-crm
 author: Edward Saunders
 title: "AI by Zapier and Solve CRM Integration"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Solve CRM is a game-changer for businesses looking to increase productivity and drive growth"
 leadtext: "By leveraging the power of AI and CRM, businesses can streamline complex workflows, reduce manual processes, and provide a better customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

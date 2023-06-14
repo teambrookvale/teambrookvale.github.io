@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/calldrip
 author: Edward Saunders
 title: "Marketo and Calldrip Integration"
+topic: System Integration
 leadhead: "The integration between Marketo and Calldrip is a powerful solution for businesses looking to boost their revenue and streamline their sales and marketing efforts"
 leadtext: "With an API integration, the two tools can work together seamlessly, providing businesses with a more complete view of their leads and improving their sales effectiveness. By leveraging the power of Marketo and Calldrip combined, businesses can improve their ROI and drive more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

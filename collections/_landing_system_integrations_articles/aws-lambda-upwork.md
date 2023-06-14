@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/upwork
 author: Edward Saunders
 title: "AWS Lambda and Upwork Integration"
+topic: System Integration
 leadhead: "As businesses continue to expand and become increasingly digital, the integration of AWS Lambda and Upwork can provide a range of solutions and benefits to streamline processes"
 leadtext: "By leveraging the power of serverless computing and the convenience of a global freelance platform, businesses can maximize productivity and scalability while minimizing manual input and resources."
 image: /assets/images/articles/people-sitting-near-table.webp

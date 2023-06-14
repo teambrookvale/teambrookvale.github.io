@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/sql-server
 author: Edward Saunders
 title: "Integration of AWS Lambda and SQL Server"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and SQL Server is a powerful combination that enables developers to create scalable, high-performance solutions for their businesses"
 leadtext: "With the ease of integration through API or SDK, companies can now process and analyze data in real-time, leading to better decision-making and increased productivity. If you want to stay ahead in the game, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

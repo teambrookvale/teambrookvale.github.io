@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/instagram-custom-audiences
 author: Edward Saunders
 title: "Zoho CRM Integration with Instagram Custom Audiences"
+topic: System Integration
 leadhead: "Zoho CRM and Instagram Custom Audiences are powerful tools that can help businesses reach their target audience effectively"
 leadtext: "By integrating the two through API or SDK, businesses can create targeted ads based on their customer data stored in Zoho CRM. This integration solves the problem of fragmented customer data and helps businesses increase their ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

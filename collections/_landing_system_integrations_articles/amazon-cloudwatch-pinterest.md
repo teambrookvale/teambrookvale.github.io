@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/pinterest
 author: Edward Saunders
 title: "How Amazon CloudWatch and Pinterest Integration Can Improve Your Business"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Pinterest can provide significant benefits for your business"
 leadtext: "With real-time monitoring, proactive alerts, and actionable insights, you can optimize your Pinterest strategy and improve your audience engagement metrics. If you're looking to improve your visual marketing efforts, consider integrating Amazon CloudWatch and Pinterest today."
 image: /assets/images/articles/people-sitting-near-table.webp

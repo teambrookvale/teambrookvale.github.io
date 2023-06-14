@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/moodle
 author: Edward Saunders
 title: "WHMCS and Moodle Integration"
+topic: System Integration
 leadhead: "Integrating WHMCS and Moodle can increase efficiencies and add value to your online course offerings"
 leadtext: "With the help of APIs or SDKs, the process can be seamless. Consider integrating these two platforms today."
 image: /assets/images/articles/people-sitting-near-table.webp

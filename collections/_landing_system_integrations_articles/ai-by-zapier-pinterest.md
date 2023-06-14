@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/pinterest
 author: Edward Saunders
 title: "How AI by Zapier integrated with Pinterest through API can solve problems"
+topic: System Integration
 leadhead: "In conclusion, AI by Zapier integrated with Pinterest through API can be an excellent tool for automating tasks on Pinterest"
 leadtext: "It can save you a lot of time and helps to increase your productivity. You can create automated workflows tailored to your specific needs and make use of various pre-built integrations. Integration through API or SDK can help make Pinterest work easier and more efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

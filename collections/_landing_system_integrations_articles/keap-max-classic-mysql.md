@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/mysql
 author: Edward Saunders
 title: "Integrating Keap Max Classic with MySQL"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic with MySQL can drastically improve operational efficiency, allowing businesses to better understand and cater to their customers"
 leadtext: "By using the API or SDK, businesses can easily create a comprehensive workflow that combines the power of Keap and MySQL."
 image: /assets/images/articles/people-sitting-near-table.webp

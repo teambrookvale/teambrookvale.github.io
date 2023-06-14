@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/whmcs
 author: Edward Saunders
 title: "Maximizing Your Business with Keap Max Classic and WHMCS Integration | XYZ Company Blog"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic and WHMCS through API or SDK provides a complete solution for small businesses to manage their customer data, automate tasks, and improve customer experience"
 leadtext: "With this integration, businesses can focus on their core operations while improving their online presence and engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

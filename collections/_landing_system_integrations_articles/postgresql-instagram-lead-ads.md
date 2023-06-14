@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/instagram-lead-ads
 author: Edward Saunders
 title: "Integration of PostgreSQL and Instagram Lead Ads"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Instagram Lead Ads is an efficient and effective way for businesses to manage their leads generated on Instagram"
 leadtext: "By streamlining the process of capturing and managing leads, businesses can focus on converting those leads into customers and growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

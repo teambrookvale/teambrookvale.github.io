@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/paypal
 author: Edward Saunders
 title: "Integrating AWS Lambda with PayPal"
+topic: System Integration
 leadhead: "Integrating AWS Lambda with PayPal provides several advantages to businesses and developers"
 leadtext: "By automating payment processing and providing seamless payment experiences to customers, businesses can concentrate on their core operations. Developers can leverage AWS Lambda and PayPal integration to build innovative applications and services. With no infrastructure management overhead, deploying payment processing workflows becomes simpler and more efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

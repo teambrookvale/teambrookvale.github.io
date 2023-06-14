@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/facebook-custom-audiences
 author: Edward Saunders
 title: "WHMCS Integration with Facebook Custom Audiences Through API/SDK"
+topic: System Integration
 leadhead: "Integrating WHMCS with Facebook Custom Audiences is a great way to increase your online reach and customer engagement"
 leadtext: "By targeting your ads to a more specific audience, you can improve the relevance of your ads, increase engagement rates, and ultimately, drive more conversions. With the help of the API or SDK, this integration is relatively easy to set up and can provide valuable insights into your audience's behavior and interests."
 image: /assets/images/articles/people-sitting-near-table.webp

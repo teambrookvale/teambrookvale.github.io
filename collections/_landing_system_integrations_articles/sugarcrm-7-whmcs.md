@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/whmcs
 author: Edward Saunders
 title: "Integrating SugarCRM 7+ with WHMCS for Seamless Business Processes"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ with WHMCS is a crucial step for businesses that want to streamline their operations and improve productivity"
 leadtext: "While it requires technical expertise to set up, the long-term benefits of the integration can be significant. It eliminates data silos, automates business processes, improves decision making, and ultimately leads to better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

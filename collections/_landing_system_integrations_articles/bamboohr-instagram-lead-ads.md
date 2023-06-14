@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/instagram-lead-ads
 author: Edward Saunders
 title: "BambooHR and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of BambooHR and Instagram Lead Ads is a powerful tool for businesses that want to streamline their lead generation and management process"
 leadtext: "By automatically exporting lead information from Instagram Lead Ads to their BambooHR account, businesses can save time and avoid missing important lead information. This integration also allows for timely follow-up, which can increase the chances of converting leads into customers."
 image: /assets/images/articles/people-sitting-near-table.webp

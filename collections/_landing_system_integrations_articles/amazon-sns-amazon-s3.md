@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-s3
 author: Edward Saunders
 title: "Amazon SNS and S3 Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and S3 provides a powerful set of tools for building scalable and reliable applications"
 leadtext: "Through API or SDK, developers can easily send notifications to SNS topics whenever an object is created, updated, or deleted in an S3 bucket. This solves several problems that developers face when building distributed systems and allows them to focus on their specific tasks without worrying about synchronization issues. Amazon SNS and S3 are two excellent services that can work together seamlessly to provide a complete solution for building modern applications."
 image: /assets/images/articles/people-sitting-near-table.webp

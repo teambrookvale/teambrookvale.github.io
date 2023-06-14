@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/servicenow
 author: Edward Saunders
 title: "Integrating Xero and ServiceNow through API or SDK"
+topic: System Integration
 leadhead: "Xero and ServiceNow are two powerful business management tools that can be used together to improve operational efficiency"
 leadtext: "By integrating the two platforms through API or SDK, businesses can automate tasks, improve accuracy, and gain greater visibility into their operations. If you're currently using Xero or ServiceNow, it's worth considering how integrating the two could benefit your business."
 image: /assets/images/articles/people-sitting-near-table.webp

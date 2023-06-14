@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/google-groups
 author: Edward Saunders
 title: "Integrating Pinterest and Google Groups through API or SDK"
+topic: System Integration
 leadhead: "Integrating Pinterest and Google Groups through API or SDK is a powerful solution that can bring many benefits to users"
 leadtext: "By seamlessly integrating these two platforms, users can easily share visual content and communicate with one another. This integration can help businesses and organizations to collaborate more effectively and achieve their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

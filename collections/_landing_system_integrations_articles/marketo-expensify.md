@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/expensify
 author: Edward Saunders
 title: "Marketo and Expensify Integration - A Game Changer for Businesses"
+topic: System Integration
 leadhead: "The integration of Marketo and Expensify is a game-changer for businesses"
 leadtext: "By linking your marketing automation tool with your expense management tool, you can streamline your marketing campaigns, reduce costs, and improve efficiency. With real-time data synchronization and automated expense management, you can focus more on your marketing strategy and less on the tedious task of expense management. If you have not yet integrated Marketo and Expensify, it is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

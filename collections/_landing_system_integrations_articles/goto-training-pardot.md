@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/pardot
 author: Edward Saunders
 title: "Integrating GoTo Training and Pardot through API or SDK"
+topic: System Integration
 leadhead: "By integrating GoTo Training with Pardot through API or SDK, businesses can streamline their training and marketing efforts"
 leadtext: "The combination offers a robust solution that allows businesses to track the progress of their students and use that information for targeted email campaigns, lead scoring, and other marketing automation activities. The integration of the two platforms solves many problems that businesses face and provides an efficient way to use their collective capabilities."
 image: /assets/images/articles/people-sitting-near-table.webp

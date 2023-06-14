@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/calldrip
 author: Edward Saunders
 title: "Integrating Amazon S3 and Calldrip through API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Calldrip through API or SDK can bring many benefits to businesses, including improved data management, faster lead response times, and better sales conversion rates"
 leadtext: "By leveraging the strengths of both services, businesses can streamline their operations and focus on their core activities without worrying about data security, privacy, or scalability."
 image: /assets/images/articles/people-sitting-near-table.webp

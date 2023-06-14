@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/upwork
 author: Edward Saunders
 title: "Greenhouse and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Upwork offers many benefits to companies, including reduced costs, streamlined hiring processes, and better talent search possibility"
 leadtext: "By integrating these two platforms, businesses can save time and money while finding the right talent to meet their needs. Integrating them with an API or SDK is easy and promises a hassle-free experience for recruiters."
 image: /assets/images/articles/people-sitting-near-table.webp

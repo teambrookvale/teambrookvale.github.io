@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/magento-2-x
 author: Edward Saunders
 title: "Quick Base and Magento 2.X Integration"
+topic: System Integration
 leadhead: "Quick Base and Magento 2.X are two powerful platforms that can help businesses achieve their goals"
 leadtext: "When integrated through API or SDK, businesses can streamline their operations, simplify their data management, and improve their overall business efficiency. Therefore, businesses should consider integrating Quick Base and Magento 2.X to gain a competitive edge and grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

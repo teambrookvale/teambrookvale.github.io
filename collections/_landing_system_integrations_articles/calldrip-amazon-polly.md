@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-polly
 author: Edward Saunders
 title: "Calldrip and Amazon Polly Integration"
+topic: System Integration
 leadhead: "Calldrip and Amazon Polly integration is a game-changer for businesses that strive to provide high-quality customer experience without breaking the bank"
 leadtext: "The integration saves time and money while enhancing the quality of customer interactions. Consequently, businesses that integrate Calldrip and Amazon Polly create a competitive advantage for themselves. It is easy to see why many businesses are adopting this integration to improve their customer experience and stand out in a crowded market."
 image: /assets/images/articles/people-sitting-near-table.webp

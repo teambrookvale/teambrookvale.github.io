@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/solve-crm
 author: Edward Saunders
 title: "Amazon SNS and Solve CRM Integration"
+topic: System Integration
 leadhead: "Amazon SNS and Solve CRM integration is a powerful solution for businesses looking to improve their communication and relationship management efforts"
 leadtext: "With these technologies working together, businesses can automate and streamline their messaging processes, reach out to customers and clients on multiple channels, and manage their relationships more efficiently. By taking advantage of this integration, businesses can stay ahead of the competition and provide better service to their customers and clients."
 image: /assets/images/articles/people-sitting-near-table.webp

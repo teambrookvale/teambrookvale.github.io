@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/quickbooks-online
 author: Edward Saunders
 title: "Xero and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "The integration of Xero and QuickBooks Online can provide significant benefits to businesses"
 leadtext: "It enables them to have a centralized view of their financial data, eliminates the need for manual data entry, and provides access to insights and reports from both systems. This can help businesses manage their finances more efficiently and make better-informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

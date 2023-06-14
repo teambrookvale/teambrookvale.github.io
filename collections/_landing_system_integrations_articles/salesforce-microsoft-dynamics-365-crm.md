@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Salesforce and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "Integrating Salesforce and Microsoft Dynamics 365 CRM through API or SDK can be a smart strategic move for organizations"
 leadtext: "This integration solves several problems and enables organizations to take advantage of the best features from both systems. If your organization is using one or both of these systems, it is worth exploring the possibilities of integration."
 image: /assets/images/articles/people-sitting-near-table.webp

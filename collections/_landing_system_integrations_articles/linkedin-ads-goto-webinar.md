@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/goto-webinar
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and GoTo Webinar"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and GoToWebinar is an excellent way for businesses to streamline their marketing efforts and improve their results"
 leadtext: "By utilizing both platforms, businesses can increase their reach, generate more leads, and ultimately acquire more customers. If you're a business owner who's serious about marketing your products or services, consider integrating these two platforms to take your marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

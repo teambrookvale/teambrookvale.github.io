@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/aws-lambda
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM and AWS Lambda"
+topic: System Integration
 leadhead: "In conclusion, the integration of Microsoft Dynamics 365 CRM and AWS Lambda provides businesses with a powerful tool to improve business efficiency and customer service"
 leadtext: "By automating repetitive tasks and utilizing real-time data, businesses can make better decisions and provide their customers with a better experience."
 image: /assets/images/articles/people-sitting-near-table.webp

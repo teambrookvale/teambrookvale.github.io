@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/pinterest
 author: Edward Saunders
 title: "Solve CRM-Pinterest Integration: A Powerful Solution for your Business"
+topic: System Integration
 leadhead: "The integration of Solve CRM and Pinterest can give your business a competitive edge and help you stay ahead of the competition"
 leadtext: "With the ability to automate several processes, gain key insights on your target audience, and improve efficiency, the integration can help take your marketing to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

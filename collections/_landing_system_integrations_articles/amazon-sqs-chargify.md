@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/chargify
 author: Edward Saunders
 title: "Integration of Amazon SQS and Chargify"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Chargify provides businesses with a reliable and scalable messaging system for subscription billing"
 leadtext: "With the integration, businesses can easily capture and synchronize real-time billing and subscription event data between the two services without the need for complex coding."
 image: /assets/images/articles/people-sitting-near-table.webp

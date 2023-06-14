@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/mysql
 author: Edward Saunders
 title: "Amazon Polly and MySQL Integration"
+topic: System Integration
 leadhead: "Amazon Polly and MySQL integration offers a powerful way to enrich your database with speech capabilities"
 leadtext: "By leveraging Amazon Polly's advanced text-to-speech technology and MySQL's robust data management capabilities, you can create engaging and accessible applications that cater to diverse users' needs. Whether you are a developer, a content creator, or a business owner, Amazon Polly and MySQL integration can help you achieve your goals. So why not give it a try today?"
 image: /assets/images/articles/people-sitting-near-table.webp

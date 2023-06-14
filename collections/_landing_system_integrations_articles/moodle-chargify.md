@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/chargify
 author: Edward Saunders
 title: "Integrating Moodle and Chargify through API or SDK"
+topic: System Integration
 leadhead: "Integrating Moodle and Chargify through API or SDK can provide several benefits to businesses that use them"
 leadtext: "From automated billing and payment collection to improved user experience, businesses can streamline their processes and provide a better service to their customers. Therefore, if you’re using both Moodle and Chargify, you should consider integrating them to enhance their functionality and solve common problems."
 image: /assets/images/articles/people-sitting-near-table.webp

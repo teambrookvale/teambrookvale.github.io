@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/amazon-polly
 author: Edward Saunders
 title: "Google BigQuery and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Amazon Polly offers a powerful solution for natural language processing, by providing an easy way to generate speech from large datasets and distribute it through various channels"
 leadtext: "It also provides a cost-effective solution for creating automated voice applications that can significantly improve customer service experiences and engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

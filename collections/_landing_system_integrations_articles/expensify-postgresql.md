@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/postgresql
 author: Edward Saunders
 title: "Expensify and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and PostgreSQL provides a powerful solution for businesses and individuals looking to manage their expenses more efficiently"
 leadtext: "By automating the process of data entry, users can save time and reduce errors, while also ensuring that their data is secure and protected from unauthorized access."
 image: /assets/images/articles/people-sitting-near-table.webp

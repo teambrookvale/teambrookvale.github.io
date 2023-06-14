@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/namely
 author: Edward Saunders
 title: "Amazon DynamoDB and Namely: A Powerful Integration"
+topic: System Integration
 leadhead: "Integrating Amazon DynamoDB with Namely through API or SDK can help companies streamline HR processes and ensure data accuracy across multiple systems"
 leadtext: "By doing so, companies can save time, reduce errors, and improve overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/solve-crm
 author: Edward Saunders
 title: "Maximizing Your CRM with Keap Max Classic and Solve CRM Integration"
+topic: System Integration
 leadhead: "Keap Max Classic and Solve CRM integration is a win-win for businesses"
 leadtext: "It's an affordable and practical solution that provides a comprehensive view of your customer's journey. By connecting the two systems, you can streamline your operations, improve your marketing and sales efforts, and increase efficiency. With the integration of Keap Max Classic and Solve CRM, you'll have all the tools you need to succeed in your business."
 image: /assets/images/articles/people-sitting-near-table.webp

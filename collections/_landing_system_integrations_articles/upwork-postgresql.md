@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/postgresql
 author: Edward Saunders
 title: "Upwork and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and PostgreSQL through an API or SDK is a powerful solution that provides businesses with a reliable way to manage their projects and data efficiently"
 leadtext: "By leveraging this integration, businesses can streamline their workflows, reduce their overheads, and achieve greater operational efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

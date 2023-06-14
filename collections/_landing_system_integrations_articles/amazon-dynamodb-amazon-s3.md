@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/amazon-s3
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and S3"
+topic: System Integration
 leadhead: "Overall, integrating Amazon DynamoDB and S3 provides businesses with an effective, cost-efficient way to store, manage and scale data"
 leadtext: "It allows for flexible storage options, which businesses can leverage to suit their unique needs. With fully managed services like Amazon DynamoDB and S3, businesses can focus on their core competencies and leave the storage and scalability concerns to AWS."
 image: /assets/images/articles/people-sitting-near-table.webp

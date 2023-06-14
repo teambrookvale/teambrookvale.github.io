@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/amazon-s3
 author: Edward Saunders
 title: "Integration of Evernote Business and Amazon S3"
+topic: System Integration
 leadhead: "Integrating Evernote Business and Amazon S3 through API or SDK can have a positive impact on your business, streamlining collaboration, automating workflows, and protecting your data"
 leadtext: "By taking advantage of the integration, you can focus on your business and let the tools do the heavy lifting."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/moodle
 author: Edward Saunders
 title: "Integration of Twitter and Moodle"
+topic: System Integration
 leadhead: "Integrating Twitter and Moodle is a solution in education technology that can enhance communication, engagement, and collaboration between students and teachers"
 leadtext: "The API and SDK facilitate the integration of the two systems, providing seamless access to Twitter functionality within Moodle, and vice versa. With this integration, educators can take advantage of the strengths of both platforms to create a richer and more engaging learning experience for their students."
 image: /assets/images/articles/people-sitting-near-table.webp

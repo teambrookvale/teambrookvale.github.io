@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/upwork
 author: Edward Saunders
 title: "Integration of Evernote Business and Upwork"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Upwork through API or SDK provides an efficient way for businesses to streamline their workflow and manage projects efficiently"
 leadtext: "This integration helps freelancers to collaborate on projects and update their progress in real-time. It also reduces communication errors between businesses and freelancers and provides a central platform for businesses to manage their projects and notes. Overall, the integration of Evernote Business and Upwork is an excellent solution for businesses seeking to manage their projects in a streamlined manner."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/bamboohr
 author: Edward Saunders
 title: "Amazon SQS and BambooHR Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SQS and BambooHR through API or SDK is a step forward for businesses looking to automate their processes and improve their operations"
 leadtext: "The integration provides a cost-effective and efficient way to manage employee data seamlessly. Additionally, it ensures that organizations make informed decisions and eliminates errors and delays in data transfer. The integration of these two services is a game-changer for businesses, and companies should consider adopting the integration to improve their business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

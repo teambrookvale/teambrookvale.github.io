@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/twitter
 author: Edward Saunders
 title: "Integration of Namely and Twitter"
+topic: System Integration
 leadhead: "The integration of Namely and Twitter is a powerful tool for companies looking to improve their HR and social media strategy"
 leadtext: "By streamlining communication and social media management, companies can save time and resources, while improving their social media presence and engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

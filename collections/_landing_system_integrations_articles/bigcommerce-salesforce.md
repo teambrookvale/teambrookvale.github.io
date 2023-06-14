@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/salesforce
 author: Edward Saunders
 title: "BigCommerce and Salesforce Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of BigCommerce and Salesforce can provide a multitude of benefits for businesses in the e-commerce and CRM industries"
 leadtext: "Whether it’s through API or SDK, the integration can solve common problems and make the customer experience even better."
 image: /assets/images/articles/people-sitting-near-table.webp

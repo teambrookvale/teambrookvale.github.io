@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/pinterest
 author: Edward Saunders
 title: "Integrating Amazon Polly and Pinterest: A Game Changer for Visual Content Creation"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Pinterest is a game changer for visual content creation"
 leadtext: "By allowing users to convert written content into audio that can be pinned onto boards, it provides a more engaging and accessible experience. It also allows users to multitask while consuming content. With the continued growth of voice technology, the integration of Amazon Polly and Pinterest is just the beginning of a new era in content creation and consumption."
 image: /assets/images/articles/people-sitting-near-table.webp

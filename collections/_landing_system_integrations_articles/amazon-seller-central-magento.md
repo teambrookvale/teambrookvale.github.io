@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/magento
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Magento"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Magento is a valuable opportunity for businesses looking to expand their online sales channels"
 leadtext: "By leveraging the strengths of both platforms, businesses can improve their customer experience, increase their reach, and streamline their operations. Whether through API or SDK integration, the combination of Amazon Seller Central and Magento provides a powerful e-commerce solution for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

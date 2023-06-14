@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/zendesk
 author: Edward Saunders
 title: "Integrating GoToWebinar and Zendesk"
+topic: System Integration
 leadhead: "The integration of GoToWebinar and Zendesk can significantly improve customer support and engagement for businesses"
 leadtext: "By providing customers with real-time support and engaging them through webinars and events, businesses can enhance their overall customer satisfaction and loyalty. The API and SDK integration make it easy for businesses to manage their interactions and provide timely solutions to customer queries and issues. It is an excellent choice for businesses looking to improve their customer support and engagement practices."
 image: /assets/images/articles/people-sitting-near-table.webp

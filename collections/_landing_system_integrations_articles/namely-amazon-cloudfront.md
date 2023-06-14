@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-cloudfront
 author: Edward Saunders
 title: "Namely and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "The integration of Namely and Amazon CloudFront is a powerful combination that allows businesses to streamline HR processes and distribution of content"
 leadtext: "With the help of API or SDK, businesses can easily create and distribute content globally while having an easier time managing employee data. Namely and Amazon CloudFront integration is an excellent way for businesses to achieve results and keep their employees and customers satisfied."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/pinterest
 author: Edward Saunders
 title: "Webhooks by Zapier and Pinterest Integration"
+topic: System Integration
 leadhead: "Webhooks by Zapier and Pinterest integration can be a powerful tool for automating tasks between web applications"
 leadtext: "By integrating Pinterest with Zapier, users can save time and increase productivity, while businesses can increase engagement with their products and services. Whether you are an individual or a business, the integration can help you discover new content and stay organized."
 image: /assets/images/articles/people-sitting-near-table.webp

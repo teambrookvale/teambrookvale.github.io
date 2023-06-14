@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/linkedin-ads
 author: Edward Saunders
 title: "PayPal and LinkedIn Ads: Integration for a Smarter Business"
+topic: System Integration
 leadhead: "Overall, the integration of PayPal and LinkedIn Ads through an API or an SDK is a smart business move"
 leadtext: "It saves time and eliminates errors in the payment process while also ensuring that ads are approved quickly, reaching the right audience. This integration provides businesses with the tools they need to make informed decisions and increase their revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

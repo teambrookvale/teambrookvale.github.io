@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/amazon-ec2
 author: Edward Saunders
 title: "Integrating Pinterest and Amazon EC2"
+topic: System Integration
 leadhead: "Integrating Pinterest and Amazon EC2 through API or SDK is an excellent way to streamline the e-commerce process"
 leadtext: "It simplifies the purchasing process for customers, helps businesses manage inventory more efficiently, and ultimately leads to higher profitability. If you're running an e-commerce business, it's well worth considering integrating these two powerful services."
 image: /assets/images/articles/people-sitting-near-table.webp

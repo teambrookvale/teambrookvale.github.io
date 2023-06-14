@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/greenhouse
 author: Edward Saunders
 title: "How Marketo and Greenhouse Integration Benefits Marketing and HR Teams"
+topic: System Integration
 leadhead: "Marketo and Greenhouse integration is beneficial for companies that use both tools to manage their sales and HR processes"
 leadtext: "The integration allows for real-time data syncing, which streamlines lead scoring and recruitment efficiency while improving collaboration between departments. While the integration requires technical expertise, the benefits it offers make it worth the effort."
 image: /assets/images/articles/people-sitting-near-table.webp

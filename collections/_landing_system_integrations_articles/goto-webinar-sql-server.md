@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/sql-server
 author: Edward Saunders
 title: "Integrating GoTo Webinar and SQL Server"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and SQL Server through an API or SDK can provide businesses with valuable functionality and data insights"
 leadtext: "By automating data collection and providing analytics around attendee engagement, companies can improve their webinar and online meeting strategies, ultimately resulting in better outcomes and customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

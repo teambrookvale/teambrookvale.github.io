@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/whmcs
 author: Edward Saunders
 title: "AI by Zapier and WHMCS - An Integration for Seamless Workflow"
+topic: System Integration
 leadhead: "In conclusion, the integration of AI by Zapier and WHMCS is a great way to
       streamline a business's workflow"
 leadtext: "It can improve efficiency, save time,

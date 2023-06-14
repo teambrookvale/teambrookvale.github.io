@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/google-bigquery
 author: Edward Saunders
 title: "Integrating PostgreSQL and Google BigQuery"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Google BigQuery through API or SDK can bring numerous benefits to businesses, including scalability, performance, and cost savings"
 leadtext: "By leveraging the strengths of both systems, businesses can improve their data management and analysis abilities, leading to better decision-making and competitiveness in their respective industries."
 image: /assets/images/articles/people-sitting-near-table.webp

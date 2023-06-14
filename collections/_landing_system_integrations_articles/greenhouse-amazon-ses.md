@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-ses
 author: Edward Saunders
 title: "Understanding the Integration of Greenhouse and Amazon SES"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Amazon SES is a powerful tool for recruiters to optimize their hiring processes, save time, and improve the candidate experience"
 leadtext: "If you are a recruiter or HR professional, it is worth exploring this integration and learning how it can benefit your organization."
 image: /assets/images/articles/people-sitting-near-table.webp

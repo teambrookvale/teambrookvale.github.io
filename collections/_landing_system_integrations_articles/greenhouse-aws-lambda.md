@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/aws-lambda
 author: Edward Saunders
 title: "Integration of Greenhouse and AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Greenhouse and AWS Lambda through API or SDK can provide an automated recruiting process that saves time and resources for companies"
 leadtext: "It can also provide objective criteria for evaluating candidates. This integration is an example of how disparate services can be integrated to provide value-added services for users."
 image: /assets/images/articles/people-sitting-near-table.webp

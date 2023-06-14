@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/pardot
 author: Edward Saunders
 title: "Integration of Twitter and Pardot through API or SDK"
+topic: System Integration
 leadhead: "The integration of Twitter and Pardot through API or SDK can provide many benefits to businesses"
 leadtext: "It can help businesses to reach a wider audience, identify and engage with their target audience, and provide a personalized experience to their customers. By integrating the two, businesses can streamline their marketing efforts, improve their ROI, and achieve their marketing goals."
 image: /assets/images/articles/people-sitting-near-table.webp

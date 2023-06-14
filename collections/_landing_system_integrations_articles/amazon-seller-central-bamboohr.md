@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/bamboohr
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and BambooHR"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and BambooHR through APIs or SDKs can solve several problems that businesses face"
 leadtext: "This includes automated employee onboarding, streamlined inventory management, and efficient employee offboarding. By leveraging the strengths of both platforms, businesses can save time and reduce errors in their daily operations."
 image: /assets/images/articles/people-sitting-near-table.webp

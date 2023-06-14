@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/greenhouse
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM with Greenhouse"
+topic: System Integration
 leadhead: "The integration of Dynamics 365 CRM with Greenhouse through the use of an API or SDK provides a seamless flow of data between the two systems, solving several problems for businesses"
 leadtext: "With the reduced manual data entry and increased efficiency, organizations can better manage their recruitment processes and improve their overall customer relationships."
 image: /assets/images/articles/people-sitting-near-table.webp

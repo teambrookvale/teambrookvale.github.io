@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/salesforce
 author: Edward Saunders
 title: "Facebook Lead Ads and Salesforce Integration"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and Salesforce can significantly benefit businesses by improving lead generation, efficiency, and productivity"
 leadtext: "It can also help in improving the overall customer relationship management processes, resulting in higher customer satisfaction and retention rates. The use of API or SDK integration can streamline the process and provide real-time information to sales teams, helping them make informed decisions and improve their sales performance."
 image: /assets/images/articles/people-sitting-near-table.webp

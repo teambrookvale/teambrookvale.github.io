@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/sugarcrm-7-
 author: Edward Saunders
 title: "How Integration of Amazon Polly and SugarCRM 7+ through API and SDK Solves Problems"
+topic: System Integration
 leadhead: "Amazon Polly and SugarCRM 7+ are two powerful tools that can help improve business operations"
 leadtext: "Integrating these tools through API or SDK can further enhance their capabilities and help solve some common business problems. By using Amazon Polly-generated speech in SugarCRM 7+ systems, businesses can provide a more engaging and personalized customer experience while improving their sales processes and overall revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

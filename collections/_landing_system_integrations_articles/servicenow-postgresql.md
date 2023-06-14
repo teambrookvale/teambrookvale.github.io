@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/postgresql
 author: Edward Saunders
 title: "ServiceNow and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of ServiceNow and PostgreSQL can provide businesses with a powerful tool for IT service management and data management"
 leadtext: "By utilizing their API or SDK, organizations can improve workflow efficiency, increase automation capabilities, and gain insights from their data more easily. Overall, the integration of these two platforms can bring numerous benefits to businesses and organizations, making it an essential consideration for any enterprise seeking to improve their IT service management process."
 image: /assets/images/articles/people-sitting-near-table.webp

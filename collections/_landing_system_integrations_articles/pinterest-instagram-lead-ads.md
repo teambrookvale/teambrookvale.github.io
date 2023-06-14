@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/instagram-lead-ads
 author: Edward Saunders
 title: "Why Pinterest and Instagram Lead Ads Integration is a Game Changer?"
+topic: System Integration
 leadhead: "The integration of Pinterest and Instagram Lead Ads provides businesses with a powerful advertising solution"
 leadtext: "By combining the power of both platforms, businesses can reach more potential customers and generate more leads. The integration also saves time and resources by streamlining the management of both platforms. If you haven't already, it's time to take advantage of the integration and take your social media marketing to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

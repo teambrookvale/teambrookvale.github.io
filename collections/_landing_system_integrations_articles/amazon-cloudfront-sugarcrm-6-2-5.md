@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Amazon CloudFront and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront and SugarCRM 6.2-5 is an excellent way for businesses to improve the performance, security, and reliability of their customer relationship management software"
 leadtext: "By leveraging the power of Amazon CloudFront, businesses can ensure that their SugarCRM 6.2-5 instance is always fast, secure, and available to their users, no matter where they are in the world."
 image: /assets/images/articles/people-sitting-near-table.webp

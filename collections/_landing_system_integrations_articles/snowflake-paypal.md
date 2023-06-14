@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/paypal
 author: Edward Saunders
 title: "Snowflake and PayPal Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and PayPal is a powerful combination that can help businesses unlock the full potential of their data"
 leadtext: "By using these two platforms together, businesses can gain deeper insights into their payment data and make better decisions that ultimately improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/twitter
 author: Edward Saunders
 title: "GoTo Training and Twitter: An Integration Worth Your While"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Twitter is a strategic move that solves many problems involving training and marketing"
 leadtext: "It is easy to implement, saves time and is cost-effective. The seamless integration of the two tools guarantees maximum attendees, efficient delivery of training, and optimum business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/greenhouse
 author: Edward Saunders
 title: "Amazon DynamoDB and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Greenhouse is a powerful solution for companies looking to streamline their recruitment processes and improve their applicant tracking systems"
 leadtext: "The ability to easily access, manage and store applicant data in a reliable and scalable system makes this integration a valuable addition to any company's recruitment workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/magento
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and Magento"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Magento is a powerful combination that helps businesses to keep their websites up and running, optimizing customer experience, and ultimately increasing revenue"
 leadtext: "By utilizing the integration, businesses can easily monitor their performance metrics, make informed decisions, and automate their scaling processes for better efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/chargify
 author: Edward Saunders
 title: "Integrating ServiceNow & Chargify: A Game Changer for Businesses"
+topic: System Integration
 leadhead: "The integration between ServiceNow & Chargify can help businesses streamline their workflows, reduce manual labor, and ensure data consistency"
 leadtext: "While integration may require additional resources upfront, the rewards in terms of productivity and efficiency are worth it. Additionally, using third-party integration platforms can make integration easier and faster."
 image: /assets/images/articles/people-sitting-near-table.webp

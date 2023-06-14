@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/instagram-custom-audiences
 author: Edward Saunders
 title: "Integration of Amazon S3 and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon S3 and Instagram Custom Audiences is a powerful tool for businesses that want to improve their advertising efforts on Instagram"
 leadtext: "It eliminates the need for manual data entry and improves the targeting capabilities of the ads. With the integration available through an API or SDK, businesses can easily take advantage of these features with minimal effort."
 image: /assets/images/articles/people-sitting-near-table.webp

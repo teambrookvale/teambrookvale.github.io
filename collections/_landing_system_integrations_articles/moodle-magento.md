@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/magento
 author: Edward Saunders
 title: "Integration of Moodle and Magento for Seamless Learning"
+topic: System Integration
 leadhead: "The integration of Moodle and Magento offers e-learning businesses greater flexibility and scalability"
 leadtext: "The integration of Moodle and Magento through API or SDK makes it easier for organizations to manage their courses and e-commerce activities without compromising on the students' learning experience. E-learning businesses can gain a competitive edge by using these platforms together to offer a comprehensive and cohesive learning experience to their students."
 image: /assets/images/articles/people-sitting-near-table.webp

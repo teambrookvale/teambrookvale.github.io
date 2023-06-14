@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/google-ads
 author: Edward Saunders
 title: "PayPal and Google Ads Integration"
+topic: System Integration
 leadhead: "Integrating PayPal and Google Ads through API or SDK can offer a range of benefits for businesses"
 leadtext: "From improving ROI to reducing the risk of fraudulent transactions, this integration can help businesses streamline their online transactions and advertising efforts. As both PayPal and Google Ads continue to evolve and improve their services, we can expect more innovative solutions in the future."
 image: /assets/images/articles/people-sitting-near-table.webp

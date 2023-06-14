@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/google-groups
 author: Edward Saunders
 title: "Shopify and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Google Groups through API or SDK can provide numerous benefits for businesses"
 leadtext: "By automating their communication and collaboration, businesses can save time, improve customer engagement, and stay organized. Therefore, businesses should consider integrating these two platforms to streamline their operations and stay competitive in the e-commerce landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

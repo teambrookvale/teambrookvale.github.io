@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/goto-training
 author: Edward Saunders
 title: "Pinterest and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Pinterest and GoTo Training is a powerful tool for businesses and organizations looking to enhance their training programs and increase their brand presence"
 leadtext: "By leveraging the visual and interactive capabilities of Pinterest and the flexibility and convenience of GoTo Training, companies can provide effective and engaging training to employees, customers and partners."
 image: /assets/images/articles/people-sitting-near-table.webp

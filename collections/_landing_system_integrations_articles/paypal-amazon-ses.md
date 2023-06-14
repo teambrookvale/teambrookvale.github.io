@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/amazon-ses
 author: Edward Saunders
 title: "Integration of PayPal and Amazon SES"
+topic: System Integration
 leadhead: "Overall, integrating PayPal and Amazon SES can provide numerous benefits for merchants who want to streamline their payment and email systems"
 leadtext: "By using an API or SDK, merchants can automate the process of sending transactional emails and ensure that they are delivered reliably and securely. This can help improve the customer experience, save time and resources, and build trust and loyalty with customers."
 image: /assets/images/articles/people-sitting-near-table.webp

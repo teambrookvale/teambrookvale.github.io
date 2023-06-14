@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/calldrip
 author: Edward Saunders
 title: "Why Magento and Calldrip Integration is Important for Your Business?"
+topic: System Integration
 leadhead: "The integration of Magento and Calldrip can provide immense benefits for businesses that operate an online store"
 leadtext: "It can help businesses to provide a better customer experience, improve lead conversion rates, and gain insights into customer behavior. With API and SDK integration, businesses can automate lead tracking and share data between platforms seamlessly. Overall, the integration of Magento and Calldrip is an excellent way to improve your online store's performance and gain a competitive advantage in your industry."
 image: /assets/images/articles/people-sitting-near-table.webp

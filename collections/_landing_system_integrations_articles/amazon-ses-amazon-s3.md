@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/amazon-s3
 author: Edward Saunders
 title: "Integration of Amazon SES and Amazon S3"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Amazon S3 can provide businesses with a powerful email marketing and storage solution"
 leadtext: "It can help businesses improve their email campaigns, reduce costs, and increase efficiency. If your business is looking for an email solution that is flexible, scalable, and cost-effective, consider integrating Amazon SES and Amazon S3."
 image: /assets/images/articles/people-sitting-near-table.webp

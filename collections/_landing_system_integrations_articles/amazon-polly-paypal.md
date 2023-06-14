@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/paypal
 author: Edward Saunders
 title: "Amazon Polly and PayPal Integration"
+topic: System Integration
 leadhead: "Integrating Amazon Polly with PayPal can bring numerous benefits to businesses and their customers"
 leadtext: "By leveraging the power of natural-sounding speech, businesses can create a more memorable and personalized experience for their customers. This integration can help improve customer satisfaction and loyalty, and can help businesses stand out in a crowded marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

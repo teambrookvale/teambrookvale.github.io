@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/sugarcrm-7-
 author: Edward Saunders
 title: "LinkedIn Ads and SugarCRM 7+ Integration"
+topic: System Integration
 leadhead: "The integration between LinkedIn Ads and SugarCRM 7+ is a powerful tool for businesses looking to improve their advertising performance and customer management"
 leadtext: "By combining the data from both platforms, businesses can gain greater insights into their leads and sales and make more informed decisions. Whether through API or SDK, integrating these two platforms can have a significant impact on a business's bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/google-ads
 author: Edward Saunders
 title: "Bigcommerce and Google Ads Integration - Streamline Your Ecommerce Marketing Efforts"
+topic: System Integration
 leadhead: "The integration of Bigcommerce and Google Ads through API or SDK can greatly benefit ecommerce businesses in streamlining their marketing efforts"
 leadtext: "By automating tasks, avoiding duplicate data entry, and ensuring consistent and accurate data, businesses can save time and effort and achieve better results in their advertising campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

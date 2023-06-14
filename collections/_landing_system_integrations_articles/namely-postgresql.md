@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/postgresql
 author: Edward Saunders
 title: "Namely and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of Namely and PostgreSQL is an excellent solution for companies, particularly small and medium-sized organizations, to ensure that their HR and database management needs can be seamlessly integrated"
 leadtext: "The API or SDK integration ensures that cross-functional data exchange between the two systems is automatic and highly accurate. Ultimately, this makes data management simpler, ensuring more efficient operations for organizations."
 image: /assets/images/articles/people-sitting-near-table.webp

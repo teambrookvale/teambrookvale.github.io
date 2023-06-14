@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/xero
 author: Edward Saunders
 title: "Integrating Instagram Custom Audiences and Xero"
+topic: System Integration
 leadhead: "Integrating Instagram Custom Audiences and Xero can be a powerful tool for businesses who want to reach their target audience and manage their finances more efficiently"
 leadtext: "Developers can use either the Instagram Ads API or Xero SDK to create applications that help businesses achieve their goals. By combining the power of both platforms, businesses can create a more streamlined and effective marketing and financial management strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

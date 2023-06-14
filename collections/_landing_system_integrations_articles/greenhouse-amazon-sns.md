@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-sns
 author: Edward Saunders
 title: "Greenhouse and Amazon SNS Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Greenhouse and Amazon SNS provides a powerful solution for organizations looking to streamline their recruitment processes"
 leadtext: "Whether through the API or SDK, this integration can help automate notifications and keep all team members informed throughout the hiring process."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/quick-base
 author: Edward Saunders
 title: "BambooHR and Quick Base Integration: Solving Human Resource Management Problems"
+topic: System Integration
 leadhead: "The integration of BambooHR and Quick Base is a game-changer for companies looking to automate their HR processes"
 leadtext: "The integration allows HR teams to manage their work more effectively and efficiently, freeing up time to focus on creating a better employee experience. Whether you’re a small or large company, this integration can help you streamline your HR management and improve overall productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

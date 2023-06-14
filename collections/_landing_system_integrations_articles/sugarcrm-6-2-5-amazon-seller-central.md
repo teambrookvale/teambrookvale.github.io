@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-seller-central
 author: Edward Saunders
 title: "SugarCRM and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of SugarCRM and Amazon Seller Central can provide significant benefits for businesses"
 leadtext: "It can streamline many processes, reduce manual work, and improve data accuracy. By accessing customer data, order history, and inventory data, businesses can make informed decisions that boost their sales and customer satisfaction. Therefore, it's worth considering the integration of SugarCRM and Amazon Seller Central if you're looking for ways to automate your operations and save time."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and Amazon CloudFront: Solving Business Problems with API and SDK"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Amazon CloudFront through API or SDK offers several benefits for businesses"
 leadtext: "With faster and more reliable content delivery, lower costs, and increased efficiency, businesses can improve their customer experience and streamline their operations. Whether integrating through API or SDK, businesses should carefully consider their needs and goals to choose the best approach for their requirements."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/webhooks-by-zapier
 author: Edward Saunders
 title: "How Amazon Seller Central and Webhooks by Zapier Work Together"
+topic: System Integration
 leadhead: "Amazon Seller Central and Webhooks by Zapier are two powerful tools that can make a huge difference in the e-commerce industry"
 leadtext: "By integrating the two, businesses can improve their processes, save time, and reduce errors. Whether you sell your products on Amazon or use other e-commerce platforms, it is worth exploring how the integration of these two tools can benefit your business."
 image: /assets/images/articles/people-sitting-near-table.webp

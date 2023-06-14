@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/goto-webinar
 author: Edward Saunders
 title: "ServiceNow and GoTo Webinar Integration: Problem Solvers"
+topic: System Integration
 leadhead: "The integration of ServiceNow and GoTo Webinar offers numerous benefits for businesses"
 leadtext: "It helps in managing and automating workflows, improving communication, reducing manual efforts, and providing valuable insights. Developing a custom integration solution for the two platforms is a straightforward process with the help of API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/goto-training
 author: Edward Saunders
 title: "Expensify and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and GoTo Training through API or SDK offers a lot of benefits to businesses"
 leadtext: "It automates the expense tracking process, eliminating manual errors, and saving time. This integration is ideal for organizations that frequently conduct training sessions as it ensures timely and accurate recording of all expenses related to the sessions."
 image: /assets/images/articles/people-sitting-near-table.webp

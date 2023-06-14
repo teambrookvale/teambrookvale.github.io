@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/zoho-crm
 author: Edward Saunders
 title: "Integrating SugarCRM and Zoho CRM"
+topic: System Integration
 leadhead: "Integrating SugarCRM and Zoho CRM offers numerous benefits for businesses of all sizes"
 leadtext: "Through the use of an API or SDK, businesses can seamlessly transfer data between the two systems, reducing the risk of duplicated efforts and centralizing all data in one location. By taking advantage of integration, businesses can streamline their operations and focus on growing their customer relationships."
 image: /assets/images/articles/people-sitting-near-table.webp

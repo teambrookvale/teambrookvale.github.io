@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/goto-training
 author: Edward Saunders
 title: "Snowflake and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and GoTo Training through API and SDK offers businesses a powerful toolset for conducting virtual training sessions and data analysis"
 leadtext: "It enables organizations to streamline their operations, reduce costs, and improve productivity. With this integration, businesses can leverage the power of the cloud and virtual training to remain competitive in today's fast-paced business world."
 image: /assets/images/articles/people-sitting-near-table.webp

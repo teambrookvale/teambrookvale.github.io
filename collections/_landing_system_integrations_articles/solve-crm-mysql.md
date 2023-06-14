@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/mysql
 author: Edward Saunders
 title: "Solving CRM Problems with MySQL Integration"
+topic: System Integration
 leadhead: "Integrating MySQL with CRM system is essential for businesses to ensure seamless real-time access to customer data, gain better customer insights, automate manual processes, and increase operational efficiency while reducing errors"
 leadtext: "So, if you're running a business that uses a CRM system without MySQL integration, it's time to consider integrating the two systems and start enjoying the benefits of this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/sugarcrm-7-
 author: Edward Saunders
 title: "Quick Base and SugarCRM Integration"
+topic: System Integration
 leadhead: "When it comes to modern business management, integration is key to ensuring seamless operations and maximum efficiency"
 leadtext: "Quick Base and SugarCRM are two powerful solutions that, when integrated through APIs or SDKs, take businesses to the next level. By eliminating manual data transfer, centralizing data, and improving customer service, businesses are able to make better decisions and ultimately grow their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

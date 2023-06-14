@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/snowflake
 author: Edward Saunders
 title: "PayPal and Snowflake Integration for Streamlined Finance"
+topic: System Integration
 leadhead: "In conclusion, the integration of PayPal and Snowflake through API and SDK is a significant development in finance management"
 leadtext: "Businesses can now streamline their financial management, gain valuable insights, and make better decisions. If you are a finance manager looking to streamline your operation, consider implementing these tools into your workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

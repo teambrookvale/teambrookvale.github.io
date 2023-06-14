@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/keap-max-classic
 author: Edward Saunders
 title: "Maximizing Productivity with Keap Max Classic-Pinterest Integration"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic with Pinterest is a smart move for any small business looking to scale their marketing efforts and improve their productivity"
 leadtext: "By leveraging the power of these two platforms, you can automate your workflow, engage with your audience, and grow your business. So, why wait? Try integrating Keap Max Classic and Pinterest today and see the benefits for yourself."
 image: /assets/images/articles/people-sitting-near-table.webp

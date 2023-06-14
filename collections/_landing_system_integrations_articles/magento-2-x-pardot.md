@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/pardot
 author: Edward Saunders
 title: "Magento 2.X and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Pardot is a smart choice for merchants looking to streamline their marketing and sales efforts"
 leadtext: "By accessing the same customer data and tracking customer behavior across all touchpoints, businesses can create more effective and personalized campaigns that lead to increased sales and revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

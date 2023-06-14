@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/zendesk
 author: Edward Saunders
 title: "Evernote Business and Zendesk Integration"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Zendesk can lead to improved teamwork, productivity, and customer satisfaction"
 leadtext: "By keeping all customer information in one place, assigning tasks, creating notes and tracking metrics, your team can provide better and more efficient customer support. So, if you want to improve your company's operations, consider integrating these two tools through API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

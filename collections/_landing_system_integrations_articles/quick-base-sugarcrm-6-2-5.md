@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Quick Base and SugarCRM"
+topic: System Integration
 leadhead: "Integrating Quick Base and SugarCRM can have significant benefits for organizations looking to streamline their business processes and improve customer relationships"
 leadtext: "Whether through API or SDK integration, users can take advantage of the strengths of each platform and create a more efficient and effective business environment."
 image: /assets/images/articles/people-sitting-near-table.webp

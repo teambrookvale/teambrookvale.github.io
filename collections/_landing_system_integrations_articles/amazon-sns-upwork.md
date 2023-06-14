@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/upwork
 author: Edward Saunders
 title: "Amazon SNS and Upwork Integration for Efficient Communication"
+topic: System Integration
 leadhead: "Overall, the integration of Amazon SNS and Upwork can greatly enhance communication and project management between clients and freelancers, leading to better productivity and results"
 leadtext: "It is a highly scalable and reliable solution for remote work, and its benefits are definitely worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

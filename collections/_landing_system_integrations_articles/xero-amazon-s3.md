@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/amazon-s3
 author: Edward Saunders
 title: "Xero and Amazon S3 Integration: A Game Changer for Businesses"
+topic: System Integration
 leadhead: "The integration of Xero and Amazon S3 is a game-changer for businesses that want to streamline their financial data management and increase collaboration"
 leadtext: "With real-time updates, automated backups, and cost-effective storage, businesses can focus on what they do best – growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

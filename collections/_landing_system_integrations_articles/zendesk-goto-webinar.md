@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/goto-webinar
 author: Edward Saunders
 title: "Zendesk and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and GoTo Webinar offers businesses a powerful solution for enhancing their customer support and marketing strategies"
 leadtext: "It allows them to provide personalized follow-up, streamline their registration process, and measure the effectiveness of their online events. By taking advantage of the API or SDK integration, businesses can increase their engagement and conversions and improve their overall ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

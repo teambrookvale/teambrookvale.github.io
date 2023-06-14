@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/google-ads
 author: Edward Saunders
 title: "Integrating Amazon SNS and Google Ads for Efficient Marketing"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and Google Ads can lead to more efficient and successful marketing campaigns for businesses, enabling better targeting, greater efficiency, and improved ROI"
 leadtext: "By using the APIs or SDKs provided, businesses can easily integrate these two powerful tools and take their marketing efforts to new heights."
 image: /assets/images/articles/people-sitting-near-table.webp

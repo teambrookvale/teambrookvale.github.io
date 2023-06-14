@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating Pardot with Webhooks by Zapier for Automation and Better Workflow"
+topic: System Integration
 leadhead: "Integrating Pardot with Webhooks by Zapier enables businesses to streamline their marketing, sales, and support processes"
 leadtext: "With a wide range of integrations available, businesses can customize their workflows to fit their specific needs. Through automation, businesses can save time and resources, increase productivity, and achieve their goals more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

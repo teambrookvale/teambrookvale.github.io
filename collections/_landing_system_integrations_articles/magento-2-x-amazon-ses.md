@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-ses
 author: Edward Saunders
 title: "Integrating Magento 2.X with Amazon SES"
+topic: System Integration
 leadhead: "The integration of Magento 2.X with Amazon SES is a powerful solution that helps merchants improve their email delivery rates and saves them money on email marketing campaigns"
 leadtext: "Using the APIs or SDKs provided by both platforms, developers can easily integrate the two and take advantage of Amazon SES's reliable email infrastructure. As such, this integration is highly recommended for Magento 2.X store owners to ensure that they are able to effectively communicate with their customers through email."
 image: /assets/images/articles/people-sitting-near-table.webp

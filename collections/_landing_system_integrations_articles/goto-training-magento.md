@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/magento
 author: Edward Saunders
 title: "Integrating GoTo Training and Magento"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Magento can provide businesses with a streamlined training and sales management process"
 leadtext: "By connecting these two platforms through API or SDK, businesses can offer training sessions directly from their e-commerce websites and manage their training and sales processes more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

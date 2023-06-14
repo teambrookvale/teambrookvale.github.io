@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/sql-server
 author: Edward Saunders
 title: "Namely and SQL Server Integration: Solving Business Problems"
+topic: System Integration
 leadhead: "The integration of Namely and SQL Server provides businesses with a seamless way to manage their HR data and make more informed decisions"
 leadtext: "By eliminating data entry errors, tracking HR metrics, and offering better data visibility, businesses can streamline their HR processes and focus on what matters most – their employees."
 image: /assets/images/articles/people-sitting-near-table.webp

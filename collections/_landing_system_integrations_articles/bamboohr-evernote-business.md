@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/evernote-business
 author: Edward Saunders
 title: "BambooHR &amp; Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration between BambooHR and Evernote Business through API or SDK provides businesses with a simple and effective solution to their HR management and collaboration problems"
 leadtext: "From streamlining HR processes to increasing productivity and creating a powerful collaborative environment with all the necessary tools, this integration is a game-changer for businesses looking for a more efficient and effective way to manage HR data, notes and projects."
 image: /assets/images/articles/people-sitting-near-table.webp

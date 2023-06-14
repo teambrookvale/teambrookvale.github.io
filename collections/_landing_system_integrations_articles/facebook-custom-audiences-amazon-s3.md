@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/amazon-s3
 author: Edward Saunders
 title: "Integrating Facebook Custom Audiences & Amazon S3 Through API or SDK"
+topic: System Integration
 leadhead: "Combining Facebook Custom Audiences and Amazon S3 through an API or SDK integration is a game-changer for businesses"
 leadtext: "It offers the potential to store, manage, and leverage customer data to create highly targeted campaigns with higher conversion rates. With the help of AWS, businesses can take advantage of the scalability, reliability, and cost-effectiveness of cloud storage. As a result, businesses can focus on providing meaningful insights about their target audience, optimizing their campaigns, and growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

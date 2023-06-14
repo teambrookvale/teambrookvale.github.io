@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/sql-server
 author: Edward Saunders
 title: "Solving CRM and SQL Server Integration with API or SDK"
+topic: System Integration
 leadhead: "CRM and SQL Server are vital business tools that every corporation needs"
 leadtext: "However, the ability to integrate the two allows for businesses to have an efficient, real-time and effortless exchange of data. API or SDK integration of CRM and SQL Server provides solutions to fragmented, inconsistent data and reduces human errors and time invested in manual data transfer. Solve CRM is an excellent solution that complements the SQL Server integration of both systems, providing businesses with customizable features for better integration and organization of data."
 image: /assets/images/articles/people-sitting-near-table.webp

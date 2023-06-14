@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/marketo
 author: Edward Saunders
 title: "Integration of Pardot and Marketo"
+topic: System Integration
 leadhead: "The integration of Pardot and Marketo is an excellent opportunity for businesses to streamline their marketing automation processes, drive revenue growth, and increase the efficiency of their marketing campaigns"
 leadtext: "By leveraging these two powerful platforms, businesses can improve their lead management, enhance their reporting capabilities, and gain deeper insight into their customer behavior."
 image: /assets/images/articles/people-sitting-near-table.webp

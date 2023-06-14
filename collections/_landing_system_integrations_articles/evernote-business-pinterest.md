@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/pinterest
 author: Edward Saunders
 title: "Evernote Business and Pinterest Integration - Solving Collaboration Woes"
+topic: System Integration
 leadhead: "Integrating Evernote Business and Pinterest can help organizations and teams overcome the challenges of collaboration"
 leadtext: "By simplifying the workflow, saving time, and keeping all the shared ideas in one place, there is a greater level of clarity and teamwork achieved. As such, businesses looking for ways to streamline their collaboration efforts should consider integrating Evernote Business and Pinterest to their productivity tools arsenal."
 image: /assets/images/articles/people-sitting-near-table.webp

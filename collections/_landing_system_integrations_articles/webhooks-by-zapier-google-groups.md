@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/google-groups
 author: Edward Saunders
 title: "Webhooks by Zapier and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Google Groups is a powerful tool for businesses and communities that want to collaborate, share information, and automate their workflows"
 leadtext: "It eliminates the need for manual intervention and saves time, increasing productivity and efficiency. By using the webhooks API or SDK, it is easy to set up and customize the integration to meet specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

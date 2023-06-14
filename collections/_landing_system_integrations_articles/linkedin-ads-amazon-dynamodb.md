@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/amazon-dynamodb
 author: Edward Saunders
 title: "LinkedIn Ads and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Amazon DynamoDB provides businesses with a powerful combination of advertising and data management"
 leadtext: "This integration allows businesses to efficiently manage their LinkedIn Ads campaigns, while also providing a secure and flexible NoSQL database for storing and analyzing their data. Overall, this integration can help businesses make better decisions and achieve better results from their advertising campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/paypal
 author: Edward Saunders
 title: "Keap Max Classic and PayPal Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and PayPal through API or SDK is beneficial for businesses looking to streamline their sales and payment processes"
 leadtext: "By automating the payment process, businesses can save time and reduce errors, resulting in better efficiency and productivity. Additionally, real-time processing allows businesses to provide prompt service to their customers, resulting in increased customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

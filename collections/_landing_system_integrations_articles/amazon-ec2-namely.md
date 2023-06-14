@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/namely
 author: Edward Saunders
 title: "Integrating Amazon EC2 and Namely: A Solution for HR Management"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and Namely can provide businesses with a comprehensive solution for managing their HR functions effectively"
 leadtext: "By leveraging the power of these platforms and their integration capabilities, businesses can reduce manual tasks, increase productivity, and improve compliance. This can result in significant cost savings and increased profitability. Overall, the integration of Amazon EC2 and Namely is a powerful tool that businesses can use to manage their HR processes effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

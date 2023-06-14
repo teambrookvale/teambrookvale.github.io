@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/twitter
 author: Edward Saunders
 title: "Integration of SQL Server and Twitter through API or SDK"
+topic: System Integration
 leadhead: "The integration of SQL Server and Twitter through an API or SDK presents exciting possibilities for businesses of all sizes"
 leadtext: "By leveraging the power of these tools, businesses can gain valuable insights into customer behavior, streamline their data management processes, and inform key business decisions. As the digital landscape continues to evolve, the integration of these tools will become increasingly important for businesses that want to stay ahead of the curve."
 image: /assets/images/articles/people-sitting-near-table.webp

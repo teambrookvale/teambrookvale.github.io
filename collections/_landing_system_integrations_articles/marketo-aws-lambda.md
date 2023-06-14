@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/aws-lambda
 author: Edward Saunders
 title: "Marketo and AWS Lambda Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and AWS Lambda provides several benefits for businesses"
 leadtext: "With the ability to scale, process data in real-time, and save cost, organizations can take their marketing automation to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

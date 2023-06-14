@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/aws-lambda
 author: Edward Saunders
 title: "Integration of Moodle and AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Moodle and AWS Lambda is a powerful solution for educational institutions looking to provide a reliable and scalable learning platform"
 leadtext: "The combination of Moodle’s rich learning management features and AWS Lambda’s scalable and flexible compute power creates a robust platform for educational institutions of any size."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/keap-max-classic
 author: Edward Saunders
 title: "Integrating Google Ads with Keap Max Classic"
+topic: System Integration
 leadhead: "The integration of Google Ads with Keap Max Classic is a game-changer for businesses looking to enhance their marketing efforts"
 leadtext: "By leveraging the power of Google Ads and the automation capabilities of Keap Max Classic, businesses can create effective ad campaigns, nurture their leads and customers, and optimize their marketing ROI. With the availability of APIs and SDKs, integrating Google Ads with Keap Max Classic is easier than ever, and businesses can get started right away."
 image: /assets/images/articles/people-sitting-near-table.webp

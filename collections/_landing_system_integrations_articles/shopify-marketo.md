@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/marketo
 author: Edward Saunders
 title: "Integrating Shopify and Marketo"
+topic: System Integration
 leadhead: "The integration of Shopify and Marketo is transforming the way businesses manage their online sales and marketing efforts"
 leadtext: "By providing a seamless transfer of data between the two platforms, businesses can create personalized campaigns that engage customers and drive more sales. With the improved customer engagement and more targeted marketing campaigns, businesses can build stronger relationships with their customers and increase their revenue streams."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-sns
 author: Edward Saunders
 title: "Integrating Moodle and Amazon SNS for Efficient Communication"
+topic: System Integration
 leadhead: "The integration of Moodle and Amazon SNS offers a lot of benefits for organizations that rely on efficient communication"
 leadtext: "It allows for quick and effective communication between teachers and students, saves time and effort, and offers flexibility in terms of notification delivery. With the help of API or SDK integration, organizations can easily use Moodle and Amazon SNS to improve their communication and collaboration."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/pardot
 author: Edward Saunders
 title: "Integration of Facebook Custom Audiences and Pardot"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Pardot helps businesses to streamline their marketing activities, increase engagement, and get better results"
 leadtext: "By using the data collected in Pardot, businesses can create more targeted and effective Facebook Custom Audiences campaigns, which can lead to increased sales and ROI. Therefore, businesses should consider integrating these two marketing tools to take their marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

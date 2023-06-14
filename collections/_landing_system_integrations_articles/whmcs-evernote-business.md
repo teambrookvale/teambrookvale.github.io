@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/evernote-business
 author: Edward Saunders
 title: "Integration of WHMCS and Evernote Business"
+topic: System Integration
 leadhead: "The integration of WHMCS and Evernote Business through APIs or SDKs significantly improves business productivity and helps manage client support"
 leadtext: "If you are looking to improve your business's overall efficiency, this integration can be the ideal solution. It is a preferable option for businesses looking for a single all-in-one solution for essential business functions."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/evernote-business
 author: Edward Saunders
 title: "Integration of Pardot and Evernote Business | Blog"
+topic: System Integration
 leadhead: "The integration of Pardot and Evernote Business through API or SDK is a highly effective way for businesses to streamline their marketing and sales processes, improve collaboration, and increase productivity"
 leadtext: "By utilizing the best features of both platforms, businesses can take their marketing automation to the next level and achieve even greater levels of success."
 image: /assets/images/articles/people-sitting-near-table.webp

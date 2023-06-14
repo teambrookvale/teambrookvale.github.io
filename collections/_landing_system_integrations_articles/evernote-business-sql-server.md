@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/sql-server
 author: Edward Saunders
 title: "How Evernote Business and SQL Server Integration Solves Problems"
+topic: System Integration
 leadhead: "The integration of Evernote Business and SQL Server can be a game-changer for businesses"
 leadtext: "By using API or SDK, businesses can eliminate information silos, make better decisions based on data insights, and identify opportunities quickly. If you haven't considered integrating Evernote Business and SQL Server, now is the time to start."
 image: /assets/images/articles/people-sitting-near-table.webp

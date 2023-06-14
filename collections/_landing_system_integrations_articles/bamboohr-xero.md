@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/xero
 author: Edward Saunders
 title: "Benefits of Integrating BambooHR and Xero"
+topic: System Integration
 leadhead: "Overall, if you're using both BambooHR and Xero, it makes sense to integrate them using an API or SDK"
 leadtext: "Doing so can save time, reduce errors, and provide deeper insights into how your business is performing. Whether you're managing payroll, benefits, or other HR and accounting tasks, this integration can help make your life easier and your business more successful."
 image: /assets/images/articles/people-sitting-near-table.webp

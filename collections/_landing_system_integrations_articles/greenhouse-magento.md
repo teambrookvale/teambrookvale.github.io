@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/magento
 author: Edward Saunders
 title: "Greenhouse and Magento Integration"
+topic: System Integration
 leadhead: "Integrating Greenhouse with Magento can be highly beneficial for businesses of all sizes"
 leadtext: "By leveraging the power of APIs and SDKs, companies can streamline their recruitment and onboarding processes, as well as improve the candidate experience. Ultimately, this can lead to better hires, higher retention rates, and a more efficient hiring process overall."
 image: /assets/images/articles/people-sitting-near-table.webp

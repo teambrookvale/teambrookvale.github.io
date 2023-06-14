@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/servicenow
 author: Edward Saunders
 title: "Integration of Amazon EC2 and ServiceNow"
+topic: System Integration
 leadhead: "Integration of Amazon EC2 and ServiceNow through API or SDK can provide significant benefits to organizations, including reduced manual efforts, improved visibility, better governance, and faster incident resolution"
 leadtext: "The integration of these two cloud-based tools is an excellent example of how technology can help streamline IT operations and improve overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

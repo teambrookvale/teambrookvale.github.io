@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/ai-by-zapier
 author: Edward Saunders
 title: "Integration of Amazon SNS and AI by Zapier"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and AI by Zapier provides a powerful solution for businesses looking to automate their messaging and notifications"
 leadtext: "It allows you to send notifications via Amazon SNS based on triggers in AI by Zapier and solve several problems such as saving time, increasing message reach, and providing a scalable messaging solution. By using these two tools together, businesses can automate their workflows and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

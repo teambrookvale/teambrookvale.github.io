@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/magento-2-x
 author: Edward Saunders
 title: "Why Integrating Amazon SNS and Magento 2.X is Beneficial"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon SNS and Magento 2.X provides many benefits for businesses and their customers"
 leadtext: "The ability to send push notifications and real-time updates keeps customers informed and engaged, improving their overall shopping experience. Furthermore, using Amazon SNS to keep track of orders and notify customers of changes adds an extra level of convenience and reassurance for customers."
 image: /assets/images/articles/people-sitting-near-table.webp

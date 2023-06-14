@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/upwork
 author: Edward Saunders
 title: "Integrating Keap Max Classic and Upwork"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic and Upwork can provide a range of benefits to businesses by streamlining their processes, enhancing their capabilities, and saving time and resources"
 leadtext: "With APIs and SDKs, businesses can automate processes between the two platforms, manage their freelancers efficiently, and keep their contacts in one place. Whether you're a small business or a freelancer, integrating these two platforms can help you achieve your goals and grow your business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/greenhouse
 author: Edward Saunders
 title: "Shopify and Greenhouse Integration"
+topic: System Integration
 leadhead: "Shopify and Greenhouse integration can be a game-changer for anyone looking to streamline their workflow as they manage their online store and hiring process"
 leadtext: "By integrating these two tools, you can save time, reduce inefficiencies, and automate many of the tedious and time-consuming processes of e-commerce and hiring. If you're looking for a way to make running your online store and recruiting candidates easier, you'll definitely want to consider integrating Shopify and Greenhouse."
 image: /assets/images/articles/people-sitting-near-table.webp

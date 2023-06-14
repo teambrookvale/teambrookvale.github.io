@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/salesforce
 author: Edward Saunders
 title: "BambooHR and Salesforce Integration: Streamlining HR and Sales Processes"
+topic: System Integration
 leadhead: "Businesses that use both BambooHR and Salesforce can benefit from their integration"
 leadtext: "The comprehensive view of customer and employee data can lead to improved sales and employee engagement. Additionally, it can streamline HR and sales processes, saving companies both time and money. The integration of these two platforms is an excellent example of how technology can be leveraged to improve organizational efficiency and achieve business objectives."
 image: /assets/images/articles/people-sitting-near-table.webp

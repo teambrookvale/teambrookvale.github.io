@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/instagram-custom-audiences
 author: Edward Saunders
 title: "Maximizing Your Targeting Strategy with LinkedIn Ads and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "By integrating LinkedIn Ads and Instagram Custom Audiences, you can take advantage of the unique targeting capabilities of each platform and create a more effective advertising campaign"
 leadtext: "Whether you're a B2B or B2C company, this integration can help you reach your desired audience with personalized messaging and increase your ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

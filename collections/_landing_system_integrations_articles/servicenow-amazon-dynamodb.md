@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of ServiceNow and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Amazon DynamoDB provides a powerful combination of IT service management and database solutions that can help organizations streamline their IT operations"
 leadtext: "By leveraging the strengths of both platforms, organizations can efficiently manage their data while ensuring real-time synchronization, scalability, and efficient data management."
 image: /assets/images/articles/people-sitting-near-table.webp

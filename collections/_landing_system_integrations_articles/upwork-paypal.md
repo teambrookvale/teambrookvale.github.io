@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/paypal
 author: Edward Saunders
 title: "Upwork and PayPal Integration"
+topic: System Integration
 leadhead: "The integration between Upwork and PayPal is a powerful tool that simplifies payment transactions and facilitates the invoicing process for businesses and freelancers"
 leadtext: "By leveraging technology through API or SDK, freelancers can focus on their work while businesses can streamline their payment processes. Integrating Upwork and PayPal ultimately saves time, ensures security, and improves the overall experience for all parties involved."
 image: /assets/images/articles/people-sitting-near-table.webp

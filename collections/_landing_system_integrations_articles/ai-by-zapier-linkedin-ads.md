@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/linkedin-ads
 author: Edward Saunders
 title: "Integrating AI by Zapier with LinkedIn Ads: A Solution for Better Business"
+topic: System Integration
 leadhead: "Integrating AI by Zapier with LinkedIn Ads is a powerful tool for businesses looking to optimize their marketing efforts"
 leadtext: "By leveraging the power of AI, businesses can streamline their workflows, save time and money, and improve the performance of their advertising campaigns. With the right tools and strategy, businesses can take their marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

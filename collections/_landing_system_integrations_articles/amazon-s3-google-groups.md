@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/google-groups
 author: Edward Saunders
 title: "Integrating Amazon S3 and Google Groups"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon S3 and Google Groups through API or SDK eliminates various problems for users"
 leadtext: "It provides a simple and efficient way for team members to share and collaborate on files stored in an Amazon S3 bucket. The integration of these two powerful tools is a must for any team that wants to improve productivity and collaboration."
 image: /assets/images/articles/people-sitting-near-table.webp

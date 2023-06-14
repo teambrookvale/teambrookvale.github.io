@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/moodle
 author: Edward Saunders
 title: "Integration of Amazon SQS and Moodle"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Moodle can enhance the performance, scalability, and reliability of Moodle applications, as well as enable asynchronous processing of tasks"
 leadtext: "By using APIs or SDKs, you can seamlessly integrate the two platforms and take advantage of the benefits that message queuing and processing provide."
 image: /assets/images/articles/people-sitting-near-table.webp

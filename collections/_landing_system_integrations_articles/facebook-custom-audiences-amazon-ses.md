@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/amazon-ses
 author: Edward Saunders
 title: "Integration of Facebook Custom Audiences and Amazon SES"
+topic: System Integration
 leadhead: "Facebook Custom Audiences and Amazon SES are powerful tools that businesses can use to reach their customers through email and social media advertising"
 leadtext: "By integrating these tools through API or SDK, businesses can create targeted email and social media campaigns that improve their engagement with their customers and increase their ROI. The integration of these two tools is a must for businesses that want to optimize their marketing campaigns and stay ahead of their competition."
 image: /assets/images/articles/people-sitting-near-table.webp

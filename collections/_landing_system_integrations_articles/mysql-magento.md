@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/magento
 author: Edward Saunders
 title: "Integrating MySQL and Magento"
+topic: System Integration
 leadhead: "The integration of MySQL and Magento can help you improve your e-commerce operations and enhance your customer experience"
 leadtext: "Whether you choose to use an API or an SDK, integrating the two platforms can save you time and effort, and help you achieve your business goals."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/upwork
 author: Edward Saunders
 title: "Integration of GoTo Training and Upwork"
+topic: System Integration
 leadhead: "Overall, the integration of GoTo Training and Upwork through API or SDK is a great solution for remote businesses looking to enhance their workforce's skills and knowledge"
 leadtext: "It removes the barriers of geographical boundaries and enables seamless collaboration between businesses and freelancers."
 image: /assets/images/articles/people-sitting-near-table.webp

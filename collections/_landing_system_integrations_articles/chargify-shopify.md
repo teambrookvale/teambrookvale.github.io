@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/shopify
 author: Edward Saunders
 title: "Chargify and Shopify Integration: Streamlining eCommerce"
+topic: System Integration
 leadhead: "Integrating Chargify and Shopify is an excellent solution for businesses that want to streamline their eCommerce operations"
 leadtext: "With a seamless integration between these two platforms, businesses can manage subscription billing and eCommerce operations seamlessly, providing a better experience for customers and simplifying processes for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

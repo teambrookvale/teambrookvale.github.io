@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/amazon-sqs
 author: Edward Saunders
 title: "Zoho CRM and Amazon SQS Integration"
+topic: System Integration
 leadhead: "If you’re looking to improve your business’s data management, integrating Zoho CRM and Amazon SQS can be a great solution"
 leadtext: "With this integration, you can automate your workflows, eliminate manual data entry, and ensure that your data is up-to-date. By gathering data from different sources, you can have a more complete understanding of your customers and market trends. And, by using Amazon SQS to store and transmit messages, you can ensure that your data is highly available and fault-tolerant. So, if you’re looking for a way to optimize your business’s data management, consider integrating Zoho CRM and Amazon SQS today."
 image: /assets/images/articles/people-sitting-near-table.webp

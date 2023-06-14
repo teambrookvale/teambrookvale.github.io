@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/amazon-cloudwatch
 author: Edward Saunders
 title: "Instagram Lead Ads and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Amazon CloudWatch through API or SDK can provide businesses with valuable insights into the performance and effectiveness of Lead Ads"
 leadtext: "By monitoring Lead Ads in real-time and automating actions based on specific events, businesses can improve their lead generation and conversion rates. This integration is just one example of how businesses can leverage the power of AWS cloud services to enhance their social media marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

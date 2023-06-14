@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/google-bigquery
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Google BigQuery"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Google BigQuery provides a powerful solution for businesses looking to gain deeper insights into their sales data"
 leadtext: "By exporting data from Amazon to BigQuery, businesses can analyze sales data in real-time to identify trends, optimize listings, and make data-driven decisions about their products."
 image: /assets/images/articles/people-sitting-near-table.webp

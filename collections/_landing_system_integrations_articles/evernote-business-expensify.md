@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/expensify
 author: Edward Saunders
 title: "Evernote Business and Expensify Integration"
+topic: System Integration
 leadhead: "Integration of Evernote Business and Expensify is beneficial for any business looking to streamline their work processes and save time and effort"
 leadtext: "By using their APIs or SDKs, businesses can easily connect the two tools and enjoy a seamless workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

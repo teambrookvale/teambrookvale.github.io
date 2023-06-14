@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-sns
 author: Edward Saunders
 title: "Integrating Amazon S3 and SNS: The solution to your problems"
+topic: System Integration
 leadhead: "Amazon S3 and SNS are two powerful cloud computing services offered by AWS"
 leadtext: "By integrating the two through API or SDK, users can easily receive real-time notifications for important events, automate event processing, and save costs. If you are considering AWS for your cloud computing needs, we highly recommend exploring Amazon S3 and SNS, and taking advantage of their integration."
 image: /assets/images/articles/people-sitting-near-table.webp

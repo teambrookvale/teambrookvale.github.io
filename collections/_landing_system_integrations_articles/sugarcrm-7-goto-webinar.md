@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/goto-webinar
 author: Edward Saunders
 title: "SugarCRM 7+ and GoToWebinar Integration"
+topic: System Integration
 leadhead: "Overall, integrating SugarCRM 7+ with GoToWebinar is an excellent solution for businesses looking to improve their sales and marketing processes"
 leadtext: "By automating lead capture, follow-up and webinar reminders, businesses can save time and resources while improving their overall productivity and efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

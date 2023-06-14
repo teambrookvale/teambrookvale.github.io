@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/salesforce
 author: Edward Saunders
 title: "Integration of Pardot and Salesforce | Digiflow"
+topic: System Integration
 leadhead: "The integration of Pardot and Salesforce provides a powerful tool to align sales and marketing teams and improve the overall efficiency of your business"
 leadtext: "Better lead and prospect management, detailed customer data, improved campaign management, and real-time insights into business performance are some of the significant benefits of integrating these two systems. Take the next step in your digital marketing efforts with Pardot and Salesforce integration."
 image: /assets/images/articles/people-sitting-near-table.webp

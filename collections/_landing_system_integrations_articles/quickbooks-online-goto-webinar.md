@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/goto-webinar
 author: Edward Saunders
 title: "Integrating QuickBooks Online and GoTo Webinar"
+topic: System Integration
 leadhead: "In conclusion, the integration of QuickBooks Online and GoTo Webinar can help businesses save time, increase accuracy, and gain greater insights into their webinar performance"
 leadtext: "By combining these two powerful tools, businesses can streamline their operations and improve their bottom line. If you're a business owner looking to grow your business through webinars, consider integrating QuickBooks Online and GoTo Webinar to achieve better results."
 image: /assets/images/articles/people-sitting-near-table.webp

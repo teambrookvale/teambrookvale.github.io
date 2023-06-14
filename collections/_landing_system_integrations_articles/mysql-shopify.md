@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/shopify
 author: Edward Saunders
 title: "Integration of MySQL and Shopify through API or SDK"
+topic: System Integration
 leadhead: "In conclusion, integrating MySQL and Shopify through APIs or SDKs can offer many benefits for businesses"
 leadtext: "It allows for real-time syncing of data, improved reporting, and automation of processes. With the right developer and tools, integrating the two systems can be seamless and cost-effective. As e-commerce continues to evolve, the ability to integrate different software systems will become increasingly important for businesses looking to stay ahead."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/quick-base
 author: Edward Saunders
 title: "Integrating SugarCRM 7+ with Quick Base"
+topic: System Integration
 leadhead: "Integrating SugarCRM 7+ with Quick Base can provide businesses with a powerful and flexible solution for managing customer relationships and streamlining their workflows"
 leadtext: "By leveraging the strengths of both platforms, businesses can save time, reduce errors, and improve collaboration. Whether through APIs or SDKs, integrating SugarCRM 7+ with Quick Base is a step towards achieving a more efficient and effective business."
 image: /assets/images/articles/people-sitting-near-table.webp

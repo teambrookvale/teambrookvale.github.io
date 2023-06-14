@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/moodle
 author: Edward Saunders
 title: "Integrating Google BigQuery with Moodle | Blog Post"
+topic: System Integration
 leadhead: "The integration of Google BigQuery with Moodle through API or SDK has several benefits and solves many problems related to data storage, analysis, and automation"
 leadtext: "By leveraging these two powerful platforms, educators can gain real-time insights into student performance, improve learning outcomes, and enable personalized learning experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

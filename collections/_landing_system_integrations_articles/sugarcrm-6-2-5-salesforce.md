@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/salesforce
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Salesforce Integration"
+topic: System Integration
 leadhead: "Integrating SugarCRM and Salesforce through API or SDK can be beneficial for businesses that use both platforms"
 leadtext: "By eliminating duplicate data entry, improving lead management, and streamlining sales processes, businesses can streamline their operations and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

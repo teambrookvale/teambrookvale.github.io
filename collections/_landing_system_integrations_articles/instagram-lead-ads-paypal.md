@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/paypal
 author: Edward Saunders
 title: "Instagram Lead Ads | PayPal Integration through API/SDK"
+topic: System Integration
 leadhead: "Instagram Lead Ads and PayPal integration through API/SDK is a powerful tool for businesses looking to increase lead generation and improve payment processing"
 leadtext: "By streamlining the payment process and collecting valuable customer data, businesses can improve their bottom line and better engage with their target audience. If you're a business owner, consider integrating Instagram Lead Ads and PayPal to improve your sales funnel and drive growth for your company."
 image: /assets/images/articles/people-sitting-near-table.webp

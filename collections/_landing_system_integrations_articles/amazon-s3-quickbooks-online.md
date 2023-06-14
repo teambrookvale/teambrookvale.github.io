@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/quickbooks-online
 author: Edward Saunders
 title: "Amazon S3 and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and QuickBooks Online provides small businesses with an efficient way to manage their finances and data"
 leadtext: "It allows businesses to securely store and retrieve their financial data in the cloud, automate accounting processes, and collaborate more effectively. By leveraging the capabilities of both Amazon S3 and QuickBooks Online, businesses can streamline their financial operations and focus on growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

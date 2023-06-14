@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/google-groups
 author: Edward Saunders
 title: "Integrating Salesforce and Google Groups"
+topic: System Integration
 leadhead: "In today's digital age, it's crucial for businesses to stay competitive by using the latest technology tools"
 leadtext: "Integrating Salesforce and Google Groups can offer numerous benefits, including improved communications, customer service, and increased efficiency. With the use of APIs or SDKs, businesses can build robust integrations tailored to their unique needs and further drive their success."
 image: /assets/images/articles/people-sitting-near-table.webp

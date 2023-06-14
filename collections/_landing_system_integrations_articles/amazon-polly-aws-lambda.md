@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/aws-lambda
 author: Edward Saunders
 title: "Integrating Amazon Polly and AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and AWS Lambda provides developers with a range of powerful tools to create highly efficient and effective applications"
 leadtext: "Accessing Amazon Polly's text-to-speech capabilities through AWS Lambda's code running capabilities creates a strong synergy that can help to solve a number of common development problems. Whether you're developing for accessibility or productivity, integrating these two tools can help you build better applications more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

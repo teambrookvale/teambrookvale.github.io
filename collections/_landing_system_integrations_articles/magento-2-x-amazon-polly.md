@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-polly
 author: Edward Saunders
 title: "Magento 2.x and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.x and Amazon Polly provides an innovative way of enhancing the online store's functionality and user experience"
 leadtext: "It can solve several problems that businesses face while managing their online presence, from accessibility to engagement and conversions. By incorporating Amazon Polly's advanced text-to-speech technology, businesses can provide a more personalized and interactive experience to their customers, thus improving their overall satisfaction and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

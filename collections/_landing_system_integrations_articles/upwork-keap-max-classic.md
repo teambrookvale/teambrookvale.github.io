@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/keap-max-classic
 author: Edward Saunders
 title: "Integrating Upwork and Keap Max Classic for seamless workflow"
+topic: System Integration
 leadhead: "Integrating Upwork and Keap Max Classic is a smart move for businesses that want to streamline their workflow and boost productivity"
 leadtext: "With this integration, you can focus on scaling your business instead of spending more time on administrative tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

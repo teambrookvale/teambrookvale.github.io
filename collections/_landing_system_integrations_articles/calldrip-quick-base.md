@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/quick-base
 author: Edward Saunders
 title: "Calldrip and Quick Base Integration: A Game Changer for Business Operations"
+topic: System Integration
 leadhead: "The integration of Calldrip and Quick Base is a game changer for businesses looking to streamline operations and increase efficiency"
 leadtext: "The integration API or SDK allows for seamless flow of data between the two platforms, automating lead response and saving time. Overall, this integration helps businesses to provide fast, efficient, and personalized service to their customers, leading to increased customer satisfaction and revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

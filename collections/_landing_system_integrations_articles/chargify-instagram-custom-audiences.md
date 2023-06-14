@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/instagram-custom-audiences
 author: Edward Saunders
 title: "Chargify and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Instagram Custom Audiences is a game-changer for businesses that want to automate their billing and management process, as well as create targeted advertising campaigns"
 leadtext: "By leveraging the power of both platforms, businesses can save time and resources, increase revenue, and reach their ideal customers with precision and ease."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/marketo
 author: Edward Saunders
 title: "Pinterest and Marketo Integration"
+topic: System Integration
 leadhead: "Integrating Pinterest and Marketo can offer businesses a powerful marketing solution"
 leadtext: "By enabling businesses to leverage Pinterest as part of their marketing strategy, they can drive more traffic to their website and generate more leads. API or SDK integration can help businesses streamline their marketing efforts and track their Pinterest campaigns in Marketo."
 image: /assets/images/articles/people-sitting-near-table.webp

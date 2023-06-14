@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-sns
 author: Edward Saunders
 title: "Amazon SQS and Amazon SNS Integration - Benefits and Solutions"
+topic: System Integration
 leadhead: "Amazon SQS and Amazon SNS are two essential services that can help companies build distributed systems with messaging and notification capabilities"
 leadtext: "By integrating the two services, companies can achieve even more benefits such as decoupling, reliability, scalability, and cost-effectiveness. The integration can be performed easily using the APIs or SDKs provided by AWS. As a result, companies can increase their agility, flexibility, and responsiveness while reducing their costs and complexity."
 image: /assets/images/articles/people-sitting-near-table.webp

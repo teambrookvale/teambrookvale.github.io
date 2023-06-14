@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/evernote-business
 author: Edward Saunders
 title: "Why Integrating ServiceNow and Evernote Business is the Best Solution for Your Company"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Evernote Business can help your company streamline its workflow and boost its productivity"
 leadtext: "By linking the two platforms together, important information can be easily accessed by the IT team, tasks can be assigned based on shared notes, and progress can be tracked in real-time. This integration is the best solution for companies that want to improve their workflow and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

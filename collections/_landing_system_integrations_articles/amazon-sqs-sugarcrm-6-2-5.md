@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Amazon SQS and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Amazon SQS and SugarCRM 6.2-5 are two powerful platforms that can help businesses improve their customer management and workflow"
 leadtext: "Integrating the two through API or SDK can automate some of your tasks and solve common problems that businesses face in handling customer data. If you are looking to streamline your business processes and improve your efficiency, Amazon SQS and SugarCRM 6.2-5 integration might be the right solution for you."
 image: /assets/images/articles/people-sitting-near-table.webp

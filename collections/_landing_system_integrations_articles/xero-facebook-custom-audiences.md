@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/facebook-custom-audiences
 author: Edward Saunders
 title: "Xero and Facebook Custom Audiences Integration"
+topic: System Integration
 leadhead: "Integrating Xero with Facebook Custom Audiences can be a game-changer for small businesses looking to improve their ad targeting and increase conversion rates"
 leadtext: "By leveraging the power of financial data, businesses can create customized ads that resonate with their audience. This integration solves many problems that businesses face in reaching their target audience and ultimately helps to achieve increased sales and more ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/facebook-lead-ads
 author: Edward Saunders
 title: "Magento 2 and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2 and Facebook Lead Ads through API or SDK provides businesses with an efficient and easy way of generating leads from Facebook's platform"
 leadtext: "With Magento 2's scalability and flexibility, it's a perfect fit for businesses of all sizes looking to expand their online presence and increase their customer base."
 image: /assets/images/articles/people-sitting-near-table.webp

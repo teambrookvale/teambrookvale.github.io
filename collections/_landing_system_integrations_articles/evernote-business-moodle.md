@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/moodle
 author: Edward Saunders
 title: "Exploring the Benefits of Integrating Evernote Business with Moodle"
+topic: System Integration
 leadhead: "Integrating Evernote Business with Moodle provides numerous advantages for both instructors and learners"
 leadtext: "It improves collaboration, simplifies organization, and enhances the overall learning experience. Businesses can utilize Evernote Business to keep teams on the same page and to share crucial information while Moodle can help educational institutions to create well-structured and engaging online courses. Therefore, the integration of both platforms should be considered by anyone looking for a more streamlined and intuitive way to solve organizational and pedagogical challenges."
 image: /assets/images/articles/people-sitting-near-table.webp

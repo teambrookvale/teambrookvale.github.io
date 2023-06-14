@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/ai-by-zapier
 author: Edward Saunders
 title: "Integrating Xero with AI by Zapier"
+topic: System Integration
 leadhead: "Integrating Xero with AI by Zapier provides businesses with a powerful tool to automate their accounting and financial processes"
 leadtext: "By leveraging AI-powered workflows, businesses can save time, improve accuracy, and increase efficiency in their financial management. Whether it is creating invoices, managing expenses, or reconciling bank accounts, businesses can rely on the integration of Xero with AI by Zapier to deliver accurate, timely, and reliable results."
 image: /assets/images/articles/people-sitting-near-table.webp

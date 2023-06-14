@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/pinterest
 author: Edward Saunders
 title: "Integrating MySQL and Pinterest"
+topic: System Integration
 leadhead: "Integrating MySQL and Pinterest through API or SDK can provide several benefits for businesses and individuals, such as saving time and effort in managing and organizing their data"
 leadtext: "By using these tools, users can make the most out of both platforms and streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

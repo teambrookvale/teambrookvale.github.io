@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/amazon-cloudfront
 author: Edward Saunders
 title: "Keap Max Classic and Amazon CloudFront Integration: The Perfect Solution"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Amazon CloudFront provides small businesses with a powerful and affordable solution for delivering their content globally"
 leadtext: "By using CloudFront as a CDN for Keap Max Classic, businesses can ensure fast, reliable, and secure content delivery to their customers anywhere in the world."
 image: /assets/images/articles/people-sitting-near-table.webp

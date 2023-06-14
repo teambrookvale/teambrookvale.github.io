@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-s3
 author: Edward Saunders
 title: "How Upwork and Amazon S3 Integration Solves Data Storage Problems"
+topic: System Integration
 leadhead: "The integration of Upwork and Amazon S3 through API or SDK solves data storage problems for businesses that hire freelancers"
 leadtext: "It offers a reliable and secure cloud storage solution that can store an unlimited amount of data. By combining the flexibility and convenience of Upwork with the scalability of Amazon S3, businesses can effectively manage their data storage needs without sacrificing productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

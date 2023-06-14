@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/mysql
 author: Edward Saunders
 title: "PayPal and MySQL Integration"
+topic: System Integration
 leadhead: "Integrating PayPal and MySQL through API or SDK is a powerful solution for businesses that need to manage online payments and data effectively"
 leadtext: "The integration offers many benefits and solves several problems that businesses may face when handling payments. Businesses can save time and resources by using this integrated system, allowing them to focus on their core operations and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

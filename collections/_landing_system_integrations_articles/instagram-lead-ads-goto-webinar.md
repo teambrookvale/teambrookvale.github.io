@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/goto-webinar
 author: Edward Saunders
 title: "Instagram Lead Ads and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and GoTo Webinar through an API or SDK is a valuable tool for companies"
 leadtext: "By automatically sending leads from Instagram to GoTo Webinar, companies can better track their progress and turn more leads into customers. If you are a company looking to generate leads on Instagram, consider integrating with GoTo Webinar to take your marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

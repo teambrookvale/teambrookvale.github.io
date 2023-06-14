@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/facebook-custom-audiences
 author: Edward Saunders
 title: "Solving CRM with Facebook Custom Audiences through Integration"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Facebook Custom Audiences through API or SDK can be beneficial to businesses"
 leadtext: "It helps in targeting the right audience and saves time by automatically updating customer information. This integration provides a simple and effective way for businesses to reach their target audience and increase conversions."
 image: /assets/images/articles/people-sitting-near-table.webp

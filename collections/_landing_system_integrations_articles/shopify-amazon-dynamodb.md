@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-dynamodb
 author: Edward Saunders
 title: "Shopify and Amazon DynamoDB Integration: A Perfect Match"
+topic: System Integration
 leadhead: "In conclusion, integrating Shopify with Amazon DynamoDB is a perfect match for businesses looking to streamline their e-commerce operations"
 leadtext: "It offers efficient data management, real-time processing, and a seamless shopping experience to customers. Whether you choose API or SDK integration, the benefits are numerous, and your business is sure to thrive with this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

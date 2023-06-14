@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/calldrip
 author: Edward Saunders
 title: "Integrating BambooHR and Calldrip for Better HR Management"
+topic: System Integration
 leadhead: "The integration of BambooHR and Calldrip is an excellent solution for HR managers looking to streamline HR processes and improve communication with employees and customers"
 leadtext: "By integrating these two software tools, HR managers can access real-time updates on employee data, improve communication channels, and maintain accurate and complete employee records. This integration can ultimately lead to improved efficiency, decision-making and customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating Amazon SES with Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration of Amazon SES with Microsoft Dynamics 365 CRM can have a profound impact on your email marketing efforts"
 leadtext: "It can help you build better relationships with your customers by sending targeted and relevant emails that drive engagement and sales. The integration can solve many problems and save you a significant amount of time and effort. If you are not already using both Amazon SES and Microsoft Dynamics 365 CRM, we highly recommend that you consider integrating them."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-seller-central
 author: Edward Saunders
 title: "Integration of BigCommerce and Amazon Seller Central"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Amazon Seller Central allows businesses to take advantage of the unique features offered by both platforms"
 leadtext: "This integration is a great resource for businesses looking to increase their reach and improve their e-commerce operations. With the integration of APIs and SDKs, businesses can streamline their online sales process and reach a wider audience."
 image: /assets/images/articles/people-sitting-near-table.webp

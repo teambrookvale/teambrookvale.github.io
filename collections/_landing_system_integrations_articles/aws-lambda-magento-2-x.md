@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/magento-2-x
 author: Edward Saunders
 title: "AWS Lambda and Magento 2.X Integration"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Magento 2.X through API or SDK offers businesses many benefits, from scalability to cost-effectiveness to efficiency"
 leadtext: "By leveraging these technologies, ecommerce businesses can streamline their operations and improve their customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

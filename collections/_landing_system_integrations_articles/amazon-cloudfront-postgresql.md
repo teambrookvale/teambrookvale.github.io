@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/postgresql
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and PostgreSQL"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and PostgreSQL offers many benefits and solves many problems associated with content delivery and database management"
 leadtext: "By leveraging the power and flexibility of these two services, organizations can have a reliable and scalable web application that delivers content quickly and efficiently to end-users around the world."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/google-ads
 author: Edward Saunders
 title: "SugarCRM and Google Ads Integration"
+topic: System Integration
 leadhead: "Integrating SugarCRM and Google Ads can provide significant benefits to businesses of all sizes"
 leadtext: "By connecting these two systems, businesses can improve their marketing and sales efforts by gaining a more complete understanding of their customers and their journey. They can also save time and reduce the risk of data inconsistencies by automating the transfer of data between the two systems. If you're not already using an integrated system, it's worth considering the benefits that integration can provide."
 image: /assets/images/articles/people-sitting-near-table.webp

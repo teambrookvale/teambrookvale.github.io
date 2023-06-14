@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/zendesk
 author: Edward Saunders
 title: "Integrating Amazon Polly and Zendesk: Solving Customer Support Problems"
+topic: System Integration
 leadhead: "By integrating Amazon Polly to Zendesk, businesses can enhance their customer support capabilities, improve accessibility, and overcome language barriers"
 leadtext: "Using the integration, support teams can provide audio guidance or explanations to multiple languages, reducing text complexity and making customer support all around much better and effective. Overall, integrating Amazon Polly and Zendesk is a powerful solution for businesses that want to provide high-quality customer support to every customer."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/goto-webinar
 author: Edward Saunders
 title: "Integrating Solve CRM and GoTo Webinar"
+topic: System Integration
 leadhead: "The integration of Solve CRM and GoTo Webinar through API and SDK is a powerful tool for businesses looking to streamline their customer relationship management and webinar hosting processes"
 leadtext: "By connecting these two tools, you can gain valuable insights into your customers' interests, questions, and engagement, and use this information to deliver more personalized communications. If you're not already using these tools together, it's time to start exploring the possibilities."
 image: /assets/images/articles/people-sitting-near-table.webp

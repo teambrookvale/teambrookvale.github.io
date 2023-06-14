@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/amazon-dynamodb
 author: Edward Saunders
 title: "Snowflake and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Amazon DynamoDB is a game-changer for businesses and organizations looking to effectively manage their data"
 leadtext: "By using APIs or SDKs, seamless integration is possible, eliminating the need for manual data transfer and allowing organizations to leverage the strengths of both tools. The integration solves several problems and creates a powerful data management system that is both efficient and cost-effective."
 image: /assets/images/articles/people-sitting-near-table.webp

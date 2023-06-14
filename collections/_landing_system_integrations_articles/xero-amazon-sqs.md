@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/amazon-sqs
 author: Edward Saunders
 title: "Xero and Amazon SQS Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Amazon SQS can bring several benefits to businesses, including improved efficiency, accuracy, and cash flow management"
 leadtext: "By using an API or SDK to integrate the two tools, businesses can automate their financial processes and save time and effort. If you're a business looking to streamline your accounting and financial transactions, consider integrating Xero and Amazon SQS!"
 image: /assets/images/articles/people-sitting-near-table.webp

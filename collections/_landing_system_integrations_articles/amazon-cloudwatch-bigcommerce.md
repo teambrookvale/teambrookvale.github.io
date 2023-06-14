@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/bigcommerce
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch with BigCommerce to Monitor Your E-commerce Site"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch with BigCommerce is a great way to monitor your e-commerce site and ensure it's performing optimally"
 leadtext: "By collecting metrics, tracking logs, and setting alarms, you can identify issues early on and take action to prevent them from becoming critical. Whether you're a small business or a large enterprise, CloudWatch and BigCommerce are essential tools to help you succeed in the e-commerce space."
 image: /assets/images/articles/people-sitting-near-table.webp

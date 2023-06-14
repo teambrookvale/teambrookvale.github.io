@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/instagram-custom-audiences
 author: Edward Saunders
 title: "Salesforce and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Salesforce and Instagram Custom Audiences can provide businesses with a comprehensive solution for managing customer data and executing marketing campaigns on Instagram"
 leadtext: "With the ability to target specific audiences and synchronize data across platforms, businesses can increase the effectiveness of their marketing efforts and provide a better experience for their customers. The combination of these two powerful platforms can help businesses reach their full potential in the digital age."
 image: /assets/images/articles/people-sitting-near-table.webp

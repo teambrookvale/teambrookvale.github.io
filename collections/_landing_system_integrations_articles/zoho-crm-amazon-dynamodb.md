@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/amazon-dynamodb
 author: Edward Saunders
 title: "Zoho CRM and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "Zoho CRM and Amazon DynamoDB are both powerful tools that can help businesses manage their customer data and backend operations"
 leadtext: "By integrating the two systems through API or SDK, businesses can enjoy seamless data flow between the systems and enjoy the benefits of increased efficiency, productivity, and better insights into their customers. With the integration, businesses can take their operations to the next level and stay competitive in today's fast-paced business environment."
 image: /assets/images/articles/people-sitting-near-table.webp

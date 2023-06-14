@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/postgresql
 author: Edward Saunders
 title: "Xero and PostgreSQL Integration"
+topic: System Integration
 leadhead: "Xero and PostgreSQL integration can help businesses streamline their financial processes, eliminate manual entry, and provide accurate financial reporting and real-time insights"
 leadtext: "By using APIs or SDKs, businesses can create a seamless connection between their financial data and their database, enabling better collaboration and informed decision-making across departments."
 image: /assets/images/articles/people-sitting-near-table.webp

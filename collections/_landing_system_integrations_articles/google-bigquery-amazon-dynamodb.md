@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Google BigQuery and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Amazon DynamoDB is a powerful tool for managing and analyzing large amounts of data"
 leadtext: "It allows users to combine the scalability and high-performance of DynamoDB with the analytical capabilities of BigQuery. It also provides users with a centralized location to manage their data, making it easier to work with and analyze. As companies increasingly adopt multi-cloud strategies, this type of integration is likely to become more and more important for handling large and complex datasets."
 image: /assets/images/articles/people-sitting-near-table.webp

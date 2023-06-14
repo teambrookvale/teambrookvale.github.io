@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/quickbooks-online
 author: Edward Saunders
 title: "Integration of Pinterest and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of Pinterest and QuickBooks Online can have numerous benefits for businesses"
 leadtext: "It can streamline their processes, minimize errors, and help them make better-informed decisions. By automating some of their tasks, businesses can save time and focus on growing their business. If you haven't integrated Pinterest and QuickBooks Online yet, it's worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

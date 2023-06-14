@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/upwork
 author: Edward Saunders
 title: "Integration of Google Groups and Upwork through API/SDK"
+topic: System Integration
 leadhead: "Google Groups and Upwork are two effective platforms that businesses can use to manage their communication and work processes"
 leadtext: "Their integration through API/SDK makes it even more efficient for businesses to manage their projects, streamline their workflows, and improve collaboration."
 image: /assets/images/articles/people-sitting-near-table.webp

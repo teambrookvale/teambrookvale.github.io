@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/namely
 author: Edward Saunders
 title: "Zendesk and Namely Integration: Solving HR and Customer Support Issues"
+topic: System Integration
 leadhead: "Zendesk and Namely integration through API or SDK is a powerful solution that solves HR and customer support issues for businesses"
 leadtext: "By seamlessly integrating these two platforms, businesses can automate manual processes, improve data accuracy, and create a more efficient and effective overall system. If your business is struggling with HR and customer support issues, consider exploring the integration of Zendesk and Namely to see how it can help your company."
 image: /assets/images/articles/people-sitting-near-table.webp

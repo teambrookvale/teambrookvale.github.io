@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/google-bigquery
 author: Edward Saunders
 title: "Solving Business Problems with CRM and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of CRM and Google BigQuery provides businesses with an efficient way to analyze vast amounts of customer data"
 leadtext: "It empowers them to make data-driven decisions, reduces costs, and helps them stay ahead of the competition. As the business environment becomes more data-intensive, the need for such integrations will only continue to grow."
 image: /assets/images/articles/people-sitting-near-table.webp

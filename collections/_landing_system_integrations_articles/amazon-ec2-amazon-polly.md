@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/amazon-polly
 author: Edward Saunders
 title: "Amazon EC2 and Amazon Polly integration"
+topic: System Integration
 leadhead: "Amazon EC2 and Amazon Polly are powerful tools that can be integrated to improve application and website accessibility"
 leadtext: "By using the APIs or SDKs provided by Amazon Web Services, developers can take advantage of these tools to convert text to speech efficiently and cost-effectively while maintaining scalability and customization options."
 image: /assets/images/articles/people-sitting-near-table.webp

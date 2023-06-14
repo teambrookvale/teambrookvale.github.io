@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/magento-2-x
 author: Edward Saunders
 title: "Keap Max Classic and Magento 2.X Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Magento 2.X is a great way for businesses to streamline their operations and increase efficiency"
 leadtext: "By using APIs or SDKs, businesses can sync customer data, automate marketing campaigns, and track sales all in one place. This not only saves time but also helps businesses provide personalized customer experiences and increase their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

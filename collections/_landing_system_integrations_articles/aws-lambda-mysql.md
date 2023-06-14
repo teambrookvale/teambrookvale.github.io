@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/mysql
 author: Edward Saunders
 title: "AWS Lambda and MySQL Integration"
+topic: System Integration
 leadhead: "With the API or SDK integration, it’s incredibly easy to integrate MySQL into your Lambda functions to create secure, scalable, and flexible applications"
 leadtext: "This integration solves various problems that businesses face, including server maintenance and storage issues. By using Lambda compute powers and MySQL for storing data, businesses can handle an increasing amount of requests and process data more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

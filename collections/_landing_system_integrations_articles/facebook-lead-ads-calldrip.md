@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/calldrip
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with Calldrip"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads with Calldrip is a powerful solution for businesses looking to streamline their lead generation process and improve conversion rates"
 leadtext: "With API or SDK integration, leads are efficiently transferred from Facebook to Calldrip, allowing for immediate and effective follow-up. This not only saves time but also improves the quality of leads and ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/calldrip
 author: Edward Saunders
 title: "Moodle and Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Calldrip has the potential to drive significant improvements in lead generation and management for educational institutions"
 leadtext: "By utilizing the power of these two tools, institutions can gain greater insights into their lead generation process and respond to potential students more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

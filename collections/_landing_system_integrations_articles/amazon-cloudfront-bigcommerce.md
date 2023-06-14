@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/bigcommerce
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and BigCommerce"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon CloudFront and BigCommerce is a vital solution for businesses that seek to provide a better online shopping experience for their customers"
 leadtext: "It reduces website latency, improves website speed and performance, provides security, and enhances website uptime. All these factors contribute to a positive user experience and increased sales. As such, e-commerce businesses should consider integrating CloudFront and BigCommerce to improve their online presence."
 image: /assets/images/articles/people-sitting-near-table.webp

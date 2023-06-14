@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/keap-max-classic
 author: Edward Saunders
 title: "Integrating SugarCRM 7+ and Keap Max Classic through API or SDK"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Keap Max Classic through API or SDK can provide businesses with a powerful tool for managing customer relationships, automating marketing tasks, and improving overall efficiency"
 leadtext: "By solving common problems in the sales and marketing processes, the integrated platform can help businesses improve their bottom line and drive growth."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/quickbooks-online
 author: Edward Saunders
 title: "Integrating QuickBooks Online and PostgreSQL"
+topic: System Integration
 leadhead: "Integrating QuickBooks Online and PostgreSQL can provide numerous benefits to businesses looking to streamline their accounting processes"
 leadtext: "By using API or SDK, businesses can automate data transfer between the two platforms and reduce the need for manual data entry. This can lead to greater efficiency, accuracy, and productivity in finance-related tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

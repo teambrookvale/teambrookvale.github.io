@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/amazon-sns
 author: Edward Saunders
 title: "Salesforce and Amazon SNS Integration"
+topic: System Integration
 leadhead: "Integrating Salesforce and Amazon SNS is a great way to streamline your business processes and improve customer engagement"
 leadtext: "By leveraging the power of both services, you can ensure that your notifications are delivered promptly and efficiently. So, if you're looking to improve the way you communicate with your customers and employees, consider integrating Salesforce and Amazon SNS."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/mysql
 author: Edward Saunders
 title: "Integration of SQL Server and MySQL through API or SDK"
+topic: System Integration
 leadhead: "SQL Server and MySQL are excellent database management systems that serve the needs of many businesses worldwide"
 leadtext: "By integrating the two through an API or SDK, businesses can solve many data transfer-related problems, improving efficiency, and accuracy of reporting. Integration of SQL Server and MySQL can significantly improve data management that affects business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

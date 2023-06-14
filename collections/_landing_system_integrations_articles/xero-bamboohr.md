@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/bamboohr
 author: Edward Saunders
 title: "Xero and BambooHR Integration: Improving Efficiency for Businesses"
+topic: System Integration
 leadhead: "The integration of Xero and BambooHR through API or SDK is of great benefit for businesses"
 leadtext: "It eliminates manual data entry and ensures data accuracy, consistency, and up-to-date data across both systems. The integration of Xero and BambooHR helps businesses to improve their efficiency and focus on their core business functions."
 image: /assets/images/articles/people-sitting-near-table.webp

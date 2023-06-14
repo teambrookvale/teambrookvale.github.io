@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/google-bigquery
 author: Edward Saunders
 title: "Greenhouse and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Google BigQuery provides a streamlined and efficient solution for recruiters to manage their recruitment process and analyze candidate data"
 leadtext: "It eliminates the need for manual data entry and reduces the likelihood of errors in data reporting. With the integration, recruiters can focus on the most important aspects of their job – finding the best candidate for the position."
 image: /assets/images/articles/people-sitting-near-table.webp

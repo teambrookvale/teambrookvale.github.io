@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/instagram-custom-audiences
 author: Edward Saunders
 title: "Marketo and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Instagram Custom Audiences offers businesses a powerful way to reach their ideal customers and drive more sales"
 leadtext: "By taking advantage of the targeting and personalization capabilities of both platforms, businesses can create highly effective Instagram ads that resonate with their audience and drive results."
 image: /assets/images/articles/people-sitting-near-table.webp

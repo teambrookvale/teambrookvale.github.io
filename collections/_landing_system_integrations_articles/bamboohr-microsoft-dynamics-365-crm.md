@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrated HR and CRM Solutions: BambooHR and Microsoft Dynamics 365"
+topic: System Integration
 leadhead: "Integrating BambooHR and Microsoft Dynamics 365 CRM offers businesses a unique solution to streamline their HR and customer relationship management processes"
 leadtext: "The integration allows businesses to better understand their customers and make data-driven decisions while improving their employee experience. With the use of API and SDK integration, businesses can improve their efficiency, reduce errors, and make better use of their data."
 image: /assets/images/articles/people-sitting-near-table.webp

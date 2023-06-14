@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/amazon-sns
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Amazon SNS"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon Seller Central and Amazon SNS is a smart move for businesses that sell their products on Amazon’s platform"
 leadtext: "It is an investment that benefits the business in the long run, enabling operational efficiency, improved customer experience, and increased sales."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/bigcommerce
 author: Edward Saunders
 title: "Integrating Amazon Polly with BigCommerce"
+topic: System Integration
 leadhead: "The integration of Amazon Polly with BigCommerce is a powerful tool that can help businesses create a more accessible and engaging online store"
 leadtext: "By using advanced speech synthesis technology, businesses can cater to customers with disabilities and create a more personal connection with all customers. The integration can be done through API or SDK, and is a great way to enhance the overall user experience of an online store."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/amazon-ec2
 author: Edward Saunders
 title: "Integrating BambooHR and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of BambooHR and Amazon EC2 can boost business efficiency and security by automating HR processes and IT infrastructure management"
 leadtext: "By utilizing API and SDK tools, businesses can unlock the full potential of these platforms and streamline workflows, reducing time and effort while increasing accuracy and compliance."
 image: /assets/images/articles/people-sitting-near-table.webp

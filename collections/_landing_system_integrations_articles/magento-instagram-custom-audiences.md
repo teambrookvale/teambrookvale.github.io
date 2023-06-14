@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/instagram-custom-audiences
 author: Edward Saunders
 title: "Integrating Magento and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Magento and Instagram Custom Audiences can be beneficial for online businesses in many ways"
 leadtext: "It allows businesses to target the right audience, retarget customers who left without making a purchase, and increase conversion rates. Businesses that integrate Magento and Instagram Custom Audiences can see significant growth in their online sales."
 image: /assets/images/articles/people-sitting-near-table.webp

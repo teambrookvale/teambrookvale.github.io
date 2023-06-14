@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/amazon-ses
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with Amazon SES"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads with Amazon SES is a powerful tool that can help businesses grow and expand their reach"
 leadtext: "It allows businesses to collect leads, create targeted email campaigns, and track the success of their campaigns. With this integration, businesses can save time and resources while increasing their ROI. So, if you're looking to grow your business, consider the integration of Facebook Lead Ads with Amazon SES."
 image: /assets/images/articles/people-sitting-near-table.webp

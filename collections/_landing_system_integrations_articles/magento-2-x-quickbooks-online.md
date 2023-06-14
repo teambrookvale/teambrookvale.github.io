@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/quickbooks-online
 author: Edward Saunders
 title: "Integrating Magento 2.X with QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of Magento 2.X with QuickBooks Online can provide businesses with a number of benefits, from increased efficiency to improved financial management"
 leadtext: "By using either the API or SDK method, you can streamline your e-commerce and accounting processes, ensuring that your business runs smoothly and effectively. Consider integrating the two platforms today to save time, reduce errors and get greater control over your finances."
 image: /assets/images/articles/people-sitting-near-table.webp

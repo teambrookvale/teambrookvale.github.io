@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/pinterest
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Pinterest"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central with Pinterest has several benefits for online sellers, especially in terms of streamlining their marketing efforts and improving their product visibility"
 leadtext: "By utilizing third-party services and SDKs, sellers can automate the process of uploading their product images and information from Amazon to Pinterest, or create custom pins to promote their products. The integration solves the problem of manually updating both platforms with product information, saving time and effort. Online sellers looking to expand their reach and enhance their marketing strategies should definitely consider integrating Amazon Seller Central with Pinterest."
 image: /assets/images/articles/people-sitting-near-table.webp

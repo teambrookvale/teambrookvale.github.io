@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/postgresql
 author: Edward Saunders
 title: "Integration of GoTo Training and PostgreSQL through API or SDK - Problem Solving"
+topic: System Integration
 leadhead: "The integration of GoTo Training and PostgreSQL through API or SDK is a game-changer for organizations that need to manage their training data effectively"
 leadtext: "By eliminating manual data entry, data silos, and incomplete data, this integration improves collaboration and data analysis, and ultimately, leads to better outcomes for your business. Consider integrating these platforms today to see the benefits for yourself!"
 image: /assets/images/articles/people-sitting-near-table.webp

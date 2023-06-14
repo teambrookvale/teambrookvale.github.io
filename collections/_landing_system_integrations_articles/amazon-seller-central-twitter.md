@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/twitter
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and Twitter: The Benefits"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and Twitter through API or SDK can provide numerous benefits to your business"
 leadtext: "By automating various tasks and data access, you can create a more engaging and active social media presence, improve customer service, and create targeted marketing campaigns. So if you're not already integrating these two platforms, you may be missing out on great opportunities to grow your business."
 image: /assets/images/articles/people-sitting-near-table.webp

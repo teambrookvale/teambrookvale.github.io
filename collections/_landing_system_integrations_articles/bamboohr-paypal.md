@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/paypal
 author: Edward Saunders
 title: "BambooHR and PayPal Integration"
+topic: System Integration
 leadhead: "Integrating BambooHR with PayPal is essential for any business that wants to simplify their payment processing and employee management"
 leadtext: "Not only can businesses save time and avoid errors associated with manual payments, but they also enable employees to achieve a seamless payment process. Furthermore, by automating HR tasks, businesses can focus on other critical areas that can yield growth and development."
 image: /assets/images/articles/people-sitting-near-table.webp

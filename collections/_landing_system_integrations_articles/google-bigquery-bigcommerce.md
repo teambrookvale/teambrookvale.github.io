@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/bigcommerce
 author: Edward Saunders
 title: "Google BigQuery and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and BigCommerce brings many benefits to businesses, allowing them to gain valuable insights from their data and make informed decisions"
 leadtext: "By combining the power of eCommerce analytics with the flexibility of a data warehouse, businesses can identify new opportunities, improve their operations and increase profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

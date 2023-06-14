@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/quick-base
 author: Edward Saunders
 title: "Integrating SQL Server and Quick Base"
+topic: System Integration
 leadhead: "The integration of SQL Server and Quick Base provides a powerful tool for businesses when managing data"
 leadtext: "It allows the easy inputting and transfer of data between the two platforms, streamlining the time-consuming process of data management. In addition, the integration allows for in-depth data analysis and reporting, which is essential for making data-driven decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

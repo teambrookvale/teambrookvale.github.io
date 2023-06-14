@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/instagram-custom-audiences
 author: Edward Saunders
 title: "Facebook Custom Audiences vs Instagram Custom Audiences"
+topic: System Integration
 leadhead: "In conclusion, Facebook and Instagram Custom Audience integration enables businesses to reach a wider audience and optimize their ads for better results"
 leadtext: "With the increasing number of social media users, integrating Facebook and Instagram Custom Audiences can allow businesses to create a more comprehensive customer profile and gain valuable insights into their customer's behavior and preferences across both platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

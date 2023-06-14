@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/sql-server
 author: Edward Saunders
 title: "Amazon CloudFront and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and SQL Server through APIs or SDKs provides a powerful content delivery solution"
 leadtext: "It allows for the fast and secure delivery of data, better user experience, and reduced latency. By leveraging these technologies, organizations can save costs and improve their service delivery to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

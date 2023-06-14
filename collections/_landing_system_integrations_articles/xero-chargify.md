@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/chargify
 author: Edward Saunders
 title: "Integration of Xero and Chargify - Solving Problems for Businesses"
+topic: System Integration
 leadhead: "The integration of Xero and Chargify is a powerful solution for businesses looking to streamline their financial and billing processes"
 leadtext: "By automating the transfer of data between the two platforms, businesses can save time, improve accuracy, and reduce manual data entry. The API and SDK provided by Xero and Chargify respectively make it easy for businesses to integrate the two platforms and enjoy the benefits of a seamless billing and accounting process."
 image: /assets/images/articles/people-sitting-near-table.webp

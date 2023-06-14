@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/google-bigquery
 author: Edward Saunders
 title: "Integrating Namely and Google BigQuery"
+topic: System Integration
 leadhead: "Integrating Namely and Google BigQuery through an API or SDK can provide organizations with valuable insights into their HR data, which can help them make more informed decisions about their employees"
 leadtext: "By identifying top-performing employees, monitoring employee productivity, and predicting employee turnover rates, organizations can improve employee satisfaction and retention, resulting in a more productive and successful workforce."
 image: /assets/images/articles/people-sitting-near-table.webp

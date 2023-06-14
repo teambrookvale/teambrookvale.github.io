@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/xero
 author: Edward Saunders
 title: "Integration of Google Groups and Xero through API/SDK"
+topic: System Integration
 leadhead: "The integration of Google Groups and Xero through API/SDK allows businesses to have better control over their financial transactions and team communication"
 leadtext: "It creates a seamless platform that streamlines processes, which can improve the overall business performance and productivity. Therefore, businesses looking to enhance their financial and team communication processes should consider integrating Google Groups and Xero through API/SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

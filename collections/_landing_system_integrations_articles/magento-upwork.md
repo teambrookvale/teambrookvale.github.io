@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/upwork
 author: Edward Saunders
 title: "Magento and Upwork Integration: Solving E-commerce Challenges"
+topic: System Integration
 leadhead: "Integrating Magento with Upwork through API or SDK can help businesses improve their e-commerce operations by providing access to a diverse range of talent, cost-effective solutions, and flexible workflows"
 leadtext: "By following the steps outlined above, businesses can successfully integrate the two platforms and take their e-commerce operations to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

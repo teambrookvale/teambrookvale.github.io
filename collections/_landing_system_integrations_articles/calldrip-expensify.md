@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/expensify
 author: Edward Saunders
 title: "Calldrip and Expensify Integration: Streamlined Communication and Expense Management"
+topic: System Integration
 leadhead: "Overall, the integration of Calldrip and Expensify is a powerful way for businesses to streamline their communication and expense management processes"
 leadtext: "By using these two tools together, businesses can ensure that all lead information is collected and stored in one place, while also automating their expense reporting and reimbursement processes. If you're considering using Calldrip or Expensify, it's worth exploring how they can be integrated to create a more efficient and effective solution for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

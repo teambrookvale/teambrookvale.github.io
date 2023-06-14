@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/twitter
 author: Edward Saunders
 title: "How to Integrate Zoho CRM with Twitter"
+topic: System Integration
 leadhead: "Integrating Zoho CRM with Twitter can help businesses to improve their social media presence, customer interactions, and overall productivity"
 leadtext: "By automating workflows and centralizing data, businesses can save time and focus on growing their brand while maintaining strong relationships with their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

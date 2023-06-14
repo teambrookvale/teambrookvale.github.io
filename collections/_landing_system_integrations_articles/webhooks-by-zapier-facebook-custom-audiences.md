@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/facebook-custom-audiences
 author: Edward Saunders
 title: "Integration of Webhooks by Zapier and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "Overall, the integration of Webhooks by Zapier and Facebook Custom Audiences is a game-changer for advertisers looking to take their campaigns to the next level"
 leadtext: "By leveraging the power of automation and targeting, you can reach the right people with the right message, all while saving time and effort along the way."
 image: /assets/images/articles/people-sitting-near-table.webp

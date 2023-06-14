@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/salesforce
 author: Edward Saunders
 title: "Twitter and Salesforce Integration"
+topic: System Integration
 leadhead: "Integrating Twitter and Salesforce can provide several benefits for businesses, including saving time, providing valuable insights, and enhancing collaboration among teams"
 leadtext: "With the help of API or SDK, businesses can easily integrate these two tools and streamline their sales and marketing processes. Leveraging the power of these two platforms can help businesses stay competitive and grow their online presence."
 image: /assets/images/articles/people-sitting-near-table.webp

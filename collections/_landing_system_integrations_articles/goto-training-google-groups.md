@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/google-groups
 author: Edward Saunders
 title: "The Benefits of Integrating GoTo Training and Google Groups"
+topic: System Integration
 leadhead: "The benefits of integrating GoTo Training and Google Groups cannot be overstated"
 leadtext: "With Google Groups, organizations can create groups for employees and customers to share information and collaborate easily. GoTo Training is an excellent platform for creating training materials that can be accessed through Google Groups. Integrating the two can lead to increased productivity and more effective training delivery. By using an API or SDK, organizations can achieve a seamless integration between the two platforms, making communication and collaboration more efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

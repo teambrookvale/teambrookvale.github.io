@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/facebook-lead-ads
 author: Edward Saunders
 title: "Google Groups and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "Integrating Google Groups and Facebook Lead Ads through API or SDK is a smart way to streamline digital marketing efforts and improve lead generation and management"
 leadtext: "By combining these two powerful tools, businesses and organizations can gather valuable customer information from Facebook and easily organize and manage it in Google Groups. This integration is a powerful way to optimize marketing and communication efforts and improve overall business success."
 image: /assets/images/articles/people-sitting-near-table.webp

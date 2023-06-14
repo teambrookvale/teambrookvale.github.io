@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/expensify
 author: Edward Saunders
 title: "Integrating BambooHR and Expensify: Why You Should Do It"
+topic: System Integration
 leadhead: "If you're still managing HR and financial data separately, integrating BambooHR and Expensify is a game-changer"
 leadtext: "It can save you time, reduce errors, and create a more efficient workflow for your team. Start researching how you can integrate these two systems today!"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/paypal
 author: Edward Saunders
 title: "Integration of Amazon SNS and PayPal"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and PayPal through API or SDK offers numerous benefits to businesses"
 leadtext: "By automating payment processes, enhancing efficiency, and improving customer satisfaction, businesses can drive growth and success in the highly competitive online marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

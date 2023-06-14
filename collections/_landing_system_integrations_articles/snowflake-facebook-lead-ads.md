@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/facebook-lead-ads
 author: Edward Saunders
 title: "Snowflake and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Facebook Lead Ads offers a powerful solution to businesses looking to streamline their marketing efforts"
 leadtext: "By leveraging Snowflake's robust data warehousing capabilities and Facebook Lead Ads' targeted lead generation, companies can better understand their target audience and create more effective marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

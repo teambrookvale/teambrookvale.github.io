@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/amazon-seller-central
 author: Edward Saunders
 title: "How PostgreSQL and Amazon Seller Central Integration Can Benefit Your eCommerce Business"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Amazon Seller Central can bring many benefits to eCommerce businesses"
 leadtext: "From inventory management to order processing and reporting, the integration can streamline operations and improve efficiency. To get started, businesses can consult with experienced developers who can implement the integration using API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

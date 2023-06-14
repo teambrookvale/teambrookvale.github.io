@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of Upwork and SugarCRM 6.2-5: Solutions to Business Problems"
+topic: System Integration
 leadhead: "Integration of Upwork and SugarCRM 6.2-5 is a game-changer for businesses looking to improve their operations and increase their bottom line"
 leadtext: "It streamlines workflows, centralizes data management, and allows for better communication and collaboration. By using this integration, businesses can save time and resources while improving productivity and efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

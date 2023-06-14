@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/instagram-custom-audiences
 author: Edward Saunders
 title: "How Shopify and Instagram Custom Audiences can Help Your Business"
+topic: System Integration
 leadhead: "Shopify and Instagram Custom Audiences are two powerful tools that can help you grow your business online"
 leadtext: "By integrating the two, you can create a seamless experience for your customers and ultimately increase your sales. Whether you're just starting out or you're looking to take your business to the next level, Shopify and Instagram can help you get there."
 image: /assets/images/articles/people-sitting-near-table.webp

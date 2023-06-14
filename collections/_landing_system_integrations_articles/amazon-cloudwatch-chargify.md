@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/chargify
 author: Edward Saunders
 title: "Amazon CloudWatch and Chargify Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Chargify can greatly benefit businesses that rely on subscription-based models"
 leadtext: "The ability to monitor and manage subscriptions effectively can lead to a better customer experience and increased revenue for businesses. With the right implementation and usage, businesses can leverage this integration to gain a competitive advantage in their industry."
 image: /assets/images/articles/people-sitting-near-table.webp

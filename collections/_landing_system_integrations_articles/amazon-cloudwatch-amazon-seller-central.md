@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/amazon-seller-central
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and Amazon Seller Central"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Amazon Seller Central is a powerful tool that makes it easier for sellers to manage their businesses"
 leadtext: "By providing real-time monitoring and alerts for important metrics, this integration helps sellers stay on top of their inventory levels and order fulfilment times. This ensures that their customers receive the best possible experience and helps sellers maintain their sales momentum on the Amazon marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

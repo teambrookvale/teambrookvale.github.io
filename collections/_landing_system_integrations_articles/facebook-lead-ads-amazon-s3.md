@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/amazon-s3
 author: Edward Saunders
 title: "Integration of Facebook Lead Ads and Amazon S3"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and Amazon S3 can be a game-changer for businesses looking to streamline their lead generation process and improve data security"
 leadtext: "By automating the transfer of data from Facebook Lead Ads to Amazon S3, businesses can save time, money, and resources, while gaining valuable insights about their target audience. If you're considering integrating these two tools, consider working with a developer who specializes in API or SDK integration to ensure a smooth and successful process."
 image: /assets/images/articles/people-sitting-near-table.webp

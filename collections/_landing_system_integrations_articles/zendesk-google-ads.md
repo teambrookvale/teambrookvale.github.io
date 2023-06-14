@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/google-ads
 author: Edward Saunders
 title: "Integration of Zendesk and Google Ads | Blog Post"
+topic: System Integration
 leadhead: "Integrating ZenDesk and Google Ads enables businesses to create a seamless customer experience, improve their marketing efforts, and ultimately increase revenue"
 leadtext: "Businesses can choose between API or SDK integration options to implement the integration, depending on their technical capabilities and specific requirements."
 image: /assets/images/articles/people-sitting-near-table.webp

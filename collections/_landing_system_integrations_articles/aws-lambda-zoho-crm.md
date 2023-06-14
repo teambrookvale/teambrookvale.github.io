@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/zoho-crm
 author: Edward Saunders
 title: "Integrating AWS Lambda and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Zoho CRM is a game-changer for businesses that are looking to streamline their operations"
 leadtext: "It enables them to automate repetitive tasks, enhance data accuracy, and promote real-time collaboration between different departments. As businesses continue to adopt technology to improve efficiency, the integration of AWS Lambda and Zoho CRM will become more critical and essential in achieving these goals."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/paypal
 author: Edward Saunders
 title: "ServiceNow and PayPal Integration"
+topic: System Integration
 leadhead: "The integration of ServiceNow and PayPal offers a lot of benefits for businesses of all sizes and industries"
 leadtext: "It can help you simplify your financial processes, increase your revenue, and improve your customer satisfaction. By leveraging their capabilities and compatibility, you can transform your business operations and achieve your goals faster and smarter."
 image: /assets/images/articles/people-sitting-near-table.webp

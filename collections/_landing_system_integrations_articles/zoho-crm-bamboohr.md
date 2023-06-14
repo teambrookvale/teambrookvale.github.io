@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/bamboohr
 author: Edward Saunders
 title: "Integrating Zoho CRM and BambooHR | Benefits and Advantages"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and BambooHR through API or SDK is a game-changer for businesses"
 leadtext: "The seamless flow of information between the two systems improves collaboration between teams, increases accuracy of data, automates tasks, and saves time. If you're looking for ways to optimize your business processes, integrating Zoho CRM and BambooHR should be on your list."
 image: /assets/images/articles/people-sitting-near-table.webp

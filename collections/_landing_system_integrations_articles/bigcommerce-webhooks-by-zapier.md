@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/webhooks-by-zapier
 author: Edward Saunders
 title: "BigCommerce Integration with Webhooks by Zapier"
+topic: System Integration
 leadhead: "BigCommerce and Webhooks by Zapier are powerful tools on their own, but when integrated, they can provide even greater benefits to e-commerce businesses"
 leadtext: "By automating various tasks and reducing manual data entry, businesses can improve their efficiency, accuracy, and overall productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

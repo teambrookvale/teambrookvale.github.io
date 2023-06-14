@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/upwork
 author: Edward Saunders
 title: "Integrating Pinterest and Upwork"
+topic: System Integration
 leadhead: "Pinterest and Upwork are great platforms for businesses and freelancers"
 leadtext: "Integrating the two platforms through API or SDK will offer businesses and freelancers new possibilities for collaboration, saving time, streamlining their workflow, and enhancing consistency. Integrating Pinterest and Upwork is the way to go for businesses who want to stay ahead of the curve in today's digital world."
 image: /assets/images/articles/people-sitting-near-table.webp

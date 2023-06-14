@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-sns
 author: Edward Saunders
 title: "The Importance of Integrating Solve CRM and Amazon SNS"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Amazon SNS through API or SDKs brings about significant benefits to businesses"
 leadtext: "It's clear that businesses can gain seamless communication, better customer service, and improved collaboration, among other benefits. For companies looking to operate with a modern, streamlined system, this integration is crucial."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/upwork
 author: Edward Saunders
 title: "Chargify and Upwork Integration - The Ultimate Solution to Billing and Payment Management"
+topic: System Integration
 leadhead: "The integration of Chargify and Upwork through API or SDK can help businesses and freelancers streamline their billing and payment processes"
 leadtext: "By automating billing and payment tracking, both businesses and freelancers can reduce administrative tasks, save time and improve cash flow management. If you're using both these tools, it's worth considering integrating them through API or SDK to enjoy greater efficiency and convenience."
 image: /assets/images/articles/people-sitting-near-table.webp

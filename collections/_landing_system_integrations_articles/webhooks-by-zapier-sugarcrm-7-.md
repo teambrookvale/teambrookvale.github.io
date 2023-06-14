@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/sugarcrm-7-
 author: Edward Saunders
 title: "Integration of SugarCRM 7+ with Webhooks by Zapier through API or SDK"
+topic: System Integration
 leadhead: "Integrating SugarCRM 7+ with Webhooks by Zapier through API or SDK is a powerful way to automate tasks, streamline workflows, and improve business efficiency"
 leadtext: "It enables you to focus on what matters most – your customers – while still providing the best possible service and experience."
 image: /assets/images/articles/people-sitting-near-table.webp

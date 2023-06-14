@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-polly
 author: Edward Saunders
 title: "Chargify and Amazon Polly Integration | Blog Post"
+topic: System Integration
 leadhead: "The integration of Chargify and Amazon Polly offers a new way to deliver billing information to customers and enhance their experience"
 leadtext: "By leveraging the power of text-to-speech technology, businesses can save time, reduce errors, and improve accessibility. Moreover, they can personalize their communication and strengthen their brand image. This integration is a great example of how different technologies can combine to create innovative solutions that benefit both businesses and customers."
 image: /assets/images/articles/people-sitting-near-table.webp

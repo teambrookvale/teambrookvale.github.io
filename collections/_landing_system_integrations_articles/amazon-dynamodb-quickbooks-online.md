@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/quickbooks-online
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and QuickBooks Online can help small businesses manage their finances efficiently"
 leadtext: "With this integration, businesses can transfer data between the two systems automatically, which saves time and reduces errors. Whether businesses use APIs or SDKs to integrate the two systems, the end result is improved efficiency and cost savings."
 image: /assets/images/articles/people-sitting-near-table.webp

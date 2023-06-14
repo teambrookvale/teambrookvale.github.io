@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/calldrip
 author: Edward Saunders
 title: "Snowflake and Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Calldrip provides businesses with a powerful sales automation and data management solution"
 leadtext: "This integration eliminates the risk of manual data-entry errors, ensures data consistency, and simplifies the overall process of data management"
 image: /assets/images/articles/people-sitting-near-table.webp

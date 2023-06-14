@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/xero
 author: Edward Saunders
 title: "Integrating AI by Zapier with Xero"
+topic: System Integration
 leadhead: "Integration of AI by Zapier with Xero can bring numerous benefits to small to medium-sized businesses"
 leadtext: "By reducing manual data entry and increasing efficiency and accuracy in accounting processes, businesses can save time and money. With real-time financial reporting and analysis, businesses can make informed decisions that can help them grow and succeed."
 image: /assets/images/articles/people-sitting-near-table.webp

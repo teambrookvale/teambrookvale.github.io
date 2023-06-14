@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/sql-server
 author: Edward Saunders
 title: "Amazon DynamoDB and SQL Server Integration"
+topic: System Integration
 leadhead: "Integration of Amazon DynamoDB and SQL Server can bring a host of benefits to businesses that need to handle large volumes of data"
 leadtext: "By leveraging the strengths of both databases, businesses can achieve better performance, scalability, and data management. Moreover, the integration process is usually straightforward and can be achieved through the use of APIs and SDKs provided by these systems."
 image: /assets/images/articles/people-sitting-near-table.webp

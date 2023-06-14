@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/marketo
 author: Edward Saunders
 title: "Exploring Facebook Lead Ads and Marketo Integration"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads with Marketo is a smart move for businesses looking to expand their reach and generate more leads"
 leadtext: "By leveraging the power of both platforms, businesses can streamline their marketing efforts, increase efficiency, and achieve better ROI. Whether you're a small business or a large enterprise, the integration of Facebook Lead Ads and Marketo can help you take your marketing campaigns to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

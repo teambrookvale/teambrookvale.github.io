@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/goto-webinar
 author: Edward Saunders
 title: "PostgreSQL and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and GoTo Webinar is an excellent way to take full advantage of both systems' capabilities"
 leadtext: "By automating routine tasks and streamlining processes, you can optimize your webinars' success and make better-informed decisions based on the data collected. So, whether you're hosting a webinar for lead generation or a corporate training session, PostgreSQL and GoTo Webinar integration can help you take your virtual events to the next level!"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/sugarcrm-7-
 author: Edward Saunders
 title: "Integration of Greenhouse and SugarCRM 7+"
+topic: System Integration
 leadhead: "Integrating Greenhouse and SugarCRM 7+ through API or SDK is an excellent way to streamline hiring and customer relationship management processes"
 leadtext: "It helps businesses achieve better efficiency, productivity, and overall business growth by enabling a seamless flow of data and providing a better candidate experience."
 image: /assets/images/articles/people-sitting-near-table.webp

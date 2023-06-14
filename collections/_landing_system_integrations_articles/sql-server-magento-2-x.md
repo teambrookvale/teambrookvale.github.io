@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/magento-2-x
 author: Edward Saunders
 title: "Integrating SQL Server and Magento 2.X"
+topic: System Integration
 leadhead: "The integration of SQL Server and Magento 2.X can be hugely beneficial for businesses"
 leadtext: "It provides businesses with increased flexibility, scalability, and control over their e-commerce operations. With the help of API or SDK, businesses can automate several processes and achieve better data management, resulting in better decision making and improved customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/whmcs
 author: Edward Saunders
 title: "Integrating Amazon S3 and WHMCS | Blog Post"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and WHMCS can help you automate your data storage and billing processes, saving you time and effort"
 leadtext: "By using the API or SDK, you can create a seamless integration that will benefit your business and your customers. Whether you are a web hosting company, a domain registrar, or any other online service provider, this integration can help you scale your operations and improve your revenue streams."
 image: /assets/images/articles/people-sitting-near-table.webp

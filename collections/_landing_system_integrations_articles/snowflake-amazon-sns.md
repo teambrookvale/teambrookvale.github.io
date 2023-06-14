@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/amazon-sns
 author: Edward Saunders
 title: "Snowflake and Amazon SNS Integration"
+topic: System Integration
 leadhead: "Integrating Snowflake and Amazon SNS using API or SDK is easy and can lead to significant improvements in business workflow"
 leadtext: "Real-time data updates, analytics, efficient data sharing, and automated notifications are some of the benefits of this integration. Ultimately, the integration of Snowflake with Amazon SNS helps businesses streamline their data warehousing solutions while simultaneously increasing efficiency and cost-effectiveness."
 image: /assets/images/articles/people-sitting-near-table.webp

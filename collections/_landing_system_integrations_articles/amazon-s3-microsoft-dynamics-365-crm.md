@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integration of Amazon S3 and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Microsoft Dynamics 365 CRM is a powerful way for businesses to manage their customer data more effectively and efficiently"
 leadtext: "Developers can use the SDK and API tools provided by these platforms to build custom applications that connect the two systems, thereby improving file storage, customer data organization, and data backup management."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/amazon-cloudwatch
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Amazon CloudWatch"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Amazon CloudWatch through an API or SDK can provide a range of benefits for businesses"
 leadtext: "By automating data transfer, improving decision-making, and increasing efficiency, businesses can gain a competitive advantage and make better use of their resources. It's worth exploring how this integration can help your business."
 image: /assets/images/articles/people-sitting-near-table.webp

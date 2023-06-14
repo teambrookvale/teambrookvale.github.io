@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/namely
 author: Edward Saunders
 title: "Snowflake and Namely Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Snowflake and Namely can improve business operations and data management"
 leadtext: "By automating HR processes, eliminating manual data entry errors, and improving data accuracy, businesses can increase their productivity and efficiency. The seamless integration of HR data with other business data can also enable better insights and analytics, helping businesses make better decisions. If you are considering integrating Snowflake and Namely, it is important to seek the advice of an experienced data expert to guide you through the process and ensure that you get the most benefits from the integration."
 image: /assets/images/articles/people-sitting-near-table.webp

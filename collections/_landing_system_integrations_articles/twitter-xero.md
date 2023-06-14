@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/xero
 author: Edward Saunders
 title: "Integration of Twitter and Xero through API or SDK"
+topic: System Integration
 leadhead: "The integration of Twitter and Xero through API or SDK is a great example of how technology can help businesses streamline their processes and improve their efficiency"
 leadtext: "By automating the invoicing process, businesses can save time, reduce the risk of errors, and improve the customer experience. This integration is a must-have for businesses that use Twitter as a sales channel and want to improve their invoicing process."
 image: /assets/images/articles/people-sitting-near-table.webp

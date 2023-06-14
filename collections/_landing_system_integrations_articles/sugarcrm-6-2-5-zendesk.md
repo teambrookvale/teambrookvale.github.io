@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/zendesk
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Zendesk Integration"
+topic: System Integration
 leadhead: "SugarCRM 6.2-5 and Zendesk are powerful tools on their own, but when integrated, they offer businesses the ability to improve their customer service and interactions"
 leadtext: "With seamless data sharing and automatic ticket generation, businesses can provide more personalized support and improve the overall customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

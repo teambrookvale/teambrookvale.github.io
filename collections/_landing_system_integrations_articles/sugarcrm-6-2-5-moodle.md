@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/moodle
 author: Edward Saunders
 title: "Integrating SugarCRM 6.2-5 and Moodle"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and Moodle through API or SDK can lead to numerous benefits for organizations"
 leadtext: "It can help eliminate data duplication, improve collaboration between departments, and provide a centralized record of user information. Therefore, organizations that use both SugarCRM and Moodle should consider integrating the two to maximize their benefits and achieve greater efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

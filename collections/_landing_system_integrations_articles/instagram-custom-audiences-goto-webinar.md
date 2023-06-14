@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/goto-webinar
 author: Edward Saunders
 title: "Instagram Custom Audience and GoToWebinar Integration: A Winning Combination"
+topic: System Integration
 leadhead: "So there you have it - the integration of Instagram Custom Audiences with GoToWebinar is a powerful combination that will revolutionize the way you target and engage with your audience"
 leadtext: "By making the most of your webinar attendees, retargeting them with relevant content and ads, and gaining valuable insights into your audience, you can take your marketing strategy to the next level and generate even better results."
 image: /assets/images/articles/people-sitting-near-table.webp

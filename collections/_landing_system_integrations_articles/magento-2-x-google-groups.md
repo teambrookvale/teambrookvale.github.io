@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/google-groups
 author: Edward Saunders
 title: "Magento 2.X and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Google Groups through APIs or SDKs can help eCommerce businesses to provide better customer service and build a strong community of customers"
 leadtext: "By creating a discussion forum, businesses can enable their customers to interact with each other, share information, and get their queries resolved."
 image: /assets/images/articles/people-sitting-near-table.webp

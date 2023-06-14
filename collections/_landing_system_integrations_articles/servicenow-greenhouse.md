@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/greenhouse
 author: Edward Saunders
 title: "ServiceNow and Greenhouse Integration"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Greenhouse through API or SDK is a great way for businesses to streamline their operations and improve efficiency"
 leadtext: "The integration of these two platforms allows for collaboration between HR and IT departments, reducing manual data entry, ensuring data accuracy, and providing real-time updates."
 image: /assets/images/articles/people-sitting-near-table.webp

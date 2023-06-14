@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with Amazon CloudFront"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and Amazon CloudFront is a boon for businesses"
 leadtext: "It saves time, reduces manual work, and enables better analysis of leads. The integration can be achieved through an API or SDK and is relatively easy to set up. So, if you're a business that generates leads through Facebook Lead Ads, you should definitely consider integrating it with Amazon CloudFront."
 image: /assets/images/articles/people-sitting-near-table.webp

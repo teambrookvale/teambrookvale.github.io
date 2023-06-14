@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-seller-central
 author: Edward Saunders
 title: "Integration of Moodle and Amazon Seller Central"
+topic: System Integration
 leadhead: "The integration of Moodle and Amazon Seller Central is a smart move for both educational institutions and businesses"
 leadtext: "This integration provides many benefits, such as increased revenue, exposure, and automation of course enrollment, tracking, and certificate generation. Whether using an API or SDK, integrating Moodle and Amazon Seller Central is an easy and viable option for those looking to expand their reach and increase their revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

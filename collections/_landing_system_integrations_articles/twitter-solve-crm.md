@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/solve-crm
 author: Edward Saunders
 title: "Integrating Twitter with Solve CRM"
+topic: System Integration
 leadhead: "The integration of Twitter with Solve CRM through API or SDK can provide businesses with a range of benefits, including streamlined business processes, enhanced customer engagement, and increased revenue"
 leadtext: "With the right solutions and tools, businesses can leverage the power of these two platforms to grow their business and achieve success."
 image: /assets/images/articles/people-sitting-near-table.webp

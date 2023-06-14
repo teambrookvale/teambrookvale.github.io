@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-sqs
 author: Edward Saunders
 title: "Chargify and Amazon SQS Integration: Streamlining Your Business Processes"
+topic: System Integration
 leadhead: "The integration of Chargify and Amazon SQS is a prime example of how utilizing APIs and SDKs can streamline business processes and increase overall efficiency"
 leadtext: "By automating billing and task management processes, businesses can scale their operations and reduce manual labor, freeing up valuable resources to focus on other aspects of their business."
 image: /assets/images/articles/people-sitting-near-table.webp

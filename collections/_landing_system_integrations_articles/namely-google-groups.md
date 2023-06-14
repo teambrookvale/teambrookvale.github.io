@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/google-groups
 author: Edward Saunders
 title: "The Integration of Namely and Google Groups"
+topic: System Integration
 leadhead: "In conclusion, integrating Namely and Google Groups through API or SDK is a powerful way for businesses to streamline communication and collaboration among team members"
 leadtext: "It enables real-time access to important updates and information, and ensures that everyone is on the same page. This integration is a must for businesses that want to improve communication and productivity in the workplace."
 image: /assets/images/articles/people-sitting-near-table.webp

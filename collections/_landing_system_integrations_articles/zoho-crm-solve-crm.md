@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/solve-crm
 author: Edward Saunders
 title: "Integrating Zoho CRM and Solve CRM"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Solve CRM is a powerful solution that can help businesses improve their sales and marketing, customer service, and project management processes"
 leadtext: "By seamlessly sharing customer data across both systems, companies can gain valuable insights into their customers' behavior and preferences, enabling them to make informed decisions that can drive growth and profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

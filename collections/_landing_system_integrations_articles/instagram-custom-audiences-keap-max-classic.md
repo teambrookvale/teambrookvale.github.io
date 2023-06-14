@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/keap-max-classic
 author: Edward Saunders
 title: "How Instagram Custom Audiences and Keap Max Classic Integration Solves Marketing Problems"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Keap Max Classic is a powerful tool for businesses that want to enhance their marketing strategies"
 leadtext: "It offers many benefits, including increased target audience, increased efficiency, and better customer experience. Whether through an API or SDK, integration is a smart move for any business looking to improve its marketing results."
 image: /assets/images/articles/people-sitting-near-table.webp

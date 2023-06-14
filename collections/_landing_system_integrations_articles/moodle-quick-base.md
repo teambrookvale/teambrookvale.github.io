@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/quick-base
 author: Edward Saunders
 title: "Integrating Moodle and Quick Base: How it Solves Problems"
+topic: System Integration
 leadhead: "The integration of Moodle and Quick Base can bring many benefits to businesses and organizations"
 leadtext: "By automating administrative tasks, creating custom reports, and improving the learning experience for users, organizations can achieve greater efficiency and effectiveness. Therefore, integrating Moodle and Quick Base using API or SDK can be a valuable investment for organizations looking to improve their online education platform."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/chargify
 author: Edward Saunders
 title: "Integrating Zendesk with Chargify for Better Customer Service"
+topic: System Integration
 leadhead: "In conclusion, the integration of Zendesk and Chargify can transform how businesses manage their customer service and billing processes, leading to higher customer satisfaction, faster issue resolution, and increased revenue"
 leadtext: "By leveraging APIs or SDKs, businesses can build custom workflows that optimize their business operations and drive growth."
 image: /assets/images/articles/people-sitting-near-table.webp

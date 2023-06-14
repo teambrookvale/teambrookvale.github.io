@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-seller-central
 author: Edward Saunders
 title: "Integrating Chargify with Amazon Seller Central"
+topic: System Integration
 leadhead: "Integrating Chargify with Amazon Seller Central is a powerful solution for businesses that sell subscriptions and products on Amazon"
 leadtext: "The integration allows businesses to streamline their billing and payment processes, manage their subscriptions and orders from one central place, and increase their revenue and customer loyalty. By combining the functionalities of Chargify and Amazon Seller Central through API or SDK, businesses can focus on growing their business instead of worrying about manual processes and potential errors."
 image: /assets/images/articles/people-sitting-near-table.webp

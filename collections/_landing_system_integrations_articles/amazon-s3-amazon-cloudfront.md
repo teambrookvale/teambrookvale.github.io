@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Amazon S3 and Amazon CloudFront"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and Amazon CloudFront is a powerful way to improve the performance, scalability, and security of web applications"
 leadtext: "By using CloudFront, businesses and developers can deliver content faster and more reliably to end-users around the world. By using S3, they can store and retrieve data at a low cost and with high scalability. Together, these two services provide an unbeatable combination for web content delivery and storage."
 image: /assets/images/articles/people-sitting-near-table.webp

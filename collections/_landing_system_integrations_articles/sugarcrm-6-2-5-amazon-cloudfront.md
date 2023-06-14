@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-cloudfront
 author: Edward Saunders
 title: "SugarCRM and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM and Amazon CloudFront is beneficial to organizations as it enables them to deliver SugarCRM data and applications globally with low latency and high speed, enhances security, and improves user experience"
 leadtext: "Developers should use APIs or SDKs to integrate the two systems and explore additional benefits such as cost savings and scalability."
 image: /assets/images/articles/people-sitting-near-table.webp

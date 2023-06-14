@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/instagram-custom-audiences
 author: Edward Saunders
 title: "Amazon CloudFront and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon CloudFront and Instagram Custom Audiences is a powerful tool for businesses looking to reach their most valuable customers on Instagram while ensuring a seamless user experience"
 leadtext: "With the help of APIs and SDKs, businesses can efficiently create and manage their custom audiences and deliver targeted content using CloudFront. To take advantage of this integration, businesses should explore the options offered by Amazon Web Services and Instagram Custom Audiences to achieve their marketing goals."
 image: /assets/images/articles/people-sitting-near-table.webp

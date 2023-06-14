@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/bigcommerce
 author: Edward Saunders
 title: "GoTo Webinar and BigCommerce Integration - Solving Problems for E-Commerce Businesses"
+topic: System Integration
 leadhead: "In conclusion, the integration of GoTo Webinar and BigCommerce is a powerful and strategic move for businesses looking to improve their marketing and sales efforts"
 leadtext: "Through the integration of these two tools, businesses can easily manage their data and create targeted campaigns to increase revenue. Whether you’re a small business owner or a large enterprise, the GoTo Webinar and BigCommerce integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

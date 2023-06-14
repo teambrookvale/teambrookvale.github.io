@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/moodle
 author: Edward Saunders
 title: "Integrating BigCommerce and Moodle: Solving E-commerce and Education Woes"
+topic: System Integration
 leadhead: "Integrating BigCommerce and Moodle can bring significant advantages to businesses and educators"
 leadtext: "By unifying data, automating workflow processes, and streamlining billing procedures, they can improve their services while reducing workload. Moreover, the integration can provide better user experiences for students and customers alike."
 image: /assets/images/articles/people-sitting-near-table.webp

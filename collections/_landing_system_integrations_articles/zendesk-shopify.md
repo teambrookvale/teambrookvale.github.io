@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/shopify
 author: Edward Saunders
 title: "Zendesk and Shopify Integration"
+topic: System Integration
 leadhead: "Zendesk and Shopify integration is an excellent solution for businesses looking to improve their customer support system while streamlining their ecommerce operations"
 leadtext: "By integrating the two, businesses can centralize customer data, respond to queries quickly, and reduce errors. Whether businesses choose to use the API or SDK, they will benefit from the integration's capabilities."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Amazon CloudFront"
+topic: System Integration
 leadhead: "As an Amazon seller, it is important to consider how you are delivering your content to your customers"
 leadtext: "Integrating Amazon Seller Central with Amazon CloudFront through API or SDK provides an efficient and effective way to manage your content delivery, improve your customers' shopping experience, and grow your business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/goto-webinar
 author: Edward Saunders
 title: "Integration of Amazon SES and GoTo Webinar | Blog Post"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon SES and GoTo Webinar through API or SDK solves some of the key problems businesses face when using these platforms separately"
 leadtext: "By automating the sending of invitations and follow-up emails, businesses can save time and effort while ensuring that attendees have all the necessary information to attend the webinar. Furthermore, businesses can send more personalized emails to each attendee and non-attendee, which is more likely to result in higher attendance. Lastly, businesses can track the behavior of attendees and non-attendees to make data-driven decisions for future webinars."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-dynamodb
 author: Edward Saunders
 title: "Magento 2.X and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "Integrating Magento 2.X with Amazon DynamoDB provides a powerful solution for e-commerce businesses"
 leadtext: "The integration solves scalability, performance, and reliability issues that are commonly encountered in e-commerce. With this integration in place, businesses can focus on growth and expansion without worrying about the technology behind it."
 image: /assets/images/articles/people-sitting-near-table.webp

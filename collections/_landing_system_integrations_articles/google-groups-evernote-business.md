@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/evernote-business
 author: Edward Saunders
 title: "Google Groups and Evernote Business Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Google Groups and Evernote Business provides many benefits for businesses"
 leadtext: "It helps teams stay organized and collaborate more effectively. The integration through API or SDK makes it seamless for users to sync data between the two tools. By using this integration, businesses can save time, reduce errors, and streamline their workflows, ultimately leading to increased productivity and success."
 image: /assets/images/articles/people-sitting-near-table.webp

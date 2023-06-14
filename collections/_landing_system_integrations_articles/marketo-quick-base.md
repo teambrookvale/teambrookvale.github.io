@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/quick-base
 author: Edward Saunders
 title: "Marketo and Quick Base Integration"
+topic: System Integration
 leadhead: "Marketo and Quick Base are powerful tools on their own, but their integration can provide even more value for businesses"
 leadtext: "By automating marketing and sales workflows, streamlining data management, and improving reporting accuracy, businesses can drive growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/amazon-seller-central
 author: Edward Saunders
 title: "Integrating Expensify and Amazon Seller Central"
+topic: System Integration
 leadhead: "Integrating Expensify and Amazon Seller Central through API or SDK is essential for sellers who want to streamline their financial operations and improve accuracy"
 leadtext: "It solves common problems that arise when managing finances manually and frees up time that can be directed towards other important tasks. Whether a business or an individual, embracing this integration can go a long way in achieving long-term financial success."
 image: /assets/images/articles/people-sitting-near-table.webp

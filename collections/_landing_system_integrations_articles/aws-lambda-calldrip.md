@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/calldrip
 author: Edward Saunders
 title: "AWS Lambda and Calldrip Integration: Solving Communication Problems"
+topic: System Integration
 leadhead: "AWS Lambda and Calldrip integration provide a fast and efficient way for users to initiate call sessions between agents and leads"
 leadtext: "As a result, users can convert more leads into customers, improving sales productivity. The integration ensures seamless communication between the cloud and call center, speeds up handoff between systems, and provides a better experience for users."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/linkedin-ads
 author: Edward Saunders
 title: "Integration of Evernote Business and LinkedIn Ads"
+topic: System Integration
 leadhead: "Integrating Evernote Business and LinkedIn Ads can be a powerful tool for businesses that want to streamline their workflow, automate repetitive tasks, and improve collaboration between teams"
 leadtext: "By leveraging the power of these two tools, businesses can create more targeted and effective ad campaigns and generate more leads."
 image: /assets/images/articles/people-sitting-near-table.webp

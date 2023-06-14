@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/salesforce
 author: Edward Saunders
 title: "Zendesk and Salesforce Integration"
+topic: System Integration
 leadhead: "Zendesk and Salesforce are powerful platforms on their own, but when integrated, they create a seamless workflow that can improve the overall customer experience"
 leadtext: "By bringing together customer support and CRM, businesses can access complete customer data, streamline workflows, and deliver a better experience to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

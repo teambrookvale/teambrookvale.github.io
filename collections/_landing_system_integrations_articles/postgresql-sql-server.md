@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/sql-server
 author: Edward Saunders
 title: "Integrating PostgreSQL and SQL Server through API or SDK"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and SQL Server through API or SDK can provide businesses with numerous benefits"
 leadtext: "It can enable businesses to optimize their database management systems, manage their data better, and improve data security. Businesses should consider integrating PostgreSQL and SQL Server if they require enterprise-level database management systems that offer robustness, scalability, and data integrity."
 image: /assets/images/articles/people-sitting-near-table.webp

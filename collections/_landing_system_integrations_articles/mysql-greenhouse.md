@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/greenhouse
 author: Edward Saunders
 title: "MySQL and Greenhouse Integration"
+topic: System Integration
 leadhead: "Integrating MySQL and Greenhouse is a powerful combination that can help you take your recruiting efforts to the next level"
 leadtext: "With access to real-time data and the ability to automate workflows, you can save time and stay focused on finding the right candidates for your organization. If you haven't already, it's definitely worth considering this integration for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

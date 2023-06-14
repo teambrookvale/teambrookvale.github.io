@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/pardot
 author: Edward Saunders
 title: "Integration of AI by Zapier and Pardot"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Pardot provides businesses with a powerful tool for automating marketing and sales tasks"
 leadtext: "By eliminating manual data entry, streamlining communication, and providing more accurate data, this integration can help businesses generate more leads, close more deals, and ultimately increase revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

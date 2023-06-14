@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-cloudwatch
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and Amazon CloudWatch"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Amazon CloudWatch through API or SDK is a powerful solution for organizations looking to streamline their customer support and troubleshooting processes"
 leadtext: "By monitoring the performance of Dynamics 365 CRM and quickly identifying and resolving issues, organizations can improve customer satisfaction and reduce downtime. So, if you are using both Dynamics 365 CRM and Amazon CloudWatch, consider integrating them for maximum efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

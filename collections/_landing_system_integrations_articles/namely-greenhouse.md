@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/greenhouse
 author: Edward Saunders
 title: "Integrating Namely and Greenhouse through API/SDKs"
+topic: System Integration
 leadhead: "The integration of Namely and Greenhouse through API or SDK provides companies with a more productive and efficient recruitment process"
 leadtext: "The integration facilitates data exchange between the two platforms, allowing HR professionals to focus on strategic tasks. Through the integration, businesses can streamline their HR processes, provide a better candidate experience, and manage activities efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

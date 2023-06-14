@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/shopify
 author: Edward Saunders
 title: "Integrating Zoho CRM and Shopify for Seamless Business Operations"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and Shopify provides numerous benefits that can enhance your business operations"
 leadtext: "It is a straightforward process that requires minimal technical knowledge, and the rewards are worth it. By automating your business processes and having a holistic view of your customers and sales data, you can make better decisions that impact your bottom line positively."
 image: /assets/images/articles/people-sitting-near-table.webp

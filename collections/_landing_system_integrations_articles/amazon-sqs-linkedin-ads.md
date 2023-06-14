@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/linkedin-ads
 author: Edward Saunders
 title: "Amazon SQS and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and LinkedIn Ads provides a number of benefits for businesses that utilize both services"
 leadtext: "As automation becomes increasingly important in the digital landscape, this integration allows businesses to streamline processes and improve efficiency. Ultimately, this integration makes it easier for businesses to achieve their advertising goals on LinkedIn."
 image: /assets/images/articles/people-sitting-near-table.webp

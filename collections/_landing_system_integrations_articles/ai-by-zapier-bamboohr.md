@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/bamboohr
 author: Edward Saunders
 title: "Integrating AI by Zapier and BambooHR"
+topic: System Integration
 leadhead: "Integrating AI by Zapier and BambooHR through API or SDK can provide valuable benefits for businesses"
 leadtext: "By automating tasks and improving accuracy, businesses can save time and resources while also improving employee satisfaction. As businesses continue to look for ways to improve efficiency, this integration is likely to become increasingly popular."
 image: /assets/images/articles/people-sitting-near-table.webp

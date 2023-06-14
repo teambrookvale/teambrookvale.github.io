@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/bigcommerce
 author: Edward Saunders
 title: "Instagram Lead Ads and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Instagram lead ads and BigCommerce is a powerful tool for businesses looking to generate leads, increase customer satisfaction, and drive sales"
 leadtext: "The integration eliminates the need for manual data entry and allows for personalized product recommendations, which can increase customer satisfaction and encourage repeat purchases. If you're a business looking to take your lead generation and e-commerce strategy to the next level, consider integrating Instagram lead ads and BigCommerce through an API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

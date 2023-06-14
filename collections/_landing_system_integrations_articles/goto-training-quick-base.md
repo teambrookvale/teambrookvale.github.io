@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/quick-base
 author: Edward Saunders
 title: "Integrating GoTo Training and Quick Base"
+topic: System Integration
 leadhead: "Integrating GoTo Training and Quick Base is a smart choice for any business seeking to streamline their virtual training and business management processes"
 leadtext: "Using API or SDK, you can create a custom workflow that automates data entry, improves accuracy and consistency, and enhances collaboration between different teams. The possibilities are endless, and the benefits are significant, so why not give it a try?"
 image: /assets/images/articles/people-sitting-near-table.webp

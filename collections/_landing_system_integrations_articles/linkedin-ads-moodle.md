@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/moodle
 author: Edward Saunders
 title: "LinkedIn Ads and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Moodle provides businesses and educational institutions with a powerful solution that allows them to reach their target audience and track the performance of their campaigns"
 leadtext: "It gives them the ability to use LinkedIn Ads to advertise their business or courses and measure their success, all within the Moodle platform. By using this integration, businesses can optimize their campaigns, reach their ideal customers and achieve their marketing goals."
 image: /assets/images/articles/people-sitting-near-table.webp

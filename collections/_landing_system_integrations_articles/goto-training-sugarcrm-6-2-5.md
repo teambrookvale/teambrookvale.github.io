@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating GoTo Training and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of GoTo Training and SugarCRM 6.2-5 is a powerful tool for businesses looking to improve their training programs and customer service"
 leadtext: "By connecting their training and CRM systems, businesses can improve the way they manage and use data, and create more effective and personalized training content. Whether through API or SDK integration, the benefits of integrating these two systems are clear."
 image: /assets/images/articles/people-sitting-near-table.webp

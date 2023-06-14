@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "The Benefits of Combining Quick Base and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration of Quick Base and Microsoft Dynamics 365 CRM can bring about significant benefits for businesses seeking to streamline their operations and improve their customer engagement"
 leadtext: "By using API or SDK, businesses can connect the two solutions and learn more about their customers, make data-driven decisions, and automate their processes. Achieving greater efficiency and productivity while enhancing customer experiences is a win-win situation, and Quick Base and Microsoft Dynamics 365 CRM can certainly help businesses achieve that."
 image: /assets/images/articles/people-sitting-near-table.webp

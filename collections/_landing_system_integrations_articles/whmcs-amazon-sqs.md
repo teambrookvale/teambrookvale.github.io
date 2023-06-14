@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-sqs
 author: Edward Saunders
 title: "WHMCS and Amazon SQS Integration"
+topic: System Integration
 leadhead: "The integration of WHMCS and Amazon SQS can provide numerous benefits for businesses, improving their operations, performance, customer experience, and efficiency"
 leadtext: "By using Amazon SQS's messaging queue service, WHMCS users can easily manage their data, automate workflows, and process requests faster and more efficiently. Developers can easily integrate these two services through API or SDK, and enjoy the many benefits of this powerful combination."
 image: /assets/images/articles/people-sitting-near-table.webp

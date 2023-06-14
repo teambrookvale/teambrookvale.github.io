@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/xero
 author: Edward Saunders
 title: "BigCommerce and Xero Integration"
+topic: System Integration
 leadhead: "BigCommerce and Xero integration can offer various benefits to businesses"
 leadtext: "With a unified view of operations, automated data flow, and improved financial reporting accuracy, businesses can make informed decisions, save time, and ensure financial accuracy. Therefore, businesses should consider integrating these two platforms for better financial management."
 image: /assets/images/articles/people-sitting-near-table.webp

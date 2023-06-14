@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/instagram-lead-ads
 author: Edward Saunders
 title: "The Power of Combining Amazon SQS and Instagram Lead Ads"
+topic: System Integration
 leadhead: "The combination of Amazon SQS and Instagram Lead Ads is a powerful solution for marketers looking to automate their lead collection, processing and management workflows"
 leadtext: "It offers numerous benefits to marketing teams and businesses of all sizes, including cost reduction, improved productivity, and increased efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

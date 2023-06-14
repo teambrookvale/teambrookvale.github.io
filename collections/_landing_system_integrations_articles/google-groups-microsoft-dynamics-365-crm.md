@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integration between Google Groups and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration between Google Groups and Microsoft Dynamics 365 CRM is a powerful tool for businesses that want to improve their communication and customer relationship management"
 leadtext: "Whether you use an API or an SDK, this integration can help you streamline your processes and make better decisions based on insights from both platforms. Consider integrating Google Groups and Dynamics 365 CRM today, and you'll be well on your way to a more efficient and effective communication and customer relationship management system."
 image: /assets/images/articles/people-sitting-near-table.webp

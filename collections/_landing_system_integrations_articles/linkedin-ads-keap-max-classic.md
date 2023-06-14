@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/keap-max-classic
 author: Edward Saunders
 title: "Why Integrating LinkedIn Ads with Keap Max Classic is the Smart Move for Your Business"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads with Keap Max Classic is a smart move for businesses looking to generate high-quality leads, improve their sales and marketing processes, and deliver personalized experiences to their customers"
 leadtext: "By leveraging the strengths of both tools, businesses can achieve better results and drive growth."
 image: /assets/images/articles/people-sitting-near-table.webp

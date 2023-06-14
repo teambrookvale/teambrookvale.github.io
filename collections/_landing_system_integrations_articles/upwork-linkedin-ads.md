@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/linkedin-ads
 author: Edward Saunders
 title: "Upwork and LinkedIn Ads Integration - A Game Changer in Digital Marketing"
+topic: System Integration
 leadhead: "The integration of Upwork and LinkedIn Ads through API or SDK is a game-changer in the world of digital marketing"
 leadtext: "Businesses can take advantage of the best of both platforms, resulting in higher-quality work and better-targeted digital marketing campaigns. Whether you are a small business owner or a large corporation, the integration of Upwork and LinkedIn Ads is worth exploring. It can help you find the right talent for your digital marketing projects and ensure that your campaigns are as effective as possible."
 image: /assets/images/articles/people-sitting-near-table.webp

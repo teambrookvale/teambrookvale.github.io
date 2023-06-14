@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/greenhouse
 author: Edward Saunders
 title: "Calldrip and Greenhouse Integration: A Better Recruiting Experience"
+topic: System Integration
 leadhead: "The integration of Calldrip and Greenhouse streamlines recruitment operations and enhances candidate experience"
 leadtext: "By combining the strengths of a lead response software like Calldrip with an applicant tracking system like Greenhouse, recruiters can focus on building relationships with potential hires instead of manually tracking recruitment data."
 image: /assets/images/articles/people-sitting-near-table.webp

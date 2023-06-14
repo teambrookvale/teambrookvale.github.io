@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/postgresql
 author: Edward Saunders
 title: "WHMCS and PostgreSQL Integration: A Powerful Combination for Business Management"
+topic: System Integration
 leadhead: "The integration of WHMCS and PostgreSQL is a powerful combination that can help businesses manage their web hosting operations effectively"
 leadtext: "With a centralized database, automated processes, and improved analysis, businesses can achieve higher efficiency, better customer satisfaction and more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

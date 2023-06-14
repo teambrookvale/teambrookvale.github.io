@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/amazon-sns
 author: Edward Saunders
 title: "Amazon CloudWatch and Amazon SNS Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Amazon SNS makes it easy to monitor and alert on changes in your AWS environment"
 leadtext: "You can set up alarms and notifications for a wide range of metrics, and receive alerts via email, SMS, or other channels. This integration helps you ensure the availability and performance of your AWS resources, and can help you detect and respond to issues quickly."
 image: /assets/images/articles/people-sitting-near-table.webp

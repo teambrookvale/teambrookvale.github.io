@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/shopify
 author: Edward Saunders
 title: "Xero and Shopify: Their Integration through API or SDK"
+topic: System Integration
 leadhead: "The integration of Xero and Shopify through API or SDK can offer significant benefits for your online business"
 leadtext: "It can save you time, reduce errors, and improve your financial visibility. By automating your accounting and e-commerce processes, you can focus on growing your business and serving your customers. So, if you're not using Xero and Shopify yet, it's time to explore their integration and see how it can transform the way you do business."
 image: /assets/images/articles/people-sitting-near-table.webp

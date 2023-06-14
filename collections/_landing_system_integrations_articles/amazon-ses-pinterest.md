@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/pinterest
 author: Edward Saunders
 title: "Integrating Amazon SES and Pinterest through API or SDK"
+topic: System Integration
 leadhead: "Integrating Amazon SES and Pinterest through an API or SDK can provide a number of benefits for businesses"
 leadtext: "By sending personalized recommendations and providing relevant Pinterest content, you can increase engagement, conversions, and brand loyalty. When integrating these two platforms, it's important to consider your specific use case and choose the best method for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

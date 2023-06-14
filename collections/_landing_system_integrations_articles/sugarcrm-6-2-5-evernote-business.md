@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/evernote-business
 author: Edward Saunders
 title: "SugarCRM and Evernote Business Integration"
+topic: System Integration
 leadhead: "SugarCRM and Evernote Business integration is a powerful tool for businesses that want to improve their productivity, customer responsiveness, and competitive advantage"
 leadtext: "With custom integrations, businesses can take advantage of the best features of both platforms and create solutions that are tailored to their specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/pardot
 author: Edward Saunders
 title: "Integrating Evernote Business with Pardot: A Solution to Your Business Woes"
+topic: System Integration
 leadhead: "Integrating Evernote Business with Pardot can be a game-changer for businesses that seek to streamline their operations and maximize their lead conversion rates"
 leadtext: "It offers various benefits such as time-saving, accuracy, and the creation of targeted marketing campaigns. If you are looking to integrate Evernote Business with Pardot, you may require the services of a developer to build a custom integration based on your specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

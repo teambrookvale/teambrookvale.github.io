@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/bigcommerce
 author: Edward Saunders
 title: "Integration of PayPal and BigCommerce"
+topic: System Integration
 leadhead: "Integrating PayPal with BigCommerce provides numerous benefits for businesses looking to improve their online selling process"
 leadtext: "By offering a reliable payment method, reducing the risk of fraud, and streamlining the checkout process, businesses can create a more enjoyable experience for their customers and increase their chances of success in the competitive world of e-commerce."
 image: /assets/images/articles/people-sitting-near-table.webp

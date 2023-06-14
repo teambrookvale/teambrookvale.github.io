@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/keap-max-classic
 author: Edward Saunders
 title: "Amazon EC2 and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "If you're looking to improve your workflow and efficiency, consider integrating Amazon EC2 with Keap Max Classic"
 leadtext: "It's an excellent way to reduce manual errors, automate tasks, and increase scalability."
 image: /assets/images/articles/people-sitting-near-table.webp

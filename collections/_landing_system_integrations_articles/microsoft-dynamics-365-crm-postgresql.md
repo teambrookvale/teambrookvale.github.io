@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/postgresql
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM with PostgreSQL"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM with PostgreSQL can bring significant benefits to businesses"
 leadtext: "It can improve productivity, efficiency, and data accuracy, leading to better decision-making and increased revenue. If you are considering integrating these systems, it is crucial to evaluate your business needs and choose the integration method that best suits your requirements."
 image: /assets/images/articles/people-sitting-near-table.webp

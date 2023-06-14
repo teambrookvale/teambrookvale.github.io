@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/zoho-crm
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Zoho CRM provides businesses with a powerful solution to their customer relationship management needs"
 leadtext: "It enables businesses to have a complete view of their customers and helps them to improve their customer interactions. By integrating these two systems, businesses can streamline their workflows, reduce manual data entry, and gain deeper insights into their customer data. This integration is a must-have for any business that wants to enhance its customer relationships and drive sales."
 image: /assets/images/articles/people-sitting-near-table.webp

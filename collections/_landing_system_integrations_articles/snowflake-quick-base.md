@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/quick-base
 author: Edward Saunders
 title: "Snowflake and Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Quick Base provides a powerful solution for organizations looking to manage their data more efficiently"
 leadtext: "By breaking down data silos and automating data transfers, organizations can gain real-time access to their data and draw insights from it more efficiently. Moreover, they can save time and reduce errors in data transfers."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/bigcommerce
 author: Edward Saunders
 title: "Integration of Google Ads and BigCommerce"
+topic: System Integration
 leadhead: "The integration of Google Ads and BigCommerce through an API or SDK is a powerful tool that businesses can use to improve their online store performance and increase their revenue"
 leadtext: "It automates the process of creating and managing ad campaigns, allowing businesses to focus on growing their business and reaching their target audience effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/instagram-custom-audiences
 author: Edward Saunders
 title: "Zendesk and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and Instagram Custom Audiences is a powerful tool for businesses looking to improve their customer support and marketing efforts"
 leadtext: "By using the data stored in Zendesk to create targeted ad campaigns on Instagram, businesses can reach their customers in a more relevant and effective way. This integration is a win-win for businesses and customers alike, as it allows businesses to better understand and engage with their customers, and customers to receive more personalized and relevant communications from businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

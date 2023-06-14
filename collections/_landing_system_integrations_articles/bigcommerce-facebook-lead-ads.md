@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/facebook-lead-ads
 author: Edward Saunders
 title: "BigCommerce and Facebook Lead Ads Integration: A Game-Changer for E-commerce Businesses"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads into BigCommerce is a game-changer for e-commerce businesses"
 leadtext: "It allows for a seamless transfer of data and helps businesses gain a deeper understanding of their customers. By utilizing this integration, businesses can improve their marketing efforts and ultimately drive more sales."
 image: /assets/images/articles/people-sitting-near-table.webp

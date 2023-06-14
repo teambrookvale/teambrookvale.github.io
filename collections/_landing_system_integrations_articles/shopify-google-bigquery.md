@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/google-bigquery
 author: Edward Saunders
 title: "Shopify and Google BigQuery Integration: Solving eCommerce Problems"
+topic: System Integration
 leadhead: "The integration of Shopify and Google BigQuery is an exciting development for eCommerce businesses"
 leadtext: "By combining the power of a leading eCommerce platform with a top-notch data warehouse, businesses can gain deep insights into their eCommerce data and make data-driven decisions that can improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

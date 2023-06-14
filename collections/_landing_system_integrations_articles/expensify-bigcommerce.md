@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/bigcommerce
 author: Edward Saunders
 title: "Expensify and BigCommerce Integration: A Perfect Solution for Online Retailers"
+topic: System Integration
 leadhead: "The integration of Expensify and BigCommerce is a perfect solution for online retailers who want to simplify their expense management process"
 leadtext: "With the integration, you can easily track expenses, reconcile accounts, and even reimburse employees. Integrating the two software through API or SDK is a straightforward process that can save you a lot of time and hassle. Overall, Expensify and BigCommerce integration is an excellent investment for any online retailer."
 image: /assets/images/articles/people-sitting-near-table.webp

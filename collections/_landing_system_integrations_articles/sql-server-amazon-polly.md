@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/amazon-polly
 author: Edward Saunders
 title: "Integration of SQL Server and Amazon Polly"
+topic: System Integration
 leadhead: "The integration of SQL Server and Amazon Polly provides limitless possibilities and benefits to businesses and individuals"
 leadtext: "The ability to store, analyze and retrieve data through SQL Server, and then convert it into speech format using Amazon Polly, enables developers and companies to create innovative and accessible applications that can help millions of people worldwide."
 image: /assets/images/articles/people-sitting-near-table.webp

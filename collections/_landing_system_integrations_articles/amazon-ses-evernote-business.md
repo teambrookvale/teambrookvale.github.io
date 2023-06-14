@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/evernote-business
 author: Edward Saunders
 title: "Integration of Amazon SES and Evernote Business"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Evernote Business can offer various benefits to businesses, including improved communication and collaboration, enhanced information management, and increased compliance"
 leadtext: "By integrating these two services through API or SDK, businesses can optimize their workflow and achieve greater efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

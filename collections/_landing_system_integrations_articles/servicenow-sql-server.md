@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/sql-server
 author: Edward Saunders
 title: "Integration of ServiceNow and SQL Server for Better Business Operations"
+topic: System Integration
 leadhead: "The integration of ServiceNow and SQL Server is a game-changer for businesses that seek to optimize their operations and make informed decisions based on the available data"
 leadtext: "Services like DigiCloud Solutions specialize in the integration of these powerful technologies, ensuring seamless data availability, advanced analytics, and improved efficiency. By leveraging the integration of ServiceNow and SQL Server, businesses can gain a competitive edge and accelerate growth."
 image: /assets/images/articles/people-sitting-near-table.webp

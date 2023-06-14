@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/xero
 author: Edward Saunders
 title: "How Integration of Solve CRM and Xero through API or SDK can Solve Business Problems"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Xero through their API or SDK is vital if you want to improve your business efficiency and free up more time to focus on revenue-generating activities"
 leadtext: "With this integration, businesses can reduce errors, improve accuracy, and streamline their billing process. So, if you're looking for ways to make your business more efficient, be sure to consider integrating Solve CRM and Xero through API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/quickbooks-online
 author: Edward Saunders
 title: "Integration of BigCommerce and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of BigCommerce and QuickBooks Online can offer significant benefits to businesses looking to streamline their eCommerce and accounting processes"
 leadtext: "By automating the transfer of data between systems, businesses can save time, reduce errors, and gain better visibility into their finances. Whether via API or SDK, businesses can choose the integration method that best suits their needs and start reaping the benefits right away."
 image: /assets/images/articles/people-sitting-near-table.webp

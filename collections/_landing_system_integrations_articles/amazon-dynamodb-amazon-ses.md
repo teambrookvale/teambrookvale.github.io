@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/amazon-ses
 author: Edward Saunders
 title: "Amazon DynamoDB and Amazon SES Integration"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Amazon SES offers businesses a powerful solution for managing their email communications"
 leadtext: "By combining these two services, businesses can save time, reduce costs, and improve customer engagement. Whether you are a small business owner or a large corporation, the integration of Amazon DynamoDB and Amazon SES can help you effectively manage your email communications and simplify your day-to-day tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

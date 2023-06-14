@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/expensify
 author: Edward Saunders
 title: "Salesforce and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of Salesforce and Expensify is a game-changer for businesses looking to optimize their operations"
 leadtext: "By integrating the two platforms through an API or SDK, businesses can streamline their expense reporting process and gain valuable data insights. This can result in cost savings, time efficiencies, and better decision-making for businesses. With the potential benefits of this integration, it's no surprise that it's become a popular choice for businesses around the world."
 image: /assets/images/articles/people-sitting-near-table.webp

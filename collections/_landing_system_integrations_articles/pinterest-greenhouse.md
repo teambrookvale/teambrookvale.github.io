@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/greenhouse
 author: Edward Saunders
 title: "Integration of Pinterest and Greenhouse"
+topic: System Integration
 leadhead: "The integration of Pinterest and Greenhouse is a powerful tool that can help organizations with their recruitment efforts"
 leadtext: "By leveraging the vast network of Pinterest users and promoting job listings on the platform, recruiters can reach a wider audience, attract top talent and improve the overall quality of their hiring."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/pardot
 author: Edward Saunders
 title: "Magento and Pardot Integration: Streamline Your E-commerce Business"
+topic: System Integration
 leadhead: "Integrating Magento and Pardot provides businesses with an ideal solution for managing their e-commerce and marketing automation needs"
 leadtext: "By leveraging the power of both platforms, businesses can streamline their sales and marketing processes, improve customer experiences, and ultimately, boost revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

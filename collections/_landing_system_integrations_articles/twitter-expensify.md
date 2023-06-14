@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/expensify
 author: Edward Saunders
 title: "Twitter and Expensify Integration: Solving Busy Professionals' Problems"
+topic: System Integration
 leadhead: "The integration of Twitter and Expensify through API or SDK makes it possible for busy professionals to stay on top of their expenses without having to switch apps or interrupt their busy schedules"
 leadtext: "With this integration, managing expenses becomes quick, easy, and convenient."
 image: /assets/images/articles/people-sitting-near-table.webp

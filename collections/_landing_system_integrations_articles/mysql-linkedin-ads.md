@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/linkedin-ads
 author: Edward Saunders
 title: "Integrating MySQL and LinkedIn Ads: A Game-Changer for Marketers"
+topic: System Integration
 leadhead: "Integrating MySQL and LinkedIn Ads can be a game-changer for marketers who want to make data-driven decisions that drive results"
 leadtext: "By using API or SDK integration, you can get a more complete picture of your advertising performance and gain insights that will help you optimize your campaigns for success. This is an investment that can help you stay ahead of the competition and grow your business over time."
 image: /assets/images/articles/people-sitting-near-table.webp

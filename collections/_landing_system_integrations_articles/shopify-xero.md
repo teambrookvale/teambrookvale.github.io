@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/xero
 author: Edward Saunders
 title: "Benefits of Integrating Shopify and Xero | Blog Post"
+topic: System Integration
 leadhead: "Integrating Shopify and Xero can provide several benefits to businesses"
 leadtext: "It can save businesses time, reduce the chances of errors, and enable them to make informed decisions about their finances. Overall, it is a worthwhile investment for businesses looking to streamline their operations and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

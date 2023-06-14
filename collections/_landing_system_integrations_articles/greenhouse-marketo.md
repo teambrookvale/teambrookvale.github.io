@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/marketo
 author: Edward Saunders
 title: "Greenhouse and Marketo Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Marketo is a game-changing move for businesses looking to streamline their recruitment and marketing processes"
 leadtext: "By breaking down data silos and syncing information between the two platforms, businesses can make more informed decisions and create a better experience for both candidates and customers. By leveraging API or SDK integration, businesses can ensure that they have the most up-to-date information at all times, ultimately leading to better hiring decisions and more successful marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

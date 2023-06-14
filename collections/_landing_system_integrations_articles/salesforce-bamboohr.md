@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/bamboohr
 author: Edward Saunders
 title: "Integrating Salesforce and BambooHR - A Match Made in HR Heaven"
+topic: System Integration
 leadhead: "Together, BambooHR and Salesforce form a powerful and seamless combination to transform your HR processes into world-class performance"
 leadtext: "By integrating the two platforms through API or SDK, businesses can improve HR data management, increase productivity, and enhance employee experience, resulting in sustained growth, high performance, and an engaged workforce."
 image: /assets/images/articles/people-sitting-near-table.webp

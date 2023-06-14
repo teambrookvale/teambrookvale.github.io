@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/twitter
 author: Edward Saunders
 title: "BambooHR and Twitter Integration"
+topic: System Integration
 leadhead: "The integration of BambooHR and Twitter provides businesses with a seamless solution to manage their HR and social media needs"
 leadtext: "By using the API or SDK, businesses can automate processes, save time, and create engaging content that resonates with their audience."
 image: /assets/images/articles/people-sitting-near-table.webp

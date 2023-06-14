@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/namely
 author: Edward Saunders
 title: "Integration of MySQL and Namely through API/SDK"
+topic: System Integration
 leadhead: "In conclusion, the integration of MySQL and Namely through API or SDK is a great way to streamline HR processes and enhance data security"
 leadtext: "It eliminates the need for manual data entry, ensures accurate and up-to-date employee information, and provides businesses with a more efficient way of managing their HR data."
 image: /assets/images/articles/people-sitting-near-table.webp

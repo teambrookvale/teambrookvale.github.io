@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/postgresql
 author: Edward Saunders
 title: "Integration of AI by Zapier and PostgreSQL"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and PostgreSQL can benefit businesses by streamlining processes, improving data analysis, and providing better customer service"
 leadtext: "Developers can use Zapier's API and PostgreSQL SDKs to build custom integrations that suit their specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

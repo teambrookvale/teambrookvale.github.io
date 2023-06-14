@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/sql-server
 author: Edward Saunders
 title: "Integrating Magento and SQL Server"
+topic: System Integration
 leadhead: "Integrating Magento and SQL Server through API or SDK is a powerful solution that allows businesses to streamline their operations, provide better services to customers, and generate higher revenues"
 leadtext: "If you're a business owner looking to optimize your e-commerce platform, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

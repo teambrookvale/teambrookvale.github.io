@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/xero
 author: Edward Saunders
 title: "PayPal and Xero Integration: Streamline Your Accounting Process"
+topic: System Integration
 leadhead: "Overall, the integration of PayPal and Xero is a powerful tool that allows businesses to manage their financial operations more efficiently"
 leadtext: "By automating the transfer of data between the two platforms, businesses can save time, eliminate errors, and make better-informed decisions based on accurate financial data. It is a valuable investment for businesses looking to streamline their accounting processes and focus on growth and development."
 image: /assets/images/articles/people-sitting-near-table.webp

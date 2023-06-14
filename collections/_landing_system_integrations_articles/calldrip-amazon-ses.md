@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-ses
 author: Edward Saunders
 title: "Calldrip and Amazon SES Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Amazon SES can provide many benefits to businesses, such as faster response times, reduced lead leakage, and personalized messaging"
 leadtext: "By leveraging the power of APIs or SDKs, businesses can streamline their lead management and sales processes, improve customer engagement, and ultimately increase revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

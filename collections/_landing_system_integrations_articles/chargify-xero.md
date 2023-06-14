@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/xero
 author: Edward Saunders
 title: "Integration of Chargify and Xero - A Complete Guide"
+topic: System Integration
 leadhead: "Integration of Chargify and Xero provides businesses with a complete
       solution to manage subscription billing and accounting"
 leadtext: "With the two

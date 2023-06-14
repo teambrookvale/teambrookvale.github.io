@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/twitter
 author: Edward Saunders
 title: "Magento 2.X Integration with Twitter API"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Twitter API or SDK can provide numerous benefits for businesses"
 leadtext: "It can help increase sales, build brand awareness, and improve customer experience. By leveraging the power of Twitter's social media platform, online merchants can improve their marketing strategies and grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

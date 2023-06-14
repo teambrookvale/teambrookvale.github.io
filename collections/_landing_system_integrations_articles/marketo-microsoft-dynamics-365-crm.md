@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Marketo and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Marketo and Microsoft Dynamics 365 CRM through API or SDK has significant benefits for businesses"
 leadtext: "It enables them to automate their marketing and sales processes, saving time, and resources. It also provides businesses with valuable insights and a comprehensive view of their customer interactions, improving their decision-making processes. With the integration of these two tools, businesses can provide an excellent customer experience, leading to increased engagement and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

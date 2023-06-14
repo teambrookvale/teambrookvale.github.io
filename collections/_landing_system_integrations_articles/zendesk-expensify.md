@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/expensify
 author: Edward Saunders
 title: "Integration of Zendesk and Expensify"
+topic: System Integration
 leadhead: "The integration of Zendesk and Expensify can help businesses simplify their operations and improve their efficiency"
 leadtext: "By integrating the two through API or SDK, businesses can streamline workflows, gain better visibility, and enhance communication, all while reducing manual data entry efforts involved between expense reports and support tickets."
 image: /assets/images/articles/people-sitting-near-table.webp

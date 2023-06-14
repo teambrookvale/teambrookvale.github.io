@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/keap-max-classic
 author: Edward Saunders
 title: "The Power of AWS Lambda and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Keap Max Classic is a powerful tool for businesses looking to streamline their operations and improve efficiency"
 leadtext: "By automating certain tasks and workflows, businesses can reduce their workload, increase efficiency, and build stronger customer relationships. The use of APIs and SDKs makes it easy for developers and businesses to integrate the two platforms and take advantage of their full potential. We highly recommend considering this integration for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

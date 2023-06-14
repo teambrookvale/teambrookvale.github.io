@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/expensify
 author: Edward Saunders
 title: "How Upwork and Expensify Integration Can Solve Your Business Problems"
+topic: System Integration
 leadhead: "The integration of Upwork and Expensify through their APIs or SDKs is a powerful tool for businesses who want to save time, reduce manual work, and ensure accurate expense tracking"
 leadtext: "By streamlining the hiring process, businesses can find talented freelancers who can complete work quickly and efficiently, while also ensuring that their expenses are accurately tracked and reimbursed."
 image: /assets/images/articles/people-sitting-near-table.webp

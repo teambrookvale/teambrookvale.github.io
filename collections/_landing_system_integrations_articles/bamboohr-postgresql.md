@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/postgresql
 author: Edward Saunders
 title: "BambooHR and PostgreSQL Integration"
+topic: System Integration
 leadhead: "If you're looking for a way to streamline your HR operations and improve the accuracy of your employee data, integrating BambooHR and PostgreSQL through API or SDK is a great option to consider"
 leadtext: "By automating the process of updating your employee data, you'll be able to save time and reduce the risk of errors, allowing you to focus on other important aspects of your business."
 image: /assets/images/articles/people-sitting-near-table.webp

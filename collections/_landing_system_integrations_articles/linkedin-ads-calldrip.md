@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/calldrip
 author: Edward Saunders
 title: "LinkedIn Ads & Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Calldrip is a powerful tool for businesses that want to take their advertising and lead response to the next level"
 leadtext: "By integrating the two platforms, businesses can target their ads to specific demographics and follow up with leads instantly, providing a better customer experience and increasing the chances of closing a sale. This integration is a must-have for any business looking to maximize their advertising ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

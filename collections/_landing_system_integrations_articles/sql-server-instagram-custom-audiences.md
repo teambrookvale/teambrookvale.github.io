@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/instagram-custom-audiences
 author: Edward Saunders
 title: "SQL Server & Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "Integrating SQL Server and Instagram Custom Audiences is a powerful way for businesses to take advantage of their data and create more effective and targeted ad campaigns"
 leadtext: "Through the use of APIs or SDKs, businesses can easily integrate these two systems and leverage their data to create custom audiences on Instagram. By doing so, they can save time, minimize errors, and gain valuable insights into how their campaigns are performing. Overall, the integration of SQL Server and Instagram Custom Audiences is a valuable tool for any business looking to improve their social media marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/quick-base
 author: Edward Saunders
 title: "Amazon CloudWatch and Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Quick Base can greatly benefit businesses by providing a single platform for monitoring and management activities"
 leadtext: "Not only does this simplify the process of monitoring applications and resources, but it can also lead to faster issue identification and resolution. By leveraging the power of APIs or SDKs, developers can easily create custom dashboards within Quick Base that display real-time metrics from CloudWatch, making it easier than ever to track the performance of critical applications and resources."
 image: /assets/images/articles/people-sitting-near-table.webp

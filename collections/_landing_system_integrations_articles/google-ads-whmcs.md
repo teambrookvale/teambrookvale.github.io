@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/whmcs
 author: Edward Saunders
 title: "Google Ads and WHMCS Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads and WHMCS provides a seamless solution for web hosts to manage their advertising campaigns and billing in one platform"
 leadtext: "This integration can help web hosts to create targeted advertising campaigns, track their effectiveness, and streamline their processes."
 image: /assets/images/articles/people-sitting-near-table.webp

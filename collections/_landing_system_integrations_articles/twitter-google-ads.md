@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/google-ads
 author: Edward Saunders
 title: "Why Integrating Twitter and Google Ads through API or SDK Makes Sense"
+topic: System Integration
 leadhead: "Integrating Twitter and Google Ads through API or SDK can help you leverage the strengths of both platforms and get better results"
 leadtext: "By using Twitter data to create more targeted ads on Google Ads and vice versa, you can increase your ad relevance and conversion rates, and optimize your ad spending. Integrating the two platforms can solve the problems of wasteful spending, low conversion rates, and lack of insights. If you are using both platforms to promote your business, integrating them through API or SDK is a smart and worthwhile investment."
 image: /assets/images/articles/people-sitting-near-table.webp

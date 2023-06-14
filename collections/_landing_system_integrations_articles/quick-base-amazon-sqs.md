@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/amazon-sqs
 author: Edward Saunders
 title: "Integration of Quick Base and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Quick Base and Amazon SQS provides businesses with a powerful set of tools for building efficient digital workflows and communicating more effectively"
 leadtext: "By taking advantage of the APIs and SDKs offered by both platforms, businesses can create a fully integrated system that streamlines their operations and boosts their productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

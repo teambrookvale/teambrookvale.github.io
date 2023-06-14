@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/facebook-custom-audiences
 author: Edward Saunders
 title: "Chargify and Facebook Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Facebook Custom Audiences is a no-brainer for businesses that rely on subscription-based revenue streams"
 leadtext: "By syncing their customer data in real-time and creating more personalized ads, businesses can reduce churn, improve retention, and increase their bottom line. So if you haven't already, it's time to take advantage of this powerful integration and start growing your business today!"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/zoho-crm
 author: Edward Saunders
 title: "Why integrating Greenhouse and Zoho CRM is a game-changer"
+topic: System Integration
 leadhead: "Integrating Greenhouse and Zoho CRM can be a game-changer for businesses that want to streamline their hiring process and manage their customer relationships more effectively"
 leadtext: "By automating data entry, improving visibility, and fostering communication, this integration can help businesses grow and thrive in today's competitive market."
 image: /assets/images/articles/people-sitting-near-table.webp

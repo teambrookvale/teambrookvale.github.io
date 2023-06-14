@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/quickbooks-online
 author: Edward Saunders
 title: "The Benefits of Integrating Snowflake and QuickBooks Online"
+topic: System Integration
 leadhead: "Integrating Snowflake and QuickBooks Online through API or SDK can make a significant difference in how businesses handle their financial data"
 leadtext: "It saves time, reduces errors, streamlines accounting processes, and enhances decision-making. Ultimately, this integration can help businesses achieve their goals faster and more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

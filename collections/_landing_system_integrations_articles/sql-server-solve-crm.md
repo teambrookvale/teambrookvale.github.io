@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/solve-crm
 author: Edward Saunders
 title: "Integration of SQL Server and Solve CRM"
+topic: System Integration
 leadhead: "The integration of SQL Server and Solve CRM through API or SDK can provide several benefits to any business"
 leadtext: "It can solve problems related to data management and provide a real-time view of customer data. Businesses can save time and resources and ensure better customer satisfaction by integrating these two platforms. Therefore, businesses should consider integrating SQL Server and Solve CRM to streamline their processes and data management."
 image: /assets/images/articles/people-sitting-near-table.webp

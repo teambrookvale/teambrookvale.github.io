@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Google Ads and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of Google Ads and Amazon DynamoDB is a powerful combination that can help businesses manage their advertising data more efficiently"
 leadtext: "With real-time data and the ability to scale as necessary, businesses can make informed decisions and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

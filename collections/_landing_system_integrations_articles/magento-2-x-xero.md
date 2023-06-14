@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/xero
 author: Edward Saunders
 title: "Integration of Magento 2.X and Xero"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Xero is a game-changer for businesses"
 leadtext: "It enables them to streamline their accounting processes and access up-to-date financial information in real-time. This, in turn, allows businesses to make informed decisions and be more agile in an ever-changing market."
 image: /assets/images/articles/people-sitting-near-table.webp

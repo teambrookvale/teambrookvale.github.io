@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/upwork
 author: Edward Saunders
 title: "Integration of Zoho CRM and Upwork - A Solution to Your Business Problem"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and Upwork is a smart move for businesses that want to streamline their operations and grow their business"
 leadtext: "By using their API or SDK, you can easily manage all your customers and freelancers in one place, making it easier for you to focus on what matters most - growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

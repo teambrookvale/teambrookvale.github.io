@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/google-ads
 author: Edward Saunders
 title: "Amazon DynamoDB and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Google Ads can provide significant benefits for businesses looking to improve their advertising campaigns"
 leadtext: "By leveraging the power of these two services, businesses can create more effective ads, better target their customers, and improve their ROI. For companies looking to stay ahead in the competitive online advertising landscape, integrating DynamoDB and Google Ads is definitely worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

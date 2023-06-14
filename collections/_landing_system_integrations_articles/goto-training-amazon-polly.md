@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/amazon-polly
 author: Edward Saunders
 title: "Integration of GoTo Training and Amazon Polly"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Amazon Polly is a game-changer in the e-learning industry"
 leadtext: "By combining these two powerful tools, trainers can create high-quality training content without spending a fortune on equipment or hiring professional voice actors. The integration saves time, money, and effort, which can be channelled towards improving other aspects of the training program."
 image: /assets/images/articles/people-sitting-near-table.webp

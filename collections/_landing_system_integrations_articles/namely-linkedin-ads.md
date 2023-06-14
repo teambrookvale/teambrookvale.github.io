@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/linkedin-ads
 author: Edward Saunders
 title: "Namely and LinkedIn Ads Integration - Solving Business Problems"
+topic: System Integration
 leadhead: "The integration of Namely and LinkedIn Ads is a game changer for businesses looking to optimize their advertising and HR processes"
 leadtext: "By leveraging the power of HR data, you can create more relevant and effective advertising campaigns that resonate with your target audience, ultimately driving more revenue for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/google-ads
 author: Edward Saunders
 title: "Pinterest and Google Ads Integration"
+topic: System Integration
 leadhead: "Integrating Pinterest and Google Ads can help businesses improve their advertising efforts by creating more targeted and effective campaigns"
 leadtext: "By leveraging Pinterest's data insights, businesses can reach their ideal customers on Google Ads and increase their chances of conversion. The integration process is relatively easy, and the benefits are significant, making it a must-try for any business looking to grow its online presence."
 image: /assets/images/articles/people-sitting-near-table.webp

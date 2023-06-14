@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/chargify
 author: Edward Saunders
 title: "Facebook Custom Audiences and Chargify"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Chargify through API or SDK is a powerful combination for businesses"
 leadtext: "It enables businesses to create highly targeted ads that are more likely to convert into sales, while also automating the billing and payment process. This allows businesses to focus on providing a great product or service, rather than worrying about managing payments and billing."
 image: /assets/images/articles/people-sitting-near-table.webp

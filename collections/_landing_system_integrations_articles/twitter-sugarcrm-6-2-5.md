@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of Twitter and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Integrating Twitter and SugarCRM 6.2-5 can bring significant benefits to businesses that use both platforms"
 leadtext: "The API and SDK make it relatively easy to achieve this integration, and businesses should consider taking advantage of this functionality to improve their customer interactions and marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

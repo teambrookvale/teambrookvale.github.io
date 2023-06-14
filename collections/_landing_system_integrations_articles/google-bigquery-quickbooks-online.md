@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/quickbooks-online
 author: Edward Saunders
 title: "Integrating Google BigQuery and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and QuickBooks Online provides several benefits to businesses"
 leadtext: "It allows businesses to access, manage, and analyze their financial data more efficiently and in real-time. The use of API or SDK can help developers integrate the platforms seamlessly. As a result, the integration can save businesses time and money, and help them make informed financial decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

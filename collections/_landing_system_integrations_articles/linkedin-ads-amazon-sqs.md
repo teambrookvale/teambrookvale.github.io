@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/amazon-sqs
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and Amazon SQS"
+topic: System Integration
 leadhead: "In conclusion, the integration of LinkedIn Ads and Amazon SQS through API or SDK can significantly improve the performance of your digital marketing campaigns"
 leadtext: "It provides real-time lead capture, automated campaign optimization, and scalability, among other benefits. If you are planning to run LinkedIn Ads campaigns, consider integrating them with Amazon SQS to improve your ROI and overall campaign performance."
 image: /assets/images/articles/people-sitting-near-table.webp

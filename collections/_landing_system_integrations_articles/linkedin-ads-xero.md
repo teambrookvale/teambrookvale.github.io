@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/xero
 author: Edward Saunders
 title: "Maximizing Business Potential: Integrating LinkedIn Ads and Xero"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Xero can greatly benefit businesses of all sizes"
 leadtext: "From offering a more streamlined workflow to increasing campaign accuracy and efficiency, businesses can enjoy a more cost-effective and successful advertising strategy. If you haven't already, it's time to consider integrating the two and unlocking the full potential of your business!"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/mysql
 author: Edward Saunders
 title: "Integration of Amazon EC2 and MySQL"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and MySQL provides a scalable, reliable, and cost-effective solution for hosting web applications that require a database backend"
 leadtext: "Through API or SDK, the two can be integrated to provide a highly available and scalable solution. The integration of the two solves many problems and provides many benefits, including increased scalability, reliability, and cost savings."
 image: /assets/images/articles/people-sitting-near-table.webp

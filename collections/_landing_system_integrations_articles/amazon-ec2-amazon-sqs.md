@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/amazon-sqs
 author: Edward Saunders
 title: "Integrating Amazon EC2 and Amazon SQS"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and Amazon SQS through API or SDK can offer many benefits to web developers"
 leadtext: "These two services work hand-in-hand to offer a more reliable and efficient computing and messaging infrastructure. Developers can use them to streamline workflows, automate error handling, and improve the scalability and agility of their web applications."
 image: /assets/images/articles/people-sitting-near-table.webp

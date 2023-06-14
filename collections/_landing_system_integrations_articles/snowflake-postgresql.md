@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/postgresql
 author: Edward Saunders
 title: "Snowflake and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and PostgreSQL is a game-changer for data management"
 leadtext: "It provides organizations with a powerful and efficient platform for storing, managing, and analyzing large volumes of data, enabling them to make better-informed decisions and reduce costs. By using either API or SDK, developers can create custom applications that can connect to both platforms seamlessly. In conclusion, if you're looking for a robust and scalable data management solution, the Snowflake and PostgreSQL integration is the best choice."
 image: /assets/images/articles/people-sitting-near-table.webp

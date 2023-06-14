@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Google Groups and Amazon CloudFront: A Solution to Your Problems"
+topic: System Integration
 leadhead: "In conclusion, integrating Google Groups and Amazon CloudFront through API or SDK can provide numerous benefits for website owners and users"
 leadtext: "By leveraging CloudFront's global network and security features, you can improve website performance and protect against malicious attacks. Whether you are using Google Groups for collaboration or as a web presence, integrating with CloudFront can help take your website to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

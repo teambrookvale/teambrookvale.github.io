@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/twitter
 author: Edward Saunders
 title: "Xero and Twitter Integration"
+topic: System Integration
 leadhead: "Xero and Twitter integration through API or SDK can be a game-changer for small businesses"
 leadtext: "By automating social media marketing and financial management, businesses can save time, increase efficiency, and make better business decisions. Integrating Xero and Twitter is a great way to take advantage of the benefits of both platforms while solving common business problems."
 image: /assets/images/articles/people-sitting-near-table.webp

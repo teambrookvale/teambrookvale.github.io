@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/calldrip
 author: Edward Saunders
 title: "The Integration of Namely and Calldrip"
+topic: System Integration
 leadhead: "Overall, the integration of Namely and Calldrip allows businesses to set up a more efficient and streamlined system"
 leadtext: "Through communication and data-sharing, the two software solutions can provide better HR and sales management. Companies that integrate the two solutions will benefit from increased productivity, faster lead response, and reduced errors. Therefore, businesses that use Namely and Calldrip independently should consider integrating the two solutions to maximize their potential."
 image: /assets/images/articles/people-sitting-near-table.webp

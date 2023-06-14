@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/greenhouse
 author: Edward Saunders
 title: "Integrating GoTo Training and Greenhouse: a Solution to Human Resource Management"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Greenhouse is a powerful tool for managing human resources"
 leadtext: "By utilizing these two platforms together, organizations can streamline their management efforts, better understand the needs of their employees, and ultimately create a more engaged and productive workforce. So, if you're looking for a solution to your human resource management needs, be sure to check out this powerful integration!"
 image: /assets/images/articles/people-sitting-near-table.webp

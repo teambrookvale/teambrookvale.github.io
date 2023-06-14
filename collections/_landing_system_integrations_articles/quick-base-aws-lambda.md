@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/aws-lambda
 author: Edward Saunders
 title: "Quick Base and AWS Lambda Integration"
+topic: System Integration
 leadhead: "The integration of Quick Base and AWS Lambda through API or SDK can bring several benefits to your business, such as efficiency, automation, and cost-saving"
 leadtext: "With Quick Base APIs, you can access and manipulate data stored in Quick Base, and with Lambda functions, you can trigger actions based on that data or integrate other AWS services. You can schedule tasks, automate repetitive processes, and deploy your application quickly and easily. Try integrating Quick Base and AWS Lambda and see how it can transform your business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

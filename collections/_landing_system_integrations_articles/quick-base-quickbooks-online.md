@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/quickbooks-online
 author: Edward Saunders
 title: "Integration of Quick Base and QuickBooks Online"
+topic: System Integration
 leadhead: "Quick Base and QuickBooks Online integration is a game changer for businesses that want greater flexibility, control and efficiency in their business operations"
 leadtext: "The integration allows businesses to optimize their financial processes, reduce manual entry and improve financial data accuracy. With Quick Base and QuickBooks Online integration, you can achieve real-time financial visibility, automate workflow and streamline your business processes, enabling you to grow your business faster and more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

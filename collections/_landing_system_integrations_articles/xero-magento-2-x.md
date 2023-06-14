@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/magento-2-x
 author: Edward Saunders
 title: "Xero and Magento 2.X Integration: A Game Changer for ecommerce businesses"
+topic: System Integration
 leadhead: "In conclusion, integration of Xero and Magento 2.X through API or SDK provides businesses with a seamless approach to managing their accounting and ecommerce platforms"
 leadtext: "It streamlines processes, eliminates errors, and boosts productivity. Integration is a game-changer for ecommerce businesses and one that they should consider if they haven’t already."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/webhooks-by-zapier
 author: Edward Saunders
 title: "Quick Base and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "Integrating Quick Base with Webhooks by Zapier is an excellent way to streamline your workflow and improve collaboration between your different software applications"
 leadtext: "Whether you choose to integrate via API or SDK, the process is relatively straightforward, and the benefits are numerous."
 image: /assets/images/articles/people-sitting-near-table.webp

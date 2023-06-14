@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/google-ads
 author: Edward Saunders
 title: "Integrating PostgreSQL and Google Ads through API/SDK"
+topic: System Integration
 leadhead: "Overall, integrating PostgreSQL and Google Ads through API or SDK can provide businesses with a powerful data management and analysis tool"
 leadtext: "It can enable them to better manage their advertising campaigns, optimize performance, and make data-driven decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

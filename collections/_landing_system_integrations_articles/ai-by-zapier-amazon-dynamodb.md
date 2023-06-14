@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of AI by Zapier and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Amazon DynamoDB provides an excellent solution for businesses to improve their productivity, efficiency, and scalability"
 leadtext: "By automating daily tasks, businesses can focus more on core operations and long-term growth."
 image: /assets/images/articles/people-sitting-near-table.webp

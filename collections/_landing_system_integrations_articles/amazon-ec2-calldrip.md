@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/calldrip
 author: Edward Saunders
 title: "Integrating Amazon EC2 and Calldrip for Enhanced Business Solutions"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and Calldrip is a game-changer for businesses looking to streamline their lead response processes and take advantage of cloud computing technology"
 leadtext: "The integration solves many common problems associated with lead response, including delays in response times and inefficient lead management. By combining the power of EC2 and Calldrip, businesses can accelerate lead conversion rates and maximize their overall productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

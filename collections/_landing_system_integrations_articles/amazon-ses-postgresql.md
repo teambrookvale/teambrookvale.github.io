@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/postgresql
 author: Edward Saunders
 title: "How Amazon SES and PostgreSQL Integration Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Amazon SES and PostgreSQL can provide businesses with a powerful toolset to manage their email traffic and data"
 leadtext: "With the ability to store and retrieve email data, businesses can make data-driven decisions and improve their email marketing campaigns. Additionally, this integration provides an affordable and efficient way to handle large volumes of email traffic without compromise."
 image: /assets/images/articles/people-sitting-near-table.webp

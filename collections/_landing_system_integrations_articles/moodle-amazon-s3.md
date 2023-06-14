@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-s3
 author: Edward Saunders
 title: "Moodle and Amazon S3 Integration"
+topic: System Integration
 leadhead: "The integration between Moodle and Amazon S3 is a game-changer for e-learning platforms"
 leadtext: "By utilizing Amazon S3's superior cloud storage capabilities, Moodle users can benefit from unlimited storage space, enhanced security, and reliable access to their course materials and multimedia content. Whether you're an educator or a student, this integration is sure to make the e-learning experience more convenient and enjoyable."
 image: /assets/images/articles/people-sitting-near-table.webp

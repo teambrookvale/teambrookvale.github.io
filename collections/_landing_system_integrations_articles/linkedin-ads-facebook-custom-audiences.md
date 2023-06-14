@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/facebook-custom-audiences
 author: Edward Saunders
 title: "LinkedIn Ads and Facebook Custom Audiences Integration"
+topic: System Integration
 leadhead: "LinkedIn Ads and Facebook Custom Audiences are both powerful advertising platforms that businesses can use to connect with their target audience"
 leadtext: "By integrating the two through API or SDK, businesses can increase their reach and maintain consistency in their advertising message. This integration also solves common advertising problems such as reaching a wider audience and targeting the right one. If you're looking to grow your online presence, consider integrating LinkedIn Ads and Facebook Custom Audiences."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/shopify
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and Shopify for Better E-commerce Management"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Shopify provides a comprehensive solution for managing e-commerce businesses"
 leadtext: "With the ability to store and query large amounts of data, manage storefronts and purchases, and provide insights into customer behavior, businesses can operate more efficiently and securely. As e-commerce continues to grow and evolve, integrations like this one will become increasingly important for staying competitive."
 image: /assets/images/articles/people-sitting-near-table.webp

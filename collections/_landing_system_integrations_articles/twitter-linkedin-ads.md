@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/linkedin-ads
 author: Edward Saunders
 title: "Integration of Twitter and LinkedIn Ads | Blog Post"
+topic: System Integration
 leadhead: "The integration of Twitter and LinkedIn Ads is a powerful tool for advertisers to reach their ideal audience and optimize their ad campaigns"
 leadtext: "It ensures a seamless advertising experience across two of the world's most prominent social media platforms. Advertisers who wish to expand their reach, target specific audiences, and build brand awareness should consider integrating Twitter and LinkedIn Ads."
 image: /assets/images/articles/people-sitting-near-table.webp

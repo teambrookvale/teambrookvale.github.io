@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/bamboohr
 author: Edward Saunders
 title: "How Magento and BambooHR Integration through API or SDK Can Solve Business Problems"
+topic: System Integration
 leadhead: "Magento and BambooHR are two essential tools for businesses, and their integration through API or SDK can bridge the gap between HR and e-commerce, streamline workflows, reduce errors, and save time"
 leadtext: "Developers can integrate the two systems seamlessly, and businesses can enjoy the benefits of a comprehensive system that empowers HR teams and enables e-commerce operations to function efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

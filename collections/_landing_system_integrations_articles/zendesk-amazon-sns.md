@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/amazon-sns
 author: Edward Saunders
 title: "Integration of Zendesk and Amazon SNS"
+topic: System Integration
 leadhead: "The integration of Zendesk and Amazon SNS provides companies with a powerful solution to manage customer interactions and notifications on multiple channels"
 leadtext: "The combination of these two platforms streamlines customer support and provides real-time alerts, improving the efficiency and effectiveness of customer service teams."
 image: /assets/images/articles/people-sitting-near-table.webp

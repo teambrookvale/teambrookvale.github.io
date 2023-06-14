@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/upwork
 author: Edward Saunders
 title: "Integration of Solve CRM and Upwork"
+topic: System Integration
 leadhead: "The integration of Solve CRM and Upwork through API or SDK is a powerful solution that can help businesses streamline their operations and improve collaboration between teams"
 leadtext: "By connecting these two platforms, businesses can eliminate duplicate data entry, keep track of their projects and tasks in one place, and enhance efficiency and productivity. If you're looking for a way to simplify your workflow and improve your business processes, consider integrating Solve CRM and Upwork through API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

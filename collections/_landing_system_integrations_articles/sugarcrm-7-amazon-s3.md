@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/amazon-s3
 author: Edward Saunders
 title: "SugarCRM 7+ and Amazon S3 Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of SugarCRM 7+ and Amazon S3 through API or SDK can provide businesses with a powerful tool to manage their customer data"
 leadtext: "It provides a secure and reliable way of storing and retrieving data while simplifying the data management process. Businesses that want to improve their customer data management should consider integrating SugarCRM 7+ and Amazon S3."
 image: /assets/images/articles/people-sitting-near-table.webp

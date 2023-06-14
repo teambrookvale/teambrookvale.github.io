@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/pinterest
 author: Edward Saunders
 title: "Integrating SQL Server and Pinterest with API or SDK"
+topic: System Integration
 leadhead: "Integrating SQL Server and Pinterest with API or SDK is a powerful way to streamline data management and content sharing"
 leadtext: "It enables businesses to manage their data and content effectively and gain insights into their audience and market trends. The integration of these two tools can help businesses save time and automate their data synchronization, and ultimately drive more traffic to their websites. By integrating SQL Server and Pinterest, businesses can take advantage of the benefits of both tools and create a more efficient and effective digital presence."
 image: /assets/images/articles/people-sitting-near-table.webp

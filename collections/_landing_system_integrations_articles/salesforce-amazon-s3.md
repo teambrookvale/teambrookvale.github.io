@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/amazon-s3
 author: Edward Saunders
 title: "Integration of Salesforce and Amazon S3"
+topic: System Integration
 leadhead: "Integrating Salesforce and Amazon S3 through API or SDK provides users with a seamless experience, making it easier to store and access data in Salesforce"
 leadtext: "This integration also solves the challenges of storing large files in Salesforce and provides users with a scalable and cost-effective solution. By taking advantage of this integration, Salesforce users can enjoy improved productivity and better data management."
 image: /assets/images/articles/people-sitting-near-table.webp

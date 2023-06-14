@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-seller-central
 author: Edward Saunders
 title: "Magento and Amazon Seller Central Integration: Solving E-commerce Problems"
+topic: System Integration
 leadhead: "Magento and Amazon Seller Central are two powerful e-commerce platforms that businesses can use to grow their online sales"
 leadtext: "By integrating these two systems, businesses can streamline their operations and solve a range of problems, including inventory management, order fulfillment, and pricing. Whether a business decides to integrate through API or SDK, they will be able to take advantage of the benefits of e-commerce integration and compete more effectively in today's digital landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

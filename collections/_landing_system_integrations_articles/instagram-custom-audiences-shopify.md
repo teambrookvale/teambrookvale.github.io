@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/shopify
 author: Edward Saunders
 title: "How Instagram Custom Audiences and Shopify Integration Can Improve Your eCommerce Marketing Strategy"
+topic: System Integration
 leadhead: "By integrating your Shopify store with Instagram Custom Audiences, you can create personalized ads that are relevant to your target audience, increasing the likelihood of conversions and driving sales"
 leadtext: "The integration of these powerful tools can help you stay on top of the latest marketing trends while also growing your eCommerce business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/keap-max-classic
 author: Edward Saunders
 title: "Snowflake and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Keap Max Classic is a powerful solution that can help businesses achieve their goals"
 leadtext: "By providing access to a complete view of their customers and enabling data-driven decision making, businesses can gain a competitive edge in today's fast-paced business environment. Whether you are a small business or a large enterprise, the integration of these two solutions can help you achieve your goals and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

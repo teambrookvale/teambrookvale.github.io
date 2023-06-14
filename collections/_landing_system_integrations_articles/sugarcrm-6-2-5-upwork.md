@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/upwork
 author: Edward Saunders
 title: "SugarCRM 6.2-5 Integration with Upwork: A Game Changer"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 with Upwork is a game changer for businesses that rely on this CRM system"
 leadtext: "It offers several benefits, including cost savings, access to expert professionals, and increased efficiency. By delegating CRM tasks to experienced freelancers, businesses can focus on their core competencies and grow their operations. This integration is definitely worth considering for companies that require an extra workforce to run their CRM system."
 image: /assets/images/articles/people-sitting-near-table.webp

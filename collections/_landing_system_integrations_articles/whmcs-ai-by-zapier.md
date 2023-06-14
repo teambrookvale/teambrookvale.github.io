@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/ai-by-zapier
 author: Edward Saunders
 title: "WHMCS and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of WHMCS and AI by Zapier is a valuable combination for web hosting companies looking to optimize their processes while providing better service to their customers"
 leadtext: "The automation of repetitive tasks and the freeing up of resources can help web hosting companies focus on their core business, resulting in increased customer satisfaction and ultimately increased revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

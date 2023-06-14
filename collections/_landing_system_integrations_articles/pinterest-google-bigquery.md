@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/google-bigquery
 author: Edward Saunders
 title: "Pinterest and Google BigQuery Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Pinterest and Google BigQuery provides businesses with a powerful toolset for analyzing user data and improving their advertising and marketing strategies"
 leadtext: "As companies continue to invest in social media advertising, this integration will become increasingly valuable for gaining insights into user behavior and improving the effectiveness of campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

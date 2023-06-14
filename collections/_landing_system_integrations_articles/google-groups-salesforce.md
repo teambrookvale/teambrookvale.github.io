@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/salesforce
 author: Edward Saunders
 title: "How Google Groups and Salesforce Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "The integration of Google Groups and Salesforce is a powerful tool that can benefit any business"
 leadtext: "It solves a lot of problems that businesses face on a day-to-day basis and allows for better communication, data management, and customer relationship management. If you haven't integrated these two tools yet, you should consider doing so to streamline your operations and increase productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

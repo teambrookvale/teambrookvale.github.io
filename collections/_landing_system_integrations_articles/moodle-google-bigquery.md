@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/google-bigquery
 author: Edward Saunders
 title: "Why Moodle and Google BigQuery Integration is Important"
+topic: System Integration
 leadhead: "Integrating Moodle with Google BigQuery provides a powerful tool for educational institutions to improve their learning outcomes"
 leadtext: "By leveraging the capabilities of these two systems, educators can make data-informed decisions that contribute to student success. This integration can also help institutions save money on IT infrastructure and maintenance costs. Thus, the integration of Moodle and Google BigQuery is essential for educational institutions that seek to provide quality education to their students."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/ai-by-zapier
 author: Edward Saunders
 title: "Integration of GoTo Training and AI by Zapier"
+topic: System Integration
 leadhead: "Overall, the integration of GoTo Training and AI by Zapier is a powerful combination for businesses"
 leadtext: "It can save time and money, reduce the risk of human error, and streamline operations. By using API or SDK, businesses can integrate these two platforms and create workflows that automate repetitive tasks and improve the efficiency of their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

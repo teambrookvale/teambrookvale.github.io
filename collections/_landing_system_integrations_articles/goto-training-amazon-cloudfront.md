@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/amazon-cloudfront
 author: Edward Saunders
 title: "GoTo Training and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Amazon CloudFront provides businesses with a reliable and scalable solution for online training program delivery"
 leadtext: "With the availability of training content around the world, increased download speeds, and automation of content distribution, businesses can spend more time creating effective training programs instead of worrying about delivery logistics."
 image: /assets/images/articles/people-sitting-near-table.webp

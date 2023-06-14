@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/keap-max-classic
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Keap Max Classic"
+topic: System Integration
 leadhead: "Overall, the integration of Amazon DynamoDB and Keap Max Classic is a powerful way for businesses to store, manage, and analyze customer data in a seamless and efficient manner"
 leadtext: "Whether you're looking to automate marketing and sales processes or gain insights into customer behavior and preferences, this integration can provide you with the tools you need to succeed in today's competitive business landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

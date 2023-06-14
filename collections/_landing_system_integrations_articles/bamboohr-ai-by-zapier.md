@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/ai-by-zapier
 author: Edward Saunders
 title: "BambooHR and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration between BambooHR and AI by Zapier is a powerful tool for businesses looking to streamline HR processes, automate tasks, and improve efficiency"
 leadtext: "With the API or SDK, developers can create custom workflows that fit their business needs. As technology continues to advance, we can expect to see more integrations that enable businesses to focus on their core functions and prioritize their employees."
 image: /assets/images/articles/people-sitting-near-table.webp

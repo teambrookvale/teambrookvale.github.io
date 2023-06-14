@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/quick-base
 author: Edward Saunders
 title: "Integrating Instagram Lead Ads with Quick Base through API or SDK"
+topic: System Integration
 leadhead: "Integrating Instagram Lead Ads with Quick Base through API or SDK is a great way for businesses to improve their lead generation efforts and streamline their operations"
 leadtext: "By automating key processes and eliminating the need for manual data entry, businesses can save time and reduce the chances of errors, while also improving lead management and scaling their efforts. With the right integration strategy, businesses can take their lead generation efforts to the next level and achieve greater success in their sales and marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

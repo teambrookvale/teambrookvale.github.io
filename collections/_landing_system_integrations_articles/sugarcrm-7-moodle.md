@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/moodle
 author: Edward Saunders
 title: "SugarCRM 7+ and Moodle Integration"
+topic: System Integration
 leadhead: "SugarCRM 7+ and Moodle integration is a solution that businesses and educational institutions can take advantage of to streamline their workflow and make their operations more efficient"
 leadtext: "Through API or SDK integration, users can enjoy improved data management, pricing, streamlined workflow, and improved customer management. It is an integration worth considering for any business or educational institution."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/magento
 author: Edward Saunders
 title: "Keap Max Classic and Magento Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Magento through API or SDK provides businesses with a powerful tool for automating their sales and marketing strategies while also creating an online store"
 leadtext: "The integration solves several problems that businesses face in managing their sales and marketing efforts. It eliminates manual data entry, ensures up-to-date customer information, and allows businesses to manage their online store and marketing strategies from the same platform. As such, integrating Keap Max Classic and Magento is essential for any business looking to grow and streamline its operations."
 image: /assets/images/articles/people-sitting-near-table.webp

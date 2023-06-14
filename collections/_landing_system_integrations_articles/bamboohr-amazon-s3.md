@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/amazon-s3
 author: Edward Saunders
 title: "Integrating BambooHR and Amazon S3 for Better HR Management"
+topic: System Integration
 leadhead: "The integration of BambooHR and Amazon S3 is a powerful solution for organizations looking to streamline HR processes and improve data security"
 leadtext: "By storing employee data and documents on Amazon S3 and managing them within BambooHR, organizations can save time, reduce errors, and focus on strategic HR initiatives."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/salesforce
 author: Edward Saunders
 title: "PostgreSQL and Salesforce Integration"
+topic: System Integration
 leadhead: "The integration of Salesforce and PostgreSQL through API or SDK provides businesses with a powerful solution for data management, automation, and customer service"
 leadtext: "It enables businesses to work faster, smarter, and more efficiently, ultimately leading to improved customer experience and increased profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

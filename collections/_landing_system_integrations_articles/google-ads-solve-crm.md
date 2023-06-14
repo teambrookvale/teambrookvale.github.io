@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/solve-crm
 author: Edward Saunders
 title: "Integration of Google Ads and Solve CRM through API/SDK"
+topic: System Integration
 leadhead: "Integrating Google Ads and Solve CRM through API/SDK can result in significant benefits for businesses, providing a holistic view of their customers' interactions with their brand"
 leadtext: "The integration will not only automate campaigns but improve targeting, tracking, and lead management processes. Businesses can make better-informed decisions to improve their marketing strategies and achieve higher returns on investment."
 image: /assets/images/articles/people-sitting-near-table.webp

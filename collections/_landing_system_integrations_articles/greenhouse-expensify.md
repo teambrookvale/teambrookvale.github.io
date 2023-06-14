@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/expensify
 author: Edward Saunders
 title: "Greenhouse and Expensify Integration"
+topic: System Integration
 leadhead: "Integrating Greenhouse and Expensify through API or SDK can bring many benefits to organizations"
 leadtext: "The automation of the expense reporting process can save time, reduce errors, and improve efficiency. Implementing the integration is straightforward and can have a significant impact on the way expenses are managed within an organization."
 image: /assets/images/articles/people-sitting-near-table.webp

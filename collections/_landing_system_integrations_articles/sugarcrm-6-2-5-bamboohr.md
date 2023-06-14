@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/bamboohr
 author: Edward Saunders
 title: "SugarCRM and BambooHR: A Match Made in Heaven"
+topic: System Integration
 leadhead: "Overall, integrating SugarCRM and BambooHR can provide a range of benefits for your organization"
 leadtext: "By streamlining your HR and sales workflows, you can improve efficiency, reduce errors, and enable better collaboration and communication between teams. Whether you're a small business or a large enterprise, consider integrating these two platforms to improve your business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

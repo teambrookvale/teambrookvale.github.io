@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/google-ads
 author: Edward Saunders
 title: "Namely and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of Namely and Google Ads provides businesses with the ability to effectively manage employee data while creating targeted and accurate ad campaigns"
 leadtext: "This ultimately saves time and increases efficiency for businesses. By utilizing API or SDK, the integration process can be seamless and hassle-free. Integrating Namely and Google Ads is a win-win situation for businesses as it allows them to streamline their HR management and advertising processes."
 image: /assets/images/articles/people-sitting-near-table.webp

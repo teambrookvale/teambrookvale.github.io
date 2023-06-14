@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/amazon-dynamodb
 author: Edward Saunders
 title: "Amazon Seller Central and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon Seller Central and Amazon DynamoDB provides sellers with a robust and scalable e-commerce solution"
 leadtext: "The integration offers significant benefits, including faster data processing, improved data scalability, and enhanced monitoring and analysis capabilities. Therefore, the integration of Amazon Seller Central and Amazon DynamoDB is a must-have for any e-commerce business looking to succeed in today's competitive environment."
 image: /assets/images/articles/people-sitting-near-table.webp

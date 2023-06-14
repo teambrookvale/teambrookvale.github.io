@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/magento
 author: Edward Saunders
 title: "Integration of Amazon SNS and Magento"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Magento is an excellent way to enhance the capabilities of an online store"
 leadtext: "It enables the sending of notifications in real-time to subscribed endpoints, reducing latency and improving message delivery reliability. The scalability of Amazon SNS means that businesses can handle any volume of traffic, while the decoupling of microservices and distributed systems improves the resiliency of the system. Any business that wants to streamline its operations, improve its customer experience, and scale its online store should consider integrating Amazon SNS and Magento."
 image: /assets/images/articles/people-sitting-near-table.webp

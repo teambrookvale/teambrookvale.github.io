@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/moodle
 author: Edward Saunders
 title: "The Power of Integrating Facebook Custom Audiences with Moodle"
+topic: System Integration
 leadhead: "With the integration of Facebook Custom Audiences and Moodle, educational institutions can unlock a powerful marketing tool while also providing a more personalized learning experience for their students"
 leadtext: "By communicating and sharing data, both platforms can work together to make education more engaging and accessible for everyone."
 image: /assets/images/articles/people-sitting-near-table.webp

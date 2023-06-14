@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/webhooks-by-zapier
 author: Edward Saunders
 title: "Amazon SQS and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Webhooks by Zapier can help you streamline your workflows, automate tasks, and improve the reliability and availability of your applications"
 leadtext: "Whether you're a developer building microservices or a business looking to optimize your processes, this integration can help you achieve your goals."
 image: /assets/images/articles/people-sitting-near-table.webp

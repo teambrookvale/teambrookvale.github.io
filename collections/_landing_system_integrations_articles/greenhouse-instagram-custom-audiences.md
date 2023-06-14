@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/instagram-custom-audiences
 author: Edward Saunders
 title: "Connecting Greenhouse with Instagram Custom Audiences through API or SDK"
+topic: System Integration
 leadhead: "Integrating Greenhouse with Instagram Custom Audiences through API or SDK can provide companies with valuable insights into their hiring process that they can leverage to create more effective ad campaigns on Instagram"
 leadtext: "By automating the process of creating custom audiences, companies can save time and reduce errors, leading to a better ROI for their advertising spend."
 image: /assets/images/articles/people-sitting-near-table.webp

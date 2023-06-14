@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating SQL Server with Microsoft Dynamics 365 CRM | Blog Post"
+topic: System Integration
 leadhead: "Integrating SQL Server with Microsoft Dynamics 365 CRM brings about several benefits for businesses"
 leadtext: "Through API or SDK integration, businesses can streamline data management, improve reporting, and automate tasks. With the right integration strategy and tools, businesses can take advantage of these benefits and drive growth."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating Magento and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Magento and Webhooks by Zapier can take retailers' ecommerce operations to the next level by automating tasks, increasing efficiency and improving the overall customer experience"
 leadtext: "By following the simple steps provided by Zapier, retailers can easily set up the integration and reap the benefits of automation."
 image: /assets/images/articles/people-sitting-near-table.webp

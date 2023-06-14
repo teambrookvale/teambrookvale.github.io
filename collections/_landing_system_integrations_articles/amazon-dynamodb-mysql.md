@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/mysql
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and MySQL for Efficient Data Management"
+topic: System Integration
 leadhead: "Integrating Amazon DynamoDB and MySQL can provide a powerful data management solution for companies looking to scale their data storage and improve their data resiliency"
 leadtext: "The integration helps to avoid data silos, reduce storage costs, and improve data analytics and reporting. By leveraging the strengths of both NoSQL and SQL databases, businesses can create a unified system for managing their data more effectively, ultimately helping them make more informed business decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

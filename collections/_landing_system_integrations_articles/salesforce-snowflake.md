@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/snowflake
 author: Edward Saunders
 title: "Integration of Salesforce and Snowflake"
+topic: System Integration
 leadhead: "The integration of Salesforce and Snowflake offers compelling benefits for businesses"
 leadtext: "It enables them to leverage the strengths of both platforms, including data management, analytics, and customer engagement, and creates a unified, scalable environment for managing customer data. With the right integration approach, businesses can unlock the full potential of their customer data, achieve better insights, and drive business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

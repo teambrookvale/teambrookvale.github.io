@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/zendesk
 author: Edward Saunders
 title: "Integrating Namely and Zendesk"
+topic: System Integration
 leadhead: "Integrating Namely and Zendesk can bring noteworthy benefits to any mid-sized company"
 leadtext: "By bridging HR and customer service teams, companies can unify communication channels, decrease redundant tasks, and create a more connected employee and customer experience. If you are looking to improve collaboration across your organization, integrating Namely and Zendesk is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/instagram-lead-ads
 author: Edward Saunders
 title: "Magento 2.x Integration with Instagram Lead Ads: A Complete Solution"
+topic: System Integration
 leadhead: "The integration of Magento 2.x and Instagram Lead Ads through API or SDK is a complete solution for businesses to streamline their lead generation process and improve their marketing efforts"
 leadtext: "By capturing leads automatically from Instagram, businesses can save time and effort in manually entering lead information into the database. Moreover, the data collected through Instagram Lead Ads can be used to create targeted marketing campaigns, which can ultimately lead to an increase in sales and revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

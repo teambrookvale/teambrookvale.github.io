@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/chargify
 author: Edward Saunders
 title: "Integration of Quick Base and Chargify"
+topic: System Integration
 leadhead: "The integration of Quick Base and Chargify through API or SDK provides businesses with a powerful solution for managing their subscription billing and invoicing processes"
 leadtext: "By automating these processes, businesses can save time and improve their overall workflow, allowing them to focus on other important aspects of their business."
 image: /assets/images/articles/people-sitting-near-table.webp

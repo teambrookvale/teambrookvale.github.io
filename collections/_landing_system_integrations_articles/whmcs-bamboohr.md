@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/bamboohr
 author: Edward Saunders
 title: "WHMCS and BambooHR Integration: A Perfect Match"
+topic: System Integration
 leadhead: "Overall, integrating WHMCS and BambooHR can help businesses improve their operations and streamline their workflow"
 leadtext: "By leveraging the power of APIs or SDKs, they can automate tasks, reduce errors, and free up staff to focus on more strategic initiatives."
 image: /assets/images/articles/people-sitting-near-table.webp

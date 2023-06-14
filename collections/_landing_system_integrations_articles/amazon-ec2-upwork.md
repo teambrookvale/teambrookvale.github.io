@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/upwork
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Upwork"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Upwork provides businesses with an easy and secure way to manage their cloud infrastructure while using remote workers"
 leadtext: "This integration helps to solve many of the problems faced by businesses who outsource their cloud infrastructure management, making it a valuable tool for both small and large businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

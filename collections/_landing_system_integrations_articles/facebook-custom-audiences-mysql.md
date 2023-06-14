@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/mysql
 author: Edward Saunders
 title: "Facebook Custom Audiences and MySQL Integration"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and MySQL is a game-changer for businesses looking to improve their advertising campaigns"
 leadtext: "With the power of data, businesses can create more effective ads and reach their target audience with ease. This integration is easy to set up and can be done through API or SDK. In conclusion, the integration of Facebook Custom Audiences and MySQL is worth exploring for businesses looking to improve their marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

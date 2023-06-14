@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/solve-crm
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Solve CRM for Streamlined Business Operations"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Solve CRM through API or SDK can help businesses streamline their operations and improve overall efficiency"
 leadtext: "By eliminating duplicate entry, reducing errors, and improving data accuracy, businesses can focus on core operations and grow their business effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

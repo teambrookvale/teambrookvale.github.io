@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/postgresql
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and PostgreSQL"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and PostgreSQL can provide developers with a powerful and flexible solution for storing and processing data in different formats and at different scales"
 leadtext: "By leveraging their unique strengths and integrating them through API or SDK, it is possible to overcome many challenges and create applications with high performance, reliability, and scalability. Whether you are developing a new application or enhancing an existing one, consider integrating Amazon DynamoDB and PostgreSQL to benefit from their combined features and capabilities."
 image: /assets/images/articles/people-sitting-near-table.webp

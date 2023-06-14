@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/marketo
 author: Edward Saunders
 title: "Integrating Evernote Business and Marketo"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Marketo is a powerful combination that businesses can use to streamline their marketing efforts and improve collaboration within their organization"
 leadtext: "With Evernote Business, businesses can centralize their notes and documents, and with Marketo, they can automate their marketing campaigns. This integration can help businesses save time, improve productivity, and ultimately increase revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

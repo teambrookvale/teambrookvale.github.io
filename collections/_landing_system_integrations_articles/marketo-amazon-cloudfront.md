@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/amazon-cloudfront
 author: Edward Saunders
 title: "Marketo and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Amazon CloudFront through API or SDK can be a powerful tool for businesses looking to streamline their marketing campaigns and improve content delivery"
 leadtext: "By combining the advanced marketing automation capabilities of Marketo with the global content delivery network of Amazon CloudFront, businesses can create more personalized and engaging experiences for their audiences and drive higher ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-ses
 author: Edward Saunders
 title: "Shopify and Amazon SES Integration: A Perfect Solution for E-commerce Business"
+topic: System Integration
 leadhead: "Shopify and Amazon SES integration is a perfect solution for e-commerce businesses that want to streamline their online store and email communications"
 leadtext: "By using their API or SDK, you can achieve high email deliverability, personalized email content, and automation of email campaigns. It saves your time, money, and effort while enhancing your online reputation and customer loyalty. So, if you're running an e-commerce business, don't miss out on this opportunity."
 image: /assets/images/articles/people-sitting-near-table.webp

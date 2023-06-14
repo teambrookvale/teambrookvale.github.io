@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/instagram-lead-ads
 author: Edward Saunders
 title: "GoTo Training and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Instagram Lead Ads provides a valuable solution for businesses looking to reach and engage with potential customers"
 leadtext: "By seamlessly connecting these two platforms, businesses can improve their reach, engagement, and conversion rates, ultimately leading to increased success."
 image: /assets/images/articles/people-sitting-near-table.webp

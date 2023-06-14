@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integration of Amazon Polly and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Microsoft Dynamics 365 CRM offers a powerful solution for businesses looking to improve their customer service experience"
 leadtext: "By leveraging the strengths of both tools, you can create personalized, engaging, and accessible audio content that resonates with your customers."
 image: /assets/images/articles/people-sitting-near-table.webp

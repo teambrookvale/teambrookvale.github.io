@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/expensify
 author: Edward Saunders
 title: "Integrating BigCommerce and Expensify to Streamline your E-commerce Finances"
+topic: System Integration
 leadhead: "Whether you're a small business owner just starting out or a seasoned e-commerce veteran, managing your finances can be a daunting task"
 leadtext: "Thankfully, solutions like BigCommerce and Expensify are available to help simplify the process. By integrating the two platforms, you can streamline your finances and focus on what really matters - growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

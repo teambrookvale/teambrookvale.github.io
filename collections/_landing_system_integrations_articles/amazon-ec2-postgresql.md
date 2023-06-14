@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/postgresql
 author: Edward Saunders
 title: "Integration of Amazon EC2 and PostgreSQL through API/SDK | Blog"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and PostgreSQL through API/SDK is a powerful combination that provides a highly scalable and reliable platform for running applications and databases"
 leadtext: "It solves many problems related to data security, backup, and scalability. Developers can use this combination to create powerful, feature-rich, and highly secure applications that can handle large amounts of data and complex queries."
 image: /assets/images/articles/people-sitting-near-table.webp

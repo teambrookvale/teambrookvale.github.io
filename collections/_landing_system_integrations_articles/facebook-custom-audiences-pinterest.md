@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/pinterest
 author: Edward Saunders
 title: "Integrating Facebook Custom Audiences with Pinterest through API or SDK"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences with Pinterest through API or SDK is a powerful tool for businesses to improve their advertising efforts"
 leadtext: "By leveraging the power of both platforms, businesses can reach their target audiences more effectively and improve their ROI. If you're not already integrating Facebook Custom Audiences with Pinterest, it's time to start!"
 image: /assets/images/articles/people-sitting-near-table.webp

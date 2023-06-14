@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/webhooks-by-zapier
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Webhooks by Zapier can provide a great opportunity for developers to build more powerful and efficient applications"
 leadtext: "It can help automate many repetitive tasks and allow for faster data access and better customer engagement. By leveraging the API or SDK, developers can easily connect these two services and create new workflows that can help solve real-world problems."
 image: /assets/images/articles/people-sitting-near-table.webp

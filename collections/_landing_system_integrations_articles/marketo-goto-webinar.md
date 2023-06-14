@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/goto-webinar
 author: Edward Saunders
 title: "Marketo and GoTo Webinar Integration: A Perfect Combination"
+topic: System Integration
 leadhead: "The integration of Marketo and GoTo Webinar can create a game-changing marketing solution that can provide marketers with valuable insights, automating their marketing processes, and enhancing their lead nurturing capabilities"
 leadtext: "With the help of API or SDK, marketers can seamlessly integrate these two solutions, creating a smooth experience for their audience."
 image: /assets/images/articles/people-sitting-near-table.webp

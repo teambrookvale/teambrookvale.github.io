@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/webhooks-by-zapier
 author: Edward Saunders
 title: "How Magento 2.X and Webhooks by Zapier Integration can Solve Your E-commerce Struggles"
+topic: System Integration
 leadhead: "Integrating Magento 2.X with Webhooks by Zapier is a game-changer for any e-commerce business looking to streamline their workflow and improve customer experience"
 leadtext: "With the power of automation and real-time data, you can focus on growing your business and keeping your customers happy."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/namely
 author: Edward Saunders
 title: "SugarCRM 7+ and Namely Integration"
+topic: System Integration
 leadhead: "Integrating SugarCRM 7+ and Namely can unlock a range of benefits for your business, including increased efficiency, improved collaboration, and better customer and employee management"
 leadtext: "By leveraging the power of APIs or SDKs, businesses can integrate these systems seamlessly and enjoy a more streamlined and effective workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

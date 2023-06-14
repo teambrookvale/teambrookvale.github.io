@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/google-bigquery
 author: Edward Saunders
 title: "Amazon CloudFront and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Google BigQuery is a game-changer for businesses that want to deliver content to customers quickly and efficiently"
 leadtext: "By leveraging the power of BigQuery's real-time data analytics and Amazon CloudFront's global network, businesses can improve their website's performance and user experience, ultimately leading to increased customer satisfaction and revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

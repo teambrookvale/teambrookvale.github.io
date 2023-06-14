@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/greenhouse
 author: Edward Saunders
 title: "BigCommerce and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration between BigCommerce and Greenhouse is a great solution for businesses looking to optimize their e-commerce and recruitment process"
 leadtext: "With this integration, businesses can focus on growth and expansion while ensuring that their hiring needs are met without any hassle."
 image: /assets/images/articles/people-sitting-near-table.webp

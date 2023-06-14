@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/bamboohr
 author: Edward Saunders
 title: "Integrating MySQL and BambooHR through API or SDK"
+topic: System Integration
 leadhead: "Integrating MySQL and BambooHR through API or SDK is a worthwhile investment for businesses that need to manage their HR data effectively"
 leadtext: "Doing this will help businesses save time, avoid data silos, and get a complete view of their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

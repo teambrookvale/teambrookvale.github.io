@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/amazon-sns
 author: Edward Saunders
 title: "Integration of QuickBooks Online and Amazon SNS through API"
+topic: System Integration
 leadhead: "In conclusion, integrating QuickBooks Online with Amazon SNS through API or SDK can benefit businesses by saving time, increasing accuracy, enhancing tracking, and improving financial management"
 leadtext: "By automating the notification process of financial transactions, businesses can focus on other important activities, and have an efficient and optimized financial management system."
 image: /assets/images/articles/people-sitting-near-table.webp

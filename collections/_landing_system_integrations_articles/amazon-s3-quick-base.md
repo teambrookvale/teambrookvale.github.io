@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/quick-base
 author: Edward Saunders
 title: "Integration of Amazon S3 and Quick Base through API or SDK"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and Quick Base through API or SDK can strengthen the efficiency and productivity of businesses"
 leadtext: "The integration provides a centralized data storage solution while streamlining the process of managing files. By adopting these tools, businesses can focus on the more important aspects of their operations and leave the storage and management of their data to these powerful tools."
 image: /assets/images/articles/people-sitting-near-table.webp

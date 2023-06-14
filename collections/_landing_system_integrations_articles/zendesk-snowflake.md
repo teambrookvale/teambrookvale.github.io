@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/snowflake
 author: Edward Saunders
 title: "Zendesk and Snowflake Integration - Solving Problems In Customer Service"
+topic: System Integration
 leadhead: "The integration of Zendesk and Snowflake provides a powerful solution for businesses to manage their customer service operations and analyze data to improve customer experiences"
 leadtext: "By integrating the two platforms through APIs or SDKs, businesses can expect efficient processes, better insights, and cost-effectiveness."
 image: /assets/images/articles/people-sitting-near-table.webp

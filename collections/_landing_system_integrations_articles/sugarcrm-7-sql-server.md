@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/sql-server
 author: Edward Saunders
 title: "SugarCRM 7+ and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and SQL Server provides businesses with a powerful tool to streamline their operations and increase productivity"
 leadtext: "By leveraging the features of both systems, businesses are able to manage their data more effectively and analyze it in a more meaningful way. Whether it's through API or SDK, the integration of SugarCRM 7+ and SQL Server is a game-changer for businesses looking to stay ahead in an increasingly competitive marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

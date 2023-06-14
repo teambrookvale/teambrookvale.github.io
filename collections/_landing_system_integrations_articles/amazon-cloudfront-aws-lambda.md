@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/aws-lambda
 author: Edward Saunders
 title: "Integrating Amazon Cloudfront and AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and AWS Lambda is a powerful tool for businesses looking to reduce server workload, save money on server costs, and deliver content quickly and efficiently to users around the world"
 leadtext: "By taking advantage of these two services through their API or SDK, businesses can scale their operations to meet the needs of their users, handle increased traffic and events, and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

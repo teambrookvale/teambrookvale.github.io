@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/google-ads
 author: Edward Saunders
 title: "Integration of LinkedIn and Google Ads: A Game Changer for Advertisers"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Google Ads is a game changer for advertisers"
 leadtext: "It helps them save time, track leads and conversions, and create more effective, targeted ads. If you are an advertiser looking to reach a professional audience, this integration is something you should definitely consider."
 image: /assets/images/articles/people-sitting-near-table.webp

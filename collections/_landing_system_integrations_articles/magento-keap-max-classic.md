@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/keap-max-classic
 author: Edward Saunders
 title: "Magento and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "Integrating Magento and Keap Max Classic can help businesses streamline their sales process and improve their bottom line"
 leadtext: "With the seamless integration facilitated by their API or SDK, businesses can eliminate manual data entry and utilize a centralized view of their customer data to provide better customer service and increase sales."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/sugarcrm-7-
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and SugarCRM 7+"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and SugarCRM 7+ allows businesses to benefit from the scalability and reliability of Amazon’s cloud-based database service, while also enjoying the comprehensive customer management features of SugarCRM 7+"
 leadtext: "By automating the way customer data is stored and retrieved, businesses can save time, reduce errors, and improve customer service."
 image: /assets/images/articles/people-sitting-near-table.webp

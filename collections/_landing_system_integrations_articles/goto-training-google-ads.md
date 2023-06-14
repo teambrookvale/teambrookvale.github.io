@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/google-ads
 author: Edward Saunders
 title: "Integrating GoTo Training and Google Ads: The Benefits"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Google Ads through API or SDK is a game-changer for businesses running online training programs"
 leadtext: "By linking their advertising campaigns to their training programs, businesses can optimize their ad spend, drive more traffic to their website, and improve their ROI. By investing in this integration, businesses can take their online training programs to the next level and reach more of their target audience than ever before."
 image: /assets/images/articles/people-sitting-near-table.webp

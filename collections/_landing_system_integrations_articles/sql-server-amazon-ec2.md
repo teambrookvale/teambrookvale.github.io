@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/amazon-ec2
 author: Edward Saunders
 title: "The Power of Integrating SQL Server and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of SQL Server and Amazon EC2 is a powerful combination that can provide businesses with more control over their data and the ability to scale their infrastructure"
 leadtext: "By leveraging these two technologies through API or SDK, businesses can reduce costs, improve scalability, and take advantage of the benefits of cloud computing. As technology continues to evolve, this integration will become even more essential for businesses seeking to stay competitive in the digital age."
 image: /assets/images/articles/people-sitting-near-table.webp

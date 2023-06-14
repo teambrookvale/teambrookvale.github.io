@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/amazon-polly
 author: Edward Saunders
 title: "Maximizing Your Business with Keap Max Classic and Amazon Polly"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Amazon Polly is a powerful tool for small businesses looking to enhance their customer experience"
 leadtext: "By leveraging the advanced text-to-speech capabilities of Amazon Polly, businesses can deliver personalized messages to their customers in a way that's more engaging, efficient, and effective. Whether you're looking to streamline your marketing and sales processes or simply looking to improve your overall customer experience, the integration of Keap Max Classic and Amazon Polly is a solution worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

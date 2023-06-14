@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/google-groups
 author: Edward Saunders
 title: "SugarCRM and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM and Google Groups can provide businesses with numerous benefits, including efficient communication, organization, customer support, and marketing outreach"
 leadtext: "By using API or SDK, businesses can leverage the power of both platforms and streamline their workflow. Alternatively, third-party integration services can provide quick and easy solutions for businesses without in-house development expertise."
 image: /assets/images/articles/people-sitting-near-table.webp

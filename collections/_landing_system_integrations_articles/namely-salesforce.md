@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/salesforce
 author: Edward Saunders
 title: "Integration of Namely and Salesforce through API/SDK"
+topic: System Integration
 leadhead: "The integration of Namely and Salesforce through API or SDK can make a real difference in how businesses manage human resources and customers"
 leadtext: "By consolidating data and streamlining workflows, companies can save time, reduce errors, and improve decision-making. So, if you are a business that wants to automate and integrate its HR and customer relationship management processes, you need to integrate Namely and Salesforce."
 image: /assets/images/articles/people-sitting-near-table.webp

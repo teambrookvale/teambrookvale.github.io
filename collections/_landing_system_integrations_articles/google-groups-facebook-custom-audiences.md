@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/facebook-custom-audiences
 author: Edward Saunders
 title: "Integration of Google Groups and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Google Groups and Facebook Custom Audiences is a powerful marketing strategy that businesses can use to reach their target audience more effectively and efficiently"
 leadtext: "By leveraging their Google Groups data and creating custom audiences on Facebook, businesses can see significant improvements in their marketing efforts and ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

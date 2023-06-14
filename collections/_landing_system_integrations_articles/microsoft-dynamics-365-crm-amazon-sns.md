@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-sns
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM and Amazon SNS"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Amazon SNS is a powerful solution that helps businesses enhance customer engagement, automate sales and marketing, and improve customer service"
 leadtext: "By leveraging the capabilities of these two tools, businesses can gain a competitive edge, drive business growth, and achieve their goals more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

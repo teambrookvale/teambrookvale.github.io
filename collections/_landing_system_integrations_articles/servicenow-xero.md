@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/xero
 author: Edward Saunders
 title: "ServiceNow and Xero Integration"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Xero can provide a powerful solution for managing business operations"
 leadtext: "The integration allows for real-time communication, automation of tasks, and greater visibility into financial performance. With API or SDK integration, organizations can streamline their workflow and save time while reducing the risk of errors. By combining the strengths of these two tools, organizations can achieve greater efficiency and success."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-ec2
 author: Edward Saunders
 title: "Magento 2.X and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X with Amazon EC2 is a great solution for businesses looking to scale their online stores"
 leadtext: "It provides a reliable and cost-effective infrastructure that can handle the demands of any online business. By utilizing the API or SDK provided by Amazon, businesses can seamlessly integrate their online stores with Amazon EC2 and leverage the benefits of cloud computing."
 image: /assets/images/articles/people-sitting-near-table.webp

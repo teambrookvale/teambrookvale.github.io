@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/ai-by-zapier
 author: Edward Saunders
 title: "Magento and AI by Zapier Integration | Benefits and Advantages"
+topic: System Integration
 leadhead: "Integrating Magento and AI by Zapier through API or SDK provides numerous benefits to businesses"
 leadtext: "It enhances ecommerce efficiency, improves the customer experience, and provides valuable insights into customer behavior and sales patterns. Businesses can streamline their operations and focus on growth strategies by automating repetitive tasks and optimizing workflows. Thus, the integration of Magento and AI by Zapier is an excellent option for businesses looking to enhance their ecommerce capabilities."
 image: /assets/images/articles/people-sitting-near-table.webp

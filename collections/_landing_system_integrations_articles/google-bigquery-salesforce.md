@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/salesforce
 author: Edward Saunders
 title: "Integrating Google BigQuery with Salesforce for Better Business Insights"
+topic: System Integration
 leadhead: "Integrating Google BigQuery with Salesforce can be a game-changer for businesses of all sizes"
 leadtext: "By combining data from both platforms, businesses can gain deeper insights, operate more efficiently, and ultimately drive better results. Whether you’re a small business or a large enterprise, leveraging the power of Google BigQuery and Salesforce can help you take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

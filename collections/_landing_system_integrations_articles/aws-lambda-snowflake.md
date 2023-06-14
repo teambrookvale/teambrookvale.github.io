@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/snowflake
 author: Edward Saunders
 title: "Integrating AWS Lambda and Snowflake through API or SDK"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Snowflake through API or SDK provides developers with a powerful platform for building scalable and cost-effective data processing solutions"
 leadtext: "By leveraging these two services, developers can build intelligent applications that provide real-time insights and drive business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

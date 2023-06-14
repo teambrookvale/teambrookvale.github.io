@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/servicenow
 author: Edward Saunders
 title: "Marketo and ServiceNow Integration via API/SDK"
+topic: System Integration
 leadhead: "The integration of Marketo and ServiceNow is a no-brainer for companies looking to improve collaboration, gain more visibility into the customer journey, and automate manual processes"
 leadtext: "Whether you're a marketer or an IT professional, this integration can help you work more efficiently and effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/google-bigquery
 author: Edward Saunders
 title: "Zoho CRM and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Google BigQuery is a powerful solution for businesses looking to streamline their data management and analysis processes"
 leadtext: "By automating data transfer through an API or SDK, businesses can save time and effort while improving data accuracy. Additionally, by leveraging Google BigQuery's advanced analytics tools, businesses can gain valuable insights into their customer interactions and optimize their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

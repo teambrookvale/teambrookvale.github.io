@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/postgresql
 author: Edward Saunders
 title: "Solving CRM with PostgreSQL Integration"
+topic: System Integration
 leadhead: "Integrating CRM and PostgreSQL is a powerful way for businesses to improve the accuracy, consistency, and overall effectiveness of their customer relationship management efforts"
 leadtext: "By using PostgreSQL as a trusted and reliable database management system, businesses can ensure that their CRM data is always up-to-date and available to all users across the organization. And with a range of integration options available, integrating CRM and PostgreSQL has never been easier or more accessible to businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

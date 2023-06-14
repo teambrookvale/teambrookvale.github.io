@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/keap-max-classic
 author: Edward Saunders
 title: "Integrating PostgreSQL with Keap Max Classic"
+topic: System Integration
 leadhead: "Integrating PostgreSQL with Keap Max Classic through API or SDK can provide businesses with many benefits, including improved data accuracy, increased efficiency, and more powerful analytics capabilities"
 leadtext: "By establishing a connection between the two systems, businesses can automate workflows and processes, streamline data entry, and gain valuable insights into their operations and customers."
 image: /assets/images/articles/people-sitting-near-table.webp

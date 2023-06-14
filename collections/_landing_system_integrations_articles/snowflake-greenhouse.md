@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/greenhouse
 author: Edward Saunders
 title: "Snowflake and Greenhouse Integration: Solving Hiring Challenges"
+topic: System Integration
 leadhead: "The integration of Snowflake and Greenhouse is a powerful tool that can help businesses streamline their hiring process and make data-driven recruiting decisions"
 leadtext: "By automating certain aspects of the process, minimizing errors, and improving data accuracy, businesses can improve the candidate experience and hire top talent more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/goto-webinar
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB with GoTo Webinar"
+topic: System Integration
 leadhead: "Integrating Amazon DynamoDB with GoTo Webinar allows businesses to improve their marketing strategies, increase audience engagement and save time and resources"
 leadtext: "The renewed emphasis on data-driven decision-making requires such integration to handle the ever-increasing volume of data. Utilizing these two services through API or SDK integration is the right step for a business that wants to harness the power of data for success."
 image: /assets/images/articles/people-sitting-near-table.webp

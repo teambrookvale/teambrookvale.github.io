@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-sns
 author: Edward Saunders
 title: "Calldrip and Amazon SNS Integration - A Powerful Combination"
+topic: System Integration
 leadhead: "Calldrip and Amazon SNS are two powerful communication tools that, when integrated, can revolutionize the way businesses interact with their customers"
 leadtext: "With instant and personalized attention, businesses can convert more leads into paying customers and keep their current customers satisfied. By leveraging the power of APIs and SDKs, businesses can unlock the full potential of these solutions and streamline their customer service operations for better performance and higher satisfaction rates."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/greenhouse
 author: Edward Saunders
 title: "Upwork and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and Greenhouse can bring numerous benefits to businesses"
 leadtext: "By simplifying the recruitment process, businesses can eliminate common problems and increase efficiency, ultimately leading to a better end result."
 image: /assets/images/articles/people-sitting-near-table.webp

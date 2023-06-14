@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/instagram-custom-audiences
 author: Edward Saunders
 title: "Namely and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Namely and Instagram Custom Audiences can help you improve the effectiveness of your Instagram ads by delivering them to the right audience at the right time"
 leadtext: "By leveraging your employee data, you can create more accurate and relevant target audiences, reduce ad waste, and personalize your ads. Whether you choose to integrate through API or SDK, the benefits of this integration are clear - better Instagram ad targeting and improved ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

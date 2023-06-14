@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/calldrip
 author: Edward Saunders
 title: "Greenhouse and Calldrip Integration"
+topic: System Integration
 leadhead: "Greenhouse and Calldrip are already powerful tools on their own, but when integrated, they can create a seamless, efficient experience for recruiters and sales teams"
 leadtext: "The integration helps eliminate manual data entry, speeds up follow-ups, and improves the candidate experience. If you're a recruiter or sales team looking to optimize your hiring or sales process, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

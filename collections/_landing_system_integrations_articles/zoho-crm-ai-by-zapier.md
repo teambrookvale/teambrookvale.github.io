@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/ai-by-zapier
 author: Edward Saunders
 title: "Zoho CRM and AI by Zapier Integration"
+topic: System Integration
 leadhead: "In today's fast-paced business environment, integrating different software applications has become a necessity"
 leadtext: "Zoho CRM and AI by Zapier integration provides businesses with an opportunity to streamline their processes, automate their workflows, and improve their overall customer experience. With the help of APIs and SDKs, businesses can create custom integrations that suit their specific needs, and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

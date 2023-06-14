@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/moodle
 author: Edward Saunders
 title: "Integrating GoTo Training and Moodle: A Solution to E-Learning Challenges"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Moodle is a solution to the challenges faced by e-learning platforms"
 leadtext: "By leveraging the strengths of both platforms, learners and teachers can have a better e-learning experience that is efficient, effective, and engaging. As e-learning becomes more prevalent, the integration of platforms such as GoTo Training and Moodle will become increasingly necessary to meet the changing needs of learners and educators."
 image: /assets/images/articles/people-sitting-near-table.webp

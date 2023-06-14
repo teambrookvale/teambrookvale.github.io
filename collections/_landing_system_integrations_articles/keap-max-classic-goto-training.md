@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/goto-training
 author: Edward Saunders
 title: "Keap Max Classic and GoTo Training Integration - The Ultimate Solution for Your Business"
+topic: System Integration
 leadhead: "Overall, the integration of Keap Max Classic and GoTo Training through API or SDK is a powerful solution that businesses can use to improve their operations, increase their efficiency and drive more sales"
 leadtext: "With their combined capabilities, businesses can streamline their training programs, improve their marketing campaigns and provide a better experience for their customers and employees."
 image: /assets/images/articles/people-sitting-near-table.webp

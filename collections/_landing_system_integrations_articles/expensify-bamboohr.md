@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/bamboohr
 author: Edward Saunders
 title: "Expensify and BambooHR Integration for Streamlining Business Processes"
+topic: System Integration
 leadhead: "The integration of Expensify and BambooHR through API or SDK enables businesses to streamline their HR and finance processes, saving time, reducing errors, and improving data accuracy"
 leadtext: "It provides a seamless flow of data between the two systems, eliminating the need for manual data entry and ensuring an up-to-date record of employee expenses. By using both tools together, businesses can make informed financial decisions and focus on other important tasks instead of spending hours updating records in different systems."
 image: /assets/images/articles/people-sitting-near-table.webp

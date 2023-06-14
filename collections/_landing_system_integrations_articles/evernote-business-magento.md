@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/magento
 author: Edward Saunders
 title: "Integration of Evernote Business and Magento"
+topic: System Integration
 leadhead: "Integrating Evernote Business and Magento is an excellent way to boost productivity and streamline business workflows"
 leadtext: "By using APIs or SDKs, developers can easily connect these two platforms and provide a seamless experience for users. This integration helps businesses to manage their daily operations more efficiently and improve customer experience. Therefore, businesses should consider integrating Evernote Business and Magento to take their eCommerce operations to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

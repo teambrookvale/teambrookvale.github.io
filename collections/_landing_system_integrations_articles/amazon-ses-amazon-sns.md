@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/amazon-sns
 author: Edward Saunders
 title: "Integrating Amazon SES and Amazon SNS for Better Email Delivery"
+topic: System Integration
 leadhead: "Integrating Amazon SES and SNS is a powerful way to improve your email delivery system"
 leadtext: "By combining these two services, businesses can improve delivery rates, reduce the risk of messages being marked as spam, and gain valuable insights into user behavior. Whether you're sending transactional emails or marketing campaigns, SES and SNS provide a scalable and cost-effective solution for reliably sending messages to your customers."
 image: /assets/images/articles/people-sitting-near-table.webp

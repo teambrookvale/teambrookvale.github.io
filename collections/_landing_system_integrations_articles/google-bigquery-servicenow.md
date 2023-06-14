@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/servicenow
 author: Edward Saunders
 title: "Integration of Google BigQuery and ServiceNow"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and ServiceNow is a game-changer for businesses"
 leadtext: "It streamlines operations, provides insights, and solves many problems that come with managing huge data sets. Businesses that integrate the two tools can make quick decisions and stay ahead of the competition, increasing their chances of success."
 image: /assets/images/articles/people-sitting-near-table.webp

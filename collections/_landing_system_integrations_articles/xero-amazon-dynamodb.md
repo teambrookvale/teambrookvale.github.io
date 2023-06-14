@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Xero and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of Xero and Amazon DynamoDB can provide businesses with a competitive edge"
 leadtext: "It can help businesses to manage their finances effectively and improve decision-making based on real-time data."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/bigcommerce
 author: Edward Saunders
 title: "Evernote Business and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Evernote Business and BigCommerce provides businesses with a powerful toolset for managing their operations"
 leadtext: "By combining the note-taking, project management, and collaboration features of Evernote Business with the e-commerce functionality of BigCommerce, businesses can improve their workflow and increase their productivity. This integration is an excellent choice for businesses looking to streamline their operations and grow their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

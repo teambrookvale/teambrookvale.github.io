@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/quick-base
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and Quick Base"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Quick Base provides businesses with a powerful solution that streamlines processes, improves collaboration, automates tasks, and provides better insights into their operations"
 leadtext: "Whether you use APIs or SDKs to integrate the two solutions, you can be sure that your business will benefit from the integration."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-sqs
 author: Edward Saunders
 title: "Integrating Namely with Amazon SQS using API/SDK"
+topic: System Integration
 leadhead: "Integrating Namely with Amazon SQS through API or SDK provides significant benefits for scaling your HR system"
 leadtext: "It improves efficiency, provides reliable and redundant data storage, and enhances your ability to scale. One can only imagine what the future holds for these growing cloud services and how further integrations can reshape HR practices further. Stay ahead of the curve by integrating these incredible services with your systems today."
 image: /assets/images/articles/people-sitting-near-table.webp

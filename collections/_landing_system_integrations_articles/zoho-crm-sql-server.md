@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/sql-server
 author: Edward Saunders
 title: "Zoho CRM and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and SQL Server can bring many benefits to businesses of all sizes"
 leadtext: "By centralizing data and improving decision-making, the integration can contribute to the overall growth and success of a business. Companies should consider integrating the two to increase productivity, streamline processes, and ultimately improve customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

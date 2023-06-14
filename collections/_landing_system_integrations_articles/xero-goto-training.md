@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/goto-training
 author: Edward Saunders
 title: "Xero and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Xero and GoTo Training using API or SDK is a powerful solution for businesses looking to streamline their financial and training operations"
 leadtext: "By ensuring a seamless flow of information between the two platforms, businesses can save time, reduce errors, and improve compliance."
 image: /assets/images/articles/people-sitting-near-table.webp

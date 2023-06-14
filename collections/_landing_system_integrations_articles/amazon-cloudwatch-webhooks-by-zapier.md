@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/webhooks-by-zapier
 author: Edward Saunders
 title: "Amazon CloudWatch and Webhooks by Zapier: Integration and Benefits"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Webhooks by Zapier brings automation and observability together in a powerful way"
 leadtext: "With this integration, you can create custom workflows that help you manage your applications and resources more efficiently. This, in turn, can help you reduce downtime, improve application performance, and ultimately drive business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

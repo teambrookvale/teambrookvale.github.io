@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/amazon-ec2
 author: Edward Saunders
 title: "Zendesk and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and Amazon EC2 brings together the best of both worlds and offers significant benefits for businesses"
 leadtext: "By automating ticket creation, reducing downtime, and enabling better collaboration, customer support teams can work more efficiently, satisfying customers with minimal disruptions. The integration is, therefore, an excellent investment to improve the overall customer experience and keep operations flowing smoothly."
 image: /assets/images/articles/people-sitting-near-table.webp

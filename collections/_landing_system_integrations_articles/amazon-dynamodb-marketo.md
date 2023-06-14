@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/marketo
 author: Edward Saunders
 title: "Amazon DynamoDB and Marketo Integration"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Marketo is an excellent solution for businesses that want to gain deeper insights into their customers and improve their marketing campaigns"
 leadtext: "With real-time data and centralised customer data, businesses can make informed decisions quickly, leading to better customer experiences and increased ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

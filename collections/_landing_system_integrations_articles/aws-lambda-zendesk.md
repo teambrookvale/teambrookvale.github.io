@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/zendesk
 author: Edward Saunders
 title: "Integrating AWS Lambda and Zendesk: A Powerful Combination for Business Success"
+topic: System Integration
 leadhead: "Overall, the integration of AWS Lambda and Zendesk can provide businesses with numerous benefits and help them achieve greater success"
 leadtext: "Whether it's reducing manual tasks, improving customer support, or increasing agility, this powerful combination is a valuable solution for businesses of all sizes and industries."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/linkedin-ads
 author: Edward Saunders
 title: "Salesforce &amp; LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Salesforce and LinkedIn Ads is a powerful tool for businesses looking to improve their advertising effectiveness and streamline their lead generation process"
 leadtext: "By combining the data from both platforms, businesses can better understand their target audience and create more effective advertising campaigns. The automation of tasks like lead generation and data transfer also saves time and increases efficiency, allowing businesses to focus on more important tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

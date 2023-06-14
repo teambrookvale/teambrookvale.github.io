@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/facebook-custom-audiences
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Facebook Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and Facebook Custom Audiences is a powerful tool that enables businesses to target their ads more effectively and automate their marketing processes"
 leadtext: "By leveraging the power of both platforms, businesses can improve their ROI, reduce their marketing costs, and gain valuable insights into their customer behavior. It is a must-have tool for any business looking to take their marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/ai-by-zapier
 author: Edward Saunders
 title: "Twitter and AI by Zapier Integration: A Game Changer for Social Media Marketers"
+topic: System Integration
 leadhead: "The integration of Twitter and AI by Zapier is a game changer for social media marketers"
 leadtext: "It allows you to automate your Twitter account, save time, and engage with your followers more effectively. The possibilities are endless, and it's up to you to explore how this integration can benefit your business."
 image: /assets/images/articles/people-sitting-near-table.webp

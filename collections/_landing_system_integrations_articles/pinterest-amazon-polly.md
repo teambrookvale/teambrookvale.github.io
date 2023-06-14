@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/amazon-polly
 author: Edward Saunders
 title: "Integration of Pinterest and Amazon Polly through API or SDK"
+topic: System Integration
 leadhead: "The integration of Pinterest and Amazon Polly through API or SDK can offer numerous benefits for both users and developers"
 leadtext: "It can improve accessibility, convenience, and engagement, while also showcasing the power of innovative and inclusive technology solutions. It is a step towards a more inclusive and user-friendly digital world, where everyone can access and enjoy the content and ideas shared on social networks."
 image: /assets/images/articles/people-sitting-near-table.webp

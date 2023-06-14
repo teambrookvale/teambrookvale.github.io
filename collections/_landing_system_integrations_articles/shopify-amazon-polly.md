@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-polly
 author: Edward Saunders
 title: "Shopify and Amazon Polly Integration: Solving E-commerce Problems"
+topic: System Integration
 leadhead: "The integration of Shopify and Amazon Polly is a practical and effective way to improve e-commerce customer experience"
 leadtext: "By using advanced text-to-speech technology, stores can enhance accessibility, engagement, and efficiency. Additionally, it can give businesses a competitive edge in the crowded e-commerce landscape. As voice assistants and audio content continue to grow in popularity, stores that integrate speech synthesis capabilities will be better equipped to adapt and succeed."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/quickbooks-online
 author: Edward Saunders
 title: "Integration Of Instagram Custom Audiences And QuickBooks Online"
+topic: System Integration
 leadhead: "In conclusion, the integration of Instagram Custom Audiences and QuickBooks Online is a powerful tool that can help businesses to better target their Instagram ads and improve their ROI"
 leadtext: "This integration can be accomplished through API or SDK, and it enables the transfer of data between the two platforms. By linking QuickBooks customer data with Instagram ad data, businesses can create more targeted and effective ads and measure the effectiveness of their campaigns with greater accuracy."
 image: /assets/images/articles/people-sitting-near-table.webp

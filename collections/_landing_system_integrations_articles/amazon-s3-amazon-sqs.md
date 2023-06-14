@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-sqs
 author: Edward Saunders
 title: "Amazon S3 and Amazon SQS Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Amazon SQS is a powerful combination that offers a secure, reliable, and scalable solution to storing and retrieving data and delivering messages"
 leadtext: "It can be used for a wide variety of applications like content delivery, backup and archiving, and distributed processing. The integration through APIs or SDKs makes it easy to use and implement. Overall, the integration of Amazon S3 and SQS is a great option for cloud-based storage and messaging needs."
 image: /assets/images/articles/people-sitting-near-table.webp

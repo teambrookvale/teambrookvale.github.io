@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-seller-central
 author: Edward Saunders
 title: "Shopify and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Amazon Seller Central through API or SDK is an important development in e-commerce"
 leadtext: "It helps streamline the process of managing sales on multiple platforms, providing businesses with a simplified operation while reducing the risk of errors and inconsistency. For businesses looking to increase sales and maximize their profitability, integrating Shopify and Amazon Seller Central is a smart move."
 image: /assets/images/articles/people-sitting-near-table.webp

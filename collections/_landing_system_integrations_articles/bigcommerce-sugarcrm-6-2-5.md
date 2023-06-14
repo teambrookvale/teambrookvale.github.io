@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating BigCommerce and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Integrating BigCommerce and SugarCRM 6.2-5 can provide businesses with a unified view of their e-commerce and customer data, enabling them to improve their efficiency, streamline their operations and offer personalized experiences to their customers"
 leadtext: "API and SDK integration make this process possible, and businesses should consider integrating the two systems to take their capabilities to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

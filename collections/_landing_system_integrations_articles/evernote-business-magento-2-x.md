@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/magento-2-x
 author: Edward Saunders
 title: "Integrating Evernote Business with Magento 2.X: A Game-Changer"
+topic: System Integration
 leadhead: "The integration of Evernote Business with Magento 2.X is a game-changer for businesses looking to improve their productivity and streamline their workflow"
 leadtext: "By enabling seamless data transfer between the two platforms, businesses can access important information in one place, reducing the risk of errors and improving their decision-making capabilities. With the ability to customize the integration to meet their specific needs, businesses can stay ahead of the competition and achieve their goals efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

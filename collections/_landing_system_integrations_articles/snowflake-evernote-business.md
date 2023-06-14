@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/evernote-business
 author: Edward Saunders
 title: "Snowflake and Evernote Business Integration"
+topic: System Integration
 leadhead: "Snowflake and Evernote Business integration can provide businesses with a powerful toolset that allows them to store, manage, analyze, and share data in an efficient and streamlined way"
 leadtext: "The integration of these two platforms is possible through API or SDK, making it possible to leverage the benefits of both. By integrating Snowflake and Evernote Business, businesses can improve their processes and workflows, resulting in increased productivity and a higher level of organization."
 image: /assets/images/articles/people-sitting-near-table.webp

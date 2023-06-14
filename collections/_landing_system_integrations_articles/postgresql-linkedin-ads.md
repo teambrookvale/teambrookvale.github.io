@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/linkedin-ads
 author: Edward Saunders
 title: "PostgreSQL and LinkedIn Ads Integration: Benefits and How To"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and LinkedIn Ads offers businesses and marketers a powerful solution for data-driven advertising that can improve targeting, personalization, and ROI"
 leadtext: "By leveraging the LinkedIn Ads API or SDK and connecting it to a PostgreSQL database, marketers can create effective ad campaigns that reach the right audience and drive business results."
 image: /assets/images/articles/people-sitting-near-table.webp

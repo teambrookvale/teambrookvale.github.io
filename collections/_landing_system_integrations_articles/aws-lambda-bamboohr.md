@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/bamboohr
 author: Edward Saunders
 title: "Integrating AWS Lambda and BambooHR"
+topic: System Integration
 leadhead: "Integrating AWS Lambda and BambooHR can streamline HR processes and make them more efficient"
 leadtext: "By automating repetitive tasks, HR teams can be more productive and focus on more strategic efforts. Using APIs or SDKs, businesses can easily integrate these two services and reap the benefits of serverless computing."
 image: /assets/images/articles/people-sitting-near-table.webp

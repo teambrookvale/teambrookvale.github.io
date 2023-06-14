@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Webhooks by Zapier and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "Overall, integrating Webhooks by Zapier and Microsoft Dynamics 365 CRM through API or SDK can bring significant benefits to businesses"
 leadtext: "It enables automation, improves customer engagement, and provides greater visibility into operations. By streamlining business processes and automating tasks, businesses can save time and resources, while also enhancing the customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

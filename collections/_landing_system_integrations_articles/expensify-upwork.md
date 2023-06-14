@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/upwork
 author: Edward Saunders
 title: "Expensify and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Upwork through an API or SDK is a game-changer for businesses"
 leadtext: "It allows them to automate their expense management process and gain real-time visibility into project expenses. By eliminating manual expense tracking, businesses can save time and reduce errors, ultimately improving their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

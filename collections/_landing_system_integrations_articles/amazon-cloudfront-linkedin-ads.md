@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/linkedin-ads
 author: Edward Saunders
 title: "Amazon CloudFront and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and LinkedIn Ads is a useful tool for businesses that want to improve their online advertising and marketing strategies"
 leadtext: "By using the two platforms together, businesses can increase their speed and reliability, get better targeting options, and save on marketing costs."
 image: /assets/images/articles/people-sitting-near-table.webp

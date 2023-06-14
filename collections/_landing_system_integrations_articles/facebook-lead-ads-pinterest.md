@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/pinterest
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads and Pinterest through API"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads and Pinterest through API or SDK is a valuable tool for businesses"
 leadtext: "The integration can help businesses reach a larger audience, increase conversion rates, save time, and improve tracking. With the growing importance of social media for businesses today, integrating platforms can help keep a competitive edge and generate more leads and conversions."
 image: /assets/images/articles/people-sitting-near-table.webp

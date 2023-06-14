@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/google-groups
 author: Edward Saunders
 title: "Evernote Business and Google Groups Integration"
+topic: System Integration
 leadhead: "There are many collaboration tools available today, but Evernote Business and Google Groups stand out for their unique features and functionalities"
 leadtext: "By integrating the two, teams can unlock even more benefits such as better organization, more efficient communication, and more seamless information management."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/upwork
 author: Edward Saunders
 title: "LinkedIn Ads and Upwork Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating LinkedIn Ads and Upwork is a great way for businesses to improve their marketing efforts"
 leadtext: "Whether it's to streamline their campaigns, access new talent, or remain on top of their marketing, there are numerous benefits to integrating these two powerful tools. By investing in the integration of LinkedIn Ads and Upwork, businesses can take their marketing efforts to the next level and achieve optimal results."
 image: /assets/images/articles/people-sitting-near-table.webp

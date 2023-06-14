@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/instagram-lead-ads
 author: Edward Saunders
 title: "Integrating Twitter and Instagram Lead Ads: A Solution to Streamline Social Media Marketing"
+topic: System Integration
 leadhead: "Integrating Twitter and Instagram Lead Ads through API or SDK can streamline social media marketing for businesses"
 leadtext: "By targeting the same audience on both platforms, marketers can maximize their ad budgets and achieve better results. Tracking performance across both platforms can give a complete picture of ad performance, enabling marketers to optimize their campaigns for maximum effectiveness. For businesses looking to streamline their social media marketing, integrating Twitter and Instagram Lead Ads is a solution worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

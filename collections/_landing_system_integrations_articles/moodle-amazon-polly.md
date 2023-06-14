@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-polly
 author: Edward Saunders
 title: "Moodle and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Amazon Polly provides a powerful tool for creating engaging and accessible online courses"
 leadtext: "By using the Amazon Polly API, course creators can generate high-quality speech that enhances the learning experience for students. This integration solves some of the challenges faced in online learning and opens up new possibilities for educators and students alike."
 image: /assets/images/articles/people-sitting-near-table.webp

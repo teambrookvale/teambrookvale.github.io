@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating WHMCS with Webhooks by Zapier: A Solution to your Problems"
+topic: System Integration
 leadhead: "In conclusion, it is evident that integrating WHMCS with Webhooks by Zapier significantly benefits online business owners"
 leadtext: "From automation, error reduction, time-saving, to customer satisfaction, the advantages are enormous. Therefore, it is crucial to take the initiative and explore the possibilities."
 image: /assets/images/articles/people-sitting-near-table.webp

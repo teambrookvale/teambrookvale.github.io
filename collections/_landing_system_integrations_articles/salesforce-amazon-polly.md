@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/amazon-polly
 author: Edward Saunders
 title: "Salesforce and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Salesforce and Amazon Polly can help businesses improve their customer communication and accessibility while reducing wait times"
 leadtext: "It also provides opportunities for businesses to personalize their communication with custom voices. By using the Amazon Polly API or SDK, businesses can automate their customer communication and provide a better experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

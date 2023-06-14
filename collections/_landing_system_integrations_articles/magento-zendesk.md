@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/zendesk
 author: Edward Saunders
 title: "Magento and Zendesk Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Zendesk is a game-changer for e-commerce businesses"
 leadtext: "It streamlines processes, improves customer support, and ultimately improves customer satisfaction. Businesses can integrate Magento and Zendesk using Zendesk's API or Magento's SDK to enable both platforms to work together seamlessly."
 image: /assets/images/articles/people-sitting-near-table.webp

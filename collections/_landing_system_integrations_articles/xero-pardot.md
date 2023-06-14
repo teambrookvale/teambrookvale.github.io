@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/pardot
 author: Edward Saunders
 title: "Xero and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Pardot is an excellent way for businesses to streamline their operations and improve their visibility into their customer data"
 leadtext: "Whether you decide to integrate the two systems through their APIs or SDKs, you'll be able to take advantage of the numerous benefits that come with integrating these two powerful platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

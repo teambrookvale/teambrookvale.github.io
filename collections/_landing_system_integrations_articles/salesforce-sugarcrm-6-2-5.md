@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Salesforce &amp; SugarCRM Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Salesforce and SugarCRM 6.2-5 provides businesses with a robust CRM solution that can help them deliver a better customer experience, increase productivity and reduce costs"
 leadtext: "It eliminates data silos and automates processes, allowing you to focus on what matters- expanding your business."
 image: /assets/images/articles/people-sitting-near-table.webp

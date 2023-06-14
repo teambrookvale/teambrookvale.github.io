@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/amazon-ec2
 author: Edward Saunders
 title: "Integration of PayPal and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of PayPal and Amazon EC2 has opened up new possibilities for businesses, particularly in the e-commerce industry"
 leadtext: "By taking advantage of the scalability and reliability of Amazon EC2, and the payment processing capabilities of PayPal, businesses can streamline their operations and provide a better user experience to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

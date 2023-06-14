@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/amazon-sqs
 author: Edward Saunders
 title: "Integrating Google Groups and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Google Groups and Amazon SQS can have many benefits for organizations"
 leadtext: "By using the API or SDK provided by both platforms, organizations can create powerful workflows that enable better communication, collaboration, and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

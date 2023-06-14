@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/amazon-s3
 author: Edward Saunders
 title: "Amazon EC2 and S3 Integration"
+topic: System Integration
 leadhead: "EC2 and S3 are powerful cloud computing solutions offered by AWS"
 leadtext: "Integrating these two services can solve several challenges faced by users, including storage requirements, data backups, and content delivery. By leveraging APIs or SDKs provided by AWS, users can build applications that scale and perform without worrying about storage and data management issues."
 image: /assets/images/articles/people-sitting-near-table.webp

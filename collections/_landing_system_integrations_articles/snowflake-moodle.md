@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/moodle
 author: Edward Saunders
 title: "Snowflake and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Moodle through API or SDK offers many benefits to businesses and educational institutions, including the ability to store and analyze large amounts of data, perform complex analytics, and automate data transfer"
 leadtext: "It is clear that this integration is an effective solution for organizations seeking to improve the performance of their training and educational programs."
 image: /assets/images/articles/people-sitting-near-table.webp

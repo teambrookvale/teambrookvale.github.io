@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/ai-by-zapier
 author: Edward Saunders
 title: "Integration of Google Ads and AI by Zapier"
+topic: System Integration
 leadhead: "The combination of Google Ads and AI by Zapier is a powerful tool for businesses looking to improve their marketing strategies"
 leadtext: "By leveraging the capabilities of both tools, businesses can streamline their workflows, reduce manual work, and improve the overall efficiency of their marketing campaigns. This integration allows businesses to better target the right audience and increase their ROI, while also enhancing the customer experience through personalized ads. If your business is looking to stay ahead of the competition, consider integrating Google Ads with AI by Zapier."
 image: /assets/images/articles/people-sitting-near-table.webp

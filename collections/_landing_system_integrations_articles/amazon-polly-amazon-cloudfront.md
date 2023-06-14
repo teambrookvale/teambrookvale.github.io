@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of Amazon Polly and Amazon CloudFront"
+topic: System Integration
 leadhead: "The combination of Amazon Polly and Amazon CloudFront provides a reliable and scalable solution for delivering audio content over the internet"
 leadtext: "With their integration through the AWS SDKs or APIs, developers can create customized applications or websites that enhance user engagement and accessibility. The integration also simplifies the development process and provides better scalability and reliability for organizations. As such, it is an ideal solution for businesses looking to deliver audio content globally."
 image: /assets/images/articles/people-sitting-near-table.webp

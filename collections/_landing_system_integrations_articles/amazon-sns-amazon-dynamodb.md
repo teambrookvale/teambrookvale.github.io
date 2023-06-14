@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Amazon SNS and Amazon DynamoDB"
+topic: System Integration
 leadhead: "Amazon SNS and Amazon DynamoDB are two powerful AWS services that, when integrated, can provide businesses with real-time notifications and scalable solutions for their database needs"
 leadtext: "With the use of APIs and SDKs, setting up this integration is easy and can solve a number of problems that businesses face in today's data-driven landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

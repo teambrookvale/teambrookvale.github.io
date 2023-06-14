@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/bigcommerce
 author: Edward Saunders
 title: "Quick Base and BigCommerce Integration through API or SDK"
+topic: System Integration
 leadhead: "The integration of Quick Base and BigCommerce through API or SDK is a powerful solution for businesses looking to automate their workflow and streamline their operations"
 leadtext: "By combining the customizable capabilities of Quick Base with the e-commerce features of BigCommerce, businesses can create a seamless workflow that saves time and reduces errors."
 image: /assets/images/articles/people-sitting-near-table.webp

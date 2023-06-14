@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Amazon CloudFront"
+topic: System Integration
 leadhead: "Integrating Amazon DynamoDB and Amazon CloudFront provides a powerful solution for businesses that need to store and deliver data globally"
 leadtext: "The integration can be achieved through APIs or SDKs, which offer a versatile, scalable, and secure way to interact with AWS services. The benefits of integration include reduced latency, improved performance, cost savings, simplified architecture, increased security and compliance, and improved user experience. As businesses continue to adopt cloud-based solutions, the integration of AWS services will become increasingly important for staying competitive."
 image: /assets/images/articles/people-sitting-near-table.webp

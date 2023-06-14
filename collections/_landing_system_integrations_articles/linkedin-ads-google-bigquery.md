@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/google-bigquery
 author: Edward Saunders
 title: "LinkedIn Ads and Google BigQuery Integration"
+topic: System Integration
 leadhead: "Combining the power of LinkedIn Ads with the data analysis capabilities of Google BigQuery can help businesses make better-informed decisions about their marketing"
 leadtext: "Integration of the two tools through an API or SDK provides deep insights and a better understanding of return on investment for LinkedIn Ads. Therefore, businesses should consider using this integration for informed actions and enhanced performance in their marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

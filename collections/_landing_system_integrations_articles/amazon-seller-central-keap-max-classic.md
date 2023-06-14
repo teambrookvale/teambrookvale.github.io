@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/keap-max-classic
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and Keap Max Classic"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central with Keap Max Classic can bring many benefits for online sellers"
 leadtext: "From managing customer relationships to automating marketing, using these two platforms together can help businesses grow and improve their overall efficiency. If you're interested in integrating these platforms, consider using the API or SDK available and start taking advantage of the benefits today."
 image: /assets/images/articles/people-sitting-near-table.webp

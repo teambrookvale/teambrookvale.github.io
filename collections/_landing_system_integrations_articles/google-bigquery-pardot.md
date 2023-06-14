@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/pardot
 author: Edward Saunders
 title: "Google BigQuery and Pardot Integration: A Solution to Your Data Problems"
+topic: System Integration
 leadhead: "In conclusion, integrating Google BigQuery and Pardot provides businesses with a robust data analytics and marketing automation solution"
 leadtext: "It offers real-time insights, data unification, and enhanced customer engagement, all of which can help businesses make better decisions and achieve their goals. Therefore, if you’re looking for a scalable, high-performance analytics platform, and marketing automation software to help you drive leads and sales, consider integrating Google BigQuery and Pardot."
 image: /assets/images/articles/people-sitting-near-table.webp

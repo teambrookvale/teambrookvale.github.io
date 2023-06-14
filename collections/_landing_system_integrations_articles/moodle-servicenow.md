@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/servicenow
 author: Edward Saunders
 title: "Integration Benefits of Moodle and ServiceNow"
+topic: System Integration
 leadhead: "Moodle and ServiceNow integration provides a lot of benefits for the education sector"
 leadtext: "The integration streamlines IT service management processes, making it easier for students and staff to access IT services. The process is simple and can be done through API or SDK. The integration saves time and improves productivity in the education sector. &nbsp;"
 image: /assets/images/articles/people-sitting-near-table.webp

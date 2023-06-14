@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/ai-by-zapier
 author: Edward Saunders
 title: "Upwork and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and AI by Zapier has many benefits for businesses"
 leadtext: "By automating their Upwork workflows with AI-powered tools, businesses can save time, increase efficiency, and improve productivity. If you're a business owner or freelancer looking to streamline your workflow, consider integrating Upwork with AI by Zapier."
 image: /assets/images/articles/people-sitting-near-table.webp

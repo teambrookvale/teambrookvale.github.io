@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/google-groups
 author: Edward Saunders
 title: "Exploring the Integration of Amazon CloudFront and Google Groups"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront with Google Groups is an excellent way to improve user experience and engagement while also reducing server downtime issues"
 leadtext: "By using the CloudFront CDN to handle the delivery of images, videos, and other large files, you can significantly improve the speed and performance of your groups, making them more accessible and enjoyable for users all around the world."
 image: /assets/images/articles/people-sitting-near-table.webp

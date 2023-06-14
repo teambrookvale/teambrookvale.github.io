@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/greenhouse
 author: Edward Saunders
 title: "Moodle and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Greenhouse can provide businesses with a powerful tool for managing their employee training and recruitment processes"
 leadtext: "By synchronizing data and workflows between the two systems, companies can streamline their HR operations, improve compliance tracking, and increase efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

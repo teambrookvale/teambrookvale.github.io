@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/postgresql
 author: Edward Saunders
 title: "Integration of AWS Lambda and PostgreSQL"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and PostgreSQL is a powerful combination that can help developers build modern and scalable applications"
 leadtext: "The API or SDK approach offers a secure and cost-effective way of accessing the database without compromising on performance or reliability. With these tools at their disposal, developers can focus on building great applications without worrying about the underlying infrastructure."
 image: /assets/images/articles/people-sitting-near-table.webp

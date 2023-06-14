@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/aws-lambda
 author: Edward Saunders
 title: "Instagram Custom Audiences Integration with AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences with AWS Lambda is a powerful tool for businesses looking to improve the effectiveness of their advertising campaigns"
 leadtext: "By automating the process of updating custom audiences, businesses can save time and target their advertising more effectively. This integration is easy to set up and can be done through the use of an API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

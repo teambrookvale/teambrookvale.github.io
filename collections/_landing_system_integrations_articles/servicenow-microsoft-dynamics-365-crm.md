@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "ServiceNow and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Microsoft Dynamics 365 CRM allow businesses to optimize their processes, improve customer service and increase efficiency in their workflows"
 leadtext: "The integration can be achieved through the use of API or SDK, which greatly simplifies the process. Overall, integrating both systems provides businesses with a comprehensive solution that will help them achieve their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

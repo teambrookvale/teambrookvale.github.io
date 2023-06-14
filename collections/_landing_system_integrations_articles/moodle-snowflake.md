@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/snowflake
 author: Edward Saunders
 title: "Integration of Moodle and Snowflake: A Complete Solution"
+topic: System Integration
 leadhead: "The integration of Moodle and Snowflake through API or SDK offers educational institutions an excellent opportunity to leverage the power of cloud-based platforms to provide their students with a quality learning experience"
 leadtext: "This integration solves a host of problems, including efficient handling of data, advanced analytics, better scalability, and reduced IT costs. To achieve all these benefits, educational institutions need to follow the easy steps outlined above to integrate the two platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

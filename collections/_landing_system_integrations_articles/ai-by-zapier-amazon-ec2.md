@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/amazon-ec2
 author: Edward Saunders
 title: "Integration of AI by Zapier and Amazon EC2"
+topic: System Integration
 leadhead: "Integrating AI by Zapier and Amazon EC2 can provide a powerful solution for businesses looking to automate their processes and improve efficiency"
 leadtext: "It allows you to leverage the power of AI and cloud computing to solve complex business problems and improve the overall performance of your business."
 image: /assets/images/articles/people-sitting-near-table.webp

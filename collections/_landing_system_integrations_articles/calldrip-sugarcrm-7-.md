@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/sugarcrm-7-
 author: Edward Saunders
 title: "Calldrip & SugarCRM Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and SugarCRM 7+ through API or SDK is a powerful solution for businesses looking to streamline their lead management process and improve their sales conversions"
 leadtext: "By automating lead qualification and response, and centralizing customer data, businesses can focus on what they do best – closing deals and building relationships with their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

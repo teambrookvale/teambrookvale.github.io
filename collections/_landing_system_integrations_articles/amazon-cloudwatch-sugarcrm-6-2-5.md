@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/sugarcrm-6-2-5
 author: Edward Saunders
 title: "How to Integrate Amazon CloudWatch with SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon CloudWatch with SugarCRM 6.2-5 can be very beneficial for businesses"
 leadtext: "By doing so, businesses can manage their resources more efficiently while at the same time managing customer interactions. This makes it easier for businesses to provide high-quality services to their customers and improve their bottom line. You can find more information on how to integrate Amazon CloudWatch with SugarCRM 6.2-5 by visiting the AWS website or SugarCRM's official website."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/keap-max-classic
 author: Edward Saunders
 title: "Maximizing Efficiency with Quick Base and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "Quick Base and Keap Max Classic are excellent applications that can transform the way businesses manage their data, coordinate their teams, and interact with customers"
 leadtext: "However, to tap into their full potential, these two applications need to work seamlessly together. The integration between Quick Base and Keap Max Classic is a great step towards efficiency and better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

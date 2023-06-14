@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/magento-2-x
 author: Edward Saunders
 title: "Facebook Custom Audiences Integration with Magento 2.X"
+topic: System Integration
 leadhead: "The integration of Magento 2.X with Facebook Custom Audiences via API or SDK is a powerful tool that enables businesses to create customized ads and track the effectiveness of their marketing campaigns in real-time"
 leadtext: "By integrating these two platforms, businesses can target users who have already shown an interest in their products or services, leading to increased conversions and sales."
 image: /assets/images/articles/people-sitting-near-table.webp

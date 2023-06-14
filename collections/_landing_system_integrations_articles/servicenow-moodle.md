@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/moodle
 author: Edward Saunders
 title: "Integrating ServiceNow and Moodle for Efficient Workflows"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Moodle through APIs or SDKs can help organizations streamline their workflows by reducing the need for manual processes and avoiding duplicate data entry"
 leadtext: "This integration is especially beneficial for organizations that use both platforms, as it ensures that data is consistent across systems. By investing in this integration, organizations can improve their efficiency and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

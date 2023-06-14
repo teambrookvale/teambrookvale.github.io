@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/magento
 author: Edward Saunders
 title: "Integration of SQL Server and Magento"
+topic: System Integration
 leadhead: "The integration of SQL Server and Magento through API or SDK can bring several benefits to a business"
 leadtext: "It can help to streamline data management, improve reporting, automate data transfer, and provide a better customer experience. By leveraging the strengths of both platforms, businesses can make more informed decisions and improve their overall operations."
 image: /assets/images/articles/people-sitting-near-table.webp

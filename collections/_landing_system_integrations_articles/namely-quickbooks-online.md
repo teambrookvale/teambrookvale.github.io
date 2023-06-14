@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/quickbooks-online
 author: Edward Saunders
 title: "Namely and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "Integrating Namely and QuickBooks Online can provide several benefits for businesses"
 leadtext: "With API or SDK integration, businesses can improve their HR and financial management processes, eliminate duplicate data entry, ensure accurate financial reporting, and increase efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

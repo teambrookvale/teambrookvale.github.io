@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/calldrip
 author: Edward Saunders
 title: "Integration of AI by Zapier and Calldrip"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Calldrip can offer businesses a powerful tool for improving sales performance and customer experience"
 leadtext: "With simple API or SDK integration, businesses can automate their workflow processes and gain a competitive advantage in their industry."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-sns
 author: Edward Saunders
 title: "Integrating Namely and Amazon SNS"
+topic: System Integration
 leadhead: "Integrating Namely and Amazon SNS can help organizations to improve their communication processes, enhance productivity, and reduce costs"
 leadtext: "By using the API or SDK provided by Amazon SNS, organizations can easily automate the process of message delivery and ensure that personalized messages are delivered to employees based on their communication preferences. Overall, the integration of Namely and Amazon SNS is an excellent option for organizations looking to streamline their employee communication processes."
 image: /assets/images/articles/people-sitting-near-table.webp

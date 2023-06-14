@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/amazon-ec2
 author: Edward Saunders
 title: "Marketo and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Amazon EC2 through API or SDK is a powerful tool for companies looking to streamline their digital marketing processes"
 leadtext: "This integration offers companies an opportunity to scale their marketing platforms, and it provides real-time analytics that allow companies to make data-driven decisions. With this integration, companies can focus on growth and customer acquisition while leaving the digital marketing automation to Marketo and Amazon EC2."
 image: /assets/images/articles/people-sitting-near-table.webp

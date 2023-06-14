@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/shopify
 author: Edward Saunders
 title: "Integration of Salesforce and Shopify"
+topic: System Integration
 leadhead: "With the increasing importance of digital transformation, integrating multiple systems has become a critical requirement for organizations"
 leadtext: "The integration of Salesforce and Shopify can provide significant benefits to businesses looking to streamline their processes, improve customer experience, and enhance productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

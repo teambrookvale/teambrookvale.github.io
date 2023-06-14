@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/facebook-lead-ads
 author: Edward Saunders
 title: "Integration of Pardot and Facebook Lead Ads"
+topic: System Integration
 leadhead: "The integration of Pardot and Facebook Lead Ads is a powerful tool for businesses looking to streamline their lead generation efforts"
 leadtext: "By automating the transfer of leads, businesses can save time and improve their marketing campaigns. Whether using API or SDK, the integration of Pardot and Facebook Lead Ads will help businesses better nurture their leads and improve their sales."
 image: /assets/images/articles/people-sitting-near-table.webp

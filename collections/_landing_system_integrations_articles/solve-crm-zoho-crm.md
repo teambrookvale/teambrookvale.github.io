@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/zoho-crm
 author: Edward Saunders
 title: "Solving CRM with Zoho CRM Integration"
+topic: System Integration
 leadhead: "Integrating Solve CRM with Zoho CRM through API or SDK integration can be an effective way to combine the power of two systems and achieve a richer and more comprehensive customer data"
 leadtext: "With a range of benefits including collaboration, automation, and detailed reporting, the possibilities and benefits of integration are large."
 image: /assets/images/articles/people-sitting-near-table.webp

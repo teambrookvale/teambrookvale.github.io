@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/solve-crm
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Solve CRM"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Solve CRM provides businesses with a powerful tool to manage their customer data more effectively"
 leadtext: "It allows businesses to automate their workflows, personalize customer interactions, and make informed decisions. As a result, businesses can improve their customer engagement and drive growth."
 image: /assets/images/articles/people-sitting-near-table.webp

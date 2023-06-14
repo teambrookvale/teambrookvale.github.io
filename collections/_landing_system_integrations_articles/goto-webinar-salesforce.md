@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/salesforce
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Salesforce"
+topic: System Integration
 leadhead: "As you can see, integrating GoTo Webinar and Salesforce through an API or SDK can provide numerous benefits for businesses"
 leadtext: "By automating certain tasks and centralizing your customer data, you'll be able to work more efficiently and make more informed business decisions. So if you're a frequent user of both tools, it's definitely worth considering integrating them!"
 image: /assets/images/articles/people-sitting-near-table.webp

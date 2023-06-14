@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of Amazon SNS with SugarCRM - Simplifying Business Communication"
+topic: System Integration
 leadhead: "Integrating Amazon SNS with SugarCRM can simplify business communication and help businesses improve customer engagement"
 leadtext: "With real-time notifications, businesses can keep their customers informed about updates or changes to their products or services, which can help foster better relationships. Additionally, this integration can save businesses time and resources by automating manual processes. Overall, the integration of Amazon SNS with SugarCRM is an effective way to streamline business communication and enhance customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

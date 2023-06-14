@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/marketo
 author: Edward Saunders
 title: "Integrating ServiceNow and Marketo for Efficient Business Management"
+topic: System Integration
 leadhead: "By integrating ServiceNow and Marketo, businesses can leverage the strengths of both platforms to create a more efficient and cohesive workflow"
 leadtext: "With the integration, businesses can streamline their processes, maintain consistency in customer experience, and drive better engagement and conversions. Using the API or SDK to integrate the two platforms is a cost-effective and scalable solution for businesses looking to improve their IT service management and marketing operations."
 image: /assets/images/articles/people-sitting-near-table.webp

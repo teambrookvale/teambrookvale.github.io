@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/servicenow
 author: Edward Saunders
 title: "PayPal and ServiceNow Integration"
+topic: System Integration
 leadhead: "In summary, the integration of PayPal and ServiceNow through API or SDK offers many benefits to businesses, enabling them to streamline their operations, reduce manual data entry, and automate workflows"
 leadtext: "Through this integrated solution, businesses can improve their overall efficiency, save time, and increase customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

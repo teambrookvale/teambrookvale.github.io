@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/namely
 author: Edward Saunders
 title: "Greenhouse and Namely Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Namely offers many benefits to HR professionals, from streamlining recruitment processes to simplifying HR tasks"
 leadtext: "By sharing data between the two platforms, it reduces the amount of time spent on double data entry and ensures that crucial HR information is consistent across both systems. This integration allows HR professionals to focus on the strategic management of their employees, rather than getting bogged down in administrative tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

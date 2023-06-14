@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/xero
 author: Edward Saunders
 title: "Integration of MySQL and Xero through API or SDK"
+topic: System Integration
 leadhead: "Integration of MySQL and Xero through API or SDK has become essential for businesses that want to simplify accounting tasks and streamline operations"
 leadtext: "It offers benefits such as automation, real-time data, accuracy, and efficiency. As both MySQL and Xero continue to evolve, businesses that integrate the two through API or SDK can expect to see more benefits and improved operations in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

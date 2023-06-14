@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/google-ads
 author: Edward Saunders
 title: "How MySQL and Google Ads Integration Solves Problems"
+topic: System Integration
 leadhead: "The integration of MySQL and Google Ads can help businesses improve the accuracy, relevance, and effectiveness of their ad campaigns while saving them time and resources"
 leadtext: "By leveraging the power of data, businesses can create targeted ads that are more likely to resonate with the audience, leading to higher conversions and sales."
 image: /assets/images/articles/people-sitting-near-table.webp

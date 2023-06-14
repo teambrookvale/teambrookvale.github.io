@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-sqs
 author: Edward Saunders
 title: "Magento and Amazon SQS: Streamlining Your E-commerce Operations"
+topic: System Integration
 leadhead: "Integrating Magento and Amazon SQS through API or SDK can help you automate your backend processes, improve efficiency, scale your operations, and reduce errors and crashes"
 leadtext: "If you're running an e-commerce store on Magento, consider integrating it with Amazon SQS to streamline your operations and improve your customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

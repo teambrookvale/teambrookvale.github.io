@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/paypal
 author: Edward Saunders
 title: "Quick Base and PayPal Integration"
+topic: System Integration
 leadhead: "Quick Base and PayPal are two powerful tools that when integrated, can help businesses manage their operations efficiently, streamline payment processing, and increase customer satisfaction"
 leadtext: "By harnessing this potential, businesses can focus on delivering value to their clients while simultaneously managing their operations more efficiently. If you are a business owner and are not using the integration of Quick Base and PayPal, then it's time to start."
 image: /assets/images/articles/people-sitting-near-table.webp

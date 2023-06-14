@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/goto-training
 author: Edward Saunders
 title: "Integration of Google BigQuery and GoToTraining via API"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and GoToTraining via API or SDK can provide numerous benefits for businesses that rely on online trainings"
 leadtext: "From centralizing data management to cost savings, this integration can help businesses make better decisions and save time and money in the process. So if you're considering integrating these two platforms, now is the time to explore your options and get started!"
 image: /assets/images/articles/people-sitting-near-table.webp

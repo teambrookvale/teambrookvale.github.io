@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/facebook-lead-ads
 author: Edward Saunders
 title: "Integration of SQL Server and Facebook Lead Ads through API or SDK"
+topic: System Integration
 leadhead: "The integration of SQL Server and Facebook Lead Ads through API or SDK has made it easier for businesses to manage and analyze the data collected through Lead Ads"
 leadtext: "With this integration, businesses can ensure data integrity, security, and improve their lead generation and customer acquisition strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-s3
 author: Edward Saunders
 title: "Calldrip and Amazon S3 Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Amazon S3 brings numerous benefits to businesses"
 leadtext: "By ensuring that your phone leads are backed up and secured, you are assured of never losing them. With Amazon S3, you get to enjoy a high level of scalability and security that would otherwise be difficult to achieve with your own storage infrastructure. Integrating these two tools is a step that businesses should consider taking to improve their productivity and efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

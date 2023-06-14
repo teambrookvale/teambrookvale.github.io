@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/evernote-business
 author: Edward Saunders
 title: "Chargify and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration between Chargify and Evernote Business is a perfect solution for businesses that want to simplify their subscription billing and note-taking processes"
 leadtext: "With this integration, businesses can automate tedious billing tasks and streamline their note-taking processes, resulting in reduced workload and increased productivity. Furthermore, the integration through API or SDK makes it easier for businesses to build a customized solution that meets their specific needs. Thus, the Chargify and Evernote Business integration offers significant benefits for businesses that are looking for a better way to manage their subscription billing and note-taking processes."
 image: /assets/images/articles/people-sitting-near-table.webp

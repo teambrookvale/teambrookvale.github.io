@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/greenhouse
 author: Edward Saunders
 title: "How Webhooks by Zapier integrates with Greenhouse"
+topic: System Integration
 leadhead: "Webhooks by Zapier is an excellent tool to integrate applications without writing code"
 leadtext: "The integration of Greenhouse and Zapier's Webhooks feature provides a powerful result, enhancing the productivity of recruiting workflows while improving key performance indicators. Are you looking to automate your workflow and integrate with other software solutions? Consider Webhooks by Zapier and Greenhouse combination to improve your recruiting processes and optimize your hiring management system."
 image: /assets/images/articles/people-sitting-near-table.webp

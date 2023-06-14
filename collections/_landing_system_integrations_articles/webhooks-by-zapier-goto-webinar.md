@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/goto-webinar
 author: Edward Saunders
 title: "Webhooks by Zapier and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and GoTo Webinar can help businesses streamline their webinar management processes, enabling them to focus on more critical tasks"
 leadtext: "API and SDK integration can automate attendee management, registration, and post-event follow-up tasks. Furthermore, using GoTo Webinar's analytics can help businesses improve future webinars, increasing their effectiveness and ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

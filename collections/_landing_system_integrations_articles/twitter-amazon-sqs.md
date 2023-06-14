@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/amazon-sqs
 author: Edward Saunders
 title: "Twitter and Amazon SQS Integration"
+topic: System Integration
 leadhead: "The integration of Twitter and Amazon SQS through API or SDK provides businesses and developers with a scalable, reliable, and cost-effective solution for processing tweets"
 leadtext: "With this integration, companies can gain real-time insights into user feedback and market trends, enabling them to make informed decisions and improve their products and services."
 image: /assets/images/articles/people-sitting-near-table.webp

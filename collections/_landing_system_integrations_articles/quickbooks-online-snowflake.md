@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/snowflake
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Snowflake"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Snowflake is a powerful tool for small businesses"
 leadtext: "By bringing financial data into Snowflake, businesses can gain insights into their financial performance and make better decisions about their future. Whether it's through API or SDK, integrating QuickBooks Online and Snowflake is a smart move for any business looking to improve their financial management capabilities."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/facebook-custom-audiences
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch with Facebook Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch with Facebook Custom Audiences is a powerful tool for businesses looking to improve their advertising effectiveness, monitor their infrastructure, and optimize their user experience"
 leadtext: "With the ability to track real-time performance metrics and gain insights into audience behavior, this integration can help businesses drive better results and grow their customer base. So why not give it a try and see what it can do for your business?"
 image: /assets/images/articles/people-sitting-near-table.webp

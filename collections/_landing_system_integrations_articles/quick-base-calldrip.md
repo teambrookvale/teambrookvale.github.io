@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/calldrip
 author: Edward Saunders
 title: "Integrating Quick Base and Calldrip: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating Quick Base and Calldrip can lead to an increase in productivity, streamlined workflows, improved customer engagement, and more"
 leadtext: "Through their APIs or SDKs, you can create custom integrations that meet your unique business needs. Take the first step and start reaping the benefits of integrating Quick Base and Calldrip today."
 image: /assets/images/articles/people-sitting-near-table.webp

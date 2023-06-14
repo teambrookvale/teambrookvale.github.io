@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-polly
 author: Edward Saunders
 title: "Solving CRM Challenges with Amazon Polly"
+topic: System Integration
 leadhead: "Amazon Polly provides many solutions to different challenges faced in CRM systems"
 leadtext: "Integrating with APIs and SDKs has enhanced its capabilities, making it possible to produce high-quality speech output. For sales representatives, it offers a more engaging way to communicate, improving the overall customer experience and productivity. Therefore, businesses that implement Amazon Polly will have an advantage over their competitors since they can build customer trust and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/amazon-sns
 author: Edward Saunders
 title: "Integrating Quick Base with Amazon SNS"
+topic: System Integration
 leadhead: "The integration of Quick Base with Amazon SNS is crucial for businesses looking to automate their messaging and notifications"
 leadtext: "With the use of API or SDK, developers can easily integrate Quick Base with Amazon SNS. By doing so, businesses can save time and reduce potential errors while also simplifying the process of messaging across multiple platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/pardot
 author: Edward Saunders
 title: "Integration of BambooHR and Pardot"
+topic: System Integration
 leadhead: "BambooHR and Pardot have different functions within a business, but integrating the two can deliver even greater value to an organisation"
 leadtext: "Companies can streamline processes, improve targeted marketing, and boost overall efficiency by linking BambooHR and Pardot together through API or SDK integration."
 image: /assets/images/articles/people-sitting-near-table.webp

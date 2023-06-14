@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/shopify
 author: Edward Saunders
 title: "Integration of Quick Base and Shopify"
+topic: System Integration
 leadhead: "The integration of Quick Base and Shopify can offer several benefits to businesses"
 leadtext: "The integration can help businesses to manage their inventory, sales, and customer data more effectively. In addition, the integration can allow businesses to automate several business processes, which can save time and improve efficiency. Overall, the integration of Quick Base and Shopify is a powerful tool that businesses can use to grow their sales and improve their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

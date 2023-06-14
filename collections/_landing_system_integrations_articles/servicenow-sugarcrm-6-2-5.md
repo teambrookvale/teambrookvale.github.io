@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/sugarcrm-6-2-5
 author: Edward Saunders
 title: "ServiceNow and SugarCRM 6.2-5 Integration: The Ultimate Guide"
+topic: System Integration
 leadhead: "Integrating ServiceNow and SugarCRM 6.2-5 can bring a lot of benefits to an organization"
 leadtext: "Improved collaboration, better communication, streamlined processes, and improved productivity are just some of the benefits of integrating these two platforms. Whether you choose to do this through API or SDK, the end result is all that matters. So if you're looking to improve the effectiveness of your organization, look no further than the integration of these two software solutions."
 image: /assets/images/articles/people-sitting-near-table.webp

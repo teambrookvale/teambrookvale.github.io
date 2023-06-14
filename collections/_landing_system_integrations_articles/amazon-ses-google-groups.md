@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/google-groups
 author: Edward Saunders
 title: "Amazon SES and Google Groups Integration for Streamlined Communication"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Google Groups offers a powerful solution for businesses that want to improve their communication channels"
 leadtext: "By leveraging the scalability and reliability of Amazon SES and the collaborative features of Google Groups, companies can streamline their internal and external communication, enhance customer support, and improve overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

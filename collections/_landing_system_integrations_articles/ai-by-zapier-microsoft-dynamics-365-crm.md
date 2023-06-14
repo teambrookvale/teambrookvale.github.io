@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating AI by Zapier with Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "Integrating AI by Zapier with Microsoft Dynamics 365 CRM provides businesses with a powerful tool to automate their processes, manage customer interactions, and improve customer experience"
 leadtext: "The integration solves problems such as manual data entry, errors in customer information, and difficulty in managing customer interactions. As businesses continue to adapt to the changing business environment, it is essential to integrate technology that can boost efficiency and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

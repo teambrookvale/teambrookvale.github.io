@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/mysql
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and MySQL"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and MySQL is a beneficial step towards efficient database management"
 leadtext: "It provides valuable insights into database performance, helps identify issues quickly, and ensures the smooth running of the entire application or service. So, if your organization is using MySQL databases, it's worth considering integrating them with Amazon CloudWatch to streamline monitoring and to prevent costly downtime."
 image: /assets/images/articles/people-sitting-near-table.webp

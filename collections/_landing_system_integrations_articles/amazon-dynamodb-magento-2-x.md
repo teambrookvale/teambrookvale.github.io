@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/magento-2-x
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Magento 2.X | Blog"
+topic: System Integration
 leadhead: "In conclusion, Amazon DynamoDB and Magento 2.X are powerful platforms on their own and can be integrated through API or SDK to create powerful solutions for any e-commerce merchant"
 leadtext: "By integrating both systems, merchants can expect to see better page loading times, increased scalability, reduced infrastructure costs, and increased sales. This integration provides the perfect solution for any e-commerce merchant who wants to improve their online store and improve their customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

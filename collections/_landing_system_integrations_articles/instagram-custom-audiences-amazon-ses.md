@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/amazon-ses
 author: Edward Saunders
 title: "Integrating Instagram Custom Audiences with Amazon SES"
+topic: System Integration
 leadhead: "Integrating Instagram Custom Audiences and Amazon SES is a great marketing strategy that businesses can use to reach a larger and more targeted audience"
 leadtext: "This integration solves the problem of sending email campaigns to Instagram Custom Audiences and helps businesses reach a larger audience, leading to better engagement rates and more sales. By utilizing this integration, businesses can take their marketing efforts to the next level and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

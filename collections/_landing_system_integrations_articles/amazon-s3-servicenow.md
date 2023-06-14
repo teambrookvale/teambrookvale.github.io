@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/servicenow
 author: Edward Saunders
 title: "Integration of Amazon S3 and ServiceNow"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and ServiceNow is a powerful tool for businesses looking to streamline their IT processes and improve efficiency"
 leadtext: "By using their API or SDK, they can easily integrate the two systems and enjoy the benefits of improved collaboration, reduced downtime, and increased productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

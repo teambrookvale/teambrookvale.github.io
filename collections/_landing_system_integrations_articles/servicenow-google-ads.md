@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/google-ads
 author: Edward Saunders
 title: "Integrating ServiceNow and Google Ads"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Google Ads through an API or SDK can provide significant benefits to your organization"
 leadtext: "It can improve your customer service, streamline workflows, and increase your revenue. If you're interested in learning more about this integration, contact a ServiceNow or Google Ads representative to get started."
 image: /assets/images/articles/people-sitting-near-table.webp

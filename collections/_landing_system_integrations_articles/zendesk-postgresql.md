@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/postgresql
 author: Edward Saunders
 title: "Zendesk and PostgreSQL Integration: A Solution for Streamlined Customer Service"
+topic: System Integration
 leadhead: "The integration of Zendesk and PostgreSQL provides businesses with a powerful solution to manage their customer support requests efficiently and accurately"
 leadtext: "It enables companies to centralize customer data, automate processes, and improve the overall quality of customer service. By leveraging the APIs and SDKs provided by Zendesk and PostgreSQL, businesses can easily develop custom integrations tailored to their specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/pinterest
 author: Edward Saunders
 title: "Namely and Pinterest Integration"
+topic: System Integration
 leadhead: "The integration of Namely and Pinterest is a powerful tool that businesses can use to improve their HR processes and engage their employees"
 leadtext: "By showcasing their brand and culture on Pinterest, they can attract top talent, increase employee satisfaction and retention, and create a sense of community within the workplace."
 image: /assets/images/articles/people-sitting-near-table.webp

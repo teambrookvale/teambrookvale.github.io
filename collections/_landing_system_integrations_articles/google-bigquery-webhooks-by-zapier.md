@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/webhooks-by-zapier
 author: Edward Saunders
 title: "Integration of Google BigQuery and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Webhooks by Zapier is a powerful combination that provides organizations with an efficient and streamlined data processing system"
 leadtext: "With the help of APIs and SDKs, organizations can seamlessly integrate these tools and take advantage of their full capabilities. By automating data processing tasks, organizations can reduce errors and save time and resources, allowing them to focus on more critical business functions."
 image: /assets/images/articles/people-sitting-near-table.webp

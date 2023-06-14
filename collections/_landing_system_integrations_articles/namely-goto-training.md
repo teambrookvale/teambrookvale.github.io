@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/goto-training
 author: Edward Saunders
 title: "Integration of Namely and GoTo Training"
+topic: System Integration
 leadhead: "The integration of Namely and GoTo Training through API and SDK offers numerous benefits to businesses, including improved HR management, increased productivity, better training results, and reduced compliance risks"
 leadtext: "It is a powerful combination that can help businesses achieve their goals more effectively and efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

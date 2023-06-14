@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/calldrip
 author: Edward Saunders
 title: "Integration of Upwork and Calldrip"
+topic: System Integration
 leadhead: "The integration of Upwork and Calldrip can be beneficial for businesses"
 leadtext: "It can help them streamline their hiring process and sales process. With immediate response to leads, businesses can increase their conversion rate and generate more revenue. And with Upwork, they can find top talent quickly. The integration of Upwork and Calldrip through API or SDK is a great way to automate the process and save time."
 image: /assets/images/articles/people-sitting-near-table.webp

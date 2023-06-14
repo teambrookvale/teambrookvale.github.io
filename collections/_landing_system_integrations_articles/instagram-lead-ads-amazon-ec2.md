@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/amazon-ec2
 author: Edward Saunders
 title: "Integration of Instagram Lead Ads and Amazon EC2"
+topic: System Integration
 leadhead: "Instagram Lead Ads and Amazon EC2 are two powerful tools that can help businesses grow and succeed in today's digital landscape"
 leadtext: "By integrating them through API or SDK, businesses can streamline their operations, improve their marketing performance, and reduce costs. If you're looking to improve your lead capture and management processes, consider integrating Instagram Lead Ads and Amazon EC2 today."
 image: /assets/images/articles/people-sitting-near-table.webp

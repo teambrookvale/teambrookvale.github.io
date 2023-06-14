@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/paypal
 author: Edward Saunders
 title: "Moodle and PayPal Integration - Solving Payment Issues"
+topic: System Integration
 leadhead: "The integration of Moodle and PayPal is a game-changer, solving numerous payment and course management issues"
 leadtext: "It simplifies the educational process, enabling students to enroll in courses online and pay securely and efficiently. Educators can focus on delivering quality content, creating engaging courses, and managing their students without worrying about the back-end complexities of payment processing."
 image: /assets/images/articles/people-sitting-near-table.webp

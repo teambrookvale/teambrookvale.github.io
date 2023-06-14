@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/quickbooks-online
 author: Edward Saunders
 title: "How Amazon Seller Central and QuickBooks Online Integration Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and QuickBooks Online is a game-changer for businesses"
 leadtext: "It saves time, provides accurate financial information, and makes tax season a breeze. If you’re an Amazon seller, consider integrating these two platforms to streamline your business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

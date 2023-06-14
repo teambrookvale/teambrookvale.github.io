@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/linkedin-ads
 author: Edward Saunders
 title: "Integration of Google Ads and LinkedIn Ads API or SDK - A Solution for Marketers"
+topic: System Integration
 leadhead: "The integration of Google Ads and LinkedIn Ads through API or SDK provides a solution for marketers who want to efficiently and effectively reach their target audience"
 leadtext: "It allows for better targeting, increased efficiency, and improved ROI. By utilizing this integration, marketers can stay ahead of the competition and reach their marketing goals."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/whmcs
 author: Edward Saunders
 title: "Integration of PostgreSQL and WHMCS through API or SDK"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and WHMCS through API or SDK is a great way for web hosts to manage their databases and automate their workloads"
 leadtext: "It offers a centralized platform for managing databases and reduces the workload for web hosts. Overall, the integration of these two systems is a great step forward for web hosts, and it is likely to become more popular in the coming years."
 image: /assets/images/articles/people-sitting-near-table.webp

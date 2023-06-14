@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/facebook-lead-ads
 author: Edward Saunders
 title: "Integration of Amazon SES and Facebook Lead Ads"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Facebook Lead Ads is a smart move for businesses that are looking to optimize their marketing campaigns"
 leadtext: "It streamlines processes, saves time and effort, increases accuracy and effectiveness, and provides a cost-effective solution. While the integration process can be technical, Amazon provides businesses with the resources and support they need to get the job done."
 image: /assets/images/articles/people-sitting-near-table.webp

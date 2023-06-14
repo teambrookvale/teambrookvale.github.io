@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/whmcs
 author: Edward Saunders
 title: "Instagram Lead Ads Integration with WHMCS for Effective Lead Generation"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads with WHMCS provides businesses with a powerful solution to manage leads effectively, increase conversions, and acquire new customers"
 leadtext: "It leverages the power of Instagram's targeted ad campaigns and WHMCS's all-in-one customer management system, enabling businesses to streamline their workflow, improving their customer base, and boosting their bottom line. By integrating these two platforms, businesses can take their marketing, and sales strategies to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

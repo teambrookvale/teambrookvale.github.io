@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-s3
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Amazon S3 Integration"
+topic: System Integration
 leadhead: "<div>
 		Integrating SugarCRM 6.2-5 and Amazon S3 through API or SDK is a smart move for businesses that want to optimize their customer relationship management"
 leadtext: "This integration solves many challenges that businesses face, such as data loss, storage costs, and difficulty in retrieving data. It is a cost-effective solution that simplifies the storage and transfer of data, and enhances its accessibility and security. By integrating these two systems, businesses can improve efficiency, productivity, and profitability."

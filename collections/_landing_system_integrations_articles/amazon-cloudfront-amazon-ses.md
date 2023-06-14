@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/amazon-ses
 author: Edward Saunders
 title: "Amazon CloudFront and SES Integration"
+topic: System Integration
 leadhead: "Amazon CloudFront and SES are two powerful web services that address the content delivery and email needs of businesses today"
 leadtext: "Integrating the two can help businesses improve how they manage their digital content and communication strategies. By leveraging their APIs and SDKs, businesses can create a more effective, streamlined, and cost-effective solution for meeting their business needs and scaling over time."
 image: /assets/images/articles/people-sitting-near-table.webp

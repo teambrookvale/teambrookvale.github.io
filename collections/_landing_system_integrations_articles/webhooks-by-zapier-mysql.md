@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/mysql
 author: Edward Saunders
 title: "Webhooks by Zapier and MySQL Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Webhooks by Zapier and MySQL is a powerful tool for automating workflows and transferring data between different applications and databases"
 leadtext: "By eliminating manual data entry, reducing errors, and providing real-time data transfer, this integration can help businesses save time and increase productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

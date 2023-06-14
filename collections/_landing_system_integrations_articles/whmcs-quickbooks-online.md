@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/quickbooks-online
 author: Edward Saunders
 title: "Exploring the Integration of WHMCS and QuickBooks Online through API or SDK"
+topic: System Integration
 leadhead: "Integrating WHMCS and QuickBooks Online through API or SDK can bring tremendous benefits to web hosting companies"
 leadtext: "It saves time, reduces errors, and provides real-time reporting capabilities. As both platforms continue to evolve, we can expect to see even more powerful integration options become available."
 image: /assets/images/articles/people-sitting-near-table.webp

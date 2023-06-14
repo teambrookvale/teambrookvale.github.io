@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/pinterest
 author: Edward Saunders
 title: "Integrating Magento and Pinterest"
+topic: System Integration
 leadhead: "Integrating Magento and Pinterest can be a powerful marketing strategy for e-commerce stores"
 leadtext: "By using the Pinterest API or SDK, you can leverage the visual nature of Pinterest to showcase your products and inspire your audience. Whether you want to increase brand awareness, drive traffic, or improve customer engagement, integrating Magento and Pinterest can help you achieve your goals."
 image: /assets/images/articles/people-sitting-near-table.webp

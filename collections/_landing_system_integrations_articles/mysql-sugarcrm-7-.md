@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/sugarcrm-7-
 author: Edward Saunders
 title: "Integration of MySQL and SugarCRM 7+ through API or SDK"
+topic: System Integration
 leadhead: "The integration of MySQL and SugarCRM 7+ through API or SDK is a powerful way for businesses to optimize their operations, improve their customer relationships, and boost their profitability"
 leadtext: "By creating a centralized database, analyzing customer data, and automating business processes, businesses can achieve higher efficiency, lower costs, and greater customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

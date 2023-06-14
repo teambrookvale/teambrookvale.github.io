@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/greenhouse
 author: Edward Saunders
 title: "Integration of Amazon S3 and Greenhouse through API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Greenhouse through API or SDK is a game-changer for businesses, providing them with a cost-effective, reliable, and efficient solution for managing their recruitment process"
 leadtext: "The integration solves the problem of switching between different applications and provides businesses with a secure and scalable storage solution for candidate information. Overall, the integration is a must-have for any business looking to streamline their recruitment process and improve their workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

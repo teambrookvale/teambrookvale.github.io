@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/sql-server
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and SQL Server through API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and SQL Server through API or SDK is a powerful tool for sellers to manage their Amazon business"
 leadtext: "It allows them to have a centralized database that can be used to manage their data and make data-driven decisions. The integration solves problems such as centralized data management, improved data accuracy, and better analytics. Sellers who integrate their Amazon Seller Central account with SQL Server can have a competitive advantage over those who do not."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/whmcs
 author: Edward Saunders
 title: "Integrating BigCommerce and WHMCS: Solving Problems through API or SDK"
+topic: System Integration
 leadhead: "The integration of BigCommerce and WHMCS through API or SDK provides e-commerce businesses with an opportunity to offer web hosting services and automate their operations"
 leadtext: "This integration can solve several problems, including manual workload, customer experience, and revenue growth. If you run an e-commerce website that also offers web hosting services, consider integrating BigCommerce and WHMCS to streamline your operations and improve your customers' experience."
 image: /assets/images/articles/people-sitting-near-table.webp

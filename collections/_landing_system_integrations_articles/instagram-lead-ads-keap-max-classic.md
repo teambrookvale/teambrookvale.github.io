@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/keap-max-classic
 author: Edward Saunders
 title: "Integration of Instagram Lead Ads and Keap Max Classic"
+topic: System Integration
 leadhead: "By integrating Instagram Lead Ads with Keap Max Classic, businesses can greatly benefit from an optimized lead generation and lead management process"
 leadtext: "The API or SDK integration ensures leads are automatically captured and added to the businesses' CRM, avoiding the risks associated with manual data entry and lost leads. Follow-up is also streamlined, and sales teams can access all necessary lead and customer data in one centralized location."
 image: /assets/images/articles/people-sitting-near-table.webp

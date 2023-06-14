@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/greenhouse
 author: Edward Saunders
 title: "GoTo Webinar and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Greenhouse provides an effective solution for managing the hiring process"
 leadtext: "With efficient scheduling capabilities and data integration, it can help organizations save time and resources, while also providing a more personalized experience for candidates. Implementing this integration as part of your HR workflow can lead to better hiring decisions and help your teams achieve their talent goals."
 image: /assets/images/articles/people-sitting-near-table.webp

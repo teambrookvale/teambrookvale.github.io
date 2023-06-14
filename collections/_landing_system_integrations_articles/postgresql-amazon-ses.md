@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/amazon-ses
 author: Edward Saunders
 title: "Integration of PostgreSQL and Amazon SES"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Amazon SES provides a powerful solution for businesses looking to manage their customer data and email communications in a centralized and scalable environment"
 leadtext: "With their strong APIs and SDKs, developers can easily connect, query, and manage data and email traffic from external applications, improving their automation and efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

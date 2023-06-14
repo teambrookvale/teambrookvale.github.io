@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/xero
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and Xero"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Xero is a powerful combination that can help businesses improve their accounting processes, reduce their costs, and improve their customer experience"
 leadtext: "By leveraging the power of APIs and SDKs, businesses can create seamless and integrated workflows that automate and simplify their accounting tasks. Whether you are a small business owner or a large enterprise, the integration of Amazon CloudFront and Xero can help you streamline your operations and grow your business."
 image: /assets/images/articles/people-sitting-near-table.webp

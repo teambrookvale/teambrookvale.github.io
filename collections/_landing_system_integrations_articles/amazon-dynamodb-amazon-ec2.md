@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/amazon-ec2
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Amazon EC2 provides a powerful combination that enables developers to build highly scalable and performant applications in the cloud"
 leadtext: "By leveraging the robust features of DynamoDB and EC2, developers can focus on building great applications without having to worry about the underlying infrastructure. Integrating these two services also solves a number of challenges developers face while building cloud-based applications."
 image: /assets/images/articles/people-sitting-near-table.webp

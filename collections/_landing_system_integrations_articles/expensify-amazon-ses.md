@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/amazon-ses
 author: Edward Saunders
 title: "Expensify and Amazon SES Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Amazon SES has brought many benefits to businesses that use them"
 leadtext: "It has made financial management more efficient, automated, and accurate. This integration has solved many problems that businesses face while managing expenses. By using the Expensify API and Amazon SES email, businesses can keep track of their budgets and expenses, improve communication among teams, and stay on top of their finances. Therefore, if you're a business owner, it's worth considering using these two services together to manage your finances effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

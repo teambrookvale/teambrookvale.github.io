@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/quick-base
 author: Edward Saunders
 title: "Integrating Amazon Polly and Quick Base"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon Polly and Quick Base through API or SDK can provide multiple benefits to businesses, including saved time and effort, increased accessibility, and enhanced productivity"
 leadtext: "The combination of a low-code platform and a robust text-to-speech service creates a powerful tool for businesses to modernize their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

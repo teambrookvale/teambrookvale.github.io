@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/linkedin-ads
 author: Edward Saunders
 title: "Solving CRM and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "Solving the CRM and LinkedIn Ads integration is crucial for leveraging the power of both platforms"
 leadtext: "With the integration, businesses can better target their audience, manage interactions, and drive higher engagement and revenue. It's time to take your customer relationship management and advertising strategy to the next level with this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

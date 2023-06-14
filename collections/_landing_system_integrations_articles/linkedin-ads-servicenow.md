@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/servicenow
 author: Edward Saunders
 title: "The Power of Integrating LinkedIn Ads and ServiceNow"
+topic: System Integration
 leadhead: "LinkedIn Ads and ServiceNow are both powerful tools on their own, but when integrated, they become a force to be reckoned with"
 leadtext: "This integration allows companies to streamline their advertising and customer service efforts, resulting in a more efficient and effective process. As we continue to see the importance of personalized customer experiences, this integration will become even more valuable."
 image: /assets/images/articles/people-sitting-near-table.webp

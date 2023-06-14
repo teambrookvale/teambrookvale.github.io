@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/amazon-polly
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Polly: A Solution for Better Monitoring"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon CloudWatch and Polly can improve monitoring for users by providing real-time alerts and notifications through speech"
 leadtext: "By using the CloudWatch API or SDK, users can customize their notifications and choose when and where to receive them. This integration is particularly useful for those with disabilities who may have challenges reading alarm and notification text. It also solves the issue of delayed response time to issues by providing instant notifications."
 image: /assets/images/articles/people-sitting-near-table.webp

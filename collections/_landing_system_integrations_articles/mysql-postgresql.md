@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/postgresql
 author: Edward Saunders
 title: "MySQL and PostgreSQL Integration"
+topic: System Integration
 leadhead: "Integrating MySQL and PostgreSQL can significantly improve data management, increase efficiency, and reduce costs"
 leadtext: "This integration can help organizations manage multiple data formats, retrieve data at high speeds, and scale to accommodate future growth. By using API or SDK, developers can ensure that their applications run seamlessly on both MySQL and PostgreSQL databases."
 image: /assets/images/articles/people-sitting-near-table.webp

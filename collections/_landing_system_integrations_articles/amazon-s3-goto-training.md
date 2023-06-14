@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/goto-training
 author: Edward Saunders
 title: "Integration of Amazon S3 and GoTo Training"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon S3 and GoTo Training is a game-changer for remote training and e-learning"
 leadtext: "It provides trainers with an efficient, reliable, and user-friendly way to manage, store, and deliver course content to learners remotely. Integration through API or SDK ensures the smooth syncing of training content hosted on Amazon S3 with the GoTo Training Platform."
 image: /assets/images/articles/people-sitting-near-table.webp

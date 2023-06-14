@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/pinterest
 author: Edward Saunders
 title: "Integrating Amazon S3 and Pinterest"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and Pinterest through API or SDK can provide many benefits to users, including one-click sharing, better media management, and improved engagement"
 leadtext: "If you're an Amazon S3 user and a Pinterest fan, this integration may be worth exploring to enhance your media sharing and management experience."
 image: /assets/images/articles/people-sitting-near-table.webp

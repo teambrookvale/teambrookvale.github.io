@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Benefits of Integrating BambooHR and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Integrating BambooHR and SugarCRM 6.2-5 is a no-brainer if you want to improve your HR and customer relationship management processes"
 leadtext: "Both tools are powerful on their own, but when they're combined, you'll have access to even more data and insights that can help you make better decisions. So if you're ready to take your business to the next level, consider integrating BambooHR and SugarCRM 6.2-5 today."
 image: /assets/images/articles/people-sitting-near-table.webp

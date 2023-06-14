@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/namely
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Namely"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and Namely through API or SDK is a highly valuable solution for businesses"
 leadtext: "It brings together two powerful platforms to streamline communication, automate routine tasks, and track employee performance. Businesses that invest in this integration are likely to benefit from improved productivity, efficiency, and employee engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

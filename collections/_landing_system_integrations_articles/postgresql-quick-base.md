@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/quick-base
 author: Edward Saunders
 title: "Integration of PostgreSQL and Quick Base"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Quick Base through their APIs or SDKs offers powerful solutions for businesses and developers looking to streamline their data management and application workflows"
 leadtext: "By leveraging the strengths of both platforms, businesses can create customized solutions that meet their specific needs and drive more value from their data."
 image: /assets/images/articles/people-sitting-near-table.webp

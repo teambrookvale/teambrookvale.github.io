@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/servicenow
 author: Edward Saunders
 title: "SugarCRM and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM and ServiceNow through API or SDK provides businesses with a powerful tool to manage their customer interactions and processes more efficiently and effectively"
 leadtext: "With this integration, businesses can streamline their workflows, reduce data duplication errors, and improve their customer response time. By taking advantage of this integration, businesses can have a more competitive edge, improve customer satisfaction, and increase revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

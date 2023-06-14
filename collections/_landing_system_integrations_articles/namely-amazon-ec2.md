@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-ec2
 author: Edward Saunders
 title: "Integrating Namely with Amazon EC2 for Efficient Business Management"
+topic: System Integration
 leadhead: "Integrating Namely with Amazon EC2 provides numerous benefits for businesses that are looking to improve their HR operations"
 leadtext: "By using the API or SDK provided by Namely, businesses can easily transfer data between these two systems, which improves efficiency and productivity. Additionally, the integration solves a number of problems such as automated employee data management, efficient benefits administration, and accurate and efficient payroll processing. Therefore, businesses that are looking to streamline their HR operations should consider integrating Namely with Amazon EC2."
 image: /assets/images/articles/people-sitting-near-table.webp

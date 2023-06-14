@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/marketo
 author: Edward Saunders
 title: "The Benefits of Quick Base and Marketo Integration"
+topic: System Integration
 leadhead: "Quick Base and Marketo are powerful tools on their own, but integrating them can unlock even more benefits for businesses"
 leadtext: "By using API or SDK integrations, businesses can automate processes, eliminate errors, and gain deeper insights into their customers. The result is increased productivity, efficiency, and more effective marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/mysql
 author: Edward Saunders
 title: "WHMCS and MySQL Integration"
+topic: System Integration
 leadhead: "The integration of WHMCS and MySQL is essential for web hosting businesses that want to improve customer service, reduce errors and improve efficiency"
 leadtext: "With the right tools and support in place, integrating WHMCS and MySQL is a fairly simple process that can have a big impact on the success of a business.."
 image: /assets/images/articles/people-sitting-near-table.webp

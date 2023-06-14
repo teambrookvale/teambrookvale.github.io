@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/whmcs
 author: Edward Saunders
 title: "Integrating Namely with WHMCS using API or SDK"
+topic: System Integration
 leadhead: "Integrating Namely with WHMCS can bring many benefits to companies that are looking for ways to streamline their HR and client management processes"
 leadtext: "Whether you choose to use an API or an SDK, it's important to carefully consider your use case and choose the best approach for your needs."
 image: /assets/images/articles/people-sitting-near-table.webp

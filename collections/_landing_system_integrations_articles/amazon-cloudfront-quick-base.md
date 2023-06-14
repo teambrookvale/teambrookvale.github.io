@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/quick-base
 author: Edward Saunders
 title: "Amazon CloudFront and Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Quick Base is a powerful tool that can provide faster content delivery and improve the user experience for custom business applications"
 leadtext: "With the API or SDK integration, businesses can automate certain processes and simplify their workflow while reducing server load and saving money. Overall, this integration is a must-have for businesses that want to provide the best possible user experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

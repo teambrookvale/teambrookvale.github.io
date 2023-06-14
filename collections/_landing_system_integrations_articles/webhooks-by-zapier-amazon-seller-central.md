@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/amazon-seller-central
 author: Edward Saunders
 title: "Webhooks by Zapier and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of webhooks by Zapier and Amazon Seller Central is essential for Amazon sellers who want to automate their tasks"
 leadtext: "With this integration, sellers can manage their inventory, receive real-time updates on their orders, and keep their customers happy. Overall, this integration is a time and effort-saving solution for Amazon Sellers."
 image: /assets/images/articles/people-sitting-near-table.webp

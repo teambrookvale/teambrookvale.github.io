@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/amazon-cloudwatch
 author: Edward Saunders
 title: "Zendesk and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and Amazon CloudWatch is beneficial for businesses looking to improve their customer service experience"
 leadtext: "By combining these tools, businesses can get more visibility into their customer support team's performance and stay on top of any service disruptions that may occur. With this integration, businesses can create a more streamlined customer support process that incorporates detailed analytics and insights."
 image: /assets/images/articles/people-sitting-near-table.webp

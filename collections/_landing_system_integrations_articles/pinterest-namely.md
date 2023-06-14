@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/namely
 author: Edward Saunders
 title: "Integration of Pinterest and Namely through API/SDK"
+topic: System Integration
 leadhead: "The integration of Pinterest and Namely through API or SDK can bring several benefits to businesses"
 leadtext: "It can help increase engagement with the audience, streamline HR processes, and create a more seamless experience for mobile users. With the popularity of both platforms, integrating them can prove to be a game-changer for businesses that are looking to increase their online presence and streamline their HR tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/goto-training
 author: Edward Saunders
 title: "Google Groups and GoTo Training API Integration"
+topic: System Integration
 leadhead: "The integration of Google Groups and GoTo Training through API or SDK can greatly benefit organizations by streamlining the communication and training processes"
 leadtext: "With automated invitations and consistent access to training materials, trainers can focus on delivering quality content without worrying about the logistics. Overall, this integration is a worthwhile investment for any team looking to improve their productivity and teamwork."
 image: /assets/images/articles/people-sitting-near-table.webp

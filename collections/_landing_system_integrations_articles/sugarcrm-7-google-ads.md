@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/google-ads
 author: Edward Saunders
 title: "SugarCRM 7+ and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Google Ads is a powerful tool for businesses looking to streamline their marketing efforts and improve their ROI"
 leadtext: "By connecting their CRM and advertising systems, businesses can eliminate data silos, create a unified view of their customer data, and track the effectiveness of their advertising campaigns in real-time."
 image: /assets/images/articles/people-sitting-near-table.webp

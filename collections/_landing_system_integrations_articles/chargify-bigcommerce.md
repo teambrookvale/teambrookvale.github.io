@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/bigcommerce
 author: Edward Saunders
 title: "Integrating Chargify and BigCommerce"
+topic: System Integration
 leadhead: "The integration of Chargify and BigCommerce brings significant benefits to businesses, from improved operations to a better customer experience"
 leadtext: "By utilizing the power of APIs or SDKs, businesses can streamline their processes and focus on growing their businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

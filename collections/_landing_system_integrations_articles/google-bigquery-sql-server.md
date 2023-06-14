@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/sql-server
 author: Edward Saunders
 title: "Integration of Google BigQuery and SQL Server"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and SQL Server through API or SDK is a powerful solution for businesses that need to store, manage, and analyze large datasets"
 leadtext: "With this integration, businesses can overcome data integration challenges, improve scalability, and streamline their data management processes. If you are looking to get started with BigQuery and SQL Server integration, be sure to explore the available APIs and SDKs to find the best solution for your business needs."
 image: /assets/images/articles/people-sitting-near-table.webp

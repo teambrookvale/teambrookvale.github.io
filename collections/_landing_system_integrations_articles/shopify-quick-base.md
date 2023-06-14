@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/quick-base
 author: Edward Saunders
 title: "Shopify and Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Quick Base through API or SDK can solve many problems for businesses"
 leadtext: "It can eliminate the need for manual data entry and provide centralized data storage, making it easier for businesses to access and analyze their data. With the integration, businesses can make better decisions based on real-time data."
 image: /assets/images/articles/people-sitting-near-table.webp

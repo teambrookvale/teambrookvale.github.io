@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Amazon SQS and DynamoDB"
+topic: System Integration
 leadhead: "Amazon SQS and DynamoDB are both powerful resource management tools on their own, but when integrated, they provide an even more efficient system"
 leadtext: "Through the use of an API or SDK, users can easily manage their resources and overcome the scalability, ease of use, and efficiency challenges faced by businesses today."
 image: /assets/images/articles/people-sitting-near-table.webp

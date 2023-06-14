@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/facebook-lead-ads
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and Facebook Lead Ads"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Facebook Lead Ads provides businesses with a powerful monitoring tool that enables them to track the performance of their Lead Ads campaigns in real-time"
 leadtext: "With this integration, businesses can receive alerts when performance metrics fall below a certain threshold, allowing them to take immediate action and optimize their Lead Ads campaigns for better results. Overall, the integration of Amazon CloudWatch and Facebook Lead Ads is a valuable addition to any business's monitoring and advertising arsenal."
 image: /assets/images/articles/people-sitting-near-table.webp

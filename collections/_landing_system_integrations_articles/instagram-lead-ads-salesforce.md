@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/salesforce
 author: Edward Saunders
 title: "How Integration of Instagram Lead Ads and Salesforce Solves Business Problems"
+topic: System Integration
 leadhead: "Integration of Instagram Lead Ads and Salesforce is essential for businesses to stay ahead of the competition"
 leadtext: "The integration helps businesses capture and manage leads effectively, providing an opportunity to convert them into loyal customers. The API and SDK integration help reduce manual entry errors, speed up lead follow-up, and track leads' journey through the sales funnel. In conclusion, businesses should capitalize on this integration to improve their sales efforts and achieve business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

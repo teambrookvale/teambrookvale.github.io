@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/magento-2-x
 author: Edward Saunders
 title: "Integration of Google BigQuery and Magento 2.X"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Magento 2.X can provide many benefits to businesses"
 leadtext: "By combining the power of data analytics with ecommerce management, businesses can gain significant insights that can assist in making informed decisions. Whether it's tracking customer behavior, optimizing marketing campaigns, or analyzing large sets of data, this integration provides a flexible and convenient solution. As a result, businesses can increase their revenue and offer a better shopping experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

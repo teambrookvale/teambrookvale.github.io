@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/twitter
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Twitter"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Twitter is a great option for businesses who want to ensure that their applications and resources are functioning optimally"
 leadtext: "The combination of real-time monitoring and notifications makes it easy for businesses to respond and address issues as they arise. By utilizing Twitter, businesses can also keep clients and customers updated on the status of their services. Overall, the integration of Amazon CloudWatch and Twitter can be a very beneficial addition to any organization's monitoring and management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

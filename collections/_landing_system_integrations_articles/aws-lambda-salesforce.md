@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/salesforce
 author: Edward Saunders
 title: "Integration of AWS Lambda and Salesforce: A Powerful Combination"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Salesforce is a powerful tool that can help businesses streamline their processes and improve overall efficiency"
 leadtext: "It allows developers to create custom workflows and automate tasks easily, without having to worry about infrastructure management. With real-time data processing, scalability, efficiency, and flexibility, this integration can solve common problems faced by businesses and help them achieve their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

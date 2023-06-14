@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/sql-server
 author: Edward Saunders
 title: "Integrating BigCommerce with SQL Server"
+topic: System Integration
 leadhead: "The integration of BigCommerce and SQL Server is a powerful tool that businesses should consider if they are looking to streamline their ecommerce operations"
 leadtext: "By automating data flow and gaining valuable insights into their operations, businesses can increase their efficiency and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

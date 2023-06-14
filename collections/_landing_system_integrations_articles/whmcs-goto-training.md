@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/goto-training
 author: Edward Saunders
 title: "WHMCS and GoTo Training Integration: A Complete Guide"
+topic: System Integration
 leadhead: "The integration of WHMCS and GoTo Training can revolutionize the way you run your business"
 leadtext: "With this integration, you can automate several tasks, save time, and improve your training outcomes. The possibilities are endless, and the benefits are enormous. So, whether you're a small business owner or an enterprise, consider integrating WHMCS and GoTo Training to take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

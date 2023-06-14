@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/mysql
 author: Edward Saunders
 title: "PostgreSQL and MySQL Integration - Benefits and Solutions"
+topic: System Integration
 leadhead: "PostgreSQL and MySQL are two powerful databases that businesses use to manage their data"
 leadtext: "Integration of the two databases through API or SDK brings significant benefits, including reducing data duplication, streamlining data input, and creating a more comprehensive view of business operations. By integrating the two databases, businesses can improve their business performance, make informed decisions, and scale their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

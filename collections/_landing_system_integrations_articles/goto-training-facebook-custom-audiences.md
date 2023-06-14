@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/facebook-custom-audiences
 author: Edward Saunders
 title: "GoTo Training and Facebook Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Facebook Custom Audiences through API or SDK provides several benefits for businesses and marketers"
 leadtext: "By targeting people who have attended your training sessions or webinars, you can ensure that your ads are reaching people who are interested in your product or service. This integration also provides cost-effectiveness and increased ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

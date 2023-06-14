@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/google-groups
 author: Edward Saunders
 title: "Integration of AI by Zapier and Google Groups: A Game-Changer"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Google Groups is a game-changer for businesses and individuals alike"
 leadtext: "It simplifies workflows, streamlines communication, and promotes teamwork, resulting in increased productivity and efficiency. If you haven't already, give this integration a try, and experience the benefits for yourself!"
 image: /assets/images/articles/people-sitting-near-table.webp

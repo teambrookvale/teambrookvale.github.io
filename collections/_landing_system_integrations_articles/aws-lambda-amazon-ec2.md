@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/amazon-ec2
 author: Edward Saunders
 title: "Integration of AWS Lambda and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Amazon EC2 can provide users with a powerful and flexible computing environment that can solve a wide range of problems"
 leadtext: "By leveraging the strengths of each service, users can create custom workflows that meet their specific needs, while only paying for the resources they use. Whether you are a developer, an IT professional, or a business owner, the integration of AWS Lambda and Amazon EC2 can help you achieve your computing goals."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/sugarcrm-7-
 author: Edward Saunders
 title: "Amazon SQS and SugarCRM Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SQS with SugarCRM can help businesses improve their efficiency, scalability, and reliability by creating a real-time communication channel between their systems"
 leadtext: "Whether you are a small startup or a large enterprise, this integration can help you streamline your workflows and simplify your processes."
 image: /assets/images/articles/people-sitting-near-table.webp

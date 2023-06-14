@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/sql-server
 author: Edward Saunders
 title: "WHMCS and SQL Server Integration"
+topic: System Integration
 leadhead: "Integrating WHMCS with SQL Server can bring a host of benefits to web hosting companies"
 leadtext: "From automated billing to improved data accuracy and streamlined client management, the integration of these two systems can help to optimize business operations and improve customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

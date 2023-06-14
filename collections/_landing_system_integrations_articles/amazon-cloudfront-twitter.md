@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/twitter
 author: Edward Saunders
 title: "Integrating Amazon CloudFront and Twitter"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront and Twitter through API or SDK can offer many benefits for users"
 leadtext: "By improving content delivery and data management, users can achieve better results and drive more engagement with their content and services. Whether you are a business owner, marketer, or content creator, this integration can help you to connect with your audience and grow your online presence."
 image: /assets/images/articles/people-sitting-near-table.webp

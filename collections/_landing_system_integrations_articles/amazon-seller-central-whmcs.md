@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/whmcs
 author: Edward Saunders
 title: "Benefits of Integrating Amazon Seller Central and WHMCS"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and WHMCS provides businesses with numerous benefits, including streamlined order fulfillment processes, real-time inventory management, and automatic shipment tracking"
 leadtext: "With the availability of various AWS SDKs, the integration process becomes more accessible and manageable for online businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/quickbooks-online
 author: Edward Saunders
 title: "Integrating GoTo Webinar with QuickBooks Online"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar with QuickBooks Online can provide businesses with many benefits"
 leadtext: "It saves time, streamlines workflows, and improves financial management. By using API or SDK integration, businesses can make the most out of their webinars and provide a better customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

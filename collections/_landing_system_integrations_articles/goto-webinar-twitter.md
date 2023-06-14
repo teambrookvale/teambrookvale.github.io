@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/twitter
 author: Edward Saunders
 title: "Integrating GoTo Webinar with Twitter for a More Effective Webinar Experience"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar with Twitter is a powerful way to enhance the overall experience for all participants"
 leadtext: "It allows for real-time engagement, making the webinar more interactive, informative, and exciting. With the help of an API or SDK, users can easily set up this integration and enjoy the many benefits it has to offer."
 image: /assets/images/articles/people-sitting-near-table.webp

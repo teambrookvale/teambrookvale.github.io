@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/marketo
 author: Edward Saunders
 title: "Moodle and Marketo Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Marketo is a powerful combination that improves the learning experience for learners and streamlines the process for administrators"
 leadtext: "By using API or SDK, institutions can automate the process of syncing learner data between the two systems, and Marketo can use this information to create personalized marketing campaigns that increase engagement and retention rates."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/chargify
 author: Edward Saunders
 title: "Integration of Google Ads and Chargify"
+topic: System Integration
 leadhead: "Integration of Google Ads and Chargify is essential for subscription-based businesses that want to scale their advertising efforts and track the performance of their subscriptions"
 leadtext: "It provides a seamless billing process, valuable insights, and improves the customer experience. By using Chargify's API or SDK, you can connect the two platforms and automate the billing process for your customers. This results in more revenue and less manual work, allowing you to focus on growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

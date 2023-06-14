@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/linkedin-ads
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM with LinkedIn Ads API"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM with LinkedIn Ads API or SDK provides businesses with a powerful tool to manage their customer data and create highly targeted advertising campaigns"
 leadtext: "By leveraging the data from their CRM, businesses can create personalized marketing campaigns that are more likely to convert, and easily track the success of these campaigns within the CRM platform."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/bigcommerce
 author: Edward Saunders
 title: "Greenhouse and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and BigCommerce through API or SDK can greatly benefit businesses"
 leadtext: "It creates a more efficient hiring process by automating job postings and adding a Careers page to the store. This saves time and effort, as well as creates a more professional approach to hiring that can attract more qualified candidates. By implementing this integration, businesses can streamline their hiring process and create a more cohesive brand image for their online store."
 image: /assets/images/articles/people-sitting-near-table.webp

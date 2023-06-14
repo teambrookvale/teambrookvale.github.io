@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/magento
 author: Edward Saunders
 title: "Integration of Magento 2.X and Magento through API or SDK"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Magento through API or SDK provides a streamlined and efficient way for ecommerce merchants to manage their online stores"
 leadtext: "The integration offers centralization of data, enhanced productivity, and security which now allows online businesses to expand their store on various marketplaces and create a unified system. Above all, this integration is a great option for businesses looking to maximize their sales, reduce errors, and optimize their business processes."
 image: /assets/images/articles/people-sitting-near-table.webp

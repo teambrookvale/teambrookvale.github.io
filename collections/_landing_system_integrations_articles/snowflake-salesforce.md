@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/salesforce
 author: Edward Saunders
 title: "The Integration of Snowflake and Salesforce"
+topic: System Integration
 leadhead: "In conclusion, the integration of Snowflake and Salesforce is an excellent way for organizations to achieve a more streamlined approach to data management"
 leadtext: "By combining the capabilities of both applications through an API or SDK, businesses can access real-time insights and automate data transfer between the two systems. Ultimately, this can help organizations make better decisions, improve customer satisfaction, and drive overall success."
 image: /assets/images/articles/people-sitting-near-table.webp

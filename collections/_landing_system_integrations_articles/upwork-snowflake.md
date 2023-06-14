@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/snowflake
 author: Edward Saunders
 title: "Integration of Upwork and Snowflake"
+topic: System Integration
 leadhead: "The integration of Upwork and Snowflake can provide many benefits for businesses, including improved workflow efficiency, better decision-making, and streamlined project management"
 leadtext: "By leveraging data in real-time, businesses can hire the right freelancers, automate billing and payments, and track progress more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

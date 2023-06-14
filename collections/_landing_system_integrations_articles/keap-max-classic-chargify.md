@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/chargify
 author: Edward Saunders
 title: "Integrating Keap Max Classic and Chargify"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic and Chargify through API or SDK can automate billing and subscription management processes while improving customer relationship management"
 leadtext: "This integration saves time, reduces errors, and improves efficiency for businesses offering subscription-based products or services."
 image: /assets/images/articles/people-sitting-near-table.webp

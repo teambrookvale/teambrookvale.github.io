@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/twitter
 author: Edward Saunders
 title: "Upwork & Twitter Integration - A Powerful Duo"
+topic: System Integration
 leadhead: "The integration of Upwork's API or SDK with Twitter is a powerful one that provides a multitude of benefits"
 leadtext: "By tweeting your job postings, articles, and other content, you can easily market yourself to a wider audience and attract more clients and candidates. Improved communication and increased visibility are only two of the many benefits of this powerful integration. So why not give it a try and easily promote your Upwork profile in no time!"
 image: /assets/images/articles/people-sitting-near-table.webp

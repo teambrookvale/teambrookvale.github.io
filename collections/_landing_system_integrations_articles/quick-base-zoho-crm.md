@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/zoho-crm
 author: Edward Saunders
 title: "Integrating Quick Base with Zoho CRM for Improved Productivity"
+topic: System Integration
 leadhead: "Integrating Quick Base with Zoho CRM is a no-brainer for businesses looking to improve productivity, streamline processes, and increase revenue"
 leadtext: "With its user-friendly interface, powerful features, and robust integration capabilities, these two platforms are a match made in heaven."
 image: /assets/images/articles/people-sitting-near-table.webp

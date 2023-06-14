@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/zoho-crm
 author: Edward Saunders
 title: "Integrating Moodle and Zoho CRM for Ultimate Efficiency"
+topic: System Integration
 leadhead: "The integration of Moodle and Zoho CRM is a huge step towards efficiency and productivity in business and education"
 leadtext: "It helps in automation of routine processes and helps in keeping data consistent between the two platforms. The integration also facilitates better communication, saving time and money while ensuring that customers or students are always informed."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/quickbooks-online
 author: Edward Saunders
 title: "Facebook Custom Audiences and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "Facebook Custom Audiences and QuickBooks Online are two powerful tools for businesses looking to expand their reach and streamline their finances"
 leadtext: "By integrating the two using either an API or SDK, businesses can save time, improve accuracy, and increase sales. The integration of Facebook Custom Audiences and QuickBooks Online is a great example of how technology can help businesses succeed in today's digital marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

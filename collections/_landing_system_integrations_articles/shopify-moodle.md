@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/moodle
 author: Edward Saunders
 title: "Shopify and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Moodle can provide numerous benefits for your business"
 leadtext: "It can help you streamline user management, increase revenue, and automate inventory management. By integrating these two platforms through API or SDK, you can create a seamless experience for your customers and provide an enhanced learning experience for your students. Hence, entrepreneurs and educators should consider integrating Shopify and Moodle to get more value from their E-commerce and online course platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

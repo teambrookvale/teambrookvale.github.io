@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-polly
 author: Edward Saunders
 title: "Integrating WHMCS with Amazon Polly"
+topic: System Integration
 leadhead: "Integrating WHMCS with Amazon Polly is a good idea, as it brings a new level of accessibility and convenience"
 leadtext: "Accessibility is critical for any business that seeks to take care of all its clients despite their challenges. With this integration, clients with visual impairments can access the system efficiently. Using Amazon Polly's text-to-speech service is also a time and resource-efficient way of creating audio messages for your clients."
 image: /assets/images/articles/people-sitting-near-table.webp

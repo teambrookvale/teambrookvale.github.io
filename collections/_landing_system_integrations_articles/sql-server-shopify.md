@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/shopify
 author: Edward Saunders
 title: "Integrating SQL Server and Shopify for Enhanced E-commerce Operations"
+topic: System Integration
 leadhead: "Integrating SQL Server and Shopify is a smart move for businesses that want to streamline their e-commerce operations and enhance their customer experience"
 leadtext: "By using API or SDK, businesses can easily and efficiently manage their data and transactions, save time and costs, and make informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

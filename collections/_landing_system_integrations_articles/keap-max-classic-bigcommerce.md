@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/bigcommerce
 author: Edward Saunders
 title: "Keap Max Classic and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and BigCommerce through API or SDK is a powerful tool for businesses looking to streamline their sales and marketing processes"
 leadtext: "By automating tasks and syncing data, businesses can save time and focus on growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

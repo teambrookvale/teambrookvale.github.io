@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/instagram-lead-ads
 author: Edward Saunders
 title: "How Amazon CloudFront and Instagram Lead Ads Integration Solves Problems"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Instagram Lead Ads is a powerful tool that can help businesses improve the user experience and increase conversion rates"
 leadtext: "By taking advantage of CloudFront's global network of servers, businesses can ensure that their lead ads load quickly and smoothly for users all over the world, leading to more successful lead generation campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

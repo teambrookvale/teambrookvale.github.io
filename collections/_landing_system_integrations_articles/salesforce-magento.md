@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/magento
 author: Edward Saunders
 title: "Salesforce and Magento Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Salesforce and Magento is a powerful solution that can benefit any business that uses both platforms"
 leadtext: "By syncing data between the two platforms and gaining a 360-degree view of their customers, businesses can improve their operations and provide better customer experiences. If you are a business that uses both Salesforce and Magento, consider integrating the two to unlock their full potential."
 image: /assets/images/articles/people-sitting-near-table.webp

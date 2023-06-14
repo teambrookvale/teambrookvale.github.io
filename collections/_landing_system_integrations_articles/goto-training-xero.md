@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/xero
 author: Edward Saunders
 title: "Integration of GoToTraining and Xero for Seamless Business Management"
+topic: System Integration
 leadhead: "Integrating GoToTraining and Xero can help businesses streamline their operations, improve productivity, and ensure financial health"
 leadtext: "With the help of API or SDK, businesses can automate manual tasks, eliminate data entry errors, and save time, enabling them to focus on more critical business activities."
 image: /assets/images/articles/people-sitting-near-table.webp

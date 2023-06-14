@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/greenhouse
 author: Edward Saunders
 title: "Integrating BambooHR and Greenhouse: Streamlining Your HR Processes"
+topic: System Integration
 leadhead: "Integrating BambooHR and Greenhouse provides companies with a streamlined HR process, saving time and ensuring accuracy"
 leadtext: "With the elimination of duplicate data entry, improved decision-making, and a seamless hiring process, this integration can help your HR team focus on what's most important - your employees."
 image: /assets/images/articles/people-sitting-near-table.webp

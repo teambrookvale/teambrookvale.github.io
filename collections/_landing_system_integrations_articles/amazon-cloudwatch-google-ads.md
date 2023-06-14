@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/google-ads
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Google Ads"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Google Ads through API or SDK can provide advertisers with valuable insights into the performance of their ads"
 leadtext: "By using real-time data and automated alerts, advertisers can make more informed decisions about their advertising strategy and optimize their ad campaigns for better performance."
 image: /assets/images/articles/people-sitting-near-table.webp

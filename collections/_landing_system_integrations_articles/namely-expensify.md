@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/expensify
 author: Edward Saunders
 title: "Integrating Namely and Expensify"
+topic: System Integration
 leadhead: "The integration of Namely and Expensify is a great solution for businesses that want to simplify their HR and finance processes"
 leadtext: "By using API or SDK, businesses can easily integrate the two platforms and streamline their expense reporting process. The integration ensures data accuracy and consistency while reducing the risk of errors and compliance issues."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/magento-2-x
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Magento 2.X"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Magento 2.X through their APIs or SDKs offers a robust solution for online stores that require scalability, high availability, and cost-effectiveness"
 leadtext: "By leveraging the power of these technologies, developers can build powerful solutions that enable online businesses to thrive and grow."
 image: /assets/images/articles/people-sitting-near-table.webp

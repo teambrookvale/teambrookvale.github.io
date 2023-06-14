@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/quick-base
 author: Edward Saunders
 title: "Integrating AWS Lambda and Quick Base: A Solution to Streamline Business Processes"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Quick Base provides businesses with a way to automate their processes, build custom applications, and streamline data management"
 leadtext: "By leveraging the power of cloud computing, businesses can scale their operations and achieve greater efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/facebook-custom-audiences
 author: Edward Saunders
 title: "The Benefits of integrating GoTo Webinar with Facebook Custom Audiences"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar with Facebook Custom Audiences can take your marketing efforts to the next level"
 leadtext: "It allows businesses to create highly targeted ads based on user behavior during a webinar and gain insights into which topics and calls-to-action are most effective. If you’re not already using this integration, it’s worth exploring to see how it can improve your marketing results."
 image: /assets/images/articles/people-sitting-near-table.webp

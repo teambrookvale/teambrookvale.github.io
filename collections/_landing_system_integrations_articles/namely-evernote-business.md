@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/evernote-business
 author: Edward Saunders
 title: "Namely and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration between Namely and Evernote Business is a powerful tool for any business looking to streamline their operations and improve productivity"
 leadtext: "By using the API and SDK provided by both platforms, you can easily connect them and unlock a number of powerful features and benefits. So why not give it a try?"
 image: /assets/images/articles/people-sitting-near-table.webp

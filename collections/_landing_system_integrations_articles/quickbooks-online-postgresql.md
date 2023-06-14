@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/postgresql
 author: Edward Saunders
 title: "Integration of QuickBooks Online and PostgreSQL through API or SDK"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and PostgreSQL through API or SDK can offer small business owners a more streamlined and accurate accounting process"
 leadtext: "With real-time data syncing and a more complete view of financial data, business owners can make better-informed decisions and focus on growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

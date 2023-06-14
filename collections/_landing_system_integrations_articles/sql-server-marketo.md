@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/marketo
 author: Edward Saunders
 title: "Integrating SQL Server and Marketo through API or SDK"
+topic: System Integration
 leadhead: "Integrating SQL Server and Marketo through API or SDK can provide several benefits for businesses"
 leadtext: "It can help them streamline their marketing processes, target the right audience with personalized campaigns, and make informed decisions based on customer insights. By automating the process of transferring data between the two systems, businesses can save time and ensure that the data is always accurate and up-to-date."
 image: /assets/images/articles/people-sitting-near-table.webp

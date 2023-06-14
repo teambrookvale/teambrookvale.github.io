@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-ses
 author: Edward Saunders
 title: "Integrating Chargify and Amazon SES for Smoother Subscription Management"
+topic: System Integration
 leadhead: "Integrating Chargify and Amazon SES creates a powerful tool for businesses to manage subscriptions and communicate with customers"
 leadtext: "Using APIs or SDKs, companies can simplify subscription management, reduce workload, increase customer satisfaction, and improve efficiency in their operations. With its many benefits, integration creates a win-win situation for both businesses and customers."
 image: /assets/images/articles/people-sitting-near-table.webp

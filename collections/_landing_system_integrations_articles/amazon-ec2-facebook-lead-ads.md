@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating Amazon EC2 and Facebook Lead Ads through API or SDK"
+topic: System Integration
 leadhead: "Amazon EC2 and Facebook Lead Ads are two of the most powerful technologies available to businesses today"
 leadtext: "When integrated through API or SDK, they can help businesses achieve amazing things by efficiently processing and storing large amounts of data, generating more leads, improving customer engagement, and gaining deeper insights into customer behavior. If you're not already leveraging the power of these two technologies together, now is the time to start."
 image: /assets/images/articles/people-sitting-near-table.webp

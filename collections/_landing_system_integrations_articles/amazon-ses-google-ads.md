@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/google-ads
 author: Edward Saunders
 title: "Integrating Amazon SES and Google Ads for Better E-commerce Marketing"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Google Ads is important for businesses looking to improve their marketing efficiency"
 leadtext: "By targeting the right audience and saving time, businesses can ultimately improve their ROI and grow their operations. The use of API or SDK plays a crucial role in making this integration process smooth, easy, and seamless. Therefore, if you’re looking to improve your e-commerce marketing, integrating these two tools is definitely something worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

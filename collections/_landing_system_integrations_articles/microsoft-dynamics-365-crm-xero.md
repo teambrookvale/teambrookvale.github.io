@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/xero
 author: Edward Saunders
 title: "How Microsoft Dynamics 365 CRM and Xero Integration Makes Business Easier"
+topic: System Integration
 leadhead: "By integrating Microsoft Dynamics 365 CRM and Xero, businesses can improve accuracy, increase efficiency, reduce time spent on manual tasks, and better manage their finances"
 leadtext: "The advantages of this integration show that inter-connectivity is no longer just a luxury but a necessity for businesses looking to stay competitive in today's fast-paced and technology-driven environment."
 image: /assets/images/articles/people-sitting-near-table.webp

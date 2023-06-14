@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/google-groups
 author: Edward Saunders
 title: "Calldrip and Google Groups Integration"
+topic: System Integration
 leadhead: "When you integrate Calldrip and Google Groups through API or SDK, you can enhance your lead response process, increase efficiency, and improve collaboration within your team"
 leadtext: "It's a powerful tool that can help you stay ahead of the game and achieve your sales goals!"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/chargify
 author: Edward Saunders
 title: "Integrating Google Groups and Chargify - a solution in the making"
+topic: System Integration
 leadhead: "The integration of Google Groups and Chargify provides a comprehensive solution for businesses' community management and subscription billing needs"
 leadtext: "The integration can be achieved using API or SDK, making it an easy and hassle-free process for businesses. The benefits of integration are many, including time and cost savings, automated billing, and unified community management."
 image: /assets/images/articles/people-sitting-near-table.webp

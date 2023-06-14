@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-dynamodb
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and Amazon DynamoDB"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Amazon DynamoDB can bring many benefits to a business like efficient data management, gaining comprehensive insights, and making data-driven decisions"
 leadtext: "With API or SDK integration, businesses can supercharge their data management systems and gain a competitive edge over their competitors."
 image: /assets/images/articles/people-sitting-near-table.webp

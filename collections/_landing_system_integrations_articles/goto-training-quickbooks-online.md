@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/quickbooks-online
 author: Edward Saunders
 title: "GoTo Training and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating GoTo Training and QuickBooks Online through an API or SDK improves the functionality and efficiency of these two tools"
 leadtext: "It provides a seamless experience for users by automating manual processes, reducing errors, and providing real-time data synchronization. Businesses that use these tools should consider integrating them to improve their productivity and streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

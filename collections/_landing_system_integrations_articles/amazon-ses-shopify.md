@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/shopify
 author: Edward Saunders
 title: "Integration of Amazon SES and Shopify"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Shopify is a great way for businesses to automate their email marketing campaigns and transactional emails"
 leadtext: "By using Amazon SES to send emails, businesses can increase the chances of their emails being delivered to their customer's inbox. This integration is a great way to improve the customer experience and increase customer engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

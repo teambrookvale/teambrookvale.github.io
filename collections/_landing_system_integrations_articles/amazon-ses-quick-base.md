@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/quick-base
 author: Edward Saunders
 title: "Integrating Amazon SES and Quick Base for Better Communication"
+topic: System Integration
 leadhead: "By integrating Amazon SES and Quick Base, businesses can streamline their email workflow and improve their communication"
 leadtext: "This integration can help businesses save time and resources while also getting real-time updates on their email delivery status. With Quick Base, businesses can also improve their data management and analysis, giving them a more informed understanding of their business operations and performance."
 image: /assets/images/articles/people-sitting-near-table.webp

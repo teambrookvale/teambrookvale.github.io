@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/magento-2-x
 author: Edward Saunders
 title: "Chargify and Magento 2.X Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Magento 2.X provides businesses with a robust solution for managing subscriptions and payments online"
 leadtext: "With automated subscription management, reduced errors, and increased efficiency, businesses can focus on growing their customer base and increasing revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

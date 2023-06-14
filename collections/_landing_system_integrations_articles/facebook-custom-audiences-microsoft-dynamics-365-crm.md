@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integration of Facebook Custom Audiences and Microsoft Dynamics 365 CRM - A Game Changer"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Dynamics 365 CRM is a game-changer for businesses"
 leadtext: "By integrating these two platforms, companies can create targeted advertising campaigns based on customer data stored in Dynamics 365 CRM, resulting in increased sales and brand awareness, and higher ROI. Integration of these two platforms should be a top priority for any business looking to improve its customer sales and engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

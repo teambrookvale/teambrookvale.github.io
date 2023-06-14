@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/magento
 author: Edward Saunders
 title: "Integrating Amazon EC2 and Magento for a Seamless E-commerce Experience"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Magento can help online retailers to enhance the performance, security, and scalability of their e-commerce websites"
 leadtext: "This integration can be done through an API or SDK, depending on the needs of the retailer. With an integrated EC2-Magento setup, online retailers can offer their customers a seamless e-commerce experience that is fast, secure, and scalable."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/webhooks-by-zapier
 author: Edward Saunders
 title: "Expensify and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Expensify and Webhooks by Zapier can significantly improve expense management for businesses"
 leadtext: "By automating the transfer of expense data, organizations can reduce the potential for errors, eliminate manual data entry, and streamline their processes. With the advancement of technology, it is important for businesses to leverage different tools to improve their operations and overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

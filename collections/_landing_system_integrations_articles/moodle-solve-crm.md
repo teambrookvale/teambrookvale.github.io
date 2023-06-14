@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/solve-crm
 author: Edward Saunders
 title: "Integration of Moodle and Solve CRM"
+topic: System Integration
 leadhead: "The integration of Moodle and Solve CRM through API or SDK is a game-changer for businesses that are looking to improve their productivity and efficiency"
 leadtext: "By integrating these two popular software applications, businesses can streamline their operations, reduce data duplication and entry errors, and improve their customer service. With a wide range of benefits and advantages, the integration of Moodle and Solve CRM is definitely worth considering for businesses of all sizes and types."
 image: /assets/images/articles/people-sitting-near-table.webp

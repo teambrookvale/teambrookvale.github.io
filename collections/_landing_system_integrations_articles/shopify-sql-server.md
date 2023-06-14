@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/sql-server
 author: Edward Saunders
 title: "How Shopify and SQL Server Integration through API/SDK can solve business problems"
+topic: System Integration
 leadhead: "The integration of Shopify and SQL Server through API or SDK is a powerful tool for businesses that want to streamline their data management processes"
 leadtext: "By automating data transfer, businesses can save time and avoid errors that can result from manual data entry. Additionally, the integration allows for real-time updates and improved reporting and analytics. Overall, if your business uses Shopify and SQL Server, it's worth considering integrating the two platforms to streamline your operations and gain a competitive edge."
 image: /assets/images/articles/people-sitting-near-table.webp

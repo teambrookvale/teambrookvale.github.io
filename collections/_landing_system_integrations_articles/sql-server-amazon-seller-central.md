@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/amazon-seller-central
 author: Edward Saunders
 title: "Integration of SQL Server and Amazon Seller Central"
+topic: System Integration
 leadhead: "In conclusion, integration between SQL Server and Amazon Seller Central provides a significant advantage for sellers using Amazon Seller Central"
 leadtext: "By utilizing APIs and SDKs, it can provide a seamless transition of data between the two platforms. Integration provides accurate and updated inventory data, the ability to analyze sales data, and reduces manual data error.  A Seller becomes free to worry less about inventory and sales tracking and focus more on expanding product offerings that provide a better customer experience and substantially increasing profit levels."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/pinterest
 author: Edward Saunders
 title: "Zoho CRM and Pinterest Integration"
+topic: System Integration
 leadhead: "Zoho CRM and Pinterest integration can be a game-changer for businesses looking to increase their online presence and drive sales"
 leadtext: "The integration of the two platforms can help businesses reach their target audience effectively and boost brand awareness. By analyzing the performance of their pins and boards through Zoho CRM, businesses can identify their top-performing content and create more engaging and effective posts."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of Moodle and Amazon CloudWatch"
+topic: System Integration
 leadhead: "The integration of Moodle and Amazon CloudWatch is a game-changer in the online learning space"
 leadtext: "By providing educators with a platform to monitor and manage online learners, it helps improve the quality of the learning experience. With the importance of online learning in today's world, this integration is essential for the growth of the industry, and it's a step in the right direction."
 image: /assets/images/articles/people-sitting-near-table.webp

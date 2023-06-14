@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/chargify
 author: Edward Saunders
 title: "Integrating Upwork and Chargify"
+topic: System Integration
 leadhead: "In conclusion, integrating Upwork and Chargify through an API or SDK can offer several benefits for businesses that manage freelance workers"
 leadtext: "By automating and streamlining payment and subscription management processes, businesses can save time, reduce errors, and gain better visibility into their freelancer expenses. If you're interested in integrating these platforms, be sure to explore the APIs and SDKs offered by both Upwork and Chargify to find the best solution for your needs."
 image: /assets/images/articles/people-sitting-near-table.webp

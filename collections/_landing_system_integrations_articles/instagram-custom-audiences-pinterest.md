@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/pinterest
 author: Edward Saunders
 title: "Instagram Custom Audiences and Pinterest Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Pinterest is a valuable tool for businesses looking to maximize the efficacy of their social media marketing efforts"
 leadtext: "By using an API or SDK, businesses can target individuals on Pinterest that have already shown an interest in their brand on Instagram. This can lead to increased ROI and a more cohesive brand experience for individuals across multiple social media platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

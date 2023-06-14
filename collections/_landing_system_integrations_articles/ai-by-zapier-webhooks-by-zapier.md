@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/webhooks-by-zapier
 author: Edward Saunders
 title: "Integration of AI by Zapier and Webhooks by Zapier to Solve Business Problems"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Webhooks by Zapier can offer many benefits to businesses"
 leadtext: "By automating tasks, businesses can save time, reduce errors, and improve their operations. AI can provide valuable insights into data and help businesses to make better decisions. By using Webhooks, businesses can create custom workflows that automate tasks and integrate different applications. Overall, the integration of AI by Zapier and Webhooks by Zapier is an excellent way for businesses to streamline their operations and improve their productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/salesforce
 author: Edward Saunders
 title: "Integrating Xero with Salesforce | Benefits & Solutions"
+topic: System Integration
 leadhead: "The integration of Xero and Salesforce can bring various benefits to businesses of all sizes, helping them streamline their financial and customer management processes, reduce errors, improve productivity, and make better decisions"
 leadtext: "Whether you choose to integrate the two softwares through API or SDK, the advantages you can gain from the integration can be significant, enabling more profitable growth for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

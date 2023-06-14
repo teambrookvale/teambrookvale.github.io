@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/linkedin-ads
 author: Edward Saunders
 title: "Greenhouse and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and LinkedIn Ads is a valuable solution for recruiters who want to streamline their recruiting process and reach a larger pool of qualified candidates"
 leadtext: "By utilizing an API or SDK, the integration allows for better tracking of candidate sources, automatic addition of candidate information, and more efficient management of the recruiting process as a whole."
 image: /assets/images/articles/people-sitting-near-table.webp

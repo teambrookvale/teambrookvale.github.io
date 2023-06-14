@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/marketo
 author: Edward Saunders
 title: "Integration of Keap Max Classic and Marketo"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Marketo is an excellent option for businesses looking to take their marketing efforts to the next level"
 leadtext: "By using the API or SDK to integrate the two platforms, businesses can better manage their marketing campaigns, streamline their lead management, and optimize their marketing activities for maximum impact. Overall, integrating Keap Max Classic and Marketo is a smart choice for any business looking to enhance its marketing strategy and grow its business."
 image: /assets/images/articles/people-sitting-near-table.webp

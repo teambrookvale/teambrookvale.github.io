@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/solve-crm
 author: Edward Saunders
 title: "GoTo Training and Solve CRM Integration"
+topic: System Integration
 leadhead: "Integration of GoTo Training and Solve CRM can provide businesses with a one-stop
       solution for customer engagement and training"
 leadtext: "By eliminating manual data entry, streamlining

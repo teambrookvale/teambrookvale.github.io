@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/amazon-ses
 author: Edward Saunders
 title: "Integration of Google BigQuery and Amazon SES"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Amazon SES can provide numerous benefits to businesses that need to analyze data and send targeted emails to customers"
 leadtext: "Whether you use APIs or SDKs, the process of integration is easy and can help you improve customer engagement, retention, and ultimately increase your business results."
 image: /assets/images/articles/people-sitting-near-table.webp

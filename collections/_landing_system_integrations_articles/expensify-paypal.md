@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/paypal
 author: Edward Saunders
 title: "Expensify and PayPal Integration - Solving Payment Tracking Problems"
+topic: System Integration
 leadhead: "Expensify and PayPal are two powerful tools that can help businesses manage their expenses and payments"
 leadtext: "By integrating the two systems, businesses can further simplify their processes and reduce manual labor. The integration solves many problems and allows businesses to save time and money by automating their expense and payment tracking processes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/shopify
 author: Edward Saunders
 title: "Integrating GoTo Webinar with Shopify"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar with Shopify can bring numerous benefits to businesses that use both platforms"
 leadtext: "By automating the webinar registration process, accessing customer data and improving marketing efforts, businesses can save time and increase sales. With an easy-to-use API or SDK, integrating the two platforms is simple and straightforward."
 image: /assets/images/articles/people-sitting-near-table.webp

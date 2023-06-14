@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-ses
 author: Edward Saunders
 title: "Amazon S3 and SES Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and SES through their API or SDK can help businesses improve their operations by automating processes, enhancing scalability, improving security, and improving email deliverability"
 leadtext: "By taking advantage of these two powerful services and connecting them through code, businesses can streamline their operations and focus on what they do best."
 image: /assets/images/articles/people-sitting-near-table.webp

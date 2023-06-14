@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/goto-webinar
 author: Edward Saunders
 title: "Integration of Xero and GoTo Webinar"
+topic: System Integration
 leadhead: "The integration of Xero and GoTo Webinar through API or SDK can help businesses manage their finances and their online events more effectively"
 leadtext: "It eliminates the need for manual data entry and provides real-time insights into financials and audiences. If you're looking to streamline your business operations and maximize your resources, integrating Xero and GoTo Webinar could be the solution you're looking for!"
 image: /assets/images/articles/people-sitting-near-table.webp

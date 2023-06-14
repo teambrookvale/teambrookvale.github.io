@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/solve-crm
 author: Edward Saunders
 title: "Namely and Solve CRM Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Namely and Solve CRM can provide businesses with a comprehensive solution for managing employee and customer data"
 leadtext: "By leveraging the power of these two tools, businesses can enhance their operations, improve customer satisfaction, and increase revenue growth. If you're interested in integrating Namely and Solve CRM in your business operations, consult with a software developer or vendor for more information on how to implement it and realize its benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

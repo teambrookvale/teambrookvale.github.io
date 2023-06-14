@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Amazon CloudFront"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Amazon CloudFront is a powerful solution for anyone looking to host webinars with a global audience"
 leadtext: "By leveraging the capabilities of these two platforms, you can improve the performance of your webinars and ensure that your content is delivered quickly and securely. So, whether you're a small business owner or a large corporation, this integration is definitely worth considering!"
 image: /assets/images/articles/people-sitting-near-table.webp

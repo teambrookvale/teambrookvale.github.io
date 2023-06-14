@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/amazon-polly
 author: Edward Saunders
 title: "Integration of Google Ads and Amazon Polly"
+topic: System Integration
 leadhead: "Integration of Google Ads and Amazon Polly is a useful solution for businesses looking to create engaging, accessible, and automated audio advertisements"
 leadtext: "By using an API or SDK, businesses can create audio advertisements that are more engaging than traditional text-based advertisements, save time and resources, and improve accessibility for visually-impaired users."
 image: /assets/images/articles/people-sitting-near-table.webp

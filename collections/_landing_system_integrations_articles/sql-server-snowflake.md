@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/snowflake
 author: Edward Saunders
 title: "Integrating SQL Server and Snowflake"
+topic: System Integration
 leadhead: "Integrating SQL Server and Snowflake through an API or SDK is an effective way to manage data"
 leadtext: "The integration solution solves the problems that businesses face in managing their data while also opening up new possibilities for data analysis and insights. By integrating SQL Server and Snowflake, businesses can streamline their processes, save time and resources, and make use of the advanced data analysis capabilities offered by Snowflake."
 image: /assets/images/articles/people-sitting-near-table.webp

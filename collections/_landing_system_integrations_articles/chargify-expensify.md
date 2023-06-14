@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/expensify
 author: Edward Saunders
 title: "Chargify and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Expensify can provide numerous benefits for businesses, including improved efficiency, reduced errors, and increased visibility into their financials"
 leadtext: "Whether through APIs or SDKs, the integration can be customized to meet the specific needs of businesses and streamline their billing and expense management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

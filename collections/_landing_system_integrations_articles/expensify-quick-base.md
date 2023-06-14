@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/quick-base
 author: Edward Saunders
 title: "Expensify and Quick Base integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Quick Base can bring significant benefits to businesses looking to streamline their expense management process and improve their workflows"
 leadtext: "By connecting these two platforms, businesses can gain real-time visibility into their expenses, reduce human errors, and increase productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

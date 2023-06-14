@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/amazon-sns
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with Amazon SNS"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads with Amazon SNS through API or SDK can provide a powerful solution for businesses looking to streamline their lead generation and follow-up processes"
 leadtext: "By automating the transfer of leads from Facebook Lead Ads to Amazon SNS and using targeted messaging to follow up with leads in real-time, businesses can save time and resources while increasing their chances of converting leads into customers. The insights provided by the integration can help businesses optimize their lead generation and follow-up processes over time, leading to improved results and a better return on investment."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/instagram-lead-ads
 author: Edward Saunders
 title: "Microsoft Dynamics 365 CRM and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Instagram Lead Ads can be a game changer for businesses looking to improve their lead generation and management processes"
 leadtext: "By automating the transfer of lead information and customizing lead forms, businesses can save time, improve targeting, and increase revenue. If you're looking to take your lead generation and management to the next level, consider integrating Microsoft Dynamics 365 CRM and Instagram Lead Ads."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/quick-base
 author: Edward Saunders
 title: "Zoho CRM and Quick Base Integration: Streamlining Your Business Processes"
+topic: System Integration
 leadhead: "Zoho CRM and Quick Base are powerful tools individually, but their integration can take your business processes to the next level"
 leadtext: "By syncing your customer data, automating your workflows, and creating custom apps and reports, you can streamline your operations, increase productivity, and make informed decisions. Whether you use APIs or third-party integration platforms, consider integrating Zoho CRM and Quick Base to get the most out of your business software solutions."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-sns
 author: Edward Saunders
 title: "Integration of WHMCS and Amazon SNS"
+topic: System Integration
 leadhead: "The integration of WHMCS and Amazon SNS is a powerful tool for web hosting businesses"
 leadtext: "It provides many benefits such as faster communication with clients, better security, and improved organization of client data. By utilizing the API or SDK, developers can create unique and efficient solutions that can help streamline their business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

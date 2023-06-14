@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/shopify
 author: Edward Saunders
 title: "How Google BigQuery and Shopify Integration Can Help Your Business"
+topic: System Integration
 leadhead: "Overall, integrating Google BigQuery and Shopify allows businesses to gain access to real-time data, which gives them a competitive edge"
 leadtext: "Business owners can make data-driven decisions about their inventory, marketing, and other important aspects of their business. This integration solves many problems that businesses face and helps them reach their goals. In conclusion, if you're a Shopify merchant, integrating with Google BigQuery is a smart move that will pay off in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

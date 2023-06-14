@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/postgresql
 author: Edward Saunders
 title: "Integration of Calldrip and PostgreSQL"
+topic: System Integration
 leadhead: "In conclusion, the integration of Calldrip and PostgreSQL is a great way to streamline business operations, manage data effectively and improve customer relationship management"
 leadtext: "The linked nature of the two systems means that they complement each other in a way that can lead to better business outcomes. Businesses that want to enhance their customer relationship management strategy should consider integrating Calldrip and PostgreSQL."
 image: /assets/images/articles/people-sitting-near-table.webp

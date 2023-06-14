@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/goto-webinar
 author: Edward Saunders
 title: "Integrating Amazon SNS and GoToWebinar"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and GoToWebinar can be incredibly beneficial for businesses looking to improve their communication and engagement efforts"
 leadtext: "With the ability to automate processes, target specific subscriber groups, and send real-time notifications, this integration can boost engagement, save time, and ultimately lead to greater success."
 image: /assets/images/articles/people-sitting-near-table.webp

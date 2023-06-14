@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/expensify
 author: Edward Saunders
 title: "Amazon SNS and Expensify Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and Expensify can greatly simplify the expense reporting process, reduce errors, and increase efficiency"
 leadtext: "Through API or SDK integration, developers can easily enable this seamless process of notification and report creation. With the implementation of these services, businesses can improve their overall financial management, ensuring that every expense report is accounted for and processed in a timely manner."
 image: /assets/images/articles/people-sitting-near-table.webp

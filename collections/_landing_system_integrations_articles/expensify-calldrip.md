@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/calldrip
 author: Edward Saunders
 title: "Expensify and Calldrip Integration through API/SDK"
+topic: System Integration
 leadhead: "The integration of Expensify and Calldrip through API or SDK is a game-changer for businesses looking to streamline their lead and expense management processes"
 leadtext: "It helps them save time, reduce errors, increase productivity, and drive growth. By adopting these tools and their integration, businesses can take the first step towards digital transformation and excel in today's highly competitive market."
 image: /assets/images/articles/people-sitting-near-table.webp

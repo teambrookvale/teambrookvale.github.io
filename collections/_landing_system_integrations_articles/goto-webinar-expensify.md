@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/expensify
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Expensify through API or SDK"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Expensify through API or SDK offers several benefits for businesses that rely on webinars to collaborate and communicate with their teams and clients"
 leadtext: "By automating the expense tracking and management process, businesses can save time, reduce errors, and gain better financial insights into their webinar-related expenses. This integration is a perfect example of how different tools can work together seamlessly to offer a comprehensive solution for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

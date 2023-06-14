@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/upwork
 author: Edward Saunders
 title: "Xero and Upwork Integration: An Effortless Solution"
+topic: System Integration
 leadhead: "The integration of Xero and Upwork through their API or SDK offers businesses an effortless solution to their financial and project management needs"
 leadtext: "It enables businesses to streamline their operations, eliminate manual errors, and reduce administrative burden. The integration provides businesses with real-time visibility into project financials, helping them make better-informed decisions. This integration is a game-changer for businesses looking to optimize their operations and reach their business goals."
 image: /assets/images/articles/people-sitting-near-table.webp

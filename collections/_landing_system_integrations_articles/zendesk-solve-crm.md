@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/solve-crm
 author: Edward Saunders
 title: "Integrating Zendesk and Solve CRM - How it Solves Problems"
+topic: System Integration
 leadhead: "Integrating Zendesk and Solve CRM can be a game-changer for businesses seeking to improve their customer management process and deliver better customer service"
 leadtext: "By integrating the two cloud-based solutions through API or SDK, businesses can improve data accuracy, streamline workflows, and ultimately achieve better customer satisfaction and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

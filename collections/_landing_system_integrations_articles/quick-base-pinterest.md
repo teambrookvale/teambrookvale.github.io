@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/pinterest
 author: Edward Saunders
 title: "Integrating Quick Base and Pinterest via API or SDK"
+topic: System Integration
 leadhead: "In conclusion, the integration of Quick Base and Pinterest via API or SDK can bring numerous benefits to businesses"
 leadtext: "It can enhance collaboration, streamline marketing campaigns, and improve customer engagement. By leveraging the power of APIs and SDKs, businesses can better manage their data and gain valuable insights into their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

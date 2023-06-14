@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/google-bigquery
 author: Edward Saunders
 title: "Google Groups and Google BigQuery Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Google Groups and Google BigQuery can help organizations solve many problems related to data analytics and collaboration"
 leadtext: "With the help of APIs and SDKs provided by Google, developers can create custom solutions that meet the specific needs of their organization. By taking advantage of this integration, organizations can gain valuable insights into customer behavior, improve decision-making, and collaborate more effectively across teams and departments."
 image: /assets/images/articles/people-sitting-near-table.webp

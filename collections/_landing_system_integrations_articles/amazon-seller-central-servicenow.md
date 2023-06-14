@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/servicenow
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and ServiceNow through API/SDK"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and ServiceNow through API or SDK offers a solution to many of the challenges businesses face when managing their sales on Amazon"
 leadtext: "By providing a single platform to manage sales and IT service management, businesses can address issues more efficiently, automate tasks, and make informed decisions based on real-time data."
 image: /assets/images/articles/people-sitting-near-table.webp

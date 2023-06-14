@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/amazon-ses
 author: Edward Saunders
 title: "How Amazon CloudWatch and Amazon SES Integration Solves Common Problems"
+topic: System Integration
 leadhead: "Amazon CloudWatch and Amazon SES integration is a great option for businesses looking to maintain a reliable email system while also monitoring its performance"
 leadtext: "This integration can help organizations avoid common issues with email delivery, save time, and avoid the revenue drain from missed opportunities. Amazon Web Services provides an intuitive and user-friendly interface to set up integrations, making the process seamless, and accessible to a wide variety of users."
 image: /assets/images/articles/people-sitting-near-table.webp

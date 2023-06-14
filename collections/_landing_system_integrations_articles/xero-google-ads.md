@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/google-ads
 author: Edward Saunders
 title: "Xero and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Google Ads is a game-changer for businesses looking to streamline their operations and improve their financial performance"
 leadtext: "This integration provides businesses with the information they need to make data-driven decisions and ensure they stay within their budget. SME's will have individual financial gains and improved reach and the desired target audience when they integrate their Google Ads account with Xero."
 image: /assets/images/articles/people-sitting-near-table.webp

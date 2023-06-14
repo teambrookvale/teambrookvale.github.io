@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/snowflake
 author: Edward Saunders
 title: "Integrating GoTo Training and Snowflake | Blog"
+topic: System Integration
 leadhead: "Integrating GoTo Training and Snowflake provides a more comprehensive way to manage learning environments and obtain meaningful insights into training programs"
 leadtext: "With real-time data analysis and quality reporting, this powerful integration provides the information businesses need to improve their overall effectiveness. Implementation involves a straightforward process that could unlock massive potential beyond the two platforms in matter of time."
 image: /assets/images/articles/people-sitting-near-table.webp

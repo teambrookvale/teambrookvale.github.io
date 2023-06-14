@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/xero
 author: Edward Saunders
 title: "Zoho CRM and Xero Integration"
+topic: System Integration
 leadhead: "Zoho CRM and Xero integration is a great way for small businesses to simplify their workflow and streamline their operations"
 leadtext: "Both software solutions provide various features that, when integrated, can help businesses manage their finances and customer relationships efficiently. This integration eliminates the need for manual data entry, ensuring accuracy and consistency. Small businesses can make informed decisions with a complete view of their customers’ financial information."
 image: /assets/images/articles/people-sitting-near-table.webp

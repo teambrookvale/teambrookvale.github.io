@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/evernote-business
 author: Edward Saunders
 title: "PostgreSQL and Evernote Business Integration"
+topic: System Integration
 leadhead: "PostgreSQL and Evernote Business integration can help businesses improve their efficiency, collaboration, and data management"
 leadtext: "By leveraging the strengths of both these tools, businesses can build robust systems that can help them stay ahead of the competition. Businesses that are not yet using PostgreSQL and Evernote Business should consider adopting these tools and integrating them to take advantage of their numerous benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

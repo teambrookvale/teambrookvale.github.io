@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-sqs
 author: Edward Saunders
 title: "How Solvemate and Amazon SQS Help Streamline CRM"
+topic: System Integration
 leadhead: "The integration of Solvemate and Amazon SQS offers businesses numerous benefits, from improving response times to reducing the workload on customer service staff"
 leadtext: "By automating much of the CRM process, businesses can focus on building better customer relationships and enhancing customer experiences, leading to greater customer satisfaction and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/instagram-lead-ads
 author: Edward Saunders
 title: "Integration of QuickBooks Online and Instagram Lead Ads"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Instagram Lead Ads through API or SDK is a powerful tool for businesses looking to streamline their financial and marketing processes"
 leadtext: "By automating the transfer of data between these two tools, businesses can save time and improve data accuracy. Additionally, tracking the financial impact of Instagram Lead Ads campaigns can give businesses greater insight into their marketing ROI and help them make more informed decisions about their marketing strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/postgresql
 author: Edward Saunders
 title: "Magento 2.X and PostgreSQL Integration: Solving Business Problems"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and PostgreSQL is an excellent solution for businesses that want to improve their ecommerce operations"
 leadtext: "By connecting these two powerful tools, businesses can streamline their data management processes, improve their data security, and make informed decisions based on accurate and up-to-date data."
 image: /assets/images/articles/people-sitting-near-table.webp

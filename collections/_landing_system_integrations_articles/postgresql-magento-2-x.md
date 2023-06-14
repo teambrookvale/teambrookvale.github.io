@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/magento-2-x
 author: Edward Saunders
 title: "Integrating PostgreSQL and Magento 2.X"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Magento 2.X through API or SDK can significantly benefit businesses by reducing the effort and time taken to manage data and create online stores"
 leadtext: "The integration also provides a platform for businesses to make better use of their data, leading to better decision-making and improved customer experience. As such, we recommend that businesses explore and utilize the possibilities offered by the integration of PostgreSQL and Magento 2.X."
 image: /assets/images/articles/people-sitting-near-table.webp

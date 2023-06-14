@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/goto-training
 author: Edward Saunders
 title: "How Instagram Lead Ads and GoTo Training Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "Integrating Instagram Lead Ads and GoTo Training can provide businesses with numerous benefits, including saving time and resources, improving the accuracy of user data, and providing valuable insights into the success of ad campaigns and training sessions"
 leadtext: "By leveraging this integration, businesses can increase the effectiveness of their marketing and training efforts and improve their overall success."
 image: /assets/images/articles/people-sitting-near-table.webp

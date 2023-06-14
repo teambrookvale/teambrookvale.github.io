@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/amazon-polly
 author: Edward Saunders
 title: "Amazon SES and Amazon Polly Integration: A Game Changer"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Amazon Polly is a game changer for businesses looking to improve their customer communication strategies"
 leadtext: "By combining the power of email and text-to-speech technologies, businesses can create an engaging, accessible, and cost-effective way to communicate with their customers like never before."
 image: /assets/images/articles/people-sitting-near-table.webp

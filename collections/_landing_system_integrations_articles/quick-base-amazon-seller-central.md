@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/amazon-seller-central
 author: Edward Saunders
 title: "Integration of Quick Base and Amazon Seller Central"
+topic: System Integration
 leadhead: "The integration of Quick Base and Amazon Seller Central can offer many benefits to businesses, including improved efficiency, reduced manual entry, and enhanced data analysis"
 leadtext: "Whether through API or SDK, the integration of the two platforms can streamline processes and improve decision-making. Businesses should consider this integration as they look to optimize their operations and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

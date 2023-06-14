@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/shopify
 author: Edward Saunders
 title: "Benefits of Integrating Facebook Lead Ads with Shopify"
+topic: System Integration
 leadhead: "Overall, integrating Facebook Lead Ads with Shopify through API or SDK can help businesses save time, improve their lead management, and increase their conversion rates"
 leadtext: "By using these powerful tools together, businesses can more effectively reach and engage with potential customers online."
 image: /assets/images/articles/people-sitting-near-table.webp

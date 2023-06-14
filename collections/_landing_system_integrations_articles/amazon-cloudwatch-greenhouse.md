@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/greenhouse
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Greenhouse through API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Greenhouse via API or SDK can help organizations streamline their recruiting processes and improve their overall candidate experience"
 leadtext: "By leveraging this integration, organizations can monitor their hiring pipeline, set up alerts for potential bottlenecks, and ensure that no candidate is left behind."
 image: /assets/images/articles/people-sitting-near-table.webp

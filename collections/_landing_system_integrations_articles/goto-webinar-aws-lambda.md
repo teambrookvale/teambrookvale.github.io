@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/aws-lambda
 author: Edward Saunders
 title: "Integrating GoTo Webinar and AWS Lambda"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar with AWS Lambda provides businesses and organizations with a powerful solution for webinar management"
 leadtext: "It allows for automation, customization, and real-time monitoring of webinars. This integration is easy to implement through an API or SDK and is a great way for businesses to improve their online communication and engagement with customers and clients."
 image: /assets/images/articles/people-sitting-near-table.webp

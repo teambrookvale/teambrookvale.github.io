@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/ai-by-zapier
 author: Edward Saunders
 title: "Integrating ServiceNow with AI by Zapier: The Future of Automated Workflow Optimization"
+topic: System Integration
 leadhead: "Integrating ServiceNow with AI by Zapier is the future of automated workflow optimization"
 leadtext: "The integration allows businesses to automate their workflows and optimize them using AI and machine learning. The result is increased efficiency, productivity, and cost savings. The integration solves many problems faced by businesses today, such as the lack of centralized automation and the lack of personalized recommendations for workflow optimization."
 image: /assets/images/articles/people-sitting-near-table.webp

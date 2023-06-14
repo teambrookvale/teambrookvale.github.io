@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/solve-crm
 author: Edward Saunders
 title: "Why Integrating LinkedIn Ads and Solve CRM is a Game Changer"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads and Solve CRM is a game changer for businesses that want to improve their sales processes and target their audience more effectively"
 leadtext: "By combining the power of LinkedIn Ads with the functionality of Solve CRM, businesses can generate more leads, close more deals, and increase their revenue. The integration process is relatively simple and can bring immense benefits to businesses of all sizes. So, if you want to take your sales game to the next level, consider integrating LinkedIn Ads and Solve CRM today!"
 image: /assets/images/articles/people-sitting-near-table.webp

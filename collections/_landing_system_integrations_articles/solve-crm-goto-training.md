@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/goto-training
 author: Edward Saunders
 title: "How Solv CRM and GoTo Training Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "Solv CRM and GoTo Training are individual solutions that businesses can use to manage their customer relationships and employee training effectively"
 leadtext: "However, by integrating the two through an API or SDK, businesses can achieve an even higher level of efficiency. The benefits of this integration include automated employee training, faster response time, and better management of customer and employee data. Consider integrating Solv CRM and GoTo Training today and see how it can benefit your business."
 image: /assets/images/articles/people-sitting-near-table.webp

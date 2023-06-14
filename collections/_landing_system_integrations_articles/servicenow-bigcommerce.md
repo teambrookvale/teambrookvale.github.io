@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/bigcommerce
 author: Edward Saunders
 title: "ServiceNow and BigCommerce Integration"
+topic: System Integration
 leadhead: "Integrating ServiceNow and BigCommerce through API or SDK can be highly beneficial for businesses"
 leadtext: "It can help improve customer service, streamline processes, and reduce errors. Therefore, businesses should consider this integration in order to maximize their benefits and achieve better results."
 image: /assets/images/articles/people-sitting-near-table.webp

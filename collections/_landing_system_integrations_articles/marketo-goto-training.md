@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/goto-training
 author: Edward Saunders
 title: "Integrating Marketo and GoToTraining"
+topic: System Integration
 leadhead: "Integrating Marketo and GoToTraining is a powerful way for businesses to improve their marketing efforts and increase their sales"
 leadtext: "By automating lead generation and nurturing campaigns and providing employees with the necessary training and support, businesses can be more successful in achieving their goals. Whether you are a small business owner or the head of a large corporation, integrating these two tools can be a game-changer for your organization."
 image: /assets/images/articles/people-sitting-near-table.webp

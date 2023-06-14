@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/xero
 author: Edward Saunders
 title: "Integration of Pinterest and Xero"
+topic: System Integration
 leadhead: "The integration of Pinterest and Xero through API or SDK can bring numerous benefits to businesses of all sizes and types"
 leadtext: "By automating financial management processes and leveraging the power of visual data, businesses can free up time and resources to focus on growth and innovation. Developers can explore the API and SDK of Pinterest and Xero and create customized solutions that best fit their clients’ needs."
 image: /assets/images/articles/people-sitting-near-table.webp

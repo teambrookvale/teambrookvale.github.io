@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/webhooks-by-zapier
 author: Edward Saunders
 title: "ServiceNow and Webhooks integration: Solving Problems for businesses"
+topic: System Integration
 leadhead: "ServiceNow and Webhooks integration are essential for businesses that rely on ServiceNow for management and automation"
 leadtext: "The integration enables businesses to receive real-time notifications, automate tasks, and stay on top of critical changes. Given the benefits of this integration, businesses should consider using it to streamline their workflow and improve productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

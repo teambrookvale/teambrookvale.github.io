@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/zoho-crm
 author: Edward Saunders
 title: "Integration of Evernote Business and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Zoho CRM makes it easier for businesses to manage their customer interactions, sales pipeline, and collaboration efforts"
 leadtext: "It allows businesses to streamline their operations and make data-driven decisions based on the information collected from both platforms. The integration through API or SDK is an excellent way for businesses to improve their productivity and efficiency, and we highly recommend it."
 image: /assets/images/articles/people-sitting-near-table.webp

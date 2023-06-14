@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/goto-webinar
 author: Edward Saunders
 title: "Integrating Amazon S3 and GoTo Webinar for Enhanced Webinar Management"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and GoTo Webinar through API or SDK can greatly enhance your webinar management experience"
 leadtext: "It can solve several problems that businesses face when managing webinars, making it an essential tool to have in your company's arsenal."
 image: /assets/images/articles/people-sitting-near-table.webp

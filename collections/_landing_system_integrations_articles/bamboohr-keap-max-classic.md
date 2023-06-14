@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/keap-max-classic
 author: Edward Saunders
 title: "BambooHR and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of BambooHR and Keap Max Classic is a game-changer for businesses that are looking to optimize their HR and customer management processes"
 leadtext: "It saves time, minimizes errors, and increases efficiency, all of which contribute to better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

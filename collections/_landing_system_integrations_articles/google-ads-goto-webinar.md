@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/goto-webinar
 author: Edward Saunders
 title: "Integrating Google Ads and GoTo Webinar"
+topic: System Integration
 leadhead: "The integration of Google Ads and GoTo Webinar is a powerful combination that can help businesses improve their lead nurturing and conversion strategies"
 leadtext: "By targeting attendees of their webinars with tailored ads, businesses can significantly increase their chances of converting leads into customers. The integration also saves businesses time and resources by simplifying their campaign creation and management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

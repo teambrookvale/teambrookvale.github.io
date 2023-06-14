@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/servicenow
 author: Edward Saunders
 title: "The Benefits of Integrating QuickBooks Online and ServiceNow Through API or SDK"
+topic: System Integration
 leadhead: "Integrating QuickBooks Online and ServiceNow through API or SDK is an excellent way to streamline financial and IT workflows, improve data accuracy, and increase visibility"
 leadtext: "This integration can bring several benefits to businesses that use both QuickBooks Online and ServiceNow. By eliminating the need to switch between systems, businesses can save time and reduce errors in data entry. Improved data accuracy and increased visibility can also help businesses make better decisions and identify areas for improvement."
 image: /assets/images/articles/people-sitting-near-table.webp

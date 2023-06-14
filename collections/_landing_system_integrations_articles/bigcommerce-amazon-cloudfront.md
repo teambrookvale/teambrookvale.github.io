@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-cloudfront
 author: Edward Saunders
 title: "BigCommerce and Amazon CloudFront Integration: An Overview"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Amazon CloudFront through API or SDK is a powerful solution that addresses key issues businesses face when managing e-commerce websites"
 leadtext: "By leveraging the scalability and reliability of Amazon CloudFront, businesses can improve user experience, reduce latency, and enhance security. This integration allows businesses to focus on what they do best - building their brand and growing their customer base."
 image: /assets/images/articles/people-sitting-near-table.webp

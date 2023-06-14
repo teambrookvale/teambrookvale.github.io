@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/instagram-lead-ads
 author: Edward Saunders
 title: "AWS Lambda and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Instagram Lead Ads is a powerful tool for businesses that enables them to collect and respond to leads quickly and efficiently"
 leadtext: "By automating the process and eliminating the need for manual data entry, businesses can reduce the likelihood of errors and increase the chances of converting leads into customers. Furthermore, by using AWS Lambda, businesses can save money on server costs while still providing high-quality service to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

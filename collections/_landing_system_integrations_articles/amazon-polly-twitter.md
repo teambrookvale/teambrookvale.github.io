@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/twitter
 author: Edward Saunders
 title: "Integrating Amazon Polly and Twitter through API/SDK"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Twitter through API/SDK presents endless possibilities to developers, businesses, and users"
 leadtext: "It can enhance accessibility, improve productivity, and provide alternative forms of engagement. It will be interesting to see the innovative ways that developers will use this integration in the future."
 image: /assets/images/articles/people-sitting-near-table.webp

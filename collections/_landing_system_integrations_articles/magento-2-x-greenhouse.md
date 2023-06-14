@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/greenhouse
 author: Edward Saunders
 title: "Integration of Magento 2.X and Greenhouse"
+topic: System Integration
 leadhead: "Integration of Magento 2.X and Greenhouse can provide significant benefits for businesses looking to manage their e-commerce and recruiting process more efficiently"
 leadtext: "With seamless integration through API or SDK, businesses can streamline their hiring process, save time, and make data-driven decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

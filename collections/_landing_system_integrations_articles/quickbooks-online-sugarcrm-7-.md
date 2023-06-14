@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/sugarcrm-7-
 author: Edward Saunders
 title: "Integrating QuickBooks Online and SugarCRM 7+"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and SugarCRM 7+ through API or SDK can bring significant benefits to businesses of all sizes and industries"
 leadtext: "By combining the power of accounting and CRM software, businesses can streamline their processes, improve their data accuracy and integrity, and ultimately grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

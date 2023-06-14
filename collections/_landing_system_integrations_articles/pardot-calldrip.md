@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/calldrip
 author: Edward Saunders
 title: "Pardot and Calldrip Integration"
+topic: System Integration
 leadhead: "Integrating Pardot and Calldrip through API or SDK can be a game-changer for businesses that are looking to streamline their sales and marketing processes"
 leadtext: "By automating lead routing and improving lead contact rates, businesses can increase their chances of converting leads into customers, ultimately leading to increased revenue and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

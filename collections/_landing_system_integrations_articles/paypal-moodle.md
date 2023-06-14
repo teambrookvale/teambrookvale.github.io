@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/moodle
 author: Edward Saunders
 title: "PayPal and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Moodle through an API or SDK provides a powerful solution for educational institutions and organizations"
 leadtext: "By streamlining the payment process, minimizing errors, and providing a secure payment system, students and educators can focus on learning, without worrying about the financial aspect of education. As such, it is highly recommended that educational institutions and organizations consider integrating PayPal and Moodle for improved learning experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

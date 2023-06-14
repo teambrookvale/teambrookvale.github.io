@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/linkedin-ads
 author: Edward Saunders
 title: "Benefits of Integrating Google BigQuery and LinkedIn Ads"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and LinkedIn Ads can significantly improve the performance of social media advertising campaigns while reducing the time and effort required to analyze ad data"
 leadtext: "Its benefits include real-time ad performance analysis, cost optimization, and increased efficiency. By leveraging these two powerful tools, businesses can make data-driven decisions and improve the ROI of their advertising efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

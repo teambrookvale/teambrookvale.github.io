@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/pardot
 author: Edward Saunders
 title: "Amazon Polly and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Pardot is a powerful tool for marketers who want to create engaging audio content for their marketing campaigns"
 leadtext: "It allows them to easily convert text into speech and create a personalized listening experience for their audience. Whether you use API or SDK, the integration of these two tools is definitely worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

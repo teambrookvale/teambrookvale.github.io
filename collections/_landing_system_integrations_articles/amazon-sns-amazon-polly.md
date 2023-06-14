@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-polly
 author: Edward Saunders
 title: "Amazon SNS and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The Amazon SNS and Amazon Polly integration is a powerful tool that can help businesses and developers communicate with their users in new and exciting ways"
 leadtext: "By enabling the creation of voice notifications and accessible applications, this integration has the potential to increase engagement and inclusivity, ultimately making the digital world a more accessible place for everyone."
 image: /assets/images/articles/people-sitting-near-table.webp

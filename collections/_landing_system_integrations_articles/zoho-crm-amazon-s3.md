@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/amazon-s3
 author: Edward Saunders
 title: "How Zoho CRM and Amazon S3 Integration Solves Problems"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Amazon S3 is a powerful combination that can benefit businesses of all sizes"
 leadtext: "By using these tools together, businesses can streamline their customer management processes and gain valuable insights that can help them grow their business. Whether a business is just starting or looking to expand, this integration is an essential step towards achieving their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

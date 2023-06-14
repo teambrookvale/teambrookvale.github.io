@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/ai-by-zapier
 author: Edward Saunders
 title: "Integration of Keap Max Classic and AI by Zapier"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and AI by Zapier has significant benefits for businesses looking to improve their operations"
 leadtext: "By automating repetitive tasks and workflows, businesses can save valuable time and resources, improve productivity, and focus on what they do best. Whether using API or SDK, the integration process is simple and easy to implement. Overall, Keap Max Classic and AI by Zapier are powerful tools that, when integrated, can help businesses take their operations to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

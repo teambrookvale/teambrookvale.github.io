@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/chargify
 author: Edward Saunders
 title: "Integrating Calldrip and Chargify for Seamless Business Management"
+topic: System Integration
 leadhead: "Integrating Calldrip and Chargify is an excellent way to streamline your business management processes"
 leadtext: "The integration makes it easy to manage your leads, sales reps, and billing process. It also eliminates the need for manual entry of data, which saves time and reduces errors. By taking advantage of the integration, you can increase your sales, provide better customer service, and grow your business."
 image: /assets/images/articles/people-sitting-near-table.webp

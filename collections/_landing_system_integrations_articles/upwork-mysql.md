@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/mysql
 author: Edward Saunders
 title: "Upwork and MySQL Integration: A Game-Changing Move"
+topic: System Integration
 leadhead: "Upwork and MySQL integration is a game-changer that provides a host of benefits for businesses and freelancers alike"
 leadtext: "With the seamless flow of data between the two platforms, businesses can automate and streamline their processes, saving time and increasing productivity. Developers can create applications that allow clients and freelancers to interact on a single platform and track critical data seamlessly. The integration's real-time tracking of data ensures clients and businesses are always up-to-date, making it a must-have in today's digital business world."
 image: /assets/images/articles/people-sitting-near-table.webp

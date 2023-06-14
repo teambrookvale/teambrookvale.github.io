@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Pinterest and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of Pinterest and Amazon DynamoDB opens up many opportunities for developers to create innovative applications that can leverage Pinterest's massive user-created content data sets"
 leadtext: "From scalability to data security, the integration solves many critical problems and offers developers a robust platform for building exciting, feature-rich applications."
 image: /assets/images/articles/people-sitting-near-table.webp

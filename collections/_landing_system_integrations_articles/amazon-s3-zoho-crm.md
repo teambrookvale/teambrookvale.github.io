@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/zoho-crm
 author: Edward Saunders
 title: "Amazon S3 and Zoho CRM Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Zoho CRM offers numerous benefits to businesses, including improved data organization, reduced data redundancy, and better data security"
 leadtext: "By using an API or SDK, businesses can seamlessly connect these two powerful tools and improve their overall efficiency. As businesses continue to generate more data and interact with more customers, the integration of Amazon S3 and Zoho CRM will become increasingly valuable in streamlining business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-sqs
 author: Edward Saunders
 title: "Integrating BigCommerce and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Amazon SQS through API or SDK is a smart move that guarantees the efficient management of your online business"
 leadtext: "It ensures that your orders are processed seamlessly, and customers' satisfaction is improved, resulting in more revenue for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/evernote-business
 author: Edward Saunders
 title: "How GoTo Training and Evernote Business Integration Can Solve Your Business Problems"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Evernote Business can truly transform the way businesses conduct training sessions"
 leadtext: "By sharing and collaborating on training materials, businesses can streamline their work processes, improve productivity and retention, and ultimately achieve their business goals. With the integration of API or SDK, businesses can easily integrate the two platforms and start reaping the benefits of a seamless training experience."
 image: /assets/images/articles/people-sitting-near-table.webp

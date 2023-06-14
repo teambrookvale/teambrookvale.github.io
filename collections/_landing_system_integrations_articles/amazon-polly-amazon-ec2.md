@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/amazon-ec2
 author: Edward Saunders
 title: "Integrating Amazon Polly and EC2"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and EC2 can provide numerous benefits for users, including improved accessibility, enhanced customer experience, and cost optimization"
 leadtext: "With the use of APIs and SDKs, integrating the two services can be done quickly and easily. We highly recommend exploring the benefits of this integration for your applications and websites."
 image: /assets/images/articles/people-sitting-near-table.webp

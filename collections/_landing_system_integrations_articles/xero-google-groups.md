@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/google-groups
 author: Edward Saunders
 title: "Xero and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Google Groups can greatly benefit businesses"
 leadtext: "It can improve collaboration, streamline communication processes, and enhance efficiency. Whether you use API or SDK, the integration of these two powerful tools is worth considering for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

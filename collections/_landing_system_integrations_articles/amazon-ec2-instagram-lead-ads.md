@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/instagram-lead-ads
 author: Edward Saunders
 title: "Amazon EC2 and Instagram Lead Ads Integration: Solving Problems for Businesses"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon EC2 and Instagram Lead Ads is a game-changer for businesses who want to take their marketing efforts to the next level"
 leadtext: "It allows businesses to benefit from the power of two robust tools to achieve their marketing goals seamlessly. By leveraging this integration, businesses can ensure that they stay ahead of the competition in a fast-paced digital world."
 image: /assets/images/articles/people-sitting-near-table.webp

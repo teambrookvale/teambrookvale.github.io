@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/magento
 author: Edward Saunders
 title: "Integrating Twitter and Magento for Seamless Online Operations"
+topic: System Integration
 leadhead: "Integrating Twitter and Magento is a powerful way for businesses to streamline their online operations and improve customer engagement"
 leadtext: "By leveraging the available APIs and SDKs, businesses can take advantage of the unique features of each platform to create a truly seamless online experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

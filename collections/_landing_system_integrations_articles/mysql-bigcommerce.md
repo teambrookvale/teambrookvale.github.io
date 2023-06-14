@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/bigcommerce
 author: Edward Saunders
 title: "MySQL and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and BigCommerce can bring several benefits to businesses, from streamlining their operations to providing better customer service"
 leadtext: "It's important for businesses to assess their needs and choose the right integration method that suits their business needs and goals."
 image: /assets/images/articles/people-sitting-near-table.webp

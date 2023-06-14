@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/quickbooks-online
 author: Edward Saunders
 title: "Shopify and QuickBooks Online Integration - A Game-Changer"
+topic: System Integration
 leadhead: "The integration of Shopify and QuickBooks Online through API or SDK is a game-changer for businesses"
 leadtext: "With the automatic transfer of data from Shopify to QuickBooks Online, businesses can streamline their operations and save time and money. The elimination of manual data entry reduces the possibility of errors, allowing businesses to focus on providing better service to their customers. Hence, it is highly recommended for businesses to integrate Shopify and QuickBooks Online to take their operations to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/webhooks-by-zapier
 author: Edward Saunders
 title: "Integration of AWS Lambda and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Webhooks by Zapier can help businesses automate workflows and optimize processes"
 leadtext: "It can solve a range of problems and improve efficiency. By using an API or SDK, this integration can be customized to meet the needs of any business."
 image: /assets/images/articles/people-sitting-near-table.webp

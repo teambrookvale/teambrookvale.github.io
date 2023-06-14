@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/zoho-crm
 author: Edward Saunders
 title: "Amazon SNS and Zoho CRM Integration | Benefits and Advantages"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Zoho CRM can provide significant benefits and advantages for businesses of all sizes"
 leadtext: "By combining the messaging capabilities of Amazon SNS and the customer relationship management features of Zoho CRM, you can streamline your business processes and improve your customer interactions. So why not give it a try and see the results for yourself?"
 image: /assets/images/articles/people-sitting-near-table.webp

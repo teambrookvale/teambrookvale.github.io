@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/shopify
 author: Edward Saunders
 title: "Twitter and Shopify Integration"
+topic: System Integration
 leadhead: "The integration of Twitter and Shopify brings a lot of benefits to businesses, allowing them to reach a larger audience, streamline the buying process, and improve their inventory management"
 leadtext: "By leveraging the power of these two platforms, businesses can take their online sales to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

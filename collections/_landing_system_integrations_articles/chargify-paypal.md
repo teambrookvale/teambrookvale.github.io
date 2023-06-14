@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/paypal
 author: Edward Saunders
 title: "Chargify and PayPal Integration: Simplify Your Payment Processing"
+topic: System Integration
 leadhead: "The integration of Chargify and PayPal is a powerful solution for businesses looking to simplify their payment processing and improve their customer experience"
 leadtext: "By leveraging the strengths of these two platforms, businesses can streamline their billing and invoicing processes, reduce the risk of payment errors and fraud, and enhance their revenue forecasting and cash flow management."
 image: /assets/images/articles/people-sitting-near-table.webp

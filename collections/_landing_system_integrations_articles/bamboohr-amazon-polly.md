@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/amazon-polly
 author: Edward Saunders
 title: "The Benefits of Integrating BambooHR and Amazon Polly"
+topic: System Integration
 leadhead: "In conclusion, BambooHR and Amazon Polly integration can help you create more engaging audio content from the data within your HR management system"
 leadtext: "The feature of text-to-speech offered by Amazon Polly is an innovative solution to make tedious HR information more engaging and create a more productive and engaged workforce."
 image: /assets/images/articles/people-sitting-near-table.webp

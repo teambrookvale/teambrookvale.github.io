@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/instagram-custom-audiences
 author: Edward Saunders
 title: "Integrating Pinterest and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "Integrating Pinterest and Instagram Custom Audiences is a smart move for advertisers looking to improve their social media advertising strategy"
 leadtext: "By targeting the same users across multiple platforms based on their past interaction with your brand, you can create a more cohesive and effective message. Consider integrating these two platforms using the available API or SDK to take your advertising efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

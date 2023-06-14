@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/xero
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Xero"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Xero through API or SDK provides businesses with a streamlined financial management experience"
 leadtext: "By automating the process of syncing sales data from Amazon Seller Central to Xero, businesses can save time and reduce the risk of errors. Furthermore, gaining a comprehensive overview of their finances can help businesses make informed decisions about their business. With these benefits, integrating Amazon Seller Central and Xero is a smart decision for any business looking to streamline their financial management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

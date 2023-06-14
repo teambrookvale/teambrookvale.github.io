@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/twitter
 author: Edward Saunders
 title: "Magento and Twitter Integration"
+topic: System Integration
 leadhead: "Integrating Magento and Twitter through the API and SDK is a smart move for any e-commerce business looking to stay competitive in today's digital landscape"
 leadtext: "By accessing the power of social media and e-commerce in one platform, you can better engage with customers, drive sales, and grow your business. So why not explore the possibilities of Magento and Twitter integration today?"
 image: /assets/images/articles/people-sitting-near-table.webp

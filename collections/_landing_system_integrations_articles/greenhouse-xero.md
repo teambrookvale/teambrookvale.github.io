@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/xero
 author: Edward Saunders
 title: "Greenhouse and Xero Integration"
+topic: System Integration
 leadhead: "Integrating Greenhouse and Xero through API or SDK is a smart move for companies looking to streamline their recruitment and financial management processes"
 leadtext: "The integration solves problems that can otherwise cause delays, inaccuracies, and financial inefficiencies."
 image: /assets/images/articles/people-sitting-near-table.webp

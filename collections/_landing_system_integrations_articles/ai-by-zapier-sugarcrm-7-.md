@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/sugarcrm-7-
 author: Edward Saunders
 title: "AI by Zapier and SugarCRM 7+ Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of AI by Zapier and SugarCRM 7+ can bring many benefits to businesses"
 leadtext: "From automating workflow to improving customer service, the integration can be customized to meet businesses' specific needs and requirements. By using API or SDK, businesses can easily create custom integrations that streamline their processes and save time and money."
 image: /assets/images/articles/people-sitting-near-table.webp

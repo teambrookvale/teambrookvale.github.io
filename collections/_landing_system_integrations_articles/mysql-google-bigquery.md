@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/google-bigquery
 author: Edward Saunders
 title: "MySQL and Google BigQuery Integration: A Powerful Combination"
+topic: System Integration
 leadhead: "The integration of MySQL and Google BigQuery is a powerful combination that can provide many benefits for businesses that deal with large amounts of data"
 leadtext: "Whether it's faster data analysis, cost savings or real-time data processing, the integration of these two systems can help businesses make informed decisions based on accurate data. By using API or SDK, businesses can easily make the connection between the two systems and take advantage of the benefits that they offer."
 image: /assets/images/articles/people-sitting-near-table.webp

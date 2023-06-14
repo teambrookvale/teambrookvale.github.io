@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/pinterest
 author: Edward Saunders
 title: "Pardot and Pinterest Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Pardot and Pinterest through an API or SDK provides businesses with a range of benefits"
 leadtext: "By automating content posting, tracking engagement, and targeting users through campaigns, businesses can streamline their marketing efforts and increase their reach. This integration solves several problems for businesses, including manual content posting, inconsistent tracking, and missed opportunities."
 image: /assets/images/articles/people-sitting-near-table.webp

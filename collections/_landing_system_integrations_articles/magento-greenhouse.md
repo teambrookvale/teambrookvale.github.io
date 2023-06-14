@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/greenhouse
 author: Edward Saunders
 title: "Integrating Magento with Greenhouse through API or SDK"
+topic: System Integration
 leadhead: "Integrating Magento with Greenhouse can immensely benefit a business in many ways, improving efficiency, productivity, and insights"
 leadtext: "The integration can be done using either API or SDK, depending on the business's specific needs. By working together, Magento and Greenhouse can help companies maximize their potential, making their hiring process and e-commerce website even more successful."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/evernote-business
 author: Edward Saunders
 title: "Benefits of Integrating Salesforce and Evernote Business"
+topic: System Integration
 leadhead: "The integration of Salesforce and Evernote Business offers a powerful solution for businesses looking to improve their customer relationship management and collaboration among teams"
 leadtext: "By leveraging the strengths of each platform, businesses can increase productivity, accuracy, and transparency in their day-to-day operations."
 image: /assets/images/articles/people-sitting-near-table.webp

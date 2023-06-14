@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/mysql
 author: Edward Saunders
 title: "Integration of Evernote Business and MySQL"
+topic: System Integration
 leadhead: "The integration of Evernote Business and MySQL is an effective way to enhance your productivity and streamline your business operations"
 leadtext: "It helps to improve collaboration, reduce data entry errors, and create a centralized location for all your business data. The integration can be achieved through API or SDK and helps to solve many problems that businesses face. By integrating Evernote Business and MySQL, you can take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

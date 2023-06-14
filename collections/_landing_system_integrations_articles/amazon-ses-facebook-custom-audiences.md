@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/facebook-custom-audiences
 author: Edward Saunders
 title: "Integrating Amazon SES and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "Integrating Amazon SES and Facebook Custom Audiences is a powerful tool for businesses looking to reach their target audience more effectively"
 leadtext: "This integration allows businesses to create even more targeted ad campaigns, leading to higher conversion rates and a better return on investment. It is definitely a worthwhile investment for any business looking to take their advertising to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

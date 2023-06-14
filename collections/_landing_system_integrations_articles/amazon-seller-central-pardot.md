@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/pardot
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and Pardot for a Seamless Experience | Blog Post"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and Pardot can help businesses improve their sales and marketing efforts on Amazon"
 leadtext: "By leveraging the data and tools provided by both platforms, businesses can personalize their marketing campaigns and target customers based on their preferences and behaviors. This can lead to increased sales, improved customer loyalty, and better ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

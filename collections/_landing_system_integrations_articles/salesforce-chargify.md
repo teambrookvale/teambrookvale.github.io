@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/chargify
 author: Edward Saunders
 title: "Integrating Salesforce with Chargify"
+topic: System Integration
 leadhead: "The integration of Salesforce with Chargify through API or SDK presents a powerful solution for businesses looking to manage their customer relationships and recurring revenue streams"
 leadtext: "By leveraging the strengths of both platforms, businesses can optimize their subscription and billing management while gaining valuable insights and data within Salesforce."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of WHMCS and Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating WHMCS and Amazon CloudWatch through API/SKD provides businesses with a streamlined and automated solution for monitoring their web hosting services and applications"
 leadtext: "The integration solves the problems of manual monitoring and billing processes and provides businesses with real-time insight into the performance of their hosting services and applications. With this integration, businesses can improve their customer experience and satisfaction, increase efficiency, and save time."
 image: /assets/images/articles/people-sitting-near-table.webp

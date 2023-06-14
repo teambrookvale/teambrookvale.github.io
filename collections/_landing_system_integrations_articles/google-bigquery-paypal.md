@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/paypal
 author: Edward Saunders
 title: "Integration of Google BigQuery and PayPal"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and PayPal can be a game-changer for businesses looking to gain valuable insights from their transactional data"
 leadtext: "By leveraging the power of data analytics and payment processing, businesses can improve their ability to make informed decisions and ultimately drive growth and profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

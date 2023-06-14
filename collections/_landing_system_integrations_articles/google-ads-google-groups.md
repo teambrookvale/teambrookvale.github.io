@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/google-groups
 author: Edward Saunders
 title: "Integration of Google Ads and Google Groups"
+topic: System Integration
 leadhead: "Google Ads and Google Groups are two powerful tools that can help businesses achieve their marketing and engagement goals"
 leadtext: "By integrating the two, businesses can unlock even more possibilities and streamline their processes to improve efficiency and effectiveness. Whether you're looking to track leads and conversions or engage with your target audience, integration of Google Ads and Google Groups is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

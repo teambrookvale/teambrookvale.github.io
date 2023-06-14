@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/xero
 author: Edward Saunders
 title: "Expensify and Xero integration: Making accounting easier"
+topic: System Integration
 leadhead: "The integration of Expensify and Xero makes the accounting process easier and more efficient"
 leadtext: "By automating data entry and offering real-time insights, businesses can save time and money while improving their financial reporting and decision making."
 image: /assets/images/articles/people-sitting-near-table.webp

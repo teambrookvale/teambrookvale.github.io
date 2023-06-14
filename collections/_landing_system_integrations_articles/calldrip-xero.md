@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/xero
 author: Edward Saunders
 title: "Calldrip and Xero Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Xero can be a game-changer for businesses seeking to improve their call tracking and accounting processes"
 leadtext: "By streamlining these processes, businesses can reduce errors, improve efficiency, and ultimately, increase revenue. The seamless transfer of data between the two tools ensures that businesses have visibility over all their leads and sales, enabling them to make informed decisions. The integration is also a step towards an automated invoicing process, enabling businesses to get paid faster and avoid cash flow issues."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/amazon-sns
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and Amazon SNS"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Amazon SNS provides businesses with an efficient way of monitoring and managing their AWS infrastructure"
 leadtext: "With real-time notifications and alerts, organizations can take proactive measures to prevent downtime, errors or security risks. The integration can also simplify the development and deployment of applications by providing an automated notification system that makes it easier to detect and resolve issues. Overall, the integration of CloudFront and SNS is a valuable step towards AWS infrastructure optimization and streamlined application delivery."
 image: /assets/images/articles/people-sitting-near-table.webp

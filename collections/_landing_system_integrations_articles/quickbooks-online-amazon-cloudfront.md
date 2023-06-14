@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating QuickBooks Online with Amazon CloudFront"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Amazon CloudFront offers businesses an efficient way to streamline their financial processes and deliver financial documents to their customers faster"
 leadtext: "By leveraging the power of these two technologies, businesses can gain a competitive edge and stay ahead in their respective industries."
 image: /assets/images/articles/people-sitting-near-table.webp

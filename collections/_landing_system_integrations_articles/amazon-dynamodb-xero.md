@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/xero
 author: Edward Saunders
 title: "The Power of Combining Amazon DynamoDB and Xero with API or SDK"
+topic: System Integration
 leadhead: "The combination of Amazon DynamoDB and Xero with API or SDK can provide a powerful solution for managing your business data"
 leadtext: "By eliminating manual data entry, providing real-time visibility into financial data, and enabling scalability, this integration can help you make better data-driven decisions and streamline your business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

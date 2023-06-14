@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/amazon-seller-central
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Amazon Seller Central"
+topic: System Integration
 leadhead: "Overall, integrating GoTo Webinar and Amazon Seller Central can be a powerful tool for sellers who want to streamline their marketing efforts and increase sales"
 leadtext: "By using the API or SDK, you can automate many of your marketing processes and get insights into your performance. With this integration, you can create a more immersive experience for your audience while driving sales on Amazon."
 image: /assets/images/articles/people-sitting-near-table.webp

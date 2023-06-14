@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/google-ads
 author: Edward Saunders
 title: "Salesforce and Google Ads Integration"
+topic: System Integration
 leadhead: "The Salesforce and Google Ads integration is a powerful tool for businesses that want to improve their advertising and sales efforts"
 leadtext: "By combining the two platforms, businesses can get a complete picture of their advertising efforts, streamline their sales and marketing activities, and make data-driven decisions. If you haven't already, consider integrating Salesforce and Google Ads to improve your business performance."
 image: /assets/images/articles/people-sitting-near-table.webp

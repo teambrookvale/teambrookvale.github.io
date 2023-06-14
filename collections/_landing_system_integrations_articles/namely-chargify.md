@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/chargify
 author: Edward Saunders
 title: "Namely and Chargify Integration"
+topic: System Integration
 leadhead: "Namely and Chargify are two powerful tools that can help businesses manage their employee data and recurring revenue streams effectively"
 leadtext: "By integrating the two systems using API or SDK, businesses can streamline their processes, eliminate errors, and get a more comprehensive view of their data. This can ultimately help them make better decisions and achieve greater success."
 image: /assets/images/articles/people-sitting-near-table.webp

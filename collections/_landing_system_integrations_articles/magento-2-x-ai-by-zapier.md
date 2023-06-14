@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/ai-by-zapier
 author: Edward Saunders
 title: "Magento 2.X and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and AI by Zapier provides businesses with a powerful tool for automating their e-commerce workflows"
 leadtext: "By automating routine tasks, businesses can save time, reduce errors, and increase efficiency. With the continuous development of both platforms, we can expect to see even more advanced features that will further enhance the integration between Magento 2.X and AI by Zapier."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/zendesk
 author: Edward Saunders
 title: "Why the Integration of Solve CRM and Zendesk is a Game-Changer"
+topic: System Integration
 leadhead: "The integration of Solve CRM and Zendesk is a game-changer for businesses looking to improve their customer relationships and streamline their interactions"
 leadtext: "This integration not only provides a more unified experience for the customer, but also reduces costs and boosts efficiency for the business. If your business is looking to improve its customer interactions, the integration of Solve CRM and Zendesk is an excellent place to start."
 image: /assets/images/articles/people-sitting-near-table.webp

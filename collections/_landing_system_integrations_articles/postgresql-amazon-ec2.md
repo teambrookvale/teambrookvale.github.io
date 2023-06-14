@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/amazon-ec2
 author: Edward Saunders
 title: "Integrating PostgreSQL with Amazon EC2"
+topic: System Integration
 leadhead: "Integrating PostgreSQL with Amazon EC2 enables communication between the two services, and developers can use PostgreSQL with Amazon EC2 to perform various tasks"
 leadtext: "This integration solves many problems in an organization&apos;s workflow, including scalability, backup and recovery, and high availability. By integrating the two services, organizations can improve uptime, availability, and customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

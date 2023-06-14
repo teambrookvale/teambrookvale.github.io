@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/quickbooks-online
 author: Edward Saunders
 title: "Greenhouse and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "By integrating Greenhouse and QuickBooks Online, companies can streamline their operations and make their workflow more efficient"
 leadtext: "Businesses can now focus on what matters most, which is growing their business and their workforce."
 image: /assets/images/articles/people-sitting-near-table.webp

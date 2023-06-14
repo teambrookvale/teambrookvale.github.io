@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/pinterest
 author: Edward Saunders
 title: "Amazon CloudFront and Pinterest Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Pinterest provides developers and content publishers with a powerful combination of content delivery network and social media platform"
 leadtext: "With this integration, customers can enjoy faster and more efficient delivery of content, while publishers benefit from reduced costs and improved efficiency of content delivery."
 image: /assets/images/articles/people-sitting-near-table.webp

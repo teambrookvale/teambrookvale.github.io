@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/linkedin-ads
 author: Edward Saunders
 title: "Integration of Google Groups and LinkedIn Ads"
+topic: System Integration
 leadhead: "The integration of Google Groups and LinkedIn Ads offers a powerful solution for businesses and organizations"
 leadtext: "By combining the benefits of both tools, businesses can improve communication, target advertising, and increase overall efficiency. With the use of API or SDK integration, this can be achieved seamlessly."
 image: /assets/images/articles/people-sitting-near-table.webp

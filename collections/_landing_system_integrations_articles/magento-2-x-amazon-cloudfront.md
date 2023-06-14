@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Magento 2.X with Amazon CloudFront"
+topic: System Integration
 leadhead: "Integrating Magento 2.X with Amazon CloudFront using their API or SDK is an effective way to improve your website performance, scalability, and security"
 leadtext: "By using Amazon CloudFront's caching and delivery capabilities, your store can provide faster and more reliable experiences to your customers, leading to increased sales and customer satisfaction. So, if you're running a Magento store and want to improve its performance, consider integrating it with Amazon CloudFront."
 image: /assets/images/articles/people-sitting-near-table.webp

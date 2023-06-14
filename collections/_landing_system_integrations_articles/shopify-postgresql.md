@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/postgresql
 author: Edward Saunders
 title: "Shopify and PostgreSQL Integration: A Solution to E-commerce Data Management"
+topic: System Integration
 leadhead: "Integrating Shopify and PostgreSQL using an API or SDK provides a solution to manage vast amounts of data generated in e-commerce operations"
 leadtext: "It offers benefits like increased data security, better data management, and automated data processing. By leveraging the strengths of both platforms, businesses can streamline their e-commerce operations and focus on growth and expansion."
 image: /assets/images/articles/people-sitting-near-table.webp

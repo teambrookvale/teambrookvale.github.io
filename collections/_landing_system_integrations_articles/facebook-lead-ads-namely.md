@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/namely
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads and Namely"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads and Namely through API or SDK can provide significant benefits to businesses"
 leadtext: "By automating lead capture and ensuring efficient communication with their HR team, businesses can see an increase in their ROI and overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

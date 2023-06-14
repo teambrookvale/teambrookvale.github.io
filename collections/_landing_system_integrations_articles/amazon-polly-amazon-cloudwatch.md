@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/amazon-cloudwatch
 author: Edward Saunders
 title: "Integrating Amazon Polly and Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating Amazon Polly and Amazon CloudWatch provides a powerful monitoring and management toolset for your AWS resources and applications"
 leadtext: "By using the integration, you can ensure the performance and availability of your text-to-speech service and optimize its use in your applications."
 image: /assets/images/articles/people-sitting-near-table.webp

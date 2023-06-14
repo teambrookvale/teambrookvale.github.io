@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/snowflake
 author: Edward Saunders
 title: "Integration of Amazon S3 and Snowflake"
+topic: System Integration
 leadhead: "Overall, the integration of Amazon S3 and Snowflake provides organizations with a scalable, secure, and efficient solution for storing, analyzing, and accessing data"
 leadtext: "By utilizing the benefits of both platforms, businesses can achieve actionable insights and unlock the full potential of their data."
 image: /assets/images/articles/people-sitting-near-table.webp

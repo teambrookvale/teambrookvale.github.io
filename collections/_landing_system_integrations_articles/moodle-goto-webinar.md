@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/goto-webinar
 author: Edward Saunders
 title: "Moodle and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and GoTo Webinar provides a more powerful, engaging, and effective learning experience"
 leadtext: "This integration saves time and resources for organizations, helps them to improve the quality of their learning courses, and increases student engagement. Consequently, businesses can generate revenue, increase sales, and improve their online reputation."
 image: /assets/images/articles/people-sitting-near-table.webp

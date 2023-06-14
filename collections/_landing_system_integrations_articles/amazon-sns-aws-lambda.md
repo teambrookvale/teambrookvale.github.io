@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/aws-lambda
 author: Edward Saunders
 title: "Integration of Amazon SNS and AWS Lambda"
+topic: System Integration
 leadhead: "Amazon SNS and AWS Lambda are two powerful services that can be used together to build scalable and responsive applications"
 leadtext: "Integrating the two services can enhance their functionality and solve many common problems, such as processing incoming messages and responding to events in real-time. AWS makes it easy to integrate its services, and the combination of Amazon SNS and AWS Lambda is no exception."
 image: /assets/images/articles/people-sitting-near-table.webp

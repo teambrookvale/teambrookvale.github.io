@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/pinterest
 author: Edward Saunders
 title: "Why Integrating Shopify and Pinterest Makes Sense: A Comprehensive Guide"
+topic: System Integration
 leadhead: "The integration of Shopify and Pinterest offers many benefits for e-commerce businesses, from increased reach to higher conversion rates and improved SEO"
 leadtext: "By using the Shopify API and Pinterest SDK, businesses can streamline their online sales process and reach a wider audience. It is recommended for businesses to take advantage of this integration to maximize their online sales."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/moodle
 author: Edward Saunders
 title: "Integrating Xero and Moodle using API or SDK"
+topic: System Integration
 leadhead: "The integration of Xero and Moodle can provide numerous benefits to businesses and organizations"
 leadtext: "By automating tasks, improving financial visibility, and reducing errors, the integration can help organizations save time, improve accuracy, and focus on their core business activities. With the help of API or SDK developers can easily build a customized integration that best suits their needs."
 image: /assets/images/articles/people-sitting-near-table.webp

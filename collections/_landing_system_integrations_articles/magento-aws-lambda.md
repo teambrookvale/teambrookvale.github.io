@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/aws-lambda
 author: Edward Saunders
 title: "Magento and AWS Lambda Integration - A Solution to E-commerce Problems"
+topic: System Integration
 leadhead: "Overall, integrating AWS Lambda with Magento can provide many advantages for e-commerce businesses"
 leadtext: "It can improve scalability, reduce latency, and simplify server management. With the right APIs and SDKs, developers can create powerful applications that take advantage of these benefits. By using the right tools, businesses can provide a seamless and convenient shopping experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

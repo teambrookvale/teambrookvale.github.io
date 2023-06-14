@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/salesforce
 author: Edward Saunders
 title: "Keap Max Classic and Salesforce Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Salesforce through API or SDK is a smart move for businesses looking to streamline their customer management process"
 leadtext: "It solves several problems, including centralized customer information and elimination of duplicate data entry. With the integration, businesses can personalize their communication and marketing efforts, improve customer engagement, and make their workflow more efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

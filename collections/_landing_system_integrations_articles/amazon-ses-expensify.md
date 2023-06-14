@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/expensify
 author: Edward Saunders
 title: "Integrating Amazon SES and Expensify through API/SDK"
+topic: System Integration
 leadhead: "Integrating Amazon SES and Expensify through API or SDK can streamline the expense reporting process, reduce manual effort, improve communication, and enhance security"
 leadtext: "By taking advantage of the advanced features offered by the two platforms, businesses and organizations can optimize their expense management workflows, saving time and money."
 image: /assets/images/articles/people-sitting-near-table.webp

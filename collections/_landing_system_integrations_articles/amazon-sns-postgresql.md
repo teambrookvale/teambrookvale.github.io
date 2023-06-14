@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/postgresql
 author: Edward Saunders
 title: "Integration of Amazon SNS and PostgreSQL through API/SDK"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and PostgreSQL through API/SDK can provide a reliable, scalable, and real-time solution for messaging and storing data"
 leadtext: "This can be particularly useful for microservices, distributed systems, and serverless applications where decoupling is important. With Amazon SNS and PostgreSQL, you can ensure that your messages are delivered and processed efficiently and with minimal latency."
 image: /assets/images/articles/people-sitting-near-table.webp

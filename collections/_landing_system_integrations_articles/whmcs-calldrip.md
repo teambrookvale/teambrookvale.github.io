@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/calldrip
 author: Edward Saunders
 title: "WHMCS and Calldrip Integration"
+topic: System Integration
 leadhead: "WHMCS and Calldrip integration provides businesses with a powerful tool to streamline their workflow and manage their clients and leads more effectively"
 leadtext: "With the integration, businesses can automate the transfer of client information and call logs between the two systems, save time, and improve their efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

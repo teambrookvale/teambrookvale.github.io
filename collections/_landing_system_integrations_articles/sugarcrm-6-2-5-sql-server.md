@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/sql-server
 author: Edward Saunders
 title: "Integrating SugarCRM 6.2-5 with SQL Server"
+topic: System Integration
 leadhead: "Integrating SugarCRM 6.2-5 with SQL Server can provide many benefits to businesses, from improved data management to better decision-making"
 leadtext: "With the help of APIs or SDKs, businesses can easily integrate the two and start reaping the benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

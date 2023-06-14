@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/sugarcrm-7-
 author: Edward Saunders
 title: "Integrating ServiceNow and SugarCRM 7+"
+topic: System Integration
 leadhead: "The integration of ServiceNow and SugarCRM 7+ can transform the way businesses manage customer data and interactions"
 leadtext: "The integration not only streamlines business processes but also improves the overall management of customer interactions. Therefore, businesses should consider integrating the two platforms for better and efficient management of their customer data."
 image: /assets/images/articles/people-sitting-near-table.webp

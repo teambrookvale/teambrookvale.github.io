@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/xero
 author: Edward Saunders
 title: "Amazon SES and Xero: A Perfect Integration for Business Communication"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Xero is a great solution for businesses looking to streamline their communication efforts"
 leadtext: "It saves time and ensures that all communication is delivered and received efficiently. The integration is easy to set up and once complete, businesses can enjoy the benefits of a centralized database of communication."
 image: /assets/images/articles/people-sitting-near-table.webp

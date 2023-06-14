@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/zoho-crm
 author: Edward Saunders
 title: "Amazon CloudFront and Zoho CRM Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Zoho CRM can provide businesses with a comprehensive solution for content delivery, customer relationship management, and analytics"
 leadtext: "By working together seamlessly, they can enhance customer experiences and improve business outcomes. Developers can utilize their APIs or SDKs to build the integration quickly and effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

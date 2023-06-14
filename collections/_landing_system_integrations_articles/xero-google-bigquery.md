@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/google-bigquery
 author: Edward Saunders
 title: "Why Xero and Google BigQuery Integration Is a Game Changer"
+topic: System Integration
 leadhead: "The integration between Xero and Google BigQuery is a game changer for businesses"
 leadtext: "It provides real-time financial insights, efficient analysis, streamlined reporting, and cost-effective solutions. By using Xero and Google BigQuery together, businesses can make more informed decisions, improve financial performance, and grow faster."
 image: /assets/images/articles/people-sitting-near-table.webp

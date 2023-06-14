@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/amazon-cloudfront
 author: Edward Saunders
 title: "Facebook Custom Audiences and Amazon CloudFront"
+topic: System Integration
 leadhead: "Facebook Custom Audiences and Amazon CloudFront are two powerful tools that, when integrated, can help businesses reach their target audience more efficiently and improve their advertising campaigns"
 leadtext: "By taking advantage of this integration, businesses can improve their return on investment, reduce bounce rates, and scale their advertising campaigns to reach more people."
 image: /assets/images/articles/people-sitting-near-table.webp

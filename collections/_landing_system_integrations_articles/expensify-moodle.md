@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/moodle
 author: Edward Saunders
 title: "Expensify &amp; Moodle Integration"
+topic: System Integration
 leadhead: "If you want to manage your expenses more efficiently and improve your cash flow, then Expensify and Moodle integration is the best solution"
 leadtext: "This way, you can not only optimize your financial operations but also improve the overall learning experience for your students with a more streamlined and effective system. So, integrate Expensify with Moodle to simplify your financial operations and get more out of your LMS!"
 image: /assets/images/articles/people-sitting-near-table.webp

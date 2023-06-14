@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/marketo
 author: Edward Saunders
 title: "AWS Lambda and Marketo Integration"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Marketo is a powerful combination that can help businesses automate marketing tasks, improve customer engagement, and ultimately increase revenue"
 leadtext: "By using their respective APIs or SDKs, developers can easily build applications that respond to events triggered by Lambda functions and automate tasks in Marketo. This integration is definitely worth exploring for businesses looking to streamline their marketing efforts and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

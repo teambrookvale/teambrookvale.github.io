@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/evernote-business
 author: Edward Saunders
 title: "Shopify and Evernote Business Integration"
+topic: System Integration
 leadhead: "Integrating Shopify and Evernote Business through their API or SDK can provide businesses with seamless and efficient workflows"
 leadtext: "By automating tasks and sharing data, businesses can save time and increase productivity. With these two powerful tools working together, businesses can streamline operations and focus on growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

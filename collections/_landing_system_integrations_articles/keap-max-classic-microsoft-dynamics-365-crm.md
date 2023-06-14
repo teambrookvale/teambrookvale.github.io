@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating Keap Max Classic and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic and Microsoft Dynamics 365 CRM through their APIs or SDKs can provide many benefits to businesses, including streamlined workflows, improved customer data management, and increased efficiency"
 leadtext: "By eliminating manual data entry, businesses can save time and reduce errors. By having a comprehensive view of customer data, businesses can make informed decisions and improve their operations. Overall, integrating Keap Max Classic and Microsoft Dynamics 365 CRM can lead to better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

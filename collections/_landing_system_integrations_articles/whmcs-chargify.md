@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/chargify
 author: Edward Saunders
 title: "WHMCS and Chargify Integration"
+topic: System Integration
 leadhead: "The integration of WHMCS and Chargify can help businesses increase efficiency, reduce costs and improve customer experience"
 leadtext: "This solution makes it easy for businesses to manage their billing and customer management system without the need for manual intervention. With the integration of the two solutions, businesses can focus on growing their business instead of managing their billing and customer management systems."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/expensify
 author: Edward Saunders
 title: "Integrating SQL Server and Expensify"
+topic: System Integration
 leadhead: "The integration of SQL Server and Expensify is a powerful tool for businesses looking to streamline their expense management processes and gain deeper insights into their spending"
 leadtext: "By leveraging the power of APIs and SDKs, businesses can achieve seamless communication between these two systems and improve overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

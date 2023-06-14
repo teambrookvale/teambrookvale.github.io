@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/whmcs
 author: Edward Saunders
 title: "Integrating GoTo Webinar and WHMCS"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and WHMCS is a game-changer for web hosting companies who want to offer webinars as part of their service offerings"
 leadtext: "It allows them to deliver high-quality webinars, streamline their operations, and enhance customer experience. By leveraging the power of APIs and SDKs, developers can create custom integrations that meet the unique needs of their clients."
 image: /assets/images/articles/people-sitting-near-table.webp

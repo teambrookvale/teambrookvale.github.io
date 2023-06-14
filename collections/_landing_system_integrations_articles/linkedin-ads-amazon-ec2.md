@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/amazon-ec2
 author: Edward Saunders
 title: "LinkedIn Ads and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads and Amazon EC2 provides businesses with a powerful toolset for managing their marketing campaigns and infrastructure"
 leadtext: "With this integration, businesses can automate their campaigns, optimize their infrastructure, and improve their overall business performance. The integration solves various critical business problems, making it an excellent choice for businesses that want to streamline their operations and reduce their costs."
 image: /assets/images/articles/people-sitting-near-table.webp

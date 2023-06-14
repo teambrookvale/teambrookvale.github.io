@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/shopify
 author: Edward Saunders
 title: "Amazon Polly and Shopify Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Shopify provides businesses with the ability to create a personalized shopping experience that is more engaging for customers"
 leadtext: "By using Amazon Polly to create lifelike speech, businesses can provide a superior shopping experience that translates into higher sales."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/webhooks-by-zapier
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and Webhooks by Zapier is a great way for businesses to automate their workflows and improve their overall efficiency"
 leadtext: "By integrating these two platforms using APIs or SDKs, businesses can reduce manual work, improve data accuracy, and save time. We highly recommend that businesses explore this integration to take their sales and customer service processes to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

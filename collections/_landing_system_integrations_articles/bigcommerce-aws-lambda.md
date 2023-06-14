@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/aws-lambda
 author: Edward Saunders
 title: "BigCommerce and AWS Lambda Integration"
+topic: System Integration
 leadhead: "Integrating BigCommerce and AWS Lambda provides businesses with a powerful solution that can help them scale their e-commerce stores and provide customers with an excellent experience"
 leadtext: "The integration helps businesses to automate their workflows, reduce manual tasks and optimize costs associated with running an e-commerce store. Furthermore, BigCommerce and AWS Lambda have APIs and SDKs that make the integration relatively simple and straightforward. Businesses that are looking for a powerful and customizable e-commerce solution should consider integrating BigCommerce and AWS Lambda."
 image: /assets/images/articles/people-sitting-near-table.webp

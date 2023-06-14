@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/google-bigquery
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Google BigQuery"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Google BigQuery through an API or SDK can provide a number of benefits to organizations"
 leadtext: "It enables efficient data management, cost savings, and real-time analysis of data. By taking advantage of the strengths of both services, organizations can gain valuable insights into their data and make data-driven decisions that drive growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

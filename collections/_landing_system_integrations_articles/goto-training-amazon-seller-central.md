@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/amazon-seller-central
 author: Edward Saunders
 title: "Benefits of Integrating GoTo Training with Amazon Seller Central"
+topic: System Integration
 leadhead: "In conclusion, integrating GoTo Training with Amazon Seller Central can provide businesses with a competitive advantage and help them to grow and succeed on Amazon's platform"
 leadtext: "The benefits include better-trained staff, improved customer service, and increased sales metrics. As a result, businesses that want to thrive on Amazon must consider this integration to stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

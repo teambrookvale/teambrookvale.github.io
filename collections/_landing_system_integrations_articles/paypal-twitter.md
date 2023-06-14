@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/twitter
 author: Edward Saunders
 title: "How PayPal and Twitter Integration can Benefit Your Business"
+topic: System Integration
 leadhead: "Overall, the integration of PayPal and Twitter can provide several benefits for businesses looking to streamline their payment processes and expand their reach"
 leadtext: "By leveraging these two platforms' strengths, businesses can create a seamless buying experience for their customers while increasing sales and revenue in the process."
 image: /assets/images/articles/people-sitting-near-table.webp

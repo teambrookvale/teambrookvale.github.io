@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/bigcommerce
 author: Edward Saunders
 title: "Shopify vs BigCommerce: Integration and Benefits"
+topic: System Integration
 leadhead: "While both Shopify and BigCommerce offer similar features, the integration of the two can provide additional benefits for businesses"
 leadtext: "By leveraging the power of API or SDK, businesses can automate their operations, expand their reach, and provide a better customer experience. If you're currently using Shopify or BigCommerce, consider integrating the two to take advantage of the benefits it offers."
 image: /assets/images/articles/people-sitting-near-table.webp

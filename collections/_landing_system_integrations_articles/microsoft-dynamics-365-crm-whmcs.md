@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/whmcs
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and WHMCS through API or SDK"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and WHMCS through API or SDK can create new opportunities for businesses by solving problems and improving operational efficiency"
 leadtext: "The specific integration scenarios and methods will depend on the needs of the business, but the benefits of integration are clear. Whether you're a business that uses both applications or a developer looking to build integrations for clients, consider the potential of integrating Microsoft Dynamics 365 CRM and WHMCS."
 image: /assets/images/articles/people-sitting-near-table.webp

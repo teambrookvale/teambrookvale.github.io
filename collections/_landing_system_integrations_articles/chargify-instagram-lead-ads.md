@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/instagram-lead-ads
 author: Edward Saunders
 title: "Chargify and Instagram Lead Ads Integration: Solving Problems for Better Marketing"
+topic: System Integration
 leadhead: "The integration of Chargify and Instagram Lead Ads can be a powerful tool in streamlining marketing activities and addressing critical issues in lead generation, payment processing, and customer management"
 leadtext: "As businesses continue to seek ways to digitize and automate their activities, the integration of these two platforms offers a seamless and efficient solution."
 image: /assets/images/articles/people-sitting-near-table.webp

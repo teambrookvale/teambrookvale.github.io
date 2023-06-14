@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/aws-lambda
 author: Edward Saunders
 title: "Integration of Keap Max Classic and AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and AWS Lambda is a game-changer for businesses looking to increase their efficiency and productivity"
 leadtext: "It allows businesses to automate processes, ensure data accuracy and security, and easily scale their operations. As a result, businesses can focus on growth and expand their operations without worrying about server management and technical issues."
 image: /assets/images/articles/people-sitting-near-table.webp

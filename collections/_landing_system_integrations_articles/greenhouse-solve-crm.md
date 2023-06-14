@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/solve-crm
 author: Edward Saunders
 title: "Greenhouse and Solve CRM Integration"
+topic: System Integration
 leadhead: "Combining the power of Greenhouse and Solve CRM through API or SDK integration can lead to a more efficient and streamlined recruitment process"
 leadtext: "With the integration, businesses can automate workflows, improve communication, enhance the candidate experience, and provide seamless onboarding."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/upwork
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and Upwork"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Upwork through API or SDK provides numerous benefits for both freelancers and businesses alike"
 leadtext: "It helps freelancers optimize their resource usage, reducing their AWS costs while also increasing productivity. Businesses can smoothly manage their projects and teams, ensuring that everything runs smoothly and on time. Overall, this integration can greatly improve the freelancing experience for everyone involved."
 image: /assets/images/articles/people-sitting-near-table.webp

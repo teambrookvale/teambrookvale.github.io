@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/ai-by-zapier
 author: Edward Saunders
 title: "Integration of Namely and AI by Zapier"
+topic: System Integration
 leadhead: "The integration of Namely and AI by Zapier is a powerful tool for businesses looking to streamline their HR processes and improve their operational efficiency"
 leadtext: "By automating workflows, eliminating manual data entry, and providing real-time insights into HR operations, businesses can save time and money, reduce errors, and improve their overall effectiveness. Contact Namely and Zapier today to learn more about how this integration can help your business."
 image: /assets/images/articles/people-sitting-near-table.webp

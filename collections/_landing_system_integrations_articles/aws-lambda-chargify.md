@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/chargify
 author: Edward Saunders
 title: "AWS Lambda and Chargify Integration: A Problem Solver"
+topic: System Integration
 leadhead: "Integrating AWS Lambda and Chargify through API or SDK is an ideal choice for businesses looking to streamline and automate their billing and payment processes, making them more efficient and cost-effective"
 leadtext: "With this integration, businesses can avoid the manual tasks associated with recurring billing, manage high traffic on billing servers, and enjoy a smooth and uninterrupted billing process."
 image: /assets/images/articles/people-sitting-near-table.webp

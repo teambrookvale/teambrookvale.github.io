@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-s3
 author: Edward Saunders
 title: "Integration of WHMCS and Amazon S3 - Benefits and Advantages"
+topic: System Integration
 leadhead: "WHMCS and Amazon S3 are powerful and reliable platforms that are designed to manage the web hosting and data storage needs of businesses"
 leadtext: "When integrated through API or SDK, they provide an even more robust and scalable solution that addresses several data management challenges. The integration ensures better data security, more efficient data storage and backup, scalability, and cost-effectiveness. Therefore, WHMCS users who integrate with Amazon S3 can enjoy increased efficiency and better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

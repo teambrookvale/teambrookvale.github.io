@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/servicenow
 author: Edward Saunders
 title: "Integrating GoTo Webinar and ServiceNow"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and ServiceNow can help businesses automate their processes, streamline workflows, and improve communication"
 leadtext: "With the right integration, businesses can offer better customer support, provide more effective training, and improve overall efficiency. If you are using both GoTo Webinar and ServiceNow, it is worth exploring how you can integrate them to create more value for your organization."
 image: /assets/images/articles/people-sitting-near-table.webp

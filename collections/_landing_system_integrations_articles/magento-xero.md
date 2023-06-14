@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/xero
 author: Edward Saunders
 title: "Magento and Xero Integration - The Perfect Solution for Your Business"
+topic: System Integration
 leadhead: "Magento and Xero integration is an excellent solution for businesses looking to streamline their financial management processes"
 leadtext: "The integration allows for automated processes, reducing errors, saving time, and enabling businesses to gain real-time financial insights. It’s an investment that pays off in the long run, allowing you to focus on growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

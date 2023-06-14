@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-cloudwatch
 author: Edward Saunders
 title: "Integrating Solve CRM with Amazon CloudWatch: Benefits and Solution"
+topic: System Integration
 leadhead: "The integration of Solve CRM with Amazon CloudWatch is a powerful tool that can provide valuable insights into your CRM application"
 leadtext: "It enables you to monitor your application's performance, track events and metrics, and receive alarms and notifications when necessary. By identifying and addressing issues promptly, you can improve the customer experience and satisfaction, helping to build long-lasting relationships with your customers."
 image: /assets/images/articles/people-sitting-near-table.webp

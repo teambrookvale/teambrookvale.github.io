@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/twitter
 author: Edward Saunders
 title: "How AI by Zapier and Twitter Integration is Solving Problems"
+topic: System Integration
 leadhead: "In conclusion, the integration of AI by Zapier and Twitter is a welcome development"
 leadtext: "It has paved the way for more advanced automation, improved customer service delivery, and increased Twitter outreach. With users being able to connect Zapier and Twitter through API or SDK, the possibilities of what this integration can achieve are endless. Businesses, organizations, and individuals can now carry out their Twitter activities with much more ease and efficiency, thanks to AI by Zapier and Twitter integration."
 image: /assets/images/articles/people-sitting-near-table.webp

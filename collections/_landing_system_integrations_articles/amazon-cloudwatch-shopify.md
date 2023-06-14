@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/shopify
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Shopify for Effective Business Management"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Shopify using APIs or SDKs provides businesses with real-time monitoring, improved performance and scalability, and efficient inventory management"
 leadtext: "These benefits help businesses operate their online stores more efficiently, reduce operating costs, and improve the customer experience. Therefore, if you are running an online store on Shopify, it is highly recommended to integrate it with Amazon CloudWatch for effective business management."
 image: /assets/images/articles/people-sitting-near-table.webp

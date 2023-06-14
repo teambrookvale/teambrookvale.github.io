@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/moodle
 author: Edward Saunders
 title: "Integrating Pardot and Moodle: A Perfect Solution for E-Learning Platforms"
+topic: System Integration
 leadhead: "Integrating Pardot and Moodle can help e-learning platforms to improve their marketing and communication efforts, thereby increasing leads, sales, and student engagement"
 leadtext: "By using these platforms in combination and synchronizing student data, you can automate enrollment, nurture leads, and improve the overall learner experience. By using modern and effective platform integrations, your e-learning platform will be successful and competitive in today's contemporary world."
 image: /assets/images/articles/people-sitting-near-table.webp

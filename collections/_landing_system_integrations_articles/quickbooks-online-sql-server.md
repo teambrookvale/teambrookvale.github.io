@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/sql-server
 author: Edward Saunders
 title: "QuickBooks Online and SQL Server Integration"
+topic: System Integration
 leadhead: "Overall, the integration of QuickBooks Online and SQL Server can bring a range of benefits to businesses"
 leadtext: "By streamlining processes and providing access to real-time data, businesses can improve productivity, reduce errors, and make faster and more informed decisions. Whether through API or SDK integration, businesses should consider integrating these two powerful tools to unlock their full potential."
 image: /assets/images/articles/people-sitting-near-table.webp

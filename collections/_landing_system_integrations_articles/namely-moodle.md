@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/moodle
 author: Edward Saunders
 title: "Integrating Namely and Moodle for a Better Learning Experience"
+topic: System Integration
 leadhead: "The integration of Namely and Moodle is a powerful tool that offers a range of benefits for both businesses and educators"
 leadtext: "By simplifying HR tasks and providing powerful learning tools, this integration helps to create a more efficient workplace and a more effective learning experience. For businesses looking to improve their HR processes and educators looking to create more engaging online courses, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

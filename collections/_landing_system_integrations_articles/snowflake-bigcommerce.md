@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/bigcommerce
 author: Edward Saunders
 title: "Snowflake and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and BigCommerce through API or SDK is a game-changer for businesses"
 leadtext: "It enables faster data processing and real-time insights, solves the problem of data silos and streamlines operations. Every business that wants to maximize the benefits of its e-commerce platform should consider this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

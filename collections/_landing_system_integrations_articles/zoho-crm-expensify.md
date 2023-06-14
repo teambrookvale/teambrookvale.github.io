@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/expensify
 author: Edward Saunders
 title: "Integrating Zoho CRM and Expensify: Your Solution for Expense Management"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and Expensify is a powerful solution for managing expenses"
 leadtext: "By automating the expense tracking process, businesses can save time, reduce errors, and gain better visibility into their spending. The integration of these two platforms is made possible through APIs or SDKs, and once implemented, can solve a range of problems related to expense management."
 image: /assets/images/articles/people-sitting-near-table.webp

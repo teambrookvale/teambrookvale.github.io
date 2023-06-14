@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/whmcs
 author: Edward Saunders
 title: "QuickBooks Online and WHMCS Integration"
+topic: System Integration
 leadhead: "Businesses that use QuickBooks Online and WHMCS can benefit greatly from integrating the two platforms"
 leadtext: "By using API or SDK, businesses can automate processes, improve accuracy, and increase efficiency, ultimately leading to a better customer experience and increased revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

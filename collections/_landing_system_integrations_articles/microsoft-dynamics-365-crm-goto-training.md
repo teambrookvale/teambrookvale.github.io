@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/goto-training
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and GoTo Training"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and GoTo Training can offer businesses a comprehensive solution for customer management, service and support, and employee training"
 leadtext: "By leveraging the benefits of API or SDK integration, businesses can provide a seamless experience for their customers and employees and improve their overall operations."
 image: /assets/images/articles/people-sitting-near-table.webp

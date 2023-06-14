@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/servicenow
 author: Edward Saunders
 title: "Integration of BigCommerce and ServiceNow"
+topic: System Integration
 leadhead: "The integration of BigCommerce and ServiceNow is a powerful solution for businesses looking to improve their online stores and automate their IT processes"
 leadtext: "With the ability to exchange data and automate tasks, businesses can save time and improve the customer experience. If you're considering integrating these two platforms, be sure to explore the APIs and SDKs available to you and consult with experts who can help you make the most of this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

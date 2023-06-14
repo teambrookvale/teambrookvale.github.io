@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/salesforce
 author: Edward Saunders
 title: "Integrating Greenhouse and Salesforce: A Gamechanger for Businesses"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Salesforce is a gamechanger for businesses"
 leadtext: "It brings the recruitment and sales processes together, ensuring that both teams have access to the latest data and are working towards common goals. The integration through API or SDK solves many problems that businesses face in their recruitment and sales processes, making it a valuable tool for any organization looking to streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

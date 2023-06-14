@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/namely
 author: Edward Saunders
 title: "PostgreSQL and Namely Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating PostgreSQL and Namely through API or SDK can have a significant impact on HR-related tasks"
 leadtext: "By automating data synchronization, inconsistencies can be avoided, and the need for manual data entry minimized. Additionally, data extraction becomes a simpler process, allowing for better analysis and reporting. Overall, the integration of these two systems can lead to increased efficiency and reduced errors, making it a valuable tool for organizations of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/google-bigquery
 author: Edward Saunders
 title: "Chargify and Google BigQuery Integration: Solving Data Analysis Problems"
+topic: System Integration
 leadhead: "In conclusion, integrating Chargify and Google BigQuery through API or SDK can help subscription businesses streamline their data analysis and make data-driven decisions"
 leadtext: "With real-time analytics, automated reports, and a better understanding of your customer's behavior, you can optimize your subscription business and improve customer retention."
 image: /assets/images/articles/people-sitting-near-table.webp

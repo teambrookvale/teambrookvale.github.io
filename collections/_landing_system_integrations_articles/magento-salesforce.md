@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/salesforce
 author: Edward Saunders
 title: "Magento and Salesforce Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Salesforce through API or SDK can take your e-commerce business to a new level"
 leadtext: "It can help you manage your customer data efficiently, reduce errors, increase sales, and improve customer experience. If you are looking to grow your e-commerce business, consider integrating Magento and Salesforce."
 image: /assets/images/articles/people-sitting-near-table.webp

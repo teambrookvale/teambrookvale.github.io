@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/namely
 author: Edward Saunders
 title: "Google Groups and Namely Integration: A Seamless Solution for Managing Employee Data"
+topic: System Integration
 leadhead: "The integration of Google Groups and Namely through API or SDK provides a seamless solution for managing employee data"
 leadtext: "It eliminates the need for manual data entry and provides a centralized platform for HR processes. With this integration, organizations can efficiently manage employee data and improve communication between HR professionals and employees."
 image: /assets/images/articles/people-sitting-near-table.webp

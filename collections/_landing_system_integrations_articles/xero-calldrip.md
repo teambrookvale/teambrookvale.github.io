@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/calldrip
 author: Edward Saunders
 title: "Xero and Calldrip Integration: Solving Problems for Businesses"
+topic: System Integration
 leadhead: "The integration of Xero and Calldrip through an API or SDK is a powerful solution for businesses"
 leadtext: "It streamlines processes, saves time, and provides a complete view of customer data. By solving these problems, businesses can focus on growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

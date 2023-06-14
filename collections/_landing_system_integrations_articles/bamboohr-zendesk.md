@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/zendesk
 author: Edward Saunders
 title: "BambooHR and Zendesk Integration"
+topic: System Integration
 leadhead: "The integration of BambooHR and Zendesk can help businesses improve their HR and customer service processes, save time and resources, and enhance employee and customer experiences"
 leadtext: "It is easy to set up and provides a flexible, customizable tool that can be tailored to meet individual business needs."
 image: /assets/images/articles/people-sitting-near-table.webp

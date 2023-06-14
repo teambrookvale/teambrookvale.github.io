@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/namely
 author: Edward Saunders
 title: "Shopify and Namely Integration"
+topic: System Integration
 leadhead: "Integration of Shopify and Namely is a smart move for businesses looking to streamline their operations and improve accuracy"
 leadtext: "The integration helps ensure that employee data is accurate, and there are no discrepancies in the payroll process. Additionally, businesses gain the ability to easily manage employee benefits. Overall, combining these two platforms can result in significant benefits for businesses looking to reduce manual work and improve operational efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/quick-base
 author: Edward Saunders
 title: "WHMCS and Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of WHMCS and Quick Base through API or SDK offers businesses a number of benefits, including streamlined operations, improved customer experience, and increased revenue"
 leadtext: "By leveraging these tools, businesses can improve their efficiency, productivity, and profitability, and gain a competitive edge in today's market."
 image: /assets/images/articles/people-sitting-near-table.webp

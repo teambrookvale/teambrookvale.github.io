@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/calldrip
 author: Edward Saunders
 title: "How BigCommerce and Calldrip Integration Benefits E-Commerce Businesses"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Calldrip is a game-changer for e-commerce businesses"
 leadtext: "It offers a seamless solution for managing sales and customer service processes, improving response times, and increasing sales conversions. By leveraging these two powerful platforms, businesses can optimize their performance and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

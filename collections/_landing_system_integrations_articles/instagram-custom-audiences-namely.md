@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/namely
 author: Edward Saunders
 title: "Integration of Instagram Custom Audiences and Namely"
+topic: System Integration
 leadhead: "Integration of Instagram Custom Audiences and Namely can be a powerful tool for businesses looking to increase their social media presence and reach their target audience on Instagram"
 leadtext: "By using employee data and creating custom audiences, businesses can create a more targeted approach to advertising and lead to increased conversions. The future looks bright for businesses using these tools together."
 image: /assets/images/articles/people-sitting-near-table.webp

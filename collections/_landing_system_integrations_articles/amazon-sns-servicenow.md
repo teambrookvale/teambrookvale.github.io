@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/servicenow
 author: Edward Saunders
 title: "Integrating Amazon SNS and ServiceNow | A Comprehensive Guide"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and ServiceNow is an essential step in enhancing the efficiency and effectiveness of IT service management"
 leadtext: "By automating incident management, streamlining change management and improving communication, you can increase the productivity of your organization. With the API or SDK integration, the process is straightforward, and you can accomplish it in a short time."
 image: /assets/images/articles/people-sitting-near-table.webp

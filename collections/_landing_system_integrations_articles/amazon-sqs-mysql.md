@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/mysql
 author: Edward Saunders
 title: "Integration of Amazon SQS and MySQL"
+topic: System Integration
 leadhead: "Integrating Amazon SQS and MySQL can help developers build reliable, scalable, and cost-efficient cloud applications that can handle increasing levels of traffic without any issues"
 leadtext: "This integration enables developers to store and retrieve messages from the queue using MySQL instead of using the default storage provided by Amazon. With the help of Lambda functions, developers can ensure that the data is consistent and the process is automated."
 image: /assets/images/articles/people-sitting-near-table.webp

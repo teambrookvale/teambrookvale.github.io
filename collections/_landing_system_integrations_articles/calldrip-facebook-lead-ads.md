@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/facebook-lead-ads
 author: Edward Saunders
 title: "Calldrip and Facebook Lead Ads Integration - Solving your Lead Management Problems"
+topic: System Integration
 leadhead: "In conclusion, businesses that integrate Calldrip and Facebook Lead Ads can streamline their lead management, follow-up, and conversion process"
 leadtext: "By enabling immediate follow-up, tracking leads' progress, and making strategic decisions, businesses can increase their chances of converting leads into paying customers. With Calldrip and Facebook Lead Ads integration, businesses can manage their leads more efficiently and grow their business faster."
 image: /assets/images/articles/people-sitting-near-table.webp

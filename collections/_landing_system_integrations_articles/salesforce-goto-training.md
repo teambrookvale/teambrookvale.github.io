@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/goto-training
 author: Edward Saunders
 title: "Salesforce and GoTo Training: Integration through API or SDK"
+topic: System Integration
 leadhead: "The integration of Salesforce and GoTo Training through API or SDK provides businesses with a powerful tool to streamline their training processes, improve employee and customer satisfaction, and increase revenue"
 leadtext: "By leveraging the capabilities of both platforms, businesses can create customized and engaging training programs that meet the needs of their employees and customers, and make data-driven decisions based on their performance and feedback."
 image: /assets/images/articles/people-sitting-near-table.webp

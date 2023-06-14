@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/marketo
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and Marketo"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Marketo can provide businesses with valuable insights that can help them optimize their operations and improve their marketing campaigns"
 leadtext: "With the help of an API or SDK, this integration can be achieved easily and efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

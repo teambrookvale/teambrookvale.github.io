@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/bigcommerce
 author: Edward Saunders
 title: "Magento and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Magento and BigCommerce offers merchants the best of both worlds"
 leadtext: "The flexibility and customization offered by Magento and the hosting and support provided by BigCommerce create a seamless shopping experience for the customers. With the integration of the two platforms, merchants can focus on delivering a better customer experience, increase sales, and grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

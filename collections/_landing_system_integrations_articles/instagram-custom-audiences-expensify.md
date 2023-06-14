@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/expensify
 author: Edward Saunders
 title: "Instagram Custom Audiences and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Expensify is a valuable tool for businesses looking to improve their ad targeting and expense management"
 leadtext: "By utilizing API or SDK, businesses can streamline their operations and increase their chances of success in the competitive market."
 image: /assets/images/articles/people-sitting-near-table.webp

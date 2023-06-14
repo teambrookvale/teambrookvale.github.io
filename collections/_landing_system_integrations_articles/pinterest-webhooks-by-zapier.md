@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/webhooks-by-zapier
 author: Edward Saunders
 title: "Integration of Pinterest and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Pinterest and Webhooks by Zapier is a valuable tool for users who want to streamline the process of sharing and saving their bookmarks"
 leadtext: "With the help of API or SDK, users can automate various tasks such as saving and sharing their pins, making their social media experience hassle-free and manageable."
 image: /assets/images/articles/people-sitting-near-table.webp

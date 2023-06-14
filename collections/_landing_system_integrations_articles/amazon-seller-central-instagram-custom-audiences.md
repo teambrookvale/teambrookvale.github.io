@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/instagram-custom-audiences
 author: Edward Saunders
 title: "Amazon Seller Central and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Instagram Custom Audiences is a game-changer for sellers"
 leadtext: "It allows them to reach a highly relevant audience and increase their chances of converting them into customers. With the use of API or SDK, this integration is seamless and efficient, solving the problem of targeting irrelevant audiences and reducing ad spend."
 image: /assets/images/articles/people-sitting-near-table.webp

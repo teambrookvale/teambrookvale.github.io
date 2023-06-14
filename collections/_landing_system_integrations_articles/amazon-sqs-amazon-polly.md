@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-polly
 author: Edward Saunders
 title: "Amazon SQS and Amazon Polly Integration – A Game-Changer in Audio Processing"
+topic: System Integration
 leadhead: "The integration between Amazon SQS and Amazon Polly is a game-changer in audio processing solutions"
 leadtext: "Now, organizations can create scalable, low-cost, and high-quality production workflows that automate the generation of audio files. Companies can create audio files in multilingual formats and accessibly produce high-quality audio content without manual intensive labor. By integrating Amazon SQS and Amazon Polly, developers can create solutions that are reliable, highly scalable, and easy to maintain, providing a wide range of benefits to organizations."
 image: /assets/images/articles/people-sitting-near-table.webp

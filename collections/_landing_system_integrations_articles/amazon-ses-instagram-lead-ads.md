@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/instagram-lead-ads
 author: Edward Saunders
 title: "Amazon SES and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SES and Instagram Lead Ads through API or SDK is a great way for businesses
       to automate their email marketing efforts"
 leadtext: "By doing so, businesses can save time and effort,

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/bigcommerce
 author: Edward Saunders
 title: "Why Integrating Moodle and BigCommerce is Beneficial"
+topic: System Integration
 leadhead: "The integration of Moodle and BigCommerce through API or SDK creates a powerful ecosystem that solves numerous problems"
 leadtext: "It enhances efficiency, eliminates redundancy, and provides better insights into customer behavior. Businesses can offer their courses to students or employees while selling their products online from one platform, making it a win-win situation. Overall, the integration of Moodle and BigCommerce through API or SDK is a smart move for any business looking to streamline their operations and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/expensify
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and Expensify"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Expensify through API or SDK is a powerful tool that can save you time and effort when it comes to expense reporting"
 leadtext: "By automating the flow of data between the two services, you can focus on the important task of growing your business, rather than spending time on menial tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

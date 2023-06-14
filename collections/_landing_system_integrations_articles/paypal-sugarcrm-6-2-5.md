@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/sugarcrm-6-2-5
 author: Edward Saunders
 title: "PayPal and SugarCRM 6.2-5 Integration: A Solution for Your Business Woes"
+topic: System Integration
 leadhead: "Integrating PayPal and SugarCRM through API or SDK can improve your business's financial and customer relations management"
 leadtext: "Automation, accuracy, and convenience are just some of the benefits that you can experience. If you're interested in integrating the two services, consider consulting with a developer or an integration service provider. With the right integration, you can take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

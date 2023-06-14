@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/twitter
 author: Edward Saunders
 title: "Integrating Moodle and Twitter: A Solution for Enhanced Learning"
+topic: System Integration
 leadhead: "The integration of Moodle and Twitter offers a powerful tool for enhancing online learning"
 leadtext: "By leveraging the strengths of both platforms, educators can create a dynamic and engaging learning experience for their students. Whether you are a teacher looking to use social media to enhance your course content, or a student seeking a more collaborative and interactive learning experience, Moodle and Twitter can help."
 image: /assets/images/articles/people-sitting-near-table.webp

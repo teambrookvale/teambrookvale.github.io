@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/salesforce
 author: Edward Saunders
 title: "Amazon EC2 and Salesforce Integration"
+topic: System Integration
 leadhead: "Amazon EC2 and Salesforce are two powerful tools that businesses can use to streamline their operations"
 leadtext: "By integrating the two through API or SDK, businesses can enjoy a range of benefits, including improved data accuracy, increased efficiency, better collaboration, and enhanced customer experience. Ultimately, the integration can help businesses focus on their core competencies and drive their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

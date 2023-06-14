@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-sns
 author: Edward Saunders
 title: "Integrating Magento with Amazon SNS"
+topic: System Integration
 leadhead: "Integrating Magento with Amazon SNS provides online retailers with numerous benefits that can help them streamline their business processes, improve efficiency, and provide a better customer experience"
 leadtext: "By using the API or SDK provided by Amazon SNS, developers can easily integrate these two platforms and take advantage of the many features that they offer."
 image: /assets/images/articles/people-sitting-near-table.webp

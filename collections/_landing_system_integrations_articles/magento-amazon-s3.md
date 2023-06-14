@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-s3
 author: Edward Saunders
 title: "Magento and Amazon S3 Integration: A Powerful Combination"
+topic: System Integration
 leadhead: "Magento and Amazon S3 integration is a powerful solution for businesses that want to scale their online stores, reduce storage costs, and improve performance and speed"
 leadtext: "By leveraging the capabilities of Amazon S3, businesses can create more flexible, scalable, and cost-effective storage solutions that help them grow and succeed in the highly competitive e-commerce landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

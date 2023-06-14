@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/paypal
 author: Edward Saunders
 title: "Twitter and PayPal Integration"
+topic: System Integration
 leadhead: "Integrating Twitter and PayPal can be a vital step for businesses seeking to enhance their online communication and payment processing systems"
 leadtext: "This integration can help businesses improve customer experience, increase their customer base and reduce transaction costs. As such, businesses should consider integrating Twitter and PayPal into their systems."
 image: /assets/images/articles/people-sitting-near-table.webp

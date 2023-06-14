@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/zoho-crm
 author: Edward Saunders
 title: "Webhooks Integration of Zapier and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Zoho CRM is a great solution for businesses seeking to streamline their processes and enhance their workflows"
 leadtext: "By automating tasks, improving communication, and providing real-time data access, businesses can focus on their core activities, improving their customer relationships and increasing their revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

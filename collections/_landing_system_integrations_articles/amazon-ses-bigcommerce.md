@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/bigcommerce
 author: Edward Saunders
 title: "Integrating Amazon SES with BigCommerce: A Solution to Your Email Marketing Woes"
+topic: System Integration
 leadhead: "The integration of Amazon SES and BigCommerce is a game-changer for email marketing"
 leadtext: "It streamlines the process of sending personalized and targeted emails, resulting in higher engagement and conversions. By leveraging the benefits of both services, businesses can increase their revenue and build stronger relationships with their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

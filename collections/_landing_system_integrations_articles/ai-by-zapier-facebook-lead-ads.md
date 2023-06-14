@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/facebook-lead-ads
 author: Edward Saunders
 title: "How Zapier and Facebook Lead Ads work together seamlessly"
+topic: System Integration
 leadhead: "By using Zapier to integrate Facebook Lead Ads with other apps and software, businesses can automate their workflows and save time and resources"
 leadtext: "They can create powerful automation workflows by setting up triggers and actions to move data automatically from Facebook Lead Ads to their desired location. This seamless integration is made possible through the use of an API or SDK, streamlining business processes and setting companies up for success."
 image: /assets/images/articles/people-sitting-near-table.webp

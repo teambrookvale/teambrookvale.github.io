@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/bigcommerce
 author: Edward Saunders
 title: "How Pinterest and BigCommerce Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "Integrating Pinterest and BigCommerce can help businesses drive traffic and sales to their online store while also managing their operations more efficiently"
 leadtext: "By taking advantage of the Pinterest API and BigCommerce SDK, businesses can create a seamless integration between the two platforms, improving their online presence and increasing their revenue. If you're not already utilizing Pinterest and BigCommerce, consider integrating the two to take your e-commerce business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

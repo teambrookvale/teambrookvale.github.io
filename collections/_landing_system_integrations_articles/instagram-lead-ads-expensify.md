@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/expensify
 author: Edward Saunders
 title: "Integrating Instagram Lead Ads & Expensify: A Solution for Small Businesses"
+topic: System Integration
 leadhead: "Integrating Instagram Lead Ads and Expensify is a no-brainer for small businesses looking to streamline their lead generation and expense management efforts"
 leadtext: "By leveraging the power of automation and data integration, businesses can not only save time and money but also drive better business outcomes through targeted marketing and smarter spending. Whether through an API or SDK, this integration is worth exploring for any business looking to grow in a sustainable way."
 image: /assets/images/articles/people-sitting-near-table.webp

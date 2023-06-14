@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/google-ads
 author: Edward Saunders
 title: "How AWS Lambda and Google Ads Integration Solves Business Problems?"
+topic: System Integration
 leadhead: "In conclusion, integrating AWS Lambda and Google Ads provides businesses with a powerful solution that saves time, increases productivity, and improves their overall online advertising success"
 leadtext: "It enables businesses to automate Google Ads campaign management and perform batch operations with ease, ensuring accuracy and quick response to changes in campaign performance. Overall, this integration helps businesses to achieve their advertising goals and maximize their return on investment (ROI)."
 image: /assets/images/articles/people-sitting-near-table.webp

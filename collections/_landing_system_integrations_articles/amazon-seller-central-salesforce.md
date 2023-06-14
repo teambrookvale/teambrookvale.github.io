@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/salesforce
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and Salesforce"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and Salesforce can be a game-changer for e-commerce businesses"
 leadtext: "Not only does it streamline your business operations, but it also improves the customer experience and enables better data analysis. If you're already using both platforms, it's worth considering integrating them to take advantage of these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

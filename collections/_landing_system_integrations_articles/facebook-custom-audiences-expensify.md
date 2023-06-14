@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/expensify
 author: Edward Saunders
 title: "The Power of Integration: Facebook Custom Audiences and Expensify"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Expensify is a powerful tool for businesses"
 leadtext: "It allows them to better target their ads, manage their expenses, and make more informed business decisions. By streamlining their advertising and expense management processes, businesses can increase their efficiency and productivity, ultimately leading to greater success."
 image: /assets/images/articles/people-sitting-near-table.webp

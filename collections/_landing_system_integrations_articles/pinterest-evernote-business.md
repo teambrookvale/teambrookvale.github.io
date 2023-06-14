@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/evernote-business
 author: Edward Saunders
 title: "Integrating Pinterest and Evernote Business: A Solution for All Your Organizational Woes"
+topic: System Integration
 leadhead: "The integration of Pinterest and Evernote Business is an excellent solution for businesses that want to manage their information more efficiently"
 leadtext: "The combination of Pinterest's image-based platform with the note-taking, organization and task management capabilities of Evernote Business helps teams work together in a more streamlined and collaborative way. Lastly, the integration of the two platforms through an API or SDK eases the workflow process and simplifies complex workflows."
 image: /assets/images/articles/people-sitting-near-table.webp

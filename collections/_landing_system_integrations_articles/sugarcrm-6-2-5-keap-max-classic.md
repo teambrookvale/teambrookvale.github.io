@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/keap-max-classic
 author: Edward Saunders
 title: "Integrating SugarCRM 6.2-5 and Keap Max Classic"
+topic: System Integration
 leadhead: "In conclusion, integrating SugarCRM 6.2-5 and Keap Max Classic can be a highly beneficial option for businesses that need features from both platforms"
 leadtext: "By utilizing APIs or SDKs, businesses can effectively combine the two software programs, resulting in a more efficient and effective CRM solution."
 image: /assets/images/articles/people-sitting-near-table.webp

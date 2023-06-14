@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/zendesk
 author: Edward Saunders
 title: "How Quick Base and Zendesk Integration Can Improve Your Workflow"
+topic: System Integration
 leadhead: "Overall, integrating Quick Base and Zendesk can greatly improve a business's workflow by streamlining customer service operations and providing better collaboration and data accuracy"
 leadtext: "Both platforms are user-friendly and can be customized to fit specific business needs, allowing for a seamless integration."
 image: /assets/images/articles/people-sitting-near-table.webp

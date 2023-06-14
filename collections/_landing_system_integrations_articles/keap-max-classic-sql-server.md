@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/sql-server
 author: Edward Saunders
 title: "Keap Max Classic and SQL Server Integration"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic and SQL Server through API or SDK provides businesses with a powerful and highly customizable solution that enables them to manage their customer data more efficiently and effectively"
 leadtext: "By automating data entry, preventing data duplication, and enhancing their reporting and analytics capabilities, businesses can make more informed decisions that drive growth and profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

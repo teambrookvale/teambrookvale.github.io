@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/solve-crm
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM with Solve CRM"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM with Solve CRM offers significant benefits to businesses"
 leadtext: "Through API or SDK integration, businesses can streamline their customer data management, improve customer service, and increase sales productivity. The integration can help businesses stay ahead of the competition and provide a more personalized approach to customer interactions."
 image: /assets/images/articles/people-sitting-near-table.webp

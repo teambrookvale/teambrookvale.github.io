@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/pardot
 author: Edward Saunders
 title: "Shopify and Pardot Integration"
+topic: System Integration
 leadhead: "Integrating Shopify and Pardot is a powerful way to enhance your ecommerce and marketing efforts"
 leadtext: "By creating a unified system that combines ecommerce and marketing data, businesses can improve customer experiences, increase efficiency, and grow revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

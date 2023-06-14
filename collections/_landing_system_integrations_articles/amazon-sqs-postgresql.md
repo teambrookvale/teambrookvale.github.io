@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/postgresql
 author: Edward Saunders
 title: "Integration of Amazon SQS and PostgreSQL - Solving Key Integration Issues"
+topic: System Integration
 leadhead: "Amazon SQS and PostgreSQL are powerful tools that offer unique and unmatched features"
 leadtext: "By integrating these tools, businesses can gain access to an incredibly powerful and efficient system for managing data and messages. The integration of API or SDK provides numerous advantages such as improved scalability, high reliability, cost-saving, real-time access, and analytics. Overall, the integration of Amazon SQS and PostgreSQL is an excellent solution that helps businesses achieve their data management objectives in a more efficient manner."
 image: /assets/images/articles/people-sitting-near-table.webp

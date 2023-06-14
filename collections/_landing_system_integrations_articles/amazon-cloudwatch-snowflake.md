@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/snowflake
 author: Edward Saunders
 title: "Amazon CloudWatch and Snowflake Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon CloudWatch and Snowflake provides a powerful combination for monitoring and managing applications and databases in the cloud"
 leadtext: "By leveraging APIs and connectors, users can gain real-time insights into performance and health, while reducing manual monitoring and troubleshooting activities. This integration can provide significant benefits for organizations looking to improve their cloud operations and drive business success."
 image: /assets/images/articles/people-sitting-near-table.webp

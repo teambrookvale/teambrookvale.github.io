@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/keap-max-classic
 author: Edward Saunders
 title: "Integration of Amazon S3 and Keap Max Classic"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Keap Max Classic provides businesses with a powerful solution for managing their customer data and assets"
 leadtext: "With the ability to store and access data and assets directly from Keap Max Classic, businesses can streamline their operations and automate their marketing campaigns. This integration is a must-have for any small business looking to improve their customer relationship management and overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

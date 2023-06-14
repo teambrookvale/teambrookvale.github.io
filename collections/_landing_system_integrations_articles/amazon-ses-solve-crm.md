@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/solve-crm
 author: Edward Saunders
 title: "Integrating Amazon SES with Solve CRM"
+topic: System Integration
 leadhead: "Integrating Amazon SES with Solve CRM can help businesses improve their email marketing campaigns, efficiently manage leads and customer interactions, and automate lead nurturing"
 leadtext: "Businesses of all sizes can benefit from this integration, as it is both cost-effective and scalable."
 image: /assets/images/articles/people-sitting-near-table.webp

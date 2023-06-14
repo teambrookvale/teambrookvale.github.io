@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/twitter
 author: Edward Saunders
 title: "Expensify and Twitter Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Twitter is a great example of how technology can help simplify our lives"
 leadtext: "With this integration, businesses can easily manage their expenses while promoting their products and services on social media. As technology continues to evolve, we can expect to see more innovative applications and integrations that will help us manage our lives more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

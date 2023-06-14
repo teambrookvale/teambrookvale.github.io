@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/evernote-business
 author: Edward Saunders
 title: "Integrating Instagram Lead Ads with Evernote Business"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads with Evernote Business is a valuable tool for businesses looking to streamline their lead collection process and improve collaboration between team members"
 leadtext: "By utilizing APIs or SDKs, businesses can take advantage of the features of both platforms to create a more efficient workflow and ultimately increase their chances of converting leads into customers."
 image: /assets/images/articles/people-sitting-near-table.webp

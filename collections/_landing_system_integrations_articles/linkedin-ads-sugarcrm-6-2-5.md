@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and SugarCRM 6.2-5 through API or SDK is a powerful solution that helps businesses to streamline their processes, automate workflows, and provide better customer service"
 leadtext: "By leveraging the power of these two platforms, businesses can reach their target audience on LinkedIn, generate leads, and drive conversions. If you are looking to improve your LinkedIn Ads campaigns' performance and simplify your processes, we recommend that you consider integrating LinkedIn Ads with SugarCRM 6.2-5."
 image: /assets/images/articles/people-sitting-near-table.webp

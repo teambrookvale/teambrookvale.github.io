@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating Zoho CRM and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and Microsoft Dynamics 365 CRM is a smart move for businesses seeking to gain a competitive advantage by providing better customer experiences and improving their business processes"
 leadtext: "Whether through an API or SDK, businesses can unlock the full potential of both systems and gain actionable insights into their customer interactions."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/magento-2-x
 author: Edward Saunders
 title: "Calldrip Integration with Magento 2.X - Solving E-commerce Problems"
+topic: System Integration
 leadhead: "The integration of Calldrip with Magento 2.X brings together two powerful platforms that help businesses manage their e-commerce operations effectively"
 leadtext: "The integration helps businesses in responding to leads quickly and efficiently, manage leads from multiple sources, and streamline their sales process, ultimately leading to increased conversions and better customer experiences. If you are running an online store on Magento 2.X, we highly recommend integrating Calldrip into your operations."
 image: /assets/images/articles/people-sitting-near-table.webp

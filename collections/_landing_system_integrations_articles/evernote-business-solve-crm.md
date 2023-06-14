@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/solve-crm
 author: Edward Saunders
 title: "Integrating Evernote Business and Solve CRM: A Solution for Modern Businesses"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Solve CRM is a powerful solution for modern businesses"
 leadtext: "By combining the strengths of both tools, businesses can optimize their workflow and enhance their productivity and customer service. With the help of API or SDK, the integration process is seamless and easy to implement. By utilizing this integration, businesses can stay organized, efficient, and focused on their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/solve-crm
 author: Edward Saunders
 title: "Calldrip and Solve CRM Integration: Solving your Customer Management Problems"
+topic: System Integration
 leadhead: "The integration of Calldrip and Solve CRM provides businesses with a comprehensive customer management system that streamlines processes and improves overall efficiency"
 leadtext: "By using the API or SDK integration, businesses can reduce manual data entry and errors, increasing the accuracy of customer data. This integration also increases sales lead conversion rates and enhances customer relationship management. Overall, the integration of Calldrip and Solve CRM empowers businesses to better manage their customers, leading to increased customer satisfaction and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

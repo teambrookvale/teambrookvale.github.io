@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/pardot
 author: Edward Saunders
 title: "Integrating Greenhouse and Pardot: Benefits and Solutions"
+topic: System Integration
 leadhead: "Integrating Greenhouse and Pardot can help businesses streamline their processes, improve communication, and gain valuable insights"
 leadtext: "Whether you are a small startup or a large corporation, combining these two platforms can help you enhance your recruitment and marketing activities and give you a competitive edge."
 image: /assets/images/articles/people-sitting-near-table.webp

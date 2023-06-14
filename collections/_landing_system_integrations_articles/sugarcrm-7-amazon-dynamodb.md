@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/amazon-dynamodb
 author: Edward Saunders
 title: "SugarCRM 7+ and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "SugarCRM 7+ and Amazon DynamoDB integration is a powerful tool for businesses that deal with a large amount of customer data"
 leadtext: "With seamless integration, businesses can achieve better customer insights and make data-driven decisions. The scalability of DynamoDB ensures that businesses can handle any level of traffic without any downtime. So, if you are looking to manage and utilize customer data efficiently, the integration of SugarCRM 7+ and Amazon DynamoDB is the answer."
 image: /assets/images/articles/people-sitting-near-table.webp

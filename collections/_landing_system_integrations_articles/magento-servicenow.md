@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/servicenow
 author: Edward Saunders
 title: "Magento and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of Magento and ServiceNow has proved to be a game-changer for businesses looking to improve their customer experience"
 leadtext: "By leveraging these two technologies, businesses can optimize their operations, improve productivity and increase revenue. It is a must-have for businesses that want to thrive in a highly competitive online market."
 image: /assets/images/articles/people-sitting-near-table.webp

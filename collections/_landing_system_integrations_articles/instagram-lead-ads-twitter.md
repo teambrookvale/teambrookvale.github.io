@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/twitter
 author: Edward Saunders
 title: "Integrating Instagram Lead Ads and Twitter for Better Results"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Twitter can be beneficial for businesses looking to maximize their reach and conversions on social media platforms"
 leadtext: "It provides a seamless experience for users and allows businesses to use the data gathered from Instagram Lead Ads to create custom audiences and deliver relevant ads to them on Twitter. This integration is easy to set up and solve the pain points related to manually uploading contact lists and creating new audiences from scratch."
 image: /assets/images/articles/people-sitting-near-table.webp

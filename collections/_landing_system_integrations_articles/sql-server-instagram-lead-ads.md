@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/instagram-lead-ads
 author: Edward Saunders
 title: "Integrating SQL Server with Instagram Lead Ads"
+topic: System Integration
 leadhead: "Integrating SQL Server with Instagram Lead Ads through API or SDK can bring multiple benefits for businesses"
 leadtext: "Better organization and management of leads, efficient follow-up, and improved customer insights are some of the advantages that can help businesses to convert leads into customers more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

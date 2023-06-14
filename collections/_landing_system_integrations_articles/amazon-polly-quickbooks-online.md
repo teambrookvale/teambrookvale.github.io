@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/quickbooks-online
 author: Edward Saunders
 title: "Integrated Voice Capabilities with Amazon Polly and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and QuickBooks Online is just one example of how different technologies can work together to create new and innovative solutions"
 leadtext: "By harnessing the power of text-to-speech technology, small business owners can now access their financial data in a more convenient and accessible way than ever before. As technology continues to evolve, we can expect to see more integrations like this that make our lives easier and more efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

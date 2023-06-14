@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/quick-base
 author: Edward Saunders
 title: "Integration of Keap Max Classic and Quick Base"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Quick Base provides businesses with a powerful tool for managing their customer relationships and operations"
 leadtext: "By leveraging both platforms, businesses can streamline their processes, reduce errors, and gain valuable insights into their operations. The integration is a worthwhile investment for any small business or entrepreneur looking to improve their efficiency and grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

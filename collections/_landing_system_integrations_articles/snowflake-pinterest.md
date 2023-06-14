@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/pinterest
 author: Edward Saunders
 title: "Snowflake and Pinterest Integration"
+topic: System Integration
 leadhead: "Integrating Snowflake and Pinterest through API or SDK can be a game-changer for businesses that are looking to leverage Pinterest for marketing and analytics"
 leadtext: "With this integration, businesses can gain a competitive edge by understanding their Pinterest audience and optimizing their Pinterest marketing campaigns. So, if you are a business that uses Pinterest, it's time to consider integrating it with Snowflake."
 image: /assets/images/articles/people-sitting-near-table.webp

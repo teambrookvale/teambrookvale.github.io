@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/solve-crm
 author: Edward Saunders
 title: "Integration of Pardot and Solve CRM - A Game Changer"
+topic: System Integration
 leadhead: "The integration of Pardot and Solve CRM is a game-changer for businesses"
 leadtext: "It enables them to streamline their marketing and sales processes, gain a complete view of their customers, and optimize their efforts to boost their ROI. Integrating through API or SDK is fast, easy, and can be done with minimal technical knowledge. If you're a Pardot or Solve CRM user, consider integrating the two for a more streamlined, efficient, and effective marketing and sales process."
 image: /assets/images/articles/people-sitting-near-table.webp

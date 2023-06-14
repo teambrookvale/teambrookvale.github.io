@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/zoho-crm
 author: Edward Saunders
 title: "Integrating Amazon SQS and Zoho CRM through API/SDK"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Zoho CRM through API/SDK is a game-changer for businesses that want to streamline their customer service processes and improve their overall efficiency"
 leadtext: "By combining the power of Amazon SQS and Zoho CRM, businesses can create an automated workflow that ensures timely and efficient handling of customer data, leading to exceptional customer experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

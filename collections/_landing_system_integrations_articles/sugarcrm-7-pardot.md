@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/pardot
 author: Edward Saunders
 title: "SugarCRM and Pardot Integration: Streamlining Marketing and Sales Processes"
+topic: System Integration
 leadhead: "The integration of SugarCRM and Pardot is a game-changer for businesses looking to improve their marketing and sales processes"
 leadtext: "It allows for the seamless transfer of data between the two systems, leading to increased efficiency, collaboration, and productivity. It also provides valuable insights into customer behavior and preferences, enabling companies to create personalized marketing campaigns that resonate with customers and improve customer engagement and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

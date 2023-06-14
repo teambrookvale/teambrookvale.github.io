@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/google-groups
 author: Edward Saunders
 title: "Integration of Magento and Google Groups"
+topic: System Integration
 leadhead: "The integration of Magento and Google Groups allows businesses to improve their overall e-commerce operations"
 leadtext: "By providing a unified platform that can manage customer data, orders, and communication, businesses can be more efficient and effective in their operations. It also helps in providing better customer support, which can lead to more satisfied customers and ultimately boost up their business."
 image: /assets/images/articles/people-sitting-near-table.webp

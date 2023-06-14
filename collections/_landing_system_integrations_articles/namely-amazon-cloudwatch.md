@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-cloudwatch
 author: Edward Saunders
 title: "Namely and Amazon CloudWatch: Benefits of Integration"
+topic: System Integration
 leadhead: "By integrating Namely with Amazon CloudWatch, businesses can create a more efficient and streamlined HRIS system that provides better visibility and control over their HR processes"
 leadtext: "Whether it's identifying and resolving issues quickly or making data-driven decisions, the integration of these two systems can help HR teams work more effectively and efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

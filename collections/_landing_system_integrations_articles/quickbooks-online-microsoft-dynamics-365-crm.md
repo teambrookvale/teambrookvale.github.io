@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integration of QuickBooks Online and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration of QBO and Dynamics 365 CRM can help businesses optimize their financial and customer relationship management processes"
 leadtext: "By leveraging their APIs or SDKs, businesses can achieve seamless data exchange and eliminate manual data entry. This can lead to improved accuracy, efficiency, and collaboration, resulting in better customer service, sales, and profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

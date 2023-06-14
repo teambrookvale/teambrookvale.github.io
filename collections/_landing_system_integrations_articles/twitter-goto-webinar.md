@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/goto-webinar
 author: Edward Saunders
 title: "Integrating Twitter and GoTo Webinar"
+topic: System Integration
 leadhead: "The integration of Twitter and GoTo Webinar is a beneficial step for businesses looking to increase their online presence and enhance their marketing efforts"
 leadtext: "This integration not only saves time and resources, but also allows businesses to engage with their customers in a more targeted way. By leveraging the power of these two platforms, businesses can improve their webinars, generate more leads, and ultimately increase their revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

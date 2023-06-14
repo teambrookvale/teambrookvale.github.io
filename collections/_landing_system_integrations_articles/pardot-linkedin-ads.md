@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/linkedin-ads
 author: Edward Saunders
 title: "The Power of Pardot and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "If you're not leveraging the power of Pardot and LinkedIn Ads integration, you're missing out on significant marketing opportunities"
 leadtext: "By combining two robust platforms, you can create a unified marketing strategy that drives more leads, conversions, and ROI. So, why wait? Start your Pardot and LinkedIn Ads integration journey today!"
 image: /assets/images/articles/people-sitting-near-table.webp

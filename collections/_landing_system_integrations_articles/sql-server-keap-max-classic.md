@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/keap-max-classic
 author: Edward Saunders
 title: "Integration of SQL Server and Keap Max Classic"
+topic: System Integration
 leadhead: "The integration of SQL Server and Keap Max Classic can be very beneficial for businesses"
 leadtext: "It allows businesses to automate data transfers, ensure data consistency and accuracy, and create custom applications that help improve productivity. Businesses can integrate the two systems through either API or SDK. With the integration, businesses can focus on what they do best - providing their customers with the best products and services possible."
 image: /assets/images/articles/people-sitting-near-table.webp

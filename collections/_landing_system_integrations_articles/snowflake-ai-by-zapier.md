@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/ai-by-zapier
 author: Edward Saunders
 title: "Snowflake and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and AI by Zapier is a powerful combination that can help businesses achieve greater automation, accuracy, and efficiency in their data workflows"
 leadtext: "By using this integration, businesses can streamline their data management process and focus on driving growth and innovation."
 image: /assets/images/articles/people-sitting-near-table.webp

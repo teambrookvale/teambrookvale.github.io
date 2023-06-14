@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/google-ads
 author: Edward Saunders
 title: "Integration of Moodle and Google Ads"
+topic: System Integration
 leadhead: "The integration of Moodle and Google Ads through APIs or SDKs is a powerful tool for online educators and businesses that want to reach out to potential students with targeted advertising"
 leadtext: "By connecting your LMS with your marketing campaigns, you can save time and effort, increase conversions, optimize your ad spend, and measure your ROI. So, if you are not using this integration yet, it is time to explore its potential and take your e-learning business to the next level!"
 image: /assets/images/articles/people-sitting-near-table.webp

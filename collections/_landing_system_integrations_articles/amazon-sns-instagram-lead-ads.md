@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/instagram-lead-ads
 author: Edward Saunders
 title: "Amazon SNS and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Instagram Lead Ads through API or SDK allows you to streamline your lead capture and processing process, reducing manual data entry and increasing engagement and conversions"
 leadtext: "By leveraging the power of AWS services, you can analyze and process lead data in real-time, providing a better customer experience and increasing ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

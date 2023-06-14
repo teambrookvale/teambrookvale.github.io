@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of PostgreSQL and Amazon CloudFront | Blog Post"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Amazon CloudFront can help you improve the performance, speed, and security of your database"
 leadtext: "By using CloudFront to distribute the data, you can reduce latency and improve the user experience significantly. And with its strong security features, you can trust CloudFront to keep your data safe and protected."
 image: /assets/images/articles/people-sitting-near-table.webp

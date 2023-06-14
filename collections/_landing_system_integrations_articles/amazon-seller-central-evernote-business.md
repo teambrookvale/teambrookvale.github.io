@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/evernote-business
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Evernote Business"
+topic: System Integration
 leadhead: "In conclusion, integration of Amazon Seller Central and Evernote Business can be a game-changer for businesses seeking to streamline their operations"
 leadtext: "By utilizing API or SDK, businesses can create a seamless and efficient workflow, reducing errors and increasing productivity. The integration also provides a way for teams to collaborate and communicate more effectively, leading to improved customer satisfaction and ultimately, business success."
 image: /assets/images/articles/people-sitting-near-table.webp

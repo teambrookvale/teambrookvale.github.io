@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/whmcs
 author: Edward Saunders
 title: "Salesforce and WHMCS Integration"
+topic: System Integration
 leadhead: "Integrating Salesforce and WHMCS via API or SDK can streamline business processes, improve financial management, enhance customer experience and ultimately reduce workload on employees"
 leadtext: "Businesses that adopt this integration can enjoy a seamless system that optimizes their operations and maximizes profits."
 image: /assets/images/articles/people-sitting-near-table.webp

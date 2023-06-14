@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/magento-2-x
 author: Edward Saunders
 title: "SugarCRM and Magento 2.X Integration"
+topic: System Integration
 leadhead: "Integrating SugarCRM 7+ and Magento 2.X via API or SDK offers a range of benefits for businesses of all sizes"
 leadtext: "By streamlining processes, improving data accuracy and enhancing the customer experience, businesses can gain a competitive edge in today's fast-paced ecommerce landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

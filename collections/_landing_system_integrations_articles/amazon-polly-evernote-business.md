@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/evernote-business
 author: Edward Saunders
 title: "Amazon Polly and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Evernote Business is a game-changer for businesses looking to improve their content creation and sharing capabilities"
 leadtext: "It provides a seamless way for businesses to create and share high-quality audio content and can help them reach a wider audience. By leveraging the power of these two tools, businesses can improve their productivity, streamline their processes, and ultimately achieve their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/upwork
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Upwork: A Game Changer for Businesses"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Upwork through APIs or SDKs is a game changer for businesses"
 leadtext: "By automating accounting processes and streamlining payment processing, businesses can save valuable time and resources while ensuring accurate financial records. As businesses continue to operate in an increasingly digital environment, tools like QuickBooks Online and Upwork will become even more important for ensuring efficiency and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

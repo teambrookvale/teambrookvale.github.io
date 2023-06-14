@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/magento-2-x
 author: Edward Saunders
 title: "Marketo and Magento 2.X: The Perfect Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Magento 2.X is a no-brainer for businesses that want to take their marketing and ecommerce efforts to the next level"
 leadtext: "With this integration, you can leverage the power of both platforms to create personalized experiences for your customers and drive more sales. Don't wait, integrate Marketo and Magento 2.X today!"
 image: /assets/images/articles/people-sitting-near-table.webp

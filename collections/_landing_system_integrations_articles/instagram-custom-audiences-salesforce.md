@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/salesforce
 author: Edward Saunders
 title: "Why Integrating Instagram Custom Audiences with Salesforce is Essential"
+topic: System Integration
 leadhead: "Integrating Instagram Custom Audiences with Salesforce is essential for businesses that want to improve their marketing efforts"
 leadtext: "With the integration of these two platforms, businesses can create highly targeted ad campaigns that reach their target audience more effectively. This integration solves several problems for businesses, such as better customer support, higher conversion rates and a better ROI. So, if you're looking to take your marketing efforts to the next level, integrating Instagram Custom Audiences with Salesforce may be the solution you need."
 image: /assets/images/articles/people-sitting-near-table.webp

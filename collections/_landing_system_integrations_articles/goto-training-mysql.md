@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/mysql
 author: Edward Saunders
 title: "The Benefits of Integrating GoTo Training with MySQL"
+topic: System Integration
 leadhead: "The integration of GoTo Training and MySQL through an API or SDK brings significant benefits to businesses"
 leadtext: "By automating the process of transferring training data between the two platforms, businesses can easily store and access training data in MySQL, which can be used to improve the effectiveness of their training programs. The integration also solves several problems that businesses may face when managing their training programs, such as the ability to track and analyze training data in a central location. If you are currently using GoTo Training and MySQL, we highly recommend integrating the two using an API or SDK to reap the benefits that this integration can bring."
 image: /assets/images/articles/people-sitting-near-table.webp

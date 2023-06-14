@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/chargify
 author: Edward Saunders
 title: "Integrating Amazon CloudFront and Chargify"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront and Chargify can help businesses deliver their content globally, improve performance, and automate their billing process"
 leadtext: "By using APIs or SDKs, businesses can create a custom integration that maps Chargify plans to CloudFront behaviors, and dynamically adjust their content delivery system to changes in their customer's subscription status."
 image: /assets/images/articles/people-sitting-near-table.webp

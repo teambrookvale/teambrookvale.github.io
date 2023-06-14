@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/quick-base
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Quick Base: Solution to your Business Problems"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Quick Base through API or SDK is a powerful solution for businesses that want to streamline their webinars and automate tasks"
 leadtext: "It provides a scalable, customizable, and efficient solution that eliminates manual data entry, improves accuracy, and centralizes data in one location. In today’s data-driven world, this integration can be the difference between business success and failure."
 image: /assets/images/articles/people-sitting-near-table.webp

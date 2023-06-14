@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/quickbooks-online
 author: Edward Saunders
 title: "How Integration of ServiceNow and QuickBooks Online through API or SDK Solves Common Business Problems"
+topic: System Integration
 leadhead: "Integrating ServiceNow and QuickBooks Online through API or SDK can streamline business operations, reduce the risk of errors and inefficiencies, and provide a complete view of business operations"
 leadtext: "If you're using these platforms individually, consider exploring integration options to optimize your business productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

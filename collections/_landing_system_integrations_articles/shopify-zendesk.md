@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/zendesk
 author: Edward Saunders
 title: "Integrating Shopify and Zendesk for Seamless Customer Support"
+topic: System Integration
 leadhead: "The integration of Shopify and Zendesk is a game-changer for businesses that prioritize customer support"
 leadtext: "It provides a seamless experience for customers, saves time for businesses, and improves customer satisfaction. By using the APIs and SDKs provided by these platforms, businesses can easily integrate the two and reap the benefits of a centralized customer support platform."
 image: /assets/images/articles/people-sitting-near-table.webp

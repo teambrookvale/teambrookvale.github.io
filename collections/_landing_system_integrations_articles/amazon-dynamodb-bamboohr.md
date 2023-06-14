@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/bamboohr
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and BambooHR | Blog"
+topic: System Integration
 leadhead: "The combination of Amazon DynamoDB and BambooHR offers a powerful toolset to businesses"
 leadtext: "When integrated through API or SDK, the process becomes more streamlined and efficient, and common problems can be resolved effectively. The proper integration of these two tools can lead to more productivity and an increase in overall business performance."
 image: /assets/images/articles/people-sitting-near-table.webp

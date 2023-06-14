@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/mysql
 author: Edward Saunders
 title: "Integrating Google BigQuery and MySQL through API or SDK"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and MySQL through API or SDK is a powerful solution for businesses looking to scale their data management and analysis processes"
 leadtext: "This integration solves many problems related to data storage, analysis, and consistency, allowing organizations to make informed decisions based on timely, accurate, and meaningful insights. We highly recommend businesses to explore this integration and experience the benefits it offers."
 image: /assets/images/articles/people-sitting-near-table.webp

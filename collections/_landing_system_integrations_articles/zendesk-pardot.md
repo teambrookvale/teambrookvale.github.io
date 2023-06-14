@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/pardot
 author: Edward Saunders
 title: "Zendesk and Pardot Integration: Solving Business Problems"
+topic: System Integration
 leadhead: "Zendesk and Pardot are two powerful tools used by businesses to manage their customer support and marketing efforts"
 leadtext: "By integrating these tools through APIs or SDKs, businesses can streamline their operations and improve communication and collaboration between teams. This integration leads to better decision-making, more informed customer interactions, and ultimately, better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

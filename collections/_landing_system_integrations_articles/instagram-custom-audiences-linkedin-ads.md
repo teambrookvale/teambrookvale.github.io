@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/linkedin-ads
 author: Edward Saunders
 title: "Instagram and LinkedIn Integration: The Ultimate Marketing Pair"
+topic: System Integration
 leadhead: "Instagram and LinkedIn are both powerful platforms that can help businesses reach out to their target audience effectively"
 leadtext: "By integrating the two through API or SDK, businesses can take their marketing efforts to the next level. They can target their audience with precision, create a seamless marketing experience, and improve their ROI significantly. So, if you haven’t already, it’s time to consider integrating Instagram Custom Audiences and LinkedIn Ads for ultimate marketing success."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/magento
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Magento"
+topic: System Integration
 leadhead: "As remote work continues to gain mainstream acceptance, integrating GoTo Webinar and Magento is an essential step for businesses that need to host webinars and engage with remote customers"
 leadtext: "The integration solves a host of problems and offers a seamless experience for both businesses and customers."
 image: /assets/images/articles/people-sitting-near-table.webp

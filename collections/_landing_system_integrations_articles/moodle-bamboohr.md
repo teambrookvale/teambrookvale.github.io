@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/bamboohr
 author: Edward Saunders
 title: "Moodle & BambooHR Integration: A Complete Solution to Streamline eLearning"
+topic: System Integration
 leadhead: "Moodle and BambooHR are two powerful systems that can help you enhance the effectiveness of your eLearning initiatives and streamline your HR functions, respectively"
 leadtext: "By integrating the two systems, you can create a more seamless and personalized learning experience for your students while reducing administrative burdens and improving your operational efficiency. So, if you're looking for a complete solution to streamline your eLearning, consider integrating Moodle and BambooHR."
 image: /assets/images/articles/people-sitting-near-table.webp

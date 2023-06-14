@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/bamboohr
 author: Edward Saunders
 title: "Chargify and BambooHR Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and BambooHR can provide businesses with a lot of value"
 leadtext: "By automating billing and HR processes, businesses can streamline their operations, reduce errors, and save time. They can also get a more comprehensive view of their customers and employees, enabling them to make better, more informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

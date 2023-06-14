@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/google-ads
 author: Edward Saunders
 title: "Quick Base and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of Quick Base and Google Ads through the use of API or SDK is essential for businesses looking to streamline their advertising processes and make data-driven decisions"
 leadtext: "By automating ad data workflows, businesses can save time and resources, allowing for better campaign optimization and more effective ad spend allocation."
 image: /assets/images/articles/people-sitting-near-table.webp

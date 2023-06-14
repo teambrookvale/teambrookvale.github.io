@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of Amazon SNS and Amazon CloudFront"
+topic: System Integration
 leadhead: "Amazon SNS and CloudFront offer powerful features for businesses that want to improve their messaging and content delivery capabilities"
 leadtext: "The integration of both services through an API or SDK provides additional benefits to businesses that want to stay competitive and offer their customers a better experience. Whether a business is looking to improve its messaging performance or enhance its content delivery, the integration of Amazon SNS and CloudFront can help."
 image: /assets/images/articles/people-sitting-near-table.webp

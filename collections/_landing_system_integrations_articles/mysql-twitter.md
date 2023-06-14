@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/twitter
 author: Edward Saunders
 title: "MySQL and Twitter Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and Twitter through API or SDK provides a powerful tool for businesses and web developers to store, analyze and retrieve user data in real-time"
 leadtext: "By automating social media data analysis, businesses can maximize their audience reach and provide an enhanced user experience that encourages customer loyalty and retention."
 image: /assets/images/articles/people-sitting-near-table.webp

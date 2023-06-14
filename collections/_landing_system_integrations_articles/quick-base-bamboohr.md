@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/bamboohr
 author: Edward Saunders
 title: "Benefits of Integrating Quick Base and BambooHR"
+topic: System Integration
 leadhead: "Integrating Quick Base and BambooHR can have a significant impact on your organization's efficiency and productivity"
 leadtext: "By automating processes, reducing manual data entry, and improving data accuracy, you can save time and money, and focus on what matters most: your business."
 image: /assets/images/articles/people-sitting-near-table.webp

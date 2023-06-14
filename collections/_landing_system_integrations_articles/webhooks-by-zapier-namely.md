@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/namely
 author: Edward Saunders
 title: "Webhooks by Zapier and Namely Integration"
+topic: System Integration
 leadhead: "Integrating Webhooks by Zapier and Namely ensures efficient and seamless HR processes"
 leadtext: "The integration helps organizations save time, eliminate errors, and free up HR managers to focus on strategic initiatives that improve workforce productivity and engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

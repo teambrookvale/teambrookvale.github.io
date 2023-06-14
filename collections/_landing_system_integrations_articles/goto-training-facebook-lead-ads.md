@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating GoTo Training with Facebook Lead Ads"
+topic: System Integration
 leadhead: "Overall, integrating GoTo Training with Facebook Lead Ads can provide businesses with a range of benefits, from simplifying the registration process for users to saving time and reducing the risk of errors"
 leadtext: "As more businesses continue to offer online courses and webinars, this integration will become increasingly important for those looking to streamline their processes and improve their results."
 image: /assets/images/articles/people-sitting-near-table.webp

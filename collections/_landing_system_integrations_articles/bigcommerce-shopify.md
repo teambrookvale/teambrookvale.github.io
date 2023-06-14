@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/shopify
 author: Edward Saunders
 title: "BigCommerce and Shopify: The Power of Integration"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Shopify through API or SDK is a powerful solution for businesses that want to enjoy the benefits of both platforms"
 leadtext: "By integrating the two platforms, businesses can streamline their operations, reduce costs, and improve efficiency. Whether you’re a small business or a large enterprise, the integration of BigCommerce and Shopify can help you take your online store to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating Pinterest and Facebook Lead Ads"
+topic: System Integration
 leadhead: "When it comes to online marketing, businesses need to be strategic in order to succeed"
 leadtext: "By integrating Pinterest and Facebook Lead Ads, businesses can create a powerful marketing machine that attracts, engages, and retains their target audience. This allows them to generate leads, increase sales, and achieve their marketing goals with ease."
 image: /assets/images/articles/people-sitting-near-table.webp

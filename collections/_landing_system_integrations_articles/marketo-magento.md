@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/magento
 author: Edward Saunders
 title: "Integrating Marketo and Magento: Solving Sales and Marketing Problems"
+topic: System Integration
 leadhead: "The integration of Marketo and Magento through API or SDK can help businesses streamline their marketing and sales efforts, and solve a number of sales and marketing problems"
 leadtext: "By capturing lead data from Magento and sending it to Marketo, businesses can improve their lead generation efforts, create personalized marketing campaigns, and improve their sales performance."
 image: /assets/images/articles/people-sitting-near-table.webp

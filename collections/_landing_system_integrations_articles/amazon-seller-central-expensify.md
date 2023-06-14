@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/expensify
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Expensify"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Expensify saves time and money for third-party sellers on Amazon"
 leadtext: "By automating expense tracking and management, sellers can focus on growing their business instead of worrying about their finances. With the help of APIs and SDKs, developers can create custom integrations that fit their specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

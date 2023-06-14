@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/facebook-lead-ads
 author: Edward Saunders
 title: "Benefits of Integrating WHMCS and Facebook Lead Ads"
+topic: System Integration
 leadhead: "Integrating WHMCS and Facebook Lead Ads is a powerful combination that can help businesses streamline their lead generation efforts and improve their customer management processes"
 leadtext: "By connecting the two platforms, businesses can save time and resources while optimizing their conversion rates. With the right implementation, businesses can reap huge returns on their investment into these powerful tools."
 image: /assets/images/articles/people-sitting-near-table.webp

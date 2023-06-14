@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Shopify and SugarCRM Integration"
+topic: System Integration
 leadhead: "Integrating Shopify with SugarCRM can provide a lot of benefits to businesses"
 leadtext: "It can help to streamline sales processes, reduce errors, and improve customer satisfaction. The integration can be done through API or SDK, depending on the business's requirements. If you are a business owner looking to improve your sales process and customer satisfaction, then integrating Shopify with SugarCRM could be the solution you have been looking for."
 image: /assets/images/articles/people-sitting-near-table.webp

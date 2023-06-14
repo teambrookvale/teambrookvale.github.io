@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/goto-webinar
 author: Edward Saunders
 title: "BambooHR and GoTo Webinar Integration | Blog Post"
+topic: System Integration
 leadhead: "The integration of BambooHR and GoTo Webinar through APIs or SDKs is a great way for businesses to streamline their HR and webinar hosting processes"
 leadtext: "It enables seamless data management, automated webinar scheduling, and streamlined attendance tracking. By integrating the two platforms, businesses can save time, improve their workflow, and provide a better experience for their workforce and webinar attendees."
 image: /assets/images/articles/people-sitting-near-table.webp

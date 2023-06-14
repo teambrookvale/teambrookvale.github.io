@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/evernote-business
 author: Edward Saunders
 title: "Integration of Google BigQuery and Evernote Business"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Evernote Business provides a powerful solution for organizations looking to improve their data management capabilities and optimize their team's collaboration"
 leadtext: "This integration can lead to better insights, faster decision-making, and more efficient workflows in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

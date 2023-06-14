@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/magento
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and Magento"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Magento can provide businesses with a host of benefits, including improved performance, scalability, and security"
 leadtext: "It can also solve several problems that businesses face when operating e-commerce platforms. Whether using the DynamoDB API or the AWS SDK for PHP, businesses can find a straightforward and customizable integration solution that can improve their online store's performance and security."
 image: /assets/images/articles/people-sitting-near-table.webp

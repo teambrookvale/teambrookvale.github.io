@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/bigcommerce
 author: Edward Saunders
 title: "Integration of Instagram Custom Audiences and BigCommerce through API"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and BigCommerce can be highly beneficial for businesses that want to improve the effectiveness of their advertising campaigns"
 leadtext: "By using the APIs or SDKs of both platforms, businesses can target their ads to a specific and relevant audience, improve the customer experience, and get a better ROI on their advertising spend."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/bigcommerce
 author: Edward Saunders
 title: "Benefits of Integrating Amazon SQS and BigCommerce"
+topic: System Integration
 leadhead: "Overall, integrating Amazon SQS and BigCommerce can help businesses to optimize their ecommerce operations, improve customer satisfaction, and boost revenue"
 leadtext: "By streamlining order management, improving inventory control, and enabling greater scalability, this integration can free up time and resources for businesses to focus on growth and innovation."
 image: /assets/images/articles/people-sitting-near-table.webp

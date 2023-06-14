@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/magento
 author: Edward Saunders
 title: "Integration of Xero and Magento"
+topic: System Integration
 leadhead: "The integration of Xero and Magento through APIs or SDKs can help businesses streamline their processes, reduce errors, and save time"
 leadtext: "By eliminating manual data entry and improving inventory management, businesses can focus on growing their business without worrying about accounting and e-commerce processes."
 image: /assets/images/articles/people-sitting-near-table.webp

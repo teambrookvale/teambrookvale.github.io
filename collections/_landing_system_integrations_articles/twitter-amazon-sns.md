@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/amazon-sns
 author: Edward Saunders
 title: "Integrating Twitter and Amazon SNS"
+topic: System Integration
 leadhead: "Integrating Twitter and Amazon SNS is a powerful way to enhance communication and engagement with customers or subscribers"
 leadtext: "By using API or SDK, businesses and individuals can leverage the strengths of both platforms to deliver real-time notifications and track customer sentiment or feedback. The integration is particularly useful for businesses that want to increase customer engagement, improve customer service, or drive sales."
 image: /assets/images/articles/people-sitting-near-table.webp

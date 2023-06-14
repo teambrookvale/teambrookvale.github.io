@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/snowflake
 author: Edward Saunders
 title: "Quick Base and Snowflake Integration for Seamless Data Management"
+topic: System Integration
 leadhead: "Quick Base and Snowflake integration through API or SDK provides businesses with a powerful data management and analysis tool"
 leadtext: "By eliminating manual data entry, providing real-time access to data, and reducing data errors, businesses can achieve improved accuracy and integrity in their data management, saving time and resources, and ultimately, improving their performance."
 image: /assets/images/articles/people-sitting-near-table.webp

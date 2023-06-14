@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/keap-max-classic
 author: Edward Saunders
 title: "Namely and Keap Max Classic Integration: Solving Business Problems"
+topic: System Integration
 leadhead: "Namely and Keap Max Classic are two powerful solutions that can significantly improve business processes"
 leadtext: "By integrating these platforms through APIs or SDKs, businesses can gain valuable insights, optimize HR processes, and improve marketing strategies. This integration solves several challenges that businesses face, including data visibility and optimization, saving time, and improving productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

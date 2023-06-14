@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/bigcommerce
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM and BigCommerce"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and BigCommerce helps businesses to operate more efficiently and productively"
 leadtext: "By leveraging the strengths of both systems, they can provide a better experience for their customers, increase sales, and stay ahead of their competition."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Instagram Custom Audiences with Amazon DynamoDB"
+topic: System Integration
 leadhead: "Integrating Instagram Custom Audiences with Amazon DynamoDB can provide advertisers with a powerful solution for targeting their ads to specific groups of users"
 leadtext: "It allows them to store and manage their data efficiently, accurately, and cost-effectively. This integration can help advertisers achieve better results from their Instagram ads by targeting their ideal audience in a more effective way."
 image: /assets/images/articles/people-sitting-near-table.webp

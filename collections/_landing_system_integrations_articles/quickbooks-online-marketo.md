@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/marketo
 author: Edward Saunders
 title: "QuickBooks Online and Marketo Integration - Solving Problems with API and SDK"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Marketo offers businesses tremendous value"
 leadtext: "By eliminating manual data entry and providing a more holistic view of their finances and marketing efforts, businesses can improve their efficiency, gain valuable insights, and ultimately provide a better customer experience. Whether it's through API or SDK, businesses should strongly consider integrating these two platforms to stay competitive in today's digital landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

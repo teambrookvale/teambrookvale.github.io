@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/namely
 author: Edward Saunders
 title: "Calldrip and Namely Integration"
+topic: System Integration
 leadhead: "If you're looking to improve your sales and HR processes, the integration of Calldrip and Namely is a powerful tool that can help you achieve your goals"
 leadtext: "By seamlessly syncing your lead and employee data, you'll be able to maximize efficiency and minimize errors, leading to better results for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

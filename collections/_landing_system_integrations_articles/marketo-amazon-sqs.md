@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/amazon-sqs
 author: Edward Saunders
 title: "Marketo and Amazon SQS Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Amazon SQS through API or SDK is a powerful tool for businesses looking to improve their marketing efforts"
 leadtext: "By automating certain processes and improving scalability, visibility, and lead nurturing, this integration can help businesses drive success and increase revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

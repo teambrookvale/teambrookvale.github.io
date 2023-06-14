@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/google-ads
 author: Edward Saunders
 title: "Integration of WHMCS and Google Ads"
+topic: System Integration
 leadhead: "Overall, integrating WHMCS and Google Ads can greatly benefit your web hosting business"
 leadtext: "It allows you to streamline your workflow, improve your efficiency, and offer additional services to your clients. Whether you choose to use the API or SDK, the benefits of integration are clear."
 image: /assets/images/articles/people-sitting-near-table.webp

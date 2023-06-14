@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/aws-lambda
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and AWS Lambda offers Amazon sellers a powerful set of tools for managing their business more efficiently"
 leadtext: "By automating repetitive tasks and processing large amounts of data quickly, sellers can focus on growing their business and providing the best possible customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

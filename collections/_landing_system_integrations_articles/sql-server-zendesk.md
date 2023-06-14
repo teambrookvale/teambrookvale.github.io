@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/zendesk
 author: Edward Saunders
 title: "Integration of SQL Server and Zendesk | Benefits and Solutions"
+topic: System Integration
 leadhead: "The integration of SQL Server and Zendesk is a powerful combination"
 leadtext: "It can help businesses improve data management, streamline customer support operations, and enhance reporting and analytics. By using APIs or SDKs, businesses can easily integrate the two systems and reap the benefits of this powerful integration."
 image: /assets/images/articles/people-sitting-near-table.webp

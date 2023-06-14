@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "AWS Lambda and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "By integrating AWS Lambda and Microsoft Dynamics 365 CRM, businesses can streamline processes and reduce costs while gaining valuable insights into customer interactions"
 leadtext: "The API or SDK integration allows developers to write custom code in their preferred language, making it easy to incorporate existing applications and services into the CRM. As cloud computing continues to grow, this integration is sure to become more prevalent in business processes and workflows."
 image: /assets/images/articles/people-sitting-near-table.webp

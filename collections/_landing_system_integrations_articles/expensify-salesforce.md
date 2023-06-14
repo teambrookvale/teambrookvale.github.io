@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/salesforce
 author: Edward Saunders
 title: "Expensify and Salesforce Integration"
+topic: System Integration
 leadhead: "Integrating Expensify and Salesforce through API or SDK makes finance management more efficient and reliable"
 leadtext: "It eliminates manual processes, reduces errors, and enhances visibility into the financial processes of the business. With these benefits, businesses that have integrated these two platforms are able to manage their finances more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

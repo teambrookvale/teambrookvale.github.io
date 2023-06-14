@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/sugarcrm-7-
 author: Edward Saunders
 title: "Integrating Chargify with SugarCRM 7+"
+topic: System Integration
 leadhead: "Integrating Chargify with SugarCRM 7+ can provide a number of benefits to businesses"
 leadtext: "Through API or SDK integration, businesses can improve communication between billing and sales teams, automate workflows, and make informed business decisions through real-time data and reporting. By solving a number of common business problems, this integration can contribute to the growth and success of businesses that use Chargify and SugarCRM 7+."
 image: /assets/images/articles/people-sitting-near-table.webp

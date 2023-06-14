@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating SugarCRM and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "Integrating SugarCRM and Microsoft Dynamics 365 CRM can provide many benefits to businesses, such as improved efficiency, accuracy, and visibility"
 leadtext: "However, the integration process can be complex and require technical expertise. Therefore, it is important to plan the integration carefully and seek assistance from experts if needed. With the right approach, integrating SugarCRM and Microsoft Dynamics 365 CRM can become a valuable asset for any business."
 image: /assets/images/articles/people-sitting-near-table.webp

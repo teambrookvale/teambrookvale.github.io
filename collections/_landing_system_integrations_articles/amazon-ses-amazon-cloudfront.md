@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating Amazon SES with Amazon CloudFront"
+topic: System Integration
 leadhead: "Integrating Amazon SES with Amazon CloudFront can help businesses send emails faster, more reliably, and with greater visibility into their performance"
 leadtext: "By leveraging CloudFront's global network of edge locations and advanced features, businesses can maximize the impact of their email campaigns and provide a better user experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

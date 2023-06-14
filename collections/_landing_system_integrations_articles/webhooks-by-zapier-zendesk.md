@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/zendesk
 author: Edward Saunders
 title: "Webhooks by Zapier and Zendesk Integration"
+topic: System Integration
 leadhead: "Webhooks by Zapier and Zendesk integration is a valuable tool for businesses in managing customer interactions and support tickets"
 leadtext: "By automating certain tasks, businesses can provide consistent and efficient customer service, leading to higher satisfaction rates and reduced errors. The integration through API or SDK is easy and seamless, and with the benefits it provides, it is definitely worth considering for businesses looking to streamline their customer service processes."
 image: /assets/images/articles/people-sitting-near-table.webp

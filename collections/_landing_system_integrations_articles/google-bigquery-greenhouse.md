@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/greenhouse
 author: Edward Saunders
 title: "Integrating Google BigQuery and Greenhouse"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and Greenhouse can provide numerous benefits to businesses, especially those with large recruitment processes"
 leadtext: "By leveraging the power of BigQuery to analyze data from Greenhouse, companies can streamline their recruitment processes and make data-driven decisions. With the help of its API or SDK, integrating Google BigQuery and Greenhouse is a seamless process that can transform the way businesses manage their recruitment processes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/goto-webinar
 author: Edward Saunders
 title: "Upwork and GoToWebinar Integration - A Match Made in Heaven"
+topic: System Integration
 leadhead: "The integration of Upwork and GoToWebinar is a match made in heaven for businesses looking to host webinars or conferences"
 leadtext: "With seamless communication, efficient hiring, and reduced costs, there's no reason not to give this integration a try."
 image: /assets/images/articles/people-sitting-near-table.webp

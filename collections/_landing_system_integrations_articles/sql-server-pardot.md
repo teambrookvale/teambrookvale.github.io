@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/pardot
 author: Edward Saunders
 title: "Integrating SQL Server with Pardot: A Solution for Modern Businesses"
+topic: System Integration
 leadhead: "Integrating SQL Server with Pardot through API or SDK provides businesses with a number of benefits"
 leadtext: "Not only does it save time and resources by automating marketing campaigns, but it also provides businesses with more comprehensive customer data and improves the overall efficiency of the business. With these benefits in mind, businesses should consider integrating SQL Server and Pardot to stay competitive in today's marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/webhooks-by-zapier
 author: Edward Saunders
 title: "LinkedIn Ads and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Webhooks by Zapier is a powerful tool in automating marketing workflows and optimizing ad performance"
 leadtext: "By using Zapier to receive data from LinkedIn Ads in real-time, businesses can save time and resources, as well as gain insights into ad performance to improve ROI. If you're looking to streamline your marketing workflow and get the most out of your LinkedIn Ads campaigns, we recommend exploring this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

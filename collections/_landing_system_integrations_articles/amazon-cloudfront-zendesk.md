@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/zendesk
 author: Edward Saunders
 title: "How Amazon CloudFront and Zendesk Integration Can Help Your Business"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Zendesk is a strategic move that can benefit your business in the long term"
 leadtext: "With faster, more secure content delivery and streamlined helpdesk operations, you can elevate the way your business serves customers. So if you're using both these services, consider integrating them to take your customer service to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

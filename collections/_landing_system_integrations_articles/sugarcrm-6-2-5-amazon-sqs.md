@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-sqs
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Amazon SQS Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 with Amazon SQS through API or SDK is a smart choice for businesses that seek to improve their customer data management and communication across different systems"
 leadtext: "It promotes automation and scalability, enhances data security, and increases efficiency by reducing manual work. Therefore, businesses should consider implementing this integration to take full advantage of its benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

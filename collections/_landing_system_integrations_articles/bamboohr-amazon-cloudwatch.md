@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/amazon-cloudwatch
 author: Edward Saunders
 title: "Integrating BambooHR and Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating BambooHR and Amazon CloudWatch offers you a seamless and efficient way to manage your HR operations and keep track of your IT performance"
 leadtext: "It helps you access the critical data you need to make informed decisions and take swift action. With the benefits of automated tracking, real-time data, and comprehensive visibility, this integration is a must for any organization looking to improve its HR and IT operations."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/shopify
 author: Edward Saunders
 title: "Integrating AWS Lambda and Shopify for Efficient E-commerce Websites"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Shopify can bring several benefits to businesses looking to streamline their online operations"
 leadtext: "By leveraging the power of these two technologies, businesses can build scalable and cost-efficient applications faster, which can lead to a better user experience for customers."
 image: /assets/images/articles/people-sitting-near-table.webp

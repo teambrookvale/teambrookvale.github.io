@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/google-ads
 author: Edward Saunders
 title: "Magento and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Google Ads through API or SDK can provide significant benefits to ecommerce businesses"
 leadtext: "By synchronizing data between their online store and advertising campaigns, businesses can create more targeted and personalized ad campaigns, reduce advertising costs, and gain valuable insights into customer behavior and sales performance. As such, it is worth considering for businesses looking to improve their ecommerce and advertising strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

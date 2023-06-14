@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/amazon-cloudfront
 author: Edward Saunders
 title: "How Google BigQuery and Amazon CloudFront Integration can Benefit Your Business"
+topic: System Integration
 leadhead: "Google BigQuery and Amazon CloudFront are two incredibly powerful services that, when integrated, can help optimize your data workflows and improve your business operations"
 leadtext: "By leveraging the APIs and SDKs offered by these services, you can automate your data processing, warehousing, and business intelligence tasks, enabling you to focus on growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

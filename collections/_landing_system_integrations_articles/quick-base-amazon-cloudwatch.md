@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/amazon-cloudwatch
 author: Edward Saunders
 title: "Quick Base and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Quick Base and Amazon CloudWatch provides businesses with a powerful solution for streamlining their processes and gaining valuable insights into their operations"
 leadtext: "By utilizing their API or SDK, businesses can easily connect the two platforms and automate the transfer of data. Overall, this integration is a valuable tool for businesses looking to stay ahead in today's highly competitive market."
 image: /assets/images/articles/people-sitting-near-table.webp

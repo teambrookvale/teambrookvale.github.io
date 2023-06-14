@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "How Amazon EC2 and Microsoft Dynamics 365 CRM Integration Solves Problems?"
+topic: System Integration
 leadhead: "Amazon EC2 and Microsoft Dynamics 365 CRM are two powerful tools that businesses can leverage to manage their operations and customer relationships more effectively"
 leadtext: "By integrating the two with the help of APIs or SDKs, businesses can enjoy a seamless workflow between the systems, ensuring that their data is always up-to-date and providing them with accurate insights into their operations. This integration provides businesses with a competitive edge in today's fast-paced business environment."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/zoho-crm
 author: Edward Saunders
 title: "Integration of SQL Server and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of SQL Server and Zoho CRM is a powerful tool for businesses"
 leadtext: "It streamlines data management, reduces manual work, and provides accurate and up-to-date information. With the use of APIs or SDKs, businesses can build custom integrations that suit their specific needs. By utilizing these two platforms together, businesses can improve their workflow and boost productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

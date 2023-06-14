@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/bigcommerce
 author: Edward Saunders
 title: "Integration of PostgreSQL and BigCommerce - A Game-Changer"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and BigCommerce is a game-changer for businesses that are serious about their e-commerce operations"
 leadtext: "It allows them to manage their online stores' data seamlessly and get real-time insights into their e-commerce operations. By enabling businesses to automate their e-commerce operations, the integration saves time, reduces errors, and streamlines operations."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/snowflake
 author: Edward Saunders
 title: "Magento 2.X and Snowflake Integration: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Magento 2.X and Snowflake integration offer immense benefits to businesses"
 leadtext: "It provides access to real-time data, customer information, and inventory data, making informed decisions easier. Additionally, integration eases managing large datasets, reducing the cost of warehousing and maintenance."
 image: /assets/images/articles/people-sitting-near-table.webp

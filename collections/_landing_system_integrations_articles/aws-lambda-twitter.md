@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/twitter
 author: Edward Saunders
 title: "AWS Lambda and Twitter Integration"
+topic: System Integration
 leadhead: "Integrating AWS Lambda and Twitter can open up a whole range of possibilities for developers"
 leadtext: "Whether it's automating tasks, monitoring tweets, or building applications that respond to tweets, the integration can solve various problems and add value to any business or individual using Twitter."
 image: /assets/images/articles/people-sitting-near-table.webp

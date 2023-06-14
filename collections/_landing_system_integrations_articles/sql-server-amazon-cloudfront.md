@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating SQL Server with Amazon CloudFront"
+topic: System Integration
 leadhead: "Integrating SQL Server with Amazon CloudFront is a great solution for businesses looking to build scalable and high-performance applications"
 leadtext: "By leveraging the power of these two technologies, businesses can improve their database performance, reduce load times, and enhance user experience. As businesses continue to scale their data and applications, the integration of SQL Server with Amazon CloudFront will remain an essential tool to help them meet their evolving needs."
 image: /assets/images/articles/people-sitting-near-table.webp

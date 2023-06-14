@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-polly
 author: Edward Saunders
 title: "Greenhouse and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Amazon Polly provides a powerful set of tools for recruiters to streamline their processes and improve candidate experience"
 leadtext: "By leveraging Amazon Polly's text-to-speech capabilities, recruiters can create more engaging and personalized content for candidates while also saving time on manual tasks. The use of APIs or SDKs makes the integration process seamless and easy to implement for organizations of all sizes. Overall, the integration of Greenhouse and Amazon Polly is a win-win for recruiters and candidates alike."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/linkedin-ads
 author: Edward Saunders
 title: "Integration of Magento 2.X and LinkedIn Ads"
+topic: System Integration
 leadhead: "Integrating Magento 2.X and LinkedIn Ads through API or SDK can be a game-changer for businesses"
 leadtext: "With more targeted advertising, better insights, and improved conversion rates, it's easy to see why this integration is becoming increasingly popular. If you're looking to take your e-commerce business to the next level, consider integrating Magento 2.X and LinkedIn Ads today."
 image: /assets/images/articles/people-sitting-near-table.webp

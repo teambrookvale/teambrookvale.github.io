@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/greenhouse
 author: Edward Saunders
 title: "Twitter and Greenhouse Integration through API or SDK"
+topic: System Integration
 leadhead: "The integration of Twitter and Greenhouse through API or SDK offers many benefits to recruiters"
 leadtext: "By combining the power of social media with recruitment software, businesses can attract a wider pool of candidates, save time, and track the effectiveness of their job postings."
 image: /assets/images/articles/people-sitting-near-table.webp

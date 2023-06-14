@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/shopify
 author: Edward Saunders
 title: "Greenhouse and Shopify Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Shopify is undoubtedly a boon for businesses selling products online"
 leadtext: "The combination of efficient hiring processes and streamlined e-commerce operations results in increased productivity and sales. This integration showcases the power of API and SDKs in enabling cross-platform collaboration that benefits businesses in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

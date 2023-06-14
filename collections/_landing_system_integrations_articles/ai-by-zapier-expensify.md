@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/expensify
 author: Edward Saunders
 title: "AI and Expensify Integration: Solving Business Problems"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Expensify is a powerful tool that can help businesses save time and reduce the risk of errors in expense management"
 leadtext: "By automating tasks such as categorizing expenses, adding comments, and flagging potential fraud, businesses can focus on more important tasks and make informed decisions based on real-time expense data. If you're looking to streamline your expense management process, consider integrating AI by Zapier and Expensify today."
 image: /assets/images/articles/people-sitting-near-table.webp

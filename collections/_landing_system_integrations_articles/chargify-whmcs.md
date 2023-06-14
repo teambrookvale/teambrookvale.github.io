@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/whmcs
 author: Edward Saunders
 title: "How to Integrate Chargify and WHMCS: A Step-by-Step Guide"
+topic: System Integration
 leadhead: "Integrating Chargify and WHMCS through their API or SDK is a great way to streamline your business's billing and invoicing processes"
 leadtext: "By automating your payments and billing process, you can minimise the manual errors caused by double-entry mistakes or missed payments. Poor billing can seriously damage a company, so it's important to make use of these tools to keep everything running smoothly."
 image: /assets/images/articles/people-sitting-near-table.webp

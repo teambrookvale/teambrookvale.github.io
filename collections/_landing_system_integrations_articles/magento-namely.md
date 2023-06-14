@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/namely
 author: Edward Saunders
 title: "Magento and Namely Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Namely is a valuable tool for businesses to streamline their e-commerce and human resources management"
 leadtext: "By using APIs or SDKs, both systems can easily communicate with each other, reducing errors and improving the accuracy of employee data and payroll information. This integration is a must-have for businesses that want to improve their workflow and increase productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

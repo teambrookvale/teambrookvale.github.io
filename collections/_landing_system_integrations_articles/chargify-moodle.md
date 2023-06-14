@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/moodle
 author: Edward Saunders
 title: "Integrating Chargify and Moodle"
+topic: System Integration
 leadhead: "The integration of Chargify and Moodle is a win-win for businesses"
 leadtext: "Not only is it a solution to the problems they face, but it also simplifies their management process. By automating the billing process through the integration, businesses can focus on other areas of their operations, such as customer service and product innovation."
 image: /assets/images/articles/people-sitting-near-table.webp

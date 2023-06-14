@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/zoho-crm
 author: Edward Saunders
 title: "How Amazon Seller Central and Zoho CRM Integration Can Help Your Business"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and Zoho CRM can provide businesses with a powerful solution that enables them to manage their entire sales process from a single location"
 leadtext: "This integration eliminates the need to manually track sales data across multiple platforms and provides businesses with deeper insights into customer interactions and sales trends."
 image: /assets/images/articles/people-sitting-near-table.webp

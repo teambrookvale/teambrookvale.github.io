@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/amazon-cloudfront
 author: Edward Saunders
 title: "AI by Zapier and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "AI by Zapier and Amazon CloudFront integration can help automate various tasks and streamline content management, leading to faster delivery of web content and improved user experience"
 leadtext: "By reducing manual workload and enhancing website performance, businesses can improve their productivity and bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

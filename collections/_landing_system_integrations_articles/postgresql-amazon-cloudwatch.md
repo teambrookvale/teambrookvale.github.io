@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of PostgreSQL and Amazon CloudWatch"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Amazon CloudWatch is a powerful combination that can help you optimize your database performance, reduce costs, and maintain high levels of availability and reliability"
 leadtext: "By using the CloudWatch API or SDK to stream critical metrics from your PostgreSQL database, you can monitor its performance, optimize your resource utilization, and take proactive action to prevent performance bottlenecks or downtime."
 image: /assets/images/articles/people-sitting-near-table.webp

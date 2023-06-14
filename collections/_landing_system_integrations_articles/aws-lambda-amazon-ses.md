@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/amazon-ses
 author: Edward Saunders
 title: "Integrating AWS Lambda and Amazon SES"
+topic: System Integration
 leadhead: "Integrating AWS Lambda and Amazon SES is a simple and effective way for businesses to automate their email communication with customers"
 leadtext: "With AWS Lambda, businesses can run code in the cloud without having to manage servers, while Amazon SES provides a reliable and cost-effective way to send emails at scale. By combining the two, businesses can streamline their email communication and provide a better experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

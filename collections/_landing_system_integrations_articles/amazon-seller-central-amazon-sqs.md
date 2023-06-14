@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/amazon-sqs
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Amazon SQS offers a powerful combination of features to help businesses sell on Amazon more effectively"
 leadtext: "By automating key processes and receiving real-time notifications of key events, businesses can stay informed and agile, responding quickly to changes in demand and ensuring a smooth and seamless selling process."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/evernote-business
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and Evernote Business"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Evernote Business through API or SDK offers businesses a powerful solution that can improve their productivity, streamline their workflow, and boost their advertising campaigns' performance"
 leadtext: "By centralizing information, increasing collaboration, and simplifying the workflow, businesses can achieve greater efficiency and success in their marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

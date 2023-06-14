@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/salesforce
 author: Edward Saunders
 title: "Integration of Amazon SES and Salesforce"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Salesforce through API or SDK can bring significant benefits to businesses"
 leadtext: "It allows
 		businesses to automate their email sending and tracking process, save time and effort, improve their email campaigns and

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/google-ads
 author: Edward Saunders
 title: "GoTo Webinar and Google Ads Integration - A Complete Guide"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and Google Ads can provide businesses with several benefits - from increased attendance to improved ROI"
 leadtext: "By using the API or SDK, businesses can streamline the process of promoting their webinars and tracking their results - making it easier to manage and analyze their marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

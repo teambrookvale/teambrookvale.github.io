@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/goto-webinar
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM with GoTo Webinar"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM with GoTo Webinar provides businesses with numerous benefits, including eliminating manual data entry, providing more insight into their customers, and simplifying their workflow"
 leadtext: "By integrating the two platforms through an API or SDK, businesses can streamline their operations and save time, ultimately leading to increased productivity and revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

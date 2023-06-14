@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/goto-webinar
 author: Edward Saunders
 title: "GoTo Training and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "The integration of GoTo Training and GoTo Webinar through API or SDK provides users and developers with a powerful and flexible solution for delivering online training and webinars"
 leadtext: "With its rich features, customization options, and integration capabilities, the integration of the two products enables businesses and organizations to create engaging, effective, and scalable online learning and communication experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

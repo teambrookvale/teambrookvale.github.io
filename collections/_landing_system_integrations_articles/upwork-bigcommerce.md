@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/bigcommerce
 author: Edward Saunders
 title: "Upwork and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and BigCommerce brings many benefits to businesses, including increased efficiency, the ability to outsource tasks to freelancers, and access to a pool of highly skilled freelancers"
 leadtext: "This integration enhances productivity and optimizes online stores, which can ultimately lead to increased sales and revenue. If you are running an e-commerce business on BigCommerce, consider integrating it with Upwork to take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

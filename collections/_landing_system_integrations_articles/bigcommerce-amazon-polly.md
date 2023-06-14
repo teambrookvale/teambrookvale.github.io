@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-polly
 author: Edward Saunders
 title: "BigCommerce and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Amazon Polly through API or SDK offers a unique opportunity for businesses to enhance their online stores"
 leadtext: "By adding audio files to their website, they can improve accessibility, SEO, user engagement, and productivity. If you are a BigCommerce user, it's worth exploring the benefits of Amazon Polly and how it can help you grow your business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/zendesk
 author: Edward Saunders
 title: "Integrating Facebook Custom Audiences with Zendesk"
+topic: System Integration
 leadhead: "Integrating Facebook Custom Audiences with Zendesk can be a game-changer for businesses"
 leadtext: "This integration opens up new possibilities for personalization and targeted marketing while enhancing the customer support experience. By utilizing this integration, businesses can streamline workflows and provide customers with better service across the board."
 image: /assets/images/articles/people-sitting-near-table.webp

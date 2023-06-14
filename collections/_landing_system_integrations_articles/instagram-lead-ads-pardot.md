@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/pardot
 author: Edward Saunders
 title: "Instagram Lead Ads and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Pardot is a powerful tool for businesses looking to streamline their lead generation and management processes"
 leadtext: "By automatically sending lead information from Instagram Lead Ads directly into Pardot, businesses can save time, reduce errors, and ensure that leads are properly tracked and nurtured."
 image: /assets/images/articles/people-sitting-near-table.webp

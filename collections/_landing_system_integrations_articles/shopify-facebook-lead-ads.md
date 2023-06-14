@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/facebook-lead-ads
 author: Edward Saunders
 title: "Shopify and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Facebook Lead Ads provides a powerful tool for ecommerce businesses to streamline their lead generation process and track the performance of their campaigns"
 leadtext: "By using API or SDK, businesses can easily connect their Shopify store to their Facebook Lead Ads account and automate the process of collecting customer information. This integration ultimately saves time, reduces errors, and increases the effectiveness of marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

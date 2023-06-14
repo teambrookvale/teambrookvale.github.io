@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/paypal
 author: Edward Saunders
 title: "Integrating WHMCS and PayPal: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating WHMCS and PayPal is essential for web hosting businesses looking to streamline their billing processes and provide a convenient payment solution for customers"
 leadtext: "Whether using an API or SDK, this integration allows for a more efficient and secure billing system, ultimately leading to increased customer satisfaction and business success."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/greenhouse
 author: Edward Saunders
 title: "PayPal and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Greenhouse represents a significant step forward in online payment and recruitment"
 leadtext: "By streamlining the payment process and automating tasks in the recruitment process, recruiters can save time, improve efficiency, and provide a better candidate experience. If you're a recruiter or online merchant, integrating PayPal with Greenhouse is a no-brainer. It's a win-win situation for both parties, and it's a step toward a more streamlined and efficient business process."
 image: /assets/images/articles/people-sitting-near-table.webp

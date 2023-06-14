@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/upwork
 author: Edward Saunders
 title: "Integration of Amazon Polly and Upwork through API/SDK"
+topic: System Integration
 leadhead: "Integrating Amazon Polly and Upwork through API or SDK can be a game-changer for businesses and freelancers"
 leadtext: "This integration can save time, reduce cost, improve accessibility, and increase engagement. With the power of Amazon Polly and the flexibility of Upwork, businesses and freelancers can take their projects to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

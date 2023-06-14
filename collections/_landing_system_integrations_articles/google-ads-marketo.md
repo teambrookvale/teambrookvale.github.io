@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/marketo
 author: Edward Saunders
 title: "Google Ads and Marketo Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads and Marketo is crucial for businesses that want to improve their marketing performance and generate more leads and revenue"
 leadtext: "By using the power of API or SDK, businesses can collect and analyze customer data more efficiently, improve their targeting and personalization of advertising campaigns, and streamline communication between different marketing platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

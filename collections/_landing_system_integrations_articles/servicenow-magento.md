@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/magento
 author: Edward Saunders
 title: "Integrating ServiceNow and Magento for Greater Efficiency"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Magento can offer a number of benefits to businesses, including improved workflow efficiencies and better customer service"
 leadtext: "Whether through API or SDK integration, businesses can streamline their operations and gain greater visibility and control over their e-commerce operations."
 image: /assets/images/articles/people-sitting-near-table.webp

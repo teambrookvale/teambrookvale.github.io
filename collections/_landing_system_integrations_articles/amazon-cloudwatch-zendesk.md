@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/zendesk
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Zendesk through API/SDK"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Zendesk through API or SDK can help businesses analyze their customer support process, identify areas that need improvement, and respond to critical tickets in real-time"
 leadtext: "This integration can be achieved by creating a Lambda function that interacts with the CloudWatch service using the AWS SDK and the Zendesk API. By doing so, businesses can improve their customer support process and provide better customer service."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/webhooks-by-zapier
 author: Edward Saunders
 title: "Twitter and Webhooks Integration"
+topic: System Integration
 leadhead: "The integration of Twitter with Webhooks through API or SDK can be a powerful tool for businesses and individuals alike"
 leadtext: "It can save time, automate tasks, and provide real-time insights into customer behavior on Twitter. To get started with the integration, you can refer to the Twitter developer documentation and the Webhooks by Zapier integration guide."
 image: /assets/images/articles/people-sitting-near-table.webp

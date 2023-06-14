@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Calldrip and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "Integration of Calldrip with Microsoft Dynamics 365 CRM can transform your lead management and customer relationship approach"
 leadtext: "By connecting these two systems, you can streamline data flow, reduce response time, improve lead conversion rates, and drive more informed business decisions with consolidated, accurate data. Don't miss out on the benefits of integrating Calldrip with Dynamics 365 CRM."
 image: /assets/images/articles/people-sitting-near-table.webp

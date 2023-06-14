@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Amazon EC2 and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and SugarCRM 6.2-5 can provide businesses with several benefits, including improved performance and scalability, cost savings, and better data security"
 leadtext: "By using API or SDK, businesses can seamlessly integrate these two platforms and streamline their operations. If you are planning to implement a CRM system or looking for ways to improve your existing setup, consider integrating Amazon EC2 and SugarCRM for better results."
 image: /assets/images/articles/people-sitting-near-table.webp

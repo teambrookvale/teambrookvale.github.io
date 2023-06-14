@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/upwork
 author: Edward Saunders
 title: "Twitter and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of Twitter and Upwork is a powerful tool that can save time and effort for businesses and freelancers alike"
 leadtext: "By using their respective APIs or SDKs, you can easily connect these two platforms and take advantage of their combined benefits. If you're in the business of hiring or seeking work, this integration is definitely worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

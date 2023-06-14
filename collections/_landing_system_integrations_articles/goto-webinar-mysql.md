@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/mysql
 author: Edward Saunders
 title: "GoTo Webinar and MySQL Integration"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and MySQL through an API or SDK is a valuable tool for businesses"
 leadtext: "Not only does it automate attendance recording, but it also allows for real-time data synchronization. The integration solves many issues, including data entry errors, time-consuming manual data entry, and even inaccurate data. As webinars continue to gain popularity, businesses should consider integrating GoTo Webinar and MySQL as part of their digital strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

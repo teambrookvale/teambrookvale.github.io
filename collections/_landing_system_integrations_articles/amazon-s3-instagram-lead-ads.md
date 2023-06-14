@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/instagram-lead-ads
 author: Edward Saunders
 title: "Integrating Amazon S3 and Instagram Lead Ads"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and Instagram Lead Ads through API or SDK can be a game-changer for businesses"
 leadtext: "By automating the lead collection and storage process, businesses can save time and resources, reduce errors, and gain a better understanding of their target audience. If you're using both Amazon S3 and Instagram Lead Ads, it's definitely worth exploring the possibilities of integrating the two."
 image: /assets/images/articles/people-sitting-near-table.webp

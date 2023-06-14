@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Snowflake and SugarCRM 6.2-5 Integration"
+topic: System Integration
 leadhead: "Integrating Snowflake and SugarCRM 6.2-5 can provide businesses with a powerful solution to manage their data and customer relationships more effectively"
 leadtext: "With the ability to store, manage, and analyze data in Snowflake and track customer interactions in SugarCRM 6.2-5, businesses can gain valuable insights that can help them make data-driven decisions. By using either an API or SDK to integrate the two solutions, businesses can streamline their operations and improve their overall performance."
 image: /assets/images/articles/people-sitting-near-table.webp

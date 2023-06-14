@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/google-ads
 author: Edward Saunders
 title: "Integrating Google BigQuery and Google Ads"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and Google Ads is a powerful way to gain deeper insights into your advertising data and make more informed decisions"
 leadtext: "By leveraging the APIs and SDKs that connect these two tools, you can gain access to a wealth of new information that can help guide your marketing strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

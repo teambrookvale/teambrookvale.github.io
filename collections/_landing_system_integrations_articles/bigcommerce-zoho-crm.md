@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/zoho-crm
 author: Edward Saunders
 title: "BigCommerce and Zoho CRM Integration"
+topic: System Integration
 leadhead: "Overall, the integration of BigCommerce and Zoho CRM is a powerful tool for businesses that are looking to improve their ecommerce store management and customer relationship efforts"
 leadtext: "By using API or SDK, businesses can seamlessly connect their BigCommerce store with Zoho CRM to improve their overall efficiency, streamline processes, and enhance their customer relationships and sales performance."
 image: /assets/images/articles/people-sitting-near-table.webp

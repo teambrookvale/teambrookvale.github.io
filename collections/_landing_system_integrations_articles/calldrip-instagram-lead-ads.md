@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/instagram-lead-ads
 author: Edward Saunders
 title: "Calldrip and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Instagram Lead Ads through API or SDK is a powerful tool for businesses looking to increase their customer base"
 leadtext: "The automatic lead capture and phone system ensures that businesses respond quickly to potential customers, which leads to increased conversions and customer satisfaction. If you are a business looking to increase your customer base, consider integrating Calldrip and Instagram Lead Ads."
 image: /assets/images/articles/people-sitting-near-table.webp

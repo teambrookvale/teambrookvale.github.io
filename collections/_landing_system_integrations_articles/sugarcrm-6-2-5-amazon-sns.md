@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-sns
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Amazon SNS Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and Amazon SNS through API or SDK helps solve issues related to communication, automation, scalability, and cost-effectiveness"
 leadtext: "By providing a way to send notifications to multiple subscribers, SugarCRM users and customers can stay informed and updated quickly and efficiently. The scalability and cost-effectiveness of Amazon SNS ensure that the integration is sustainable and reliable in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

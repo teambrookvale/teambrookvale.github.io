@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/amazon-cloudwatch
 author: Edward Saunders
 title: "Keap Max Classic and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Amazon CloudWatch is a powerful tool that small businesses can use to gain valuable insights and improve their operations"
 leadtext: "By monitoring key performance indicators in real-time and collaborating effectively, businesses can stay ahead of the competition and deliver exceptional customer experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

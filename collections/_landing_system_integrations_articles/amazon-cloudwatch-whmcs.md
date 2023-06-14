@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/whmcs
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and WHMCS"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and WHMCS is a powerful tool for web hosting providers"
 leadtext: "It allows them to monitor the performance of their hosting services in real-time and receive automatic alerts when there are any performance issues. This can help providers to address issues before their customers are affected. With the CloudWatch API or SDK, the integration can be achieved easily and efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

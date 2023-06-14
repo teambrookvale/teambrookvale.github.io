@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/chargify
 author: Edward Saunders
 title: "How GoTo Training and Chargify Integration Can Solve Your Business Problems"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Chargify can be a game-changer for businesses that offer online training sessions"
 leadtext: "It can automate many manual processes and reduce errors, resulting in a seamless experience for both businesses and customers. The integration can provide a competitive edge in the market and help businesses grow their online training operations."
 image: /assets/images/articles/people-sitting-near-table.webp

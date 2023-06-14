@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/whmcs
 author: Edward Saunders
 title: "Shopify and WHMCS Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and WHMCS offers great benefits to both e-commerce store owners and web hosting providers"
 leadtext: "It eliminates the need for customers to have separate login credentials, ensures a seamless user experience, and enables website owners to offer both e-commerce and web hosting services on the same platform. With the help of API or SDK, it is easy to integrate the two systems and get the best of both worlds."
 image: /assets/images/articles/people-sitting-near-table.webp

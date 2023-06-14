@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/calldrip
 author: Edward Saunders
 title: "Shopify and Calldrip Integration- Your Solution to a More Streamlined Business"
+topic: System Integration
 leadhead: "An integration between Shopify and Calldrip enables businesses to operate more efficiently and provide a more seamless customer experience"
 leadtext: "By using the API or SDK, sales teams have access to real-time customer information, ensuring that they're equipped to handle customer inquiries and potential sales. So, if you're looking to streamline your business and improve your sales process, consider integrating Shopify and Calldrip today."
 image: /assets/images/articles/people-sitting-near-table.webp

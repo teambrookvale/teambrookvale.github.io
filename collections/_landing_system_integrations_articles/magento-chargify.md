@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/chargify
 author: Edward Saunders
 title: "Magento and Chargify Integration: The Perfect Match"
+topic: System Integration
 leadhead: "Overall, the integration of Magento and Chargify is a powerful combination that can optimize eCommerce businesses' operations significantly"
 leadtext: "By automating billing processes, improving inventory management, and providing valuable customer insights, this integration can help businesses increase their revenue and growth. So, if you're an eCommerce business owner looking for the perfect payment processing system, consider integrating Magento and Chargify today!"
 image: /assets/images/articles/people-sitting-near-table.webp

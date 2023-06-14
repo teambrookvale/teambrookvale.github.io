@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/facebook-custom-audiences
 author: Edward Saunders
 title: "How Amazon Seller Central and Facebook Custom Audiences Integration Solves Problems for E-Commerce Businesses"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and Facebook Custom Audiences can provide several benefits for e-commerce businesses"
 leadtext: "With this integration, businesses can target the right audience for their products and increase their chances of converting them into customers. This can result in increased sales and revenue for the business. If you are an e-commerce business looking to grow your sales, consider integrating these tools to help you achieve your goals."
 image: /assets/images/articles/people-sitting-near-table.webp

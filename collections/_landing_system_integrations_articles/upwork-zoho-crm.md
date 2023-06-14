@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/zoho-crm
 author: Edward Saunders
 title: "Improving Efficiency with Upwork and Zoho CRM Integration"
+topic: System Integration
 leadhead: "Upwork and Zoho CRM integration is an excellent solution for businesses looking to streamline their work process"
 leadtext: "The integration allows businesses to manage their projects and clients from a single platform, reducing the need for multiple systems. By automating the process, businesses can save time and focus on their core activities. The integration is easy to set up and use, making it accessible to businesses of any size."
 image: /assets/images/articles/people-sitting-near-table.webp

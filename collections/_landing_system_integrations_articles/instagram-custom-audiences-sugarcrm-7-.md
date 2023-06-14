@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/sugarcrm-7-
 author: Edward Saunders
 title: "Instagram Custom Audiences and SugarCRM Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and SugarCRM can be a highly effective way for businesses to improve their social media advertising campaigns and drive measurable results"
 leadtext: "By combining precise audience targeting with efficient campaign management and data-driven insights, businesses can optimize their campaigns to increase conversion rates and yield higher ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/amazon-polly
 author: Edward Saunders
 title: "Integrating AI by Zapier and Amazon Polly: Solving Problems and Enhancing User Experience"
+topic: System Integration
 leadhead: "Integrating AI by Zapier and Amazon Polly provides users with a powerful tool for automating workflows and enhancing user experience"
 leadtext: "The integration is easy to set up and can save users time while increasing accessibility and improving comprehension. With this integration, individuals and organizations can leverage the power of AI to achieve greater productivity and performance."
 image: /assets/images/articles/people-sitting-near-table.webp

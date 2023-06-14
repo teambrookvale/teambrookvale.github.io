@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/paypal
 author: Edward Saunders
 title: "Calldrip and PayPal Integration: A Game-Changer Solution"
+topic: System Integration
 leadhead: "The integration of Calldrip and PayPal is a game-changer solution for businesses"
 leadtext: "It allows them to accept payments over the phone or email, closing deals more efficiently and providing a better customer experience. The integration also provides businesses with valuable data that can be used to improve their sales performance and customer experience. By utilizing the API or SDK, businesses can enjoy the benefits of these two platforms working together seamlessly."
 image: /assets/images/articles/people-sitting-near-table.webp

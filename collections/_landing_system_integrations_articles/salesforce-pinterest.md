@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/pinterest
 author: Edward Saunders
 title: "Integrating Salesforce and Pinterest: A Powerful Combination"
+topic: System Integration
 leadhead: "Integrating Salesforce and Pinterest through API or SDK provides businesses with a powerful combination of tools that enable them to better understand and engage with their customers on one of the most popular social media platforms"
 leadtext: "By unifying their customer data, improving their engagement, and enhancing their social listening and attribution analysis, businesses can gain a competitive advantage in today's data-driven and customer-centric business landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

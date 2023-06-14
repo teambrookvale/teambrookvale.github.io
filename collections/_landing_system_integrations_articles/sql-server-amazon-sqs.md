@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/amazon-sqs
 author: Edward Saunders
 title: "Integration of SQL Server and Amazon SQS"
+topic: System Integration
 leadhead: "In conclusion, the integration of SQL Server and Amazon SQS provides organizations with a wide range of benefits in managing data and messaging"
 leadtext: "By using APIs or SDKs, you can exchange messages between SQL Server and Amazon SQS seamlessly. The integration of these systems improves scalability, fault tolerance, and resiliency, allowing organizations to focus on their core business activities while leveraging the power of these tools."
 image: /assets/images/articles/people-sitting-near-table.webp

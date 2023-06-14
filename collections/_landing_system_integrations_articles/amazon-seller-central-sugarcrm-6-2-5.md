@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and SugarCRM 6.2-5 through API or SDK can provide businesses with numerous benefits"
 leadtext: "By centralizing order and customer data, automating data sync, and providing better sales and marketing insights, businesses can improve their customer service, save time, and increase sales. If you're a business that sells on Amazon and uses SugarCRM, it's worth exploring how the two platforms can work together to streamline your operations."
 image: /assets/images/articles/people-sitting-near-table.webp

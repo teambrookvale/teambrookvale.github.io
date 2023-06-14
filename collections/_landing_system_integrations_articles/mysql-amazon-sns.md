@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/amazon-sns
 author: Edward Saunders
 title: "MySQL and Amazon SNS Integration"
+topic: System Integration
 leadhead: "Integrating MySQL and Amazon SNS can provide a lot of benefits, such as automating alert notifications and increasing efficiency in data processing and notification delivery"
 leadtext: "It can be done using different methods, such as using Amazon SNS API or SDK. AWS Lambda or AWS Glue, on the other hand, can help automate the integration process. With this integration, you can ensure that important data updates are automatically broadcasted to clients or end-users, reduce operational costs, and increase the overall effectiveness of your system."
 image: /assets/images/articles/people-sitting-near-table.webp

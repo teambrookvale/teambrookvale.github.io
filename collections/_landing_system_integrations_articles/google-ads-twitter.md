@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/twitter
 author: Edward Saunders
 title: "How Integrating Google Ads and Twitter Can Boost Your Advertising Strategy"
+topic: System Integration
 leadhead: "Integrating Google Ads and Twitter offers businesses a range of benefits, including the ability to reach a wider audience and streamline their advertising campaigns"
 leadtext: "As both platforms continue to evolve and offer new features, it is likely that the integration of the two will become even more important for businesses looking to stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

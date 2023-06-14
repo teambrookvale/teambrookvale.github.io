@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/upwork
 author: Edward Saunders
 title: "Integration of WHMCS and Upwork"
+topic: System Integration
 leadhead: "The integration of WHMCS and Upwork through API or SDK can provide businesses with more streamlined, efficient operations"
 leadtext: "It simplifies the billing and invoicing process, manages client accounts more effectively, and provides better automation in managing freelancers and their projects. As a result, businesses can save time, reduce costs, and focus on delivering great service to their clients."
 image: /assets/images/articles/people-sitting-near-table.webp

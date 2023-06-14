@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/facebook-custom-audiences
 author: Edward Saunders
 title: "The Advantages of Integrating Pinterest and Facebook through API or SDK"
+topic: System Integration
 leadhead: "Integrating Pinterest and Facebook through API or SDK can be beneficial for businesses that are looking to improve their ad visibility and increase their chances of conversion"
 leadtext: "By combining Pinterest's user data and Facebook's Custom Audiences feature, marketers can create more effective ad campaigns that are targeted towards specific audiences. Additionally, the integration solves several problems businesses face when it comes to ad targeting and reach. In summary, integration through API or SDK can help businesses create a more comprehensive and effective ad strategy across multiple platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

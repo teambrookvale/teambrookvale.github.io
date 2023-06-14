@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/bamboohr
 author: Edward Saunders
 title: "Marketo and BambooHR Integration"
+topic: System Integration
 leadhead: "Integrating Marketo and BambooHR through their API or SDK is a smart decision for any business looking to streamline the management of their marketing and human resources"
 leadtext: "The two platforms work together to ensure data is automatically synced and up-to-date, helping businesses improve their marketing efforts and support their employees effectively. Overall, the integration saves time and resources by eliminating manual data entry and reducing errors, thereby helping businesses achieve their goals in a more efficient manner."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/mysql
 author: Edward Saunders
 title: "Integrating BigCommerce and MySQL for Seamless E-commerce Experiences"
+topic: System Integration
 leadhead: "The integration of BigCommerce and MySQL is an excellent way for businesses to streamline their e-commerce operations and provide better user experiences to their customers"
 leadtext: "By leveraging the strengths of these two systems, businesses can stay ahead of the game and achieve their goals with ease."
 image: /assets/images/articles/people-sitting-near-table.webp

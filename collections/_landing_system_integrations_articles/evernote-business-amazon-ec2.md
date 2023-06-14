@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/amazon-ec2
 author: Edward Saunders
 title: "Improving Productivity with Evernote Business and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Amazon EC2 can lead to increased productivity, reduced costs, and improved efficiency for businesses"
 leadtext: "With EC2's scalable infrastructure and Evernote's powerful productivity tools, users can collaborate and access their notes and ideas from anywhere and on any device. Integrating Evernote Business and Amazon EC2 is an excellent way for businesses to streamline their workflows and optimize their resources for growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

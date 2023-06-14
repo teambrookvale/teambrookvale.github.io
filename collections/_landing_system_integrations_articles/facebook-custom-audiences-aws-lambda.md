@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/aws-lambda
 author: Edward Saunders
 title: "Integration of Facebook Custom Audiences and AWS Lambda | Blog Post"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and AWS Lambda can be a game-changer for businesses"
 leadtext: "It allows them to target a specific audience on Facebook, reduce ad spend, and improve the customer experience. By leveraging the power of AWS Lambda, businesses can automate their marketing campaigns and focus on more important tasks. If you are a business owner looking to improve your marketing strategy, integration of Facebook Custom Audiences and AWS Lambda is definitely something to consider."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/facebook-custom-audiences
 author: Edward Saunders
 title: "AI by Zapier and Facebook Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Facebook Custom Audiences provides an efficient and streamlined way for businesses to automate the process of creating custom audiences"
 leadtext: "By saving time and reducing errors, businesses can focus on other important tasks and increase their ROI. With the ever-growing need for automation and personalized marketing, the integration of these two tools provides businesses with a winning solution."
 image: /assets/images/articles/people-sitting-near-table.webp

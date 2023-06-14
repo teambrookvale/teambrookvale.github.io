@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/quickbooks-online
 author: Edward Saunders
 title: "Chargify and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "Chargify and QuickBooks Online are essential tools for managing and growing a business"
 leadtext: "By integrating these solutions, businesses can automate their financial processes, save time, and gain valuable insights into their performance. Whether using an API or SDK, businesses should carefully consider their needs and resources before implementing integration."
 image: /assets/images/articles/people-sitting-near-table.webp

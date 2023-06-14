@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/solve-crm
 author: Edward Saunders
 title: "Amazon Seller Central and Solve CRM Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Solve CRM provides a comprehensive solution for managing customer relationships for businesses selling on Amazon"
 leadtext: "It streamlines customer data management and simplifies tasks so businesses can focus on improving customer experience, which is essential for the success of any business."
 image: /assets/images/articles/people-sitting-near-table.webp

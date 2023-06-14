@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/postgresql
 author: Edward Saunders
 title: "Zoho CRM and PostgreSQL Integration"
+topic: System Integration
 leadhead: "Integrating Zoho CRM with PostgreSQL can provide businesses with a powerful and flexible solution for managing their customer data"
 leadtext: "By using API or SDK, businesses can realize improved data accuracy, increased efficiency, and customizable reporting."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/solve-crm
 author: Edward Saunders
 title: "Why Pinterest and Solve CRM Integration is a Game Changer"
+topic: System Integration
 leadhead: "The integration of Pinterest and Solve CRM is a modern solution that enables businesses to streamline data management, improve customer engagement, and generate more leads"
 leadtext: "With the benefits of API and SDK integrations, businesses can now easily experience the best of both worlds. It is safe to say that Pinterest and Solve CRM integration is a game-changer for businesses, and they should explore this integration to stay ahead of their competitors."
 image: /assets/images/articles/people-sitting-near-table.webp

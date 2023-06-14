@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/amazon-sns
 author: Edward Saunders
 title: "Amazon EC2 and SNS Integration"
+topic: System Integration
 leadhead: "Amazon EC2 and SNS are powerful cloud computing services on their own, but when integrated through APIs or SDKs, they can solve complex business problems"
 leadtext: "Their integration allows for automation, scaling, and monitoring of applications, providing businesses with the flexibility and agility they need in today's fast-paced digital environment."
 image: /assets/images/articles/people-sitting-near-table.webp

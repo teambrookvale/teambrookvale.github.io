@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/goto-webinar
 author: Edward Saunders
 title: "Magento & GoTo Webinar Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Magento and GoTo Webinar is a smart move for businesses that want to improve their online presence and customer engagement"
 leadtext: "With the help of APIs or SDKs, businesses can streamline their online event management process, capture leads and customer data, and ultimately enhance their customer experience. So, if you’re looking to grow your online business, consider integrating these two powerful platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

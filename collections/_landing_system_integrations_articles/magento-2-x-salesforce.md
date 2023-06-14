@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/salesforce
 author: Edward Saunders
 title: "Magento 2.X and Salesforce Integration"
+topic: System Integration
 leadhead: "In conclusion, integration of Magento 2.X and Salesforce provides businesses with a powerful tool to manage their customers, inventory, and orders"
 leadtext: "Through API or SDK integration, businesses can synchronize data between the two platforms, ensuring that customer data is up-to-date, inventory information is accurate, and sales teams have all the information they need to serve customers effectively. The benefits of integration are clear, and businesses that embrace this integration will have a competitive edge in the market."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-ses
 author: Edward Saunders
 title: "Integrating WHMCS with Amazon SES"
+topic: System Integration
 leadhead: "Integrating WHMCS with Amazon SES can help you streamline your email sending processes, improve deliverability, and scale your email sending to support your growing business"
 leadtext: "Whether you're just starting out or looking to take your hosting business to the next level, Amazon SES integration is worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

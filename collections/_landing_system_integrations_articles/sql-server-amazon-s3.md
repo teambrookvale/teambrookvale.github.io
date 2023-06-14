@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/amazon-s3
 author: Edward Saunders
 title: "Integration of SQL Server and Amazon S3"
+topic: System Integration
 leadhead: "In conclusion, the integration of SQL Server and Amazon S3 can provide numerous benefits to businesses in terms of cost reduction, scalability, and efficient data management"
 leadtext: "By using APIs or SDKs, developers can easily integrate the two applications and enjoy the advantages of cloud-based storage solutions."
 image: /assets/images/articles/people-sitting-near-table.webp

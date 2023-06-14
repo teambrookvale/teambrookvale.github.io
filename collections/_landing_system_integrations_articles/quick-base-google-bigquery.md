@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/google-bigquery
 author: Edward Saunders
 title: "Integration of Quick Base and Google BigQuery"
+topic: System Integration
 leadhead: "Integrating Quick Base and Google BigQuery through API or SDK provides businesses with powerful capabilities to unlock the value of their data"
 leadtext: "It allows businesses to streamline workflows, access real-time data insights, and make informed decisions that drive growth and improve performance."
 image: /assets/images/articles/people-sitting-near-table.webp

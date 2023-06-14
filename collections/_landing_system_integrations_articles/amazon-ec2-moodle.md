@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/moodle
 author: Edward Saunders
 title: "Amazon EC2 and Moodle API/SDK Integration"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Moodle through API or SDK makes it easy to handle heavy workloads and scale online learning environments"
 leadtext: "With the increasing number of students willing to learn online, this integration can provide a seamless and reliable way to support the growing demand. Educators can manage their courses efficiently and ensure their course materials are stored securely and accessible for students."
 image: /assets/images/articles/people-sitting-near-table.webp

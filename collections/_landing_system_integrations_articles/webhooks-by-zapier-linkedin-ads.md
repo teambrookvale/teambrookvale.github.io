@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/linkedin-ads
 author: Edward Saunders
 title: "Webhooks by Zapier and LinkedIn Ads Integration: A Solution to Your Marketing Needs"
+topic: System Integration
 leadhead: "The integration between Webhooks by Zapier and LinkedIn Ads through an API or SDK can solve marketing problems for businesses"
 leadtext: "It automates marketing tasks, saves time and effort, targets the right audience, and provides valuable marketing insights. With this integration, businesses can focus on other core functions of their business while their marketing processes are running smoothly."
 image: /assets/images/articles/people-sitting-near-table.webp

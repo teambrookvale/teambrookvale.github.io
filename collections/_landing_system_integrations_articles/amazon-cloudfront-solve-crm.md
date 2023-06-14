@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/solve-crm
 author: Edward Saunders
 title: "Amazon CloudFront and Solve CRM Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Solve CRM is a powerful solution for businesses looking to improve their customer experience and streamline their customer relationship management processes"
 leadtext: "By leveraging Amazon CloudFront's content delivery network and Solve CRM's management capabilities, businesses can provide a more personalized, efficient, and engaging experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

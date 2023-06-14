@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/mysql
 author: Edward Saunders
 title: "Integration of Amazon SNS and MySQL | Blog Post"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and MySQL can provide many benefits, such as real-time notifications, scalability, and reliability"
 leadtext: "By using APIs or SDKs, you can easily integrate Amazon SNS and MySQL and start sending messages to your subscribers based on database events. This integration can be extremely useful for various applications, such as e-commerce websites, social media platforms, and mobile apps."
 image: /assets/images/articles/people-sitting-near-table.webp

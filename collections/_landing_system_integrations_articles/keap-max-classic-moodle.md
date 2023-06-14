@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/moodle
 author: Edward Saunders
 title: "Integration of Keap Max Classic and Moodle"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Moodle is a powerful tool for businesses and organizations"
 leadtext: "By sharing data between the two platforms, users can streamline their operations, save time, and improve their effectiveness. Whether you are running a small business or a large university, Keap Max Classic and Moodle can help you achieve your goals and succeed."
 image: /assets/images/articles/people-sitting-near-table.webp

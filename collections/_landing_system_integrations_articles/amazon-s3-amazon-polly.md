@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-polly
 author: Edward Saunders
 title: "Amazon S3 and Polly Integration: A Powerful Combination"
+topic: System Integration
 leadhead: "Amazon S3 and Polly are powerful cloud-based products that can deliver significant benefits when used in combination"
 leadtext: "The seamless integration of these two products through APIs or SDKs enables businesses to store and retrieve data quickly and securely. Polly's text-to-speech capabilities, combined with S3's durability and scalability, create new opportunities for businesses to enhance their offerings and improve the overall customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

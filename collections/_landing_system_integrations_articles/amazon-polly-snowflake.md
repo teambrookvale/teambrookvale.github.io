@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/snowflake
 author: Edward Saunders
 title: "Integrating Amazon Polly and Snowflake for Voice-Enabled Data"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon Polly and Snowflake provides companies with a powerful tool for generating voice-enabled data"
 leadtext: "Whether through an API or SDK, this integration allows developers to create interactive dashboards, chatbots, and other applications that can be accessed by voice. As companies continue to look for innovative ways to leverage the power of data, the integration between Amazon Polly and Snowflake is sure to become an increasingly popular choice."
 image: /assets/images/articles/people-sitting-near-table.webp

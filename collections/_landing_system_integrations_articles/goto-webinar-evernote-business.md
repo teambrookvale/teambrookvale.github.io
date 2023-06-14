@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/evernote-business
 author: Edward Saunders
 title: "Benefits of Integrating GoToWebinar and Evernote Business"
+topic: System Integration
 leadhead: "The integration of GoToWebinar and Evernote Business offers many benefits for businesses looking to streamline workflows and improve information sharing"
 leadtext: "By automatically capturing and organizing important data from webinars and other events, businesses can enhance collaboration, increase efficiency, and make the most of their valuable resources."
 image: /assets/images/articles/people-sitting-near-table.webp

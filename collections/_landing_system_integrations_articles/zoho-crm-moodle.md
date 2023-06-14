@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/moodle
 author: Edward Saunders
 title: "Integrating Zoho CRM and Moodle: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and Moodle can be a game-changer for your business"
 leadtext: "It can help you improve your communication with your customers, streamline your sales and marketing processes, and provide efficient reporting and analytics. By using the right API or SDK, you can seamlessly integrate the two software applications and unlock the full potential of your business."
 image: /assets/images/articles/people-sitting-near-table.webp

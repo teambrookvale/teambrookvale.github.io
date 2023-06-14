@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/quickbooks-online
 author: Edward Saunders
 title: "The Benefits of Integrating BambooHR and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of BambooHR and QuickBooks Online through API or SDK can provide numerous benefits for your business"
 leadtext: "By automating the transfer of employee data, the two systems can save time, reduce human error, and improve collaboration between HR and finance departments."
 image: /assets/images/articles/people-sitting-near-table.webp

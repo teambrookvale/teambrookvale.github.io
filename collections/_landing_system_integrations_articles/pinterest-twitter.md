@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/twitter
 author: Edward Saunders
 title: "The Benefits of Integrating Pinterest and Twitter through API or SDK"
+topic: System Integration
 leadhead: "The integration of Pinterest and Twitter through their API or SDK provides substantial benefits to businesses or individuals who wish to utilize these platforms for social media marketing"
 leadtext: "By sharing your Pinterest content on Twitter, it helps in reaching a broader audience, increasing engagement, generating traffic, and improving brand visibility. It is an effective way to promote content across platforms, enhance your social media strategy, and drive growth for your business or personal brand."
 image: /assets/images/articles/people-sitting-near-table.webp

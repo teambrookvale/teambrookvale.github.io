@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/goto-training
 author: Edward Saunders
 title: "Integrating PayPal and GoTo Training - Benefits and Advantages"
+topic: System Integration
 leadhead: "Integrating PayPal and GoTo Training through an API or SDK can help businesses streamline their operations, save time and money, and improve their training programs"
 leadtext: "By using PayPal to accept payments for their training programs and GoTo Training to manage their training, businesses can unlock a host of benefits and advantages that will help them stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

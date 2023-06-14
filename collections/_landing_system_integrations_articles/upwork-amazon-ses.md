@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-ses
 author: Edward Saunders
 title: "Integrating Upwork and Amazon SES: A Solution to Your Business Problems"
+topic: System Integration
 leadhead: "The integration of Upwork and Amazon SES is crucial for businesses that use both platforms simultaneously"
 leadtext: "With an effective API or SDK integration, businesses can automate their email campaigns, reduce email bounces, enhance communication with freelancers, and most importantly, save time. Therefore, it is highly recommended for businesses to integrate these two platforms to increase their productivity and streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

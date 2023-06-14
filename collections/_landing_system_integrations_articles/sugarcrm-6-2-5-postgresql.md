@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/postgresql
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and PostgreSQL is a great way to enhance the functionality and scalability of the CRM system"
 leadtext: "By integrating the two, businesses can take advantage of PostgreSQL's powerful features while still using SugarCRM 6.2-5's user-friendly interface. If you are considering SugarCRM 6.2-5 and PostgreSQL integration, make sure to consult with a professional developer who can guide you through the process and ensure that the integration is successful."
 image: /assets/images/articles/people-sitting-near-table.webp

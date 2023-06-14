@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/pinterest
 author: Edward Saunders
 title: "PostgreSQL and Pinterest: Integration for Seamless Solutions"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Pinterest can lead to seamless solutions for businesses"
 leadtext: "By using the PostgreSQL database to store data related to Pinterest, businesses can perform data analysis, improve the user experience, and scale their data storage and management capabilities. Developers can use the Pinterest API or SDK to integrate the two solutions and create powerful applications. With the integration of PostgreSQL and Pinterest, businesses can make informed decisions, improve engagement, and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

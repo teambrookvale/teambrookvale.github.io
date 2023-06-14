@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/linkedin-ads
 author: Edward Saunders
 title: "Benefits of Integrating Instagram Lead Ads and LinkedIn Ads"
+topic: System Integration
 leadhead: "As a business owner, you want to maximize your marketing efforts and generate more leads"
 leadtext: "By integrating Instagram Lead Ads and LinkedIn Ads, you can achieve both goals. It is an excellent way to target specific audiences, streamline lead generation, and track your performance across multiple platforms. So, if you haven't considered integrating these two platforms, it's time to start now!"
 image: /assets/images/articles/people-sitting-near-table.webp

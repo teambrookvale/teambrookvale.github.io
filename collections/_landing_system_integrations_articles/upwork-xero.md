@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/xero
 author: Edward Saunders
 title: "Upwork and Xero Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and Xero through API or SDK provides numerous benefits for businesses, including streamlined financial management and automation of processes"
 leadtext: "By utilizing the integration, businesses can save time, reduce errors, and stay on top of their finances."
 image: /assets/images/articles/people-sitting-near-table.webp

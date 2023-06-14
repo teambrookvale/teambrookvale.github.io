@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/whmcs
 author: Edward Saunders
 title: "Integration of Amazon SNS and WHMCS through API or SDK"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and WHMCS through API or SDK is a powerful way to streamline your business operations and stay informed about important events"
 leadtext: "Whether you're a web hosting company or an online business, you can benefit from real-time notifications and automation. With the right setup and configuration, you can take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

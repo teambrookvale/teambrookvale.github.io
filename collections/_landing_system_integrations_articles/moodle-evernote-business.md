@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/evernote-business
 author: Edward Saunders
 title: "Moodle and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Evernote Business through API or SDK allows for a more streamlined workflow, centralized sharing, and improved learning experiences"
 leadtext: "By combining the best features of these two popular applications, educators and learners can make the most out of their time and resources, and achieve their goals more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

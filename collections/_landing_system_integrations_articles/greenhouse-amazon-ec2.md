@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-ec2
 author: Edward Saunders
 title: "Greenhouse and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Amazon EC2 is an innovative solution that can help businesses transform their recruitment processes"
 leadtext: "While it may require some technical expertise to set up, the benefits of scalability and cost savings far outweigh the initial implementation costs. As more businesses move towards cloud-based solutions, the integration of Greenhouse and Amazon EC2 is an ideal solution for modern recruitment management."
 image: /assets/images/articles/people-sitting-near-table.webp

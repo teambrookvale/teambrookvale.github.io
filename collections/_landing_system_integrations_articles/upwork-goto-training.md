@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/goto-training
 author: Edward Saunders
 title: "Upwork and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and GoTo Training is a powerful tool for businesses that rely heavily on freelance talent to grow and scale their operations"
 leadtext: "By providing freelancers with quality training programs, businesses ensure that they are getting the best work output from their Upwork-hired talent. This integration is a direct reflection of the commitment these platforms have in helping businesses get the best value from their freelance workforce."
 image: /assets/images/articles/people-sitting-near-table.webp

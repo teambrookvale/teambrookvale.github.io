@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/magento
 author: Edward Saunders
 title: "Integration of LinkedIn Ads with Magento | Benefits and Advantages"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads with Magento can benefit businesses in several ways, from targeted advertising to increased sales and improved campaign performance"
 leadtext: "By leveraging LinkedIn's extensive data and powerful targeting capabilities, businesses can reach their ideal customers and drive revenue growth. As e-commerce continues to grow, integrating LinkedIn Ads with Magento will become increasingly essential for businesses looking to stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

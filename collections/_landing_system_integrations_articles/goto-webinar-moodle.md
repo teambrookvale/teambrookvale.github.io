@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/moodle
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Moodle for Better Webinars"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and Moodle through API or SDK allows businesses and educational institutions to take advantage of the unique capabilities of both platforms"
 leadtext: "By combining the features of GoTo Webinar and Moodle, you can create more engaging and interactive webinars while keeping track of attendees' progress. Whether you are an educator or a business, this integration is worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

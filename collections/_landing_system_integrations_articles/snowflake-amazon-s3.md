@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/amazon-s3
 author: Edward Saunders
 title: "Snowflake and Amazon S3 Integration"
+topic: System Integration
 leadhead: "Integration of Snowflake and Amazon S3 through API or SDK offers great value to organizations looking to store and analyze data in the cloud"
 leadtext: "The scalability, cost-effectiveness, and flexibility benefits make the integration a smart choice for organizations. By following the integration process, organizations can easily move data between the two platforms and enjoy the benefits that come with it."
 image: /assets/images/articles/people-sitting-near-table.webp

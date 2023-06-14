@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/magento
 author: Edward Saunders
 title: "Integrating Amazon SES and Magento for a Seamless E-commerce Experience"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Magento offers several benefits to e-commerce businesses"
 leadtext: "By leveraging the power of these two platforms, businesses can improve their email marketing efforts, increase customer engagement, and streamline their operations. The integration process is relatively simple and can be achieved through the use of API or SDK. As e-commerce continues to grow, it is crucial for businesses to utilize the latest technologies to remain competitive and provide a seamless customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

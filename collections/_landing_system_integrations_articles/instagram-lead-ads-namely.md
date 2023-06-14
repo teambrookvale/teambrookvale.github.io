@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/namely
 author: Edward Saunders
 title: "Integration of Instagram Lead Ads with Namely - A Game Changer for Businesses"
+topic: System Integration
 leadhead: "The integration of Instagram lead ads and Namely offers businesses a powerful tool for generating and managing leads"
 leadtext: "By integrating the two platforms through API or SDK, businesses can streamline their lead management processes and effectively track the success of their Instagram campaigns. With social media playing an increasingly important role in advertising and marketing, this integration is a game changer for businesses looking to reach a wider audience and generate more leads."
 image: /assets/images/articles/people-sitting-near-table.webp

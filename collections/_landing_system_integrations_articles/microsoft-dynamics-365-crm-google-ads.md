@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/google-ads
 author: Edward Saunders
 title: "How Microsoft Dynamics 365 CRM and Google Ads Integration is a Game Changer"
+topic: System Integration
 leadhead: "Overall, the integration of Microsoft Dynamics 365 CRM and Google Ads is a game changer for businesses looking to grow and succeed"
 leadtext: "By connecting these two powerful platforms, businesses can create more targeted and personalized advertising campaigns, improve their customer engagement and satisfaction, and gain valuable insights into their customers' behavior and preferences. If you're looking to take your business to the next level, consider integrating Microsoft Dynamics 365 CRM and Google Ads today!"
 image: /assets/images/articles/people-sitting-near-table.webp

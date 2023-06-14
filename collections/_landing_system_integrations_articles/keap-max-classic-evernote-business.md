@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/evernote-business
 author: Edward Saunders
 title: "Integrating Keap Max Classic and Evernote Business"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Evernote Business through API or SDK provides several benefits for businesses"
 leadtext: "It solves several problems and makes it easier for teams to collaborate and manage customer information more effectively. Businesses can save time and money by automating data entry and avoiding errors."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/amazon-s3
 author: Edward Saunders
 title: "Integrating Instagram Custom Audiences with Amazon S3"
+topic: System Integration
 leadhead: "Integrating Instagram Custom Audiences with Amazon S3 is a powerful way to create targeted and personalized ads"
 leadtext: "By leveraging the data stored in Amazon S3, you can improve the relevance of your ads and increase their effectiveness. So why not take advantage of these two powerful platforms and start integrating them today?"
 image: /assets/images/articles/people-sitting-near-table.webp

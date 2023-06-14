@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/zendesk
 author: Edward Saunders
 title: "WHMCS and Zendesk Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating WHMCS and Zendesk can significantly improve customer management processes, reduce response times, and increase customer satisfaction"
 leadtext: "Both platforms have robust APIs and SDKs that make the integration process simple and straightforward, regardless of the size of the business. Businesses can leverage the integration of the two platforms to create a streamlined customer support system, empowering support teams to provide prompt responses, and ultimately, improve customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

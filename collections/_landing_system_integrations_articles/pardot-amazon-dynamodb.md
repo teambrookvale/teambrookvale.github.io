@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/amazon-dynamodb
 author: Edward Saunders
 title: "Pardot & Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "The integration of Pardot and Amazon DynamoDB is a powerful tool for businesses looking to improve their marketing efforts"
 leadtext: "Through their integration, marketing teams can create successful campaigns that engage customers and boost sales. By utilizing the SDK or API, businesses can synchronize data between the two systems, leading to more effective marketing strategies. Therefore, Pardot and Amazon DynamoDB are a perfect combination that can help businesses gain a competitive edge in their respective niches."
 image: /assets/images/articles/people-sitting-near-table.webp

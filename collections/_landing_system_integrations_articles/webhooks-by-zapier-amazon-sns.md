@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/amazon-sns
 author: Edward Saunders
 title: "Webhooks by Zapier and Amazon SNS Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Amazon SNS provides an effective way to improve data transmission and automate tasks in real-time"
 leadtext: "By leveraging the power of these two services, developers can create powerful workflows that optimize their operations, enabling them to do more with less."
 image: /assets/images/articles/people-sitting-near-table.webp

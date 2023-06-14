@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/google-groups
 author: Edward Saunders
 title: "Zendesk and Google Groups integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Zendesk and Google Groups can be highly beneficial for businesses and organizations that want to optimize their workflow and streamline their support processes"
 leadtext: "Through API or SDK integration, support teams can provide faster, more efficient responses to customer inquiries, leading to increased customer satisfaction and higher levels of productivity for the business."
 image: /assets/images/articles/people-sitting-near-table.webp

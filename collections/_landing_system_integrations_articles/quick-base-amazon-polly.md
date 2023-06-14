@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/amazon-polly
 author: Edward Saunders
 title: "Integrating Quick Base with Amazon Polly"
+topic: System Integration
 leadhead: "Integrating Quick Base with Amazon Polly can offer businesses a new way to interact with their data"
 leadtext: "It provides a more efficient, accessible, and engaging way to present information to users. By using the AWS SDK for Javascript, businesses can easily implement this integration into their existing Quick Base applications."
 image: /assets/images/articles/people-sitting-near-table.webp

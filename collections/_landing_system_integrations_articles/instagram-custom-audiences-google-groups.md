@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/google-groups
 author: Edward Saunders
 title: "Instagram Custom Audiences and Google Groups Integration"
+topic: System Integration
 leadhead: "Businesses are always looking for ways to improve their marketing efforts and make communication more efficient"
 leadtext: "By integrating Instagram Custom Audiences and Google Groups, brands can connect more with their customers and partners more effectively. This integration allows for better-targeted marketing and project collaboration, as well as increased customer engagement. With proper implementation, businesses can benefit significantly from such integration."
 image: /assets/images/articles/people-sitting-near-table.webp

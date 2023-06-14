@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/solve-crm
 author: Edward Saunders
 title: "The Benefits of Integrating BigCommerce and Solve CRM"
+topic: System Integration
 leadhead: "In conclusion, the integration of BigCommerce and Solve CRM through API or SDK provides businesses with a number of important benefits that can help improve their eCommerce operations and customer service"
 leadtext: "By automating and streamlining sales and customer service processes, businesses can save time and resources while also improving their marketing efforts and overall customer satisfaction. If you're a business looking to improve your eCommerce operations, consider integrating BigCommerce and Solve CRM today."
 image: /assets/images/articles/people-sitting-near-table.webp

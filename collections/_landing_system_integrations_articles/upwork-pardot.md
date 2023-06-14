@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/pardot
 author: Edward Saunders
 title: "Integrating Upwork and Pardot through API or SDK"
+topic: System Integration
 leadhead: "The integration of Upwork and Pardot through API or SDK can bring significant benefits to a business"
 leadtext: "It allows businesses to track the performance of their freelancers and remote workers using Pardot's analytics tools and communicate effectively with them using Pardot's email automation tools. With this integration, businesses can improve their productivity, enhance their marketing efforts, and save time and resources."
 image: /assets/images/articles/people-sitting-near-table.webp

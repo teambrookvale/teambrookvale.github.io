@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/instagram-custom-audiences
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Instagram Custom Audiences can help digital marketers optimize their advertising campaigns and provide better customer experiences"
 leadtext: "By having a better understanding of how their infrastructure is performing, developers can optimize their applications. By combining customer data with monitoring data from Amazon CloudWatch, marketers can identify trends and make real-time decisions about their advertising campaigns. This integration solves multiple problems at once and provides a competitive edge to businesses that take advantage of it."
 image: /assets/images/articles/people-sitting-near-table.webp

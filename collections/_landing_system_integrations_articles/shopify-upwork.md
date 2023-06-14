@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/upwork
 author: Edward Saunders
 title: "Shopify and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Upwork brings convenience and simplicity to merchants and freelancers alike"
 leadtext: "Including key features like tracking work hours, handling payments, billing, and remote work, businesses no longer face hiring challenges while Upwork freelancers get a better opportunity for work."
 image: /assets/images/articles/people-sitting-near-table.webp

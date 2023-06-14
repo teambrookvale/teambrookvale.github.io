@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/mysql
 author: Edward Saunders
 title: "Integration of Amazon Seller Central with MySQL"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central with MySQL through the API or SDK is a great way to take your e-commerce business to the next level"
 leadtext: "With greater control over your sales data and the ability to create custom reports, you can gain insights that help you make better business decisions. Plus, with MySQL's backup and recovery options and scalability, you can rest easy knowing that your data is safe and your platform can grow with you."
 image: /assets/images/articles/people-sitting-near-table.webp

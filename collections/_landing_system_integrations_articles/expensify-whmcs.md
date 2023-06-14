@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/whmcs
 author: Edward Saunders
 title: "Expensify and WHMCS Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Expensify and WHMCS through API or SDK can help businesses streamline their operations and solve several problems related to expense management and billing"
 leadtext: "With this integration, businesses can save time, increase accuracy, and avoid inefficiencies, allowing them to concentrate on their core competencies and grow their businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

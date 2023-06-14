@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/twitter
 author: Edward Saunders
 title: "Integration of Shopify with Twitter using API or SDK"
+topic: System Integration
 leadhead: "Integrating Shopify with Twitter through API or SDK can provide merchants with a variety of benefits, including increasing visibility of their products, building brand awareness, and driving traffic to their website"
 leadtext: "By using these tools, merchants can expand their reach and connect with potential customers in new and exciting ways."
 image: /assets/images/articles/people-sitting-near-table.webp

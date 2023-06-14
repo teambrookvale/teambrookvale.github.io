@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/servicenow
 author: Edward Saunders
 title: "Magento 2.X and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration between Magento 2.X and ServiceNow is a great solution for businesses looking to streamline their operations"
 leadtext: "With the integration, businesses can automate tasks, reduce errors, and manage data more effectively. Whether you choose to integrate the two platforms through API or SDK, the benefits are clear, making it a worthwhile investment for any business."
 image: /assets/images/articles/people-sitting-near-table.webp

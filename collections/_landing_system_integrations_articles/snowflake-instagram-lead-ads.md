@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/instagram-lead-ads
 author: Edward Saunders
 title: "Snowflake and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration between Snowflake and Instagram Lead Ads is a significant development for businesses looking to streamline their data management processes and improve their marketing efforts"
 leadtext: "It offers a scalable and cost-effective solution that enables businesses to transfer, analyze, and use their Lead Ads data quickly and efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/snowflake
 author: Edward Saunders
 title: "Integration of Google Groups and Snowflake"
+topic: System Integration
 leadhead: "The integration of Google Groups and Snowflake provides several benefits to organizations, including efficient data management, improved collaboration, and streamlined processes"
 leadtext: "By using the APIs or SDKs, organizations can seamlessly transfer data between the two systems and take advantage of their features to scale and analyze data."
 image: /assets/images/articles/people-sitting-near-table.webp

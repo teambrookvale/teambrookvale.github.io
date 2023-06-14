@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with SugarCRM 6.2-5: A Complete Guide"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads with SugarCRM 6.2-5 is a valuable tool for businesses that want to streamline their lead generation process"
 leadtext: "With the ability to capture leads automatically, businesses can focus on lead quality rather than quantity. The result is a more efficient and effective lead generation process, and ultimately, better ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

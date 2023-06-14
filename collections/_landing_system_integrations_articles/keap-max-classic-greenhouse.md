@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/greenhouse
 author: Edward Saunders
 title: "Keap Max Classic and Greenhouse Integration - A Game Changer for Your Business"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Greenhouse is a game-changer for small businesses"
 leadtext: "It simplifies your business operations, streamlines your hiring process, and provides you with a comprehensive view of your data. If you are looking to grow your business and take your operations to the next level, this integration is something you should definitely consider."
 image: /assets/images/articles/people-sitting-near-table.webp

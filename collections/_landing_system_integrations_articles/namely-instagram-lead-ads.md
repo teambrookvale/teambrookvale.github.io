@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/instagram-lead-ads
 author: Edward Saunders
 title: "Namely and Instagram Lead Ads Integration: A Powerful Duo"
+topic: System Integration
 leadhead: "Overall, the integration of Namely and Instagram Lead Ads is a powerful tool for businesses looking to streamline their processes and improve their marketing capabilities"
 leadtext: "By automating the transfer of data from Instagram Lead Ads campaigns to Namely, businesses can save time and improve data accuracy while easily tracking the success of their marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

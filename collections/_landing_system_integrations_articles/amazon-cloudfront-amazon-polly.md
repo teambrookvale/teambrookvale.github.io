@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/amazon-polly
 author: Edward Saunders
 title: "Integrating Amazon CloudFront and Amazon Polly: A Perfect Match"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront and Amazon Polly can be a game-changer for website owners who want to improve their website performance, enhance user experience, and make their websites more accessible"
 leadtext: "With the integration, website owners can easily generate high-quality audio files of their website content on-demand and deliver them through a content delivery network, eliminating the need for server-side text-to-speech processing. If you are a website owner looking to improve your website performance, accessibility, and user experience, consider integrating Amazon CloudFront and Amazon Polly today!"
 image: /assets/images/articles/people-sitting-near-table.webp

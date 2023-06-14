@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/twitter
 author: Edward Saunders
 title: "Integrating Marketo and Twitter to Boost Your Social Media Marketing Game"
+topic: System Integration
 leadhead: "The integration of Marketo and Twitter can significantly improve a business's social media marketing game"
 leadtext: "It allows businesses to track the success of their Twitter campaigns, engage with their audience more effectively, and automate their marketing tasks. So, if you are looking to take your social media marketing to the next level, consider integrating Marketo and Twitter."
 image: /assets/images/articles/people-sitting-near-table.webp

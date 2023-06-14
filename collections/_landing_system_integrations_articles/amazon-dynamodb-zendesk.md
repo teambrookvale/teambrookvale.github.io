@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/zendesk
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and Zendesk - a powerful solution"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Zendesk is a powerful solution that provides businesses with a centralized repository for customer data and a streamlined support process"
 leadtext: "By leveraging the capabilities of both platforms, businesses can gain valuable insights, improve customer experiences, and boost their overall productivity. Whether through their APIs or SDKs, the integration of Amazon DynamoDB and Zendesk is a must-have for any business that values customer support and service."
 image: /assets/images/articles/people-sitting-near-table.webp

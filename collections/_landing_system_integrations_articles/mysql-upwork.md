@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/upwork
 author: Edward Saunders
 title: "MySQL and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and Upwork through API or SDK is an effective way to streamline business processes, save time, and reduce errors"
 leadtext: "By combining data from different sources, businesses can gain valuable insights into their performance. Custom applications can also help businesses to improve their workflows. It is worth considering for any business that uses Upwork as a platform for freelance services."
 image: /assets/images/articles/people-sitting-near-table.webp

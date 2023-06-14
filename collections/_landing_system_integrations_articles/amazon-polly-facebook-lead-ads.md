@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/facebook-lead-ads
 author: Edward Saunders
 title: "Amazon Polly Integration with Facebook Lead Ads"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Facebook Lead Ads provides marketers with a powerful tool to create more engaging and effective ads"
 leadtext: "By using natural-sounding speech, marketers can capture the user's attention and provide them with more information without the need for an external landing page. This integration is especially useful for companies that want to advertise their products or services to a wider audience with various accessibility needs. Overall, Amazon Polly Integration with Facebook Lead Ads is a great addition to any marketer's toolkit."
 image: /assets/images/articles/people-sitting-near-table.webp

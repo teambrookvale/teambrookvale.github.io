@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/chargify
 author: Edward Saunders
 title: "Amazon Polly and Chargify Integration: Solving Content Delivery Issues"
+topic: System Integration
 leadhead: "Amazon Polly and Chargify integration is a powerful tool for delivering high-quality speech content to customers and audiences"
 leadtext: "By using Polly to generate text-to-speech content and integrating with Chargify, users can automate the creation, delivery, and management of speech-based content and subscriptions. This integration provides a powerful solution for engaging audiences, delivering content, and managing revenue, making it an ideal choice for businesses and organizations of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/amazon-cloudwatch
 author: Edward Saunders
 title: "ServiceNow and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating ServiceNow and Amazon CloudWatch can be a powerful way for businesses to improve their IT service management and infrastructure monitoring capabilities"
 leadtext: "By using APIs or SDKs, businesses can connect the two tools and automate processes, gaining greater visibility into their IT environment and improving the quality of their services. For businesses looking to get the most out of their IT investments, ServiceNow and Amazon CloudWatch integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

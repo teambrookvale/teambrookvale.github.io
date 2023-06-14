@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/quick-base
 author: Edward Saunders
 title: "Integrating LinkedIn Ads with Quick Base"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads with Quick Base offers many benefits to businesses, including greater efficiency, improved analysis and decision-making, and a more holistic view of their operations"
 leadtext: "Developers can easily accomplish this integration through the use of APIs or SDKs, making it a simple and practical solution for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

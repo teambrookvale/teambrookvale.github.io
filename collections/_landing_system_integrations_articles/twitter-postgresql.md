@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/postgresql
 author: Edward Saunders
 title: "Twitter and PostgreSQL Integration"
+topic: System Integration
 leadhead: "Integrating Twitter and PostgreSQL is an excellent choice for businesses and developers alike"
 leadtext: "The combination of social media data and a reliable database solution provides many benefits, including improved data analysis, increased accessibility, and reduced costs. If you're a business owner or a developer looking for an excellent database solution, PostgreSQL and Twitter integration is worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/pardot
 author: Edward Saunders
 title: "Integration of Amazon SQS and Pardot"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Pardot through API or SDK leads to a more efficient and streamlined marketing and sales process"
 leadtext: "It eliminates the need for manual intervention and reduces the chances of data loss. Integration may seem a daunting task, but with the right processes in place, it can be done without much hassle. By utilizing these two services, businesses can create an improved and more efficient workflow that benefits all parties involved."
 image: /assets/images/articles/people-sitting-near-table.webp

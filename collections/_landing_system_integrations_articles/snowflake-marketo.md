@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/marketo
 author: Edward Saunders
 title: "Snowflake & Marketo Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Marketo provides unique value to businesses"
 leadtext: "With the seamless integration of the two platforms, businesses can seamlessly manage and glean insights from customer data, leading to better marketing strategies and increased revenue. As a result, businesses can make informed decisions based on accurate, centralized data and stay ahead of their competition."
 image: /assets/images/articles/people-sitting-near-table.webp

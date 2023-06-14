@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/chargify
 author: Edward Saunders
 title: "Integrating PostgreSQL and Chargify: A Solution to Your Problems"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Chargify can provide businesses with a powerful toolset to manage their billing and customer information"
 leadtext: "The API and SDK integration options make it easy to connect the two tools and streamline business operations. With automated billing and customer management, businesses can focus on growth and improving their products, rather than spending time on manual processes."
 image: /assets/images/articles/people-sitting-near-table.webp

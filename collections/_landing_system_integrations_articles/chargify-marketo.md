@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/marketo
 author: Edward Saunders
 title: "Chargify and Marketo Integration"
+topic: System Integration
 leadhead: "In conclusion, businesses can benefit significantly from integrating Chargify and Marketo"
 leadtext: "This integration can streamline billing and marketing operations, improve customer experience, increase productivity, and reduce costs. The process of integration is easy and straightforward, and businesses of all sizes can take advantage of this integration to enhance their operations. Make sure your business gets the most out of these platforms by integrating them today!"
 image: /assets/images/articles/people-sitting-near-table.webp

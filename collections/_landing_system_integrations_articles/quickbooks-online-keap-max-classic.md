@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/keap-max-classic
 author: Edward Saunders
 title: "QuickBooks Online and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Keap Max Classic is a game-changer for small businesses"
 leadtext: "It provides a powerful tool for businesses to streamline their operations and financial management while gaining deep insights into their customers' behaviors. By integrating these two software, businesses can grow more efficiently and gain a competitive edge in today's competitive market."
 image: /assets/images/articles/people-sitting-near-table.webp

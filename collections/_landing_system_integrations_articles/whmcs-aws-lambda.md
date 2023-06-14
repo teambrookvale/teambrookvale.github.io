@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/aws-lambda
 author: Edward Saunders
 title: "Integrating WHMCS with AWS Lambda"
+topic: System Integration
 leadhead: "Integrating WHMCS with AWS Lambda can bring substantial benefits to a web hosting company"
 leadtext: "It can streamline billing and automating tasks, as well as improve customer support. The API Gateway and AWS SDK provide developers with the tools they need to integrate the two platforms. We hope that our blog post has given you a clear understanding of the benefits and integration process of these powerful tools."
 image: /assets/images/articles/people-sitting-near-table.webp

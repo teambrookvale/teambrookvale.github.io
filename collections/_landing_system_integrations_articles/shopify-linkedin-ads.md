@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/linkedin-ads
 author: Edward Saunders
 title: "How the Integration of Shopify and LinkedIn Ads via API Solves Big Problems"
+topic: System Integration
 leadhead: "The integration of Shopify and LinkedIn Ads through API or SDK is a game changer for businesses looking to optimize their advertising efforts on LinkedIn"
 leadtext: "With easier ad set up, better visibility on ad performance, and more efficient advertising spending, the integration solves big problems and helps businesses drive more sales."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/servicenow
 author: Edward Saunders
 title: "Integrating Pinterest and ServiceNow"
+topic: System Integration
 leadhead: "Integrating Pinterest and ServiceNow through API or SDK can solve several problems for businesses, from streamlining IT workflows to enhancing customer experience"
 leadtext: "By bringing together two very different platforms, businesses can create a more comprehensive and streamlined experience for users and teams across the organization."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/quickbooks-online
 author: Edward Saunders
 title: "Integrating Evernote Business and QuickBooks Online through API/SDK"
+topic: System Integration
 leadhead: "The integration of Evernote Business and QuickBooks Online is a great way for businesses to streamline their workflows and reduce their costs"
 leadtext: "API or SDK is the simplest way to accomplish this integration, and its usefulness cannot be overstated. With the automated transfer of data from Evernote Business to QuickBooks Online, businesses can save time, reduce errors, and obtain accurate financial data, thus making informed decisions about their future."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and SugarCRM 6.2-5 can provide businesses with a better understanding of their customers, improve collaboration and communication between teams, and eliminate the need for manual data transfer"
 leadtext: "Through the use of APIs or SDKs, businesses can create a custom integration that fits their unique needs and streamlines their CRM process."
 image: /assets/images/articles/people-sitting-near-table.webp

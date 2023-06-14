@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Amazon DynamoDB and SugarCRM Integration: Solving Data Storage and Management Problems"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon DynamoDB and SugarCRM through APIs or SDKs can greatly benefit businesses in terms of data storage, management, and analytics"
 leadtext: "It streamlines workflows, enhances customer relationship management, and provides real-time insights for better decision-making. By leveraging the strengths of these two tools, businesses can take their operations to the next level and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/google-bigquery
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and Google BigQuery"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Google BigQuery through API or SDK is a smart move for businesses that want to improve their customer engagement processes and gain valuable insights into their customer data"
 leadtext: "By breaking down data silos and automating data transfer, businesses can save time and reduce errors while gaining a comprehensive view of their customer data."
 image: /assets/images/articles/people-sitting-near-table.webp

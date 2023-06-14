@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/instagram-lead-ads
 author: Edward Saunders
 title: "ServiceNow and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Instagram Lead Ads is a powerful combination that can help businesses streamline their lead generation and management processes"
 leadtext: "By automating the transfer of lead information and providing a centralized database, businesses can focus on converting leads into customers and growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/expensify
 author: Edward Saunders
 title: "Magento and Expensify Integration"
+topic: System Integration
 leadhead: "Integrating Magento and Expensify is a smart move for businesses of all sizes"
 leadtext: "By automating the expense tracking process and streamlining expense reporting and approvals, businesses can save time, reduce errors, and improve efficiency. Don't wait to integrate these powerful tools and start seeing the benefits for your business today."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-cloudwatch
 author: Edward Saunders
 title: "Greenhouse and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Amazon CloudWatch can benefit organizations in many ways, including optimizing their hiring process, monitoring system performance, and making data-driven decisions about their recruiting strategy"
 leadtext: "With the help of API and SDK, organizations can easily integrate the two systems and enjoy the benefits of their combined features."
 image: /assets/images/articles/people-sitting-near-table.webp

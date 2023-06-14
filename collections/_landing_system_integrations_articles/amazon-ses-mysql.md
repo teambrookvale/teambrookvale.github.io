@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/mysql
 author: Edward Saunders
 title: "Integration of Amazon SES and MySQL"
+topic: System Integration
 leadhead: "By integrating Amazon SES and MySQL, businesses can take advantage of a cost-effective and reliable email sending service while also leveraging the benefits of a powerful relational database management system"
 leadtext: "This integration can help businesses streamline their email marketing efforts and improve customer engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

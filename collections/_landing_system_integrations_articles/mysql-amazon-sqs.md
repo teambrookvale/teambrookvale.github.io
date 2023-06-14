@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/amazon-sqs
 author: Edward Saunders
 title: "MySQL and Amazon SQS Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and Amazon SQS through API or SDK can provide significant benefits to developers building distributed systems and serverless applications"
 leadtext: "By leveraging the strengths of both technologies, developers can create scalable, reliable systems that can handle large volumes of data and recover from failures quickly and easily."
 image: /assets/images/articles/people-sitting-near-table.webp

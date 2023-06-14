@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/paypal
 author: Edward Saunders
 title: "Shopify and PayPal Integration: A Solution to Payment Processing"
+topic: System Integration
 leadhead: "The integration of Shopify and PayPal through API or SDK is a solution to payment processing that benefits both merchants and customers"
 leadtext: "The integration allows merchants to accept payments in multiple currencies, automate payment processing, reduce cart abandonment rates, and improve the overall customer experience. Merchants who integrate Shopify with PayPal can manage their business more efficiently, while providing their customers with a secure and convenient payment method."
 image: /assets/images/articles/people-sitting-near-table.webp

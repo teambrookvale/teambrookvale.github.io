@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/calldrip
 author: Edward Saunders
 title: "Pinterest and Calldrip Integration: A Solution for Your Business"
+topic: System Integration
 leadhead: "The integration of Pinterest and Calldrip through API or SDK provides a solution for businesses looking to increase brand awareness and reach new audiences"
 leadtext: "By automating lead response times and managing leads more efficiently, businesses can improve their conversion rates and ultimately drive more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

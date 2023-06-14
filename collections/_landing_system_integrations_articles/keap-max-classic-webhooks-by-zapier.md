@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating Keap Max Classic with Webhooks by Zapier"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic with Webhooks by Zapier is a simple process that can provide several benefits to businesses"
 leadtext: "By automating tasks and managing customer relationships more effectively, businesses can save time and improve their overall productivity. To achieve the best results, businesses should consider using the Webhooks by Zapier API or SDK to create a custom integration that fits their unique needs."
 image: /assets/images/articles/people-sitting-near-table.webp

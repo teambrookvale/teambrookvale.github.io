@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/zoho-crm
 author: Edward Saunders
 title: "Integrating Facebook Custom Audiences with Zoho CRM"
+topic: System Integration
 leadhead: "Integrating Facebook Custom Audiences with Zoho CRM can result in more effective and streamlined advertising efforts for businesses"
 leadtext: "By leveraging the power of both tools, businesses can target the right audiences with the right messaging, and they can also track the performance of those campaigns in one central location. Overall, this integration can help businesses take their marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

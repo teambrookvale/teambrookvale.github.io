@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/instagram-custom-audiences
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and Instagram Custom Audiences is a powerful tool for businesses"
 leadtext: "By combining these two platforms, businesses can create targeted ads that reach potential and existing customers, resulting in a more effective and efficient marketing campaign. As businesses continue to search for ways to increase their reach and effectiveness on social media, integrating these two platforms should be a consideration for any marketing strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

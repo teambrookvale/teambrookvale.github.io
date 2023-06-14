@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/aws-lambda
 author: Edward Saunders
 title: "How Pinterest and AWS Lambda Work Together to Solve Integration Problems"
+topic: System Integration
 leadhead: "Integration of Pinterest and AWS Lambda can be a powerful tool for businesses and developers who want to automate tasks, process data, and provide real-time updates"
 leadtext: "By using the Pinterest API and AWS SDK, you can unleash the full potential of these two platforms and create innovative and engaging experiences for your users."
 image: /assets/images/articles/people-sitting-near-table.webp

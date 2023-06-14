@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/amazon-sns
 author: Edward Saunders
 title: "GoTo Training and Amazon SNS Integration"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Amazon SNS can help businesses streamline their remote training process and deliver a better experience to their participants"
 leadtext: "With this integration, users can automate notifications and updates, ensure that participants receive real-time updates, and improve the overall experience of the training session. It is a powerful tool that can help businesses stay ahead in a highly competitive and constantly evolving industry."
 image: /assets/images/articles/people-sitting-near-table.webp

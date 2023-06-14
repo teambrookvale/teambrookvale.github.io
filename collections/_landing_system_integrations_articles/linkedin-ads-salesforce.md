@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/salesforce
 author: Edward Saunders
 title: "Integrating LinkedIn Ads with Salesforce"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads with Salesforce is a game-changer for businesses looking to improve their marketing and sales processes"
 leadtext: "It helps to streamline processes, track ROI, and target ideal customers, resulting in higher conversion rates. So, if you're not already using LinkedIn Ads or Salesforce, it's time to consider adding them to your marketing stack and integrating them through APIs or SDKs."
 image: /assets/images/articles/people-sitting-near-table.webp

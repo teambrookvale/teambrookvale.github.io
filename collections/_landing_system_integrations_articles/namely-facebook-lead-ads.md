@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating Namely and Facebook Lead Ads: A Comprehensive Guide"
+topic: System Integration
 leadhead: "The integration of Namely and Facebook Lead Ads is a game-changer for businesses that want to streamline their HR processes and improve their lead generation efforts"
 leadtext: "With this integration, businesses can easily collect customer data from Facebook Lead Ads and import it into their HR software without any manual entry. If you haven't already, it's time to take advantage of this powerful integration and start seeing the benefits for your business today."
 image: /assets/images/articles/people-sitting-near-table.webp

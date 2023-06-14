@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/zoho-crm
 author: Edward Saunders
 title: "Snowflake and Zoho CRM Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Snowflake and Zoho CRM through an API or SDK offers businesses many benefits, including a 360-degree view of customers and more efficient data management"
 leadtext: "By connecting customer data with other business data, businesses can improve their marketing efforts and make better informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

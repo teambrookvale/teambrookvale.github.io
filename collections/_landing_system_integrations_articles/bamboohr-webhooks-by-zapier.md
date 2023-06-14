@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating BambooHR and Webhooks by Zapier"
+topic: System Integration
 leadhead: "BambooHR and Webhooks by Zapier can offer HR teams an opportunity to streamline their HR operations, ensure data accuracy, and empower data-driven decisions"
 leadtext: "These integrations can save time, reduce errors, and improve efficiencies. If you are an HR professional looking to optimize your HR workflows, consider integrating BambooHR with other tools you use through Webhooks by Zapier."
 image: /assets/images/articles/people-sitting-near-table.webp

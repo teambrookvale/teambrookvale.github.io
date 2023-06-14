@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/calldrip
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Calldrip"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and Calldrip through API or SDK is a powerful tool for businesses looking to convert more leads into customers"
 leadtext: "By automating the connection process and providing valuable insights and metrics, businesses can save time, improve their marketing campaigns, and provide a better customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

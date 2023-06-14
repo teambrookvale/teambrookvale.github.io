@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/greenhouse
 author: Edward Saunders
 title: "Chargify and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Greenhouse is a win-win for businesses of all sizes, as it helps them streamline their billing and HR workflows and gain a competitive edge in their respective markets"
 leadtext: "By leveraging the power of APIs or SDKs, businesses can improve efficiency, accuracy, and customer and candidate experience, which can ultimately lead to increased revenue and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

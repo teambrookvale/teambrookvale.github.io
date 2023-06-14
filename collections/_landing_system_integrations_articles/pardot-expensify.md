@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/expensify
 author: Edward Saunders
 title: "Integration of Pardot and Expensify"
+topic: System Integration
 leadhead: "Integrating Pardot and Expensify is a wise decision for businesses that want to optimize their sales and marketing efforts while streamlining their expense management process"
 leadtext: "The integration helps businesses to save time and money while maintaining accurate and transparent data. By using the API or SDK, businesses can build custom integrations that cater to their specific requirements."
 image: /assets/images/articles/people-sitting-near-table.webp

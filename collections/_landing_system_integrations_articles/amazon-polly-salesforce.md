@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/salesforce
 author: Edward Saunders
 title: "Achieving Seamless Voice Integration with Amazon Polly and Salesforce"
+topic: System Integration
 leadhead: "Amazon Polly and Salesforce are two powerful technologies that when integrated, can create a seamless voice-enabled customer service experience"
 leadtext: "Their integration can help businesses enhance their customer service, automate their sales and marketing processes, improve internal communication, and deliver better training and educational programs. By using the right API or SDK, businesses of all sizes can leverage the benefits of this integration and take their voice-enabled customer service to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

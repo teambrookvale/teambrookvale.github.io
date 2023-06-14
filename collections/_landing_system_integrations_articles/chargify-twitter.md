@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/twitter
 author: Edward Saunders
 title: "Chargify and Twitter Integration | Benefits and Solutions"
+topic: System Integration
 leadhead: "Chargify and Twitter integration is an effective solution for businesses that want to streamline their subscription billing process and improve their communication with their customers"
 leadtext: "By using the power of these two platforms, businesses can automate their billing process, keep their customers informed, improve their marketing, and much more. The integration is easy to set up and can be customized to meet the specific needs of different businesses. If you run a subscription-based business, consider integrating Chargify and Twitter today and take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

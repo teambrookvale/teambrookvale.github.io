@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/servicenow
 author: Edward Saunders
 title: "Amazon DynamoDB and ServiceNow Integration"
+topic: System Integration
 leadhead: "Integrating Amazon DynamoDB and ServiceNow can bring many benefits to organizations"
 leadtext: "It enhances visibility, simplifies data management, and improves the scalability of the system. By using APIs or SDKs, organizations can easily integrate these two platforms and leverage their combined features to achieve better outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-sqs
 author: Edward Saunders
 title: "Amazon SNS and SQS Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and SQS provides a reliable, scalable, and efficient messaging solution for distributed systems"
 leadtext: "These services work together to provide an optimized way to handle messages, promote flexibility, improve event-driven architecture, and ensure the high availability of systems. By using these services together, developers can create a more fault-tolerant and responsive architecture while decreasing the time and resources needed for successful project implementation."
 image: /assets/images/articles/people-sitting-near-table.webp

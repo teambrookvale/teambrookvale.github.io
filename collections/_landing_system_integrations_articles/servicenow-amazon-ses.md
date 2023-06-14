@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/amazon-ses
 author: Edward Saunders
 title: "Integrating ServiceNow with Amazon SES"
+topic: System Integration
 leadhead: "Integrating ServiceNow with Amazon SES provides organizations with an efficient, scalable, and reliable communication channel"
 leadtext: "Organizations can leverage Amazon SES's advanced email sending capabilities within ServiceNow to streamline their communication processes and reduce the time and effort required for manual email creation and sending."
 image: /assets/images/articles/people-sitting-near-table.webp

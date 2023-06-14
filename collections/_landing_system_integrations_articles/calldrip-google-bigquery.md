@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/google-bigquery
 author: Edward Saunders
 title: "The Benefits of Integrating Calldrip and Google BigQuery"
+topic: System Integration
 leadhead: "Businesses of all sizes can benefit from integrating Calldrip and Google BigQuery"
 leadtext: "The integration allows businesses to gain insights into their sales performance, automate their data entry process, and make data-driven decisions. By leveraging the power of these two platforms, businesses can increase sales, improve customer satisfaction, and achieve their business goals."
 image: /assets/images/articles/people-sitting-near-table.webp

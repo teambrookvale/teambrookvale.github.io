@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/namely
 author: Edward Saunders
 title: "WHMCS & Namely Integration: Benefits & Features"
+topic: System Integration
 leadhead: "Integrating WHMCS and Namely is essential for businesses looking to grow and manage their operations more efficiently"
 leadtext: "The integration of the two platforms allows for the automation of tasks, streamlining business operations, and eliminating the need for manual labor. It simplifies HR management (which is usually complicated and time-consuming) and allows you to focus on growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

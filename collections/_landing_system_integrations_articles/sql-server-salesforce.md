@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/salesforce
 author: Edward Saunders
 title: "Integrating SQL Server and Salesforce | Blog Post"
+topic: System Integration
 leadhead: "The integration of SQL Server and Salesforce through API or SDK provides an opportunity to streamline business processes"
 leadtext: "The integration improves efficiency, accuracy, and reduces errors which ultimately lead to better decision-making processes. In today’s competitive world, having the right tools and information at your disposal can make all the difference. The integration of these technologies offers just that, making it a must-have solution for any organization that wants to remain competitive."
 image: /assets/images/articles/people-sitting-near-table.webp

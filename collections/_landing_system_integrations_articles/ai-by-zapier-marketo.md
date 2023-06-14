@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/marketo
 author: Edward Saunders
 title: "AI by Zapier - Integration with Marketo"
+topic: System Integration
 leadhead: "The integration of AI by Zapier with Marketo can work wonders for businesses"
 leadtext: "It can help automate repetitive tasks, personalize customer interactions, and streamline marketing automation processes. By taking advantage of Zapier's AI and Marketo's capabilities, businesses can elevate their customer experience and stay ahead of the competition."
 image: /assets/images/articles/people-sitting-near-table.webp

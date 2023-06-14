@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/calldrip
 author: Edward Saunders
 title: "PayPal and Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Calldrip is a powerful tool for businesses looking to automate their payment and lead response processes"
 leadtext: "By leveraging the functionalities of the two platforms, businesses can improve their customer experience and increase their sales and revenue. With real-time reporting and easy-to-use dashboards, businesses can easily track and manage their payments and leads, making it a valuable investment for any business."
 image: /assets/images/articles/people-sitting-near-table.webp

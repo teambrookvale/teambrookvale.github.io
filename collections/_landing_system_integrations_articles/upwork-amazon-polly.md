@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-polly
 author: Edward Saunders
 title: "Integrating Upwork and Amazon Polly"
+topic: System Integration
 leadhead: "Integrating Upwork and Amazon Polly can provide significant value to businesses and freelancers by leveraging the power of text-to-speech technology"
 leadtext: "As more companies prioritize accessibility and user experience, incorporating advanced audio capabilities can be a competitive advantage. Furthermore, Amazon Polly’s natural-sounding voices can add a human touch to digital content, enhancing engagement and differentiation. By utilizing APIs or SDKs, developers can seamlessly integrate these services and create more engaging and accessible applications."
 image: /assets/images/articles/people-sitting-near-table.webp

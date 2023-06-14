@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-s3
 author: Edward Saunders
 title: "Integrating Shopify with Amazon S3"
+topic: System Integration
 leadhead: "The integration of Shopify with Amazon S3 provides businesses with a scalable, cost-effective, and secure platform to store and retrieve their data"
 leadtext: "It helps businesses to handle high traffic on their online store and provide a better customer experience. Moreover, it also helps businesses to reduce their storage costs, making it an ideal choice for any business looking to set up an online store."
 image: /assets/images/articles/people-sitting-near-table.webp

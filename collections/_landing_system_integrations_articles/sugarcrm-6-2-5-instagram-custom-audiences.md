@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/instagram-custom-audiences
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "Integrating SugarCRM 6.2-5 and Instagram Custom Audiences is a powerful move for businesses looking to improve their marketing efforts, customer experience, and overall business efficiency"
 leadtext: "The integration allows for more targeted marketing, personalized customer interactions and deeper insights into customer behavior, all of which lead to increased revenue and customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

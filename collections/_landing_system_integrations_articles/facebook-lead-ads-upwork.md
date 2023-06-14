@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/upwork
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with Upwork: A game changer for businesses and freelancers"
+topic: System Integration
 leadhead: "Facebook Lead Ads and Upwork have proved to be popular and successful tools for businesses and freelancers"
 leadtext: "When integrated through API or SDK, these tools become more powerful and provide numerous benefits, managing their projects, generating leads and finding freelance talent. The integration streamlines leads management, optimizes results, saves time, and ultimately boosts the growth of businesses and career opportunities for freelancers. As such, businesses and freelancers need to leverage the integration of Facebook Lead Ads and Upwork to increase efficiency, grow their customer base and enable flexibility in managing their projects."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/facebook-custom-audiences
 author: Edward Saunders
 title: "Combining Expensify and Facebook Custom Audiences through API or SDK"
+topic: System Integration
 leadhead: "The integration of Expensify and Facebook Custom Audiences through API or SDK is a powerful tool for businesses looking to streamline their expense management and advertising efforts"
 leadtext: "The integration allows businesses to target their ads more strategically, leading to better ROI and a higher conversion rate. By utilizing data collected through Expensify, businesses can be more efficient and effective in their advertising campaigns while gaining valuable insight into their expenses."
 image: /assets/images/articles/people-sitting-near-table.webp

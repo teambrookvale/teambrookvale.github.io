@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/google-bigquery
 author: Edward Saunders
 title: "Integration of Facebook Custom Audiences and Google BigQuery"
+topic: System Integration
 leadhead: "Integrating Facebook Custom Audiences with Google BigQuery allows for a deep understanding of customer behavior and can help drive marketing strategy"
 leadtext: "With this integration, you can optimize your advertising campaigns, reduce costs, and improve ROI. By using the power of data, you can make informed decisions that improve efficiency, save time, and drive business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/aws-lambda
 author: Edward Saunders
 title: "Upwork and AWS Lambda Integration: A Solution for Modern Business Needs"
+topic: System Integration
 leadhead: "Upwork and AWS Lambda represent two of the most significant technological transformations of recent years"
 leadtext: "The integration of these platforms enables businesses to operate more efficiently, scale operations seamlessly, and connect with professionals from all over the world. In a world where remote work is becoming the norm, and cloud computing is increasingly necessary for success, the integration of Upwork and AWS Lambda is becoming a critical solution for modern business needs."
 image: /assets/images/articles/people-sitting-near-table.webp

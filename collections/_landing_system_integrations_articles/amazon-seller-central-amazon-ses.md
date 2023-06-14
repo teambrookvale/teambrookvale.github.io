@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/amazon-ses
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and Amazon SES"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Amazon SES is a powerful tool for businesses to streamline their email marketing efforts and engage customers more effectively"
 leadtext: "By combining these two platforms, sellers can automate their email communication with customers and provide them with a more personalized experience. This can ultimately lead to increased sales and more satisfied customers."
 image: /assets/images/articles/people-sitting-near-table.webp

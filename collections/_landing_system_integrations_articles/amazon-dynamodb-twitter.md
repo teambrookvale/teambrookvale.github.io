@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/twitter
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Twitter"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Twitter through API or SDK offers a powerful platform for storing and analyzing Twitter data"
 leadtext: "By leveraging these two technologies, developers can build high-performance applications that can handle large volumes of data and provide valuable insights into user trends and behavior. The scalability and flexibility of Amazon DynamoDB, coupled with the real-time capabilities of Twitter, make this integration a game-changer for many businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

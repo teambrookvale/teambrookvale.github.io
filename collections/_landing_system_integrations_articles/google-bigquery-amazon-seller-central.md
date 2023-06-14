@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/amazon-seller-central
 author: Edward Saunders
 title: "Integration of Google BigQuery and Amazon Seller Central"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Amazon Seller Central through the use of APIs or SDKs is a game-changer for Amazon sellers"
 leadtext: "It provides them with access to real-time data, insights, and analytics, which can help them make informed decisions and optimize their Amazon selling strategy. By leveraging the power of Google BigQuery, Amazon sellers can gain a competitive edge and grow their businesses on Amazon.com."
 image: /assets/images/articles/people-sitting-near-table.webp

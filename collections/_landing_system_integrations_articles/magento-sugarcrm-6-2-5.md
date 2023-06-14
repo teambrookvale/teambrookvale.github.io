@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Magento and SugarCRM 6.2-5 Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Magento and SugarCRM 6.2-5 is a smart move for businesses looking to improve their customer relationship management and streamline their sales process"
 leadtext: "Whether you choose to integrate the two platforms through an API or SDK, the benefits are clear. The integration provides businesses with a 360-degree view of the customer, improves customer service, and increases efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

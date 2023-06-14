@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/calldrip
 author: Edward Saunders
 title: "Integrating Amazon SQS and Calldrip | The Solution to Your Communication Woes"
+topic: System Integration
 leadhead: "If your business relies on timely communication with potential customers, integrating Amazon SQS and Calldrip through API or SDK is an essential step to take"
 leadtext: "This integration addresses communication challenges and provides a solid foundation for businesses to increase their conversion rates."
 image: /assets/images/articles/people-sitting-near-table.webp

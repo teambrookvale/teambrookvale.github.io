@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/goto-training
 author: Edward Saunders
 title: "Zoho CRM and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and GoTo Training is an excellent way for businesses to enhance their customer relationship management and training capabilities"
 leadtext: "By combining the power of these two software, businesses can streamline their processes, automate tasks, and improve their overall customer experience. With API or SDK integration, businesses can easily integrate the two systems and enjoy the benefits of a seamless workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

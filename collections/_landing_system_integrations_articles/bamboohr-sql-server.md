@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/sql-server
 author: Edward Saunders
 title: "The Benefits of Integrating BambooHR and SQL Server"
+topic: System Integration
 leadhead: "Integration of BambooHR and SQL Server is a powerful way to streamline HR processes and improve productivity"
 leadtext: "With an API or SDK, you can automate data transfer between systems, reduce manual data entry, improve data accuracy and consistency, and eliminate data duplication. This combination creates a powerful platform for HR management that is efficient, scalable, and cost-effective, leading to significant improvements in overall business performance."
 image: /assets/images/articles/people-sitting-near-table.webp

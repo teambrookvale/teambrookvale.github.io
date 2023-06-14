@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/namely
 author: Edward Saunders
 title: "Integration of Amazon SQS and Namely through API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Namely offers many benefits to organizations looking to automate and streamline their HR processes"
 leadtext: "The integration of these two systems can help HR managers make better decisions and create a more efficient workplace. By reducing manual entry and increasing data accuracy, companies can improve their bottom line while improving employee satisfaction and engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

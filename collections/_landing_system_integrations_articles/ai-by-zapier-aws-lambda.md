@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/aws-lambda
 author: Edward Saunders
 title: "The Power of Integrating AI by Zapier and AWS Lambda"
+topic: System Integration
 leadhead: "AI by Zapier and AWS Lambda are two powerful platforms that, when integrated, can help individuals and businesses alike achieve unprecedented levels of automation, efficiency, and productivity"
 leadtext: "With increasing demand for automation and AI capabilities, the integration of these two platforms has become more critical than ever. If you're looking to automate your workflows, increase efficiency, and reduce errors, integrating AI by Zapier and AWS Lambda is an excellent place to start."
 image: /assets/images/articles/people-sitting-near-table.webp

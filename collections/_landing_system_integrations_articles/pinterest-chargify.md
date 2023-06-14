@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/chargify
 author: Edward Saunders
 title: "Integrating Pinterest and Chargify through API/SDK"
+topic: System Integration
 leadhead: "Integrating Pinterest and Chargify through their API or SDK provides you with the tools to effectively manage your online business"
 leadtext: "By leveraging Pinterest for promotion and marketing, and Chargify for managing your billing and subscriptions, you can effectively grow your customer base and improve your revenue. So why not take advantage of this opportunity and start integrating these two platforms today!"
 image: /assets/images/articles/people-sitting-near-table.webp

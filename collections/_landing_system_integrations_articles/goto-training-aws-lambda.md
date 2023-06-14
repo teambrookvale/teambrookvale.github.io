@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/aws-lambda
 author: Edward Saunders
 title: "Integrating GoTo Training and AWS Lambda"
+topic: System Integration
 leadhead: "Integrating GoTo Training and AWS Lambda is an excellent solution for anyone looking to improve their training processes and create a more streamlined experience for their users"
 leadtext: "By automating tasks and gaining access to more detailed data, you can optimize your training programs and provide a better experience for your attendees."
 image: /assets/images/articles/people-sitting-near-table.webp

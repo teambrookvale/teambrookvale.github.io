@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of Google BigQuery and SugarCRM"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and SugarCRM is a smart move for any business looking to gain a complete view of their customer data"
 leadtext: "By combining powerful data analytics capabilities with a comprehensive customer relationship management software, businesses get a more accurate and detailed picture of their customers. This integration also helps organizations optimize their operations by providing insights that enable better decision-making."
 image: /assets/images/articles/people-sitting-near-table.webp

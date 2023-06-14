@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/magento-2-x
 author: Edward Saunders
 title: "SugarCRM and Magento Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating SugarCRM and Magento can improve your sales and e-commerce processes"
 leadtext: "With increased data accuracy and easier management of customer information, businesses can streamline their operations and make better-informed decisions. Whether using API or SDK integration method, businesses need to ensure that they work with experts who understand the two platforms' technicalities."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/quick-base
 author: Edward Saunders
 title: "Integrating Google Groups and Quick Base"
+topic: System Integration
 leadhead: "Google Groups and Quick Base are two powerful services that can be integrated to provide businesses with a more efficient workflow"
 leadtext: "The integration through API or SDK enables businesses to automate their workflow, reduce the risk of errors, collaborate more efficiently with clients and customers, and tailor their workflow to their unique needs. This integration is an excellent solution that can benefit businesses of all sizes and industries."
 image: /assets/images/articles/people-sitting-near-table.webp

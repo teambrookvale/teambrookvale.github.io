@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/ai-by-zapier
 author: Edward Saunders
 title: "Amazon DynamoDB and AI by Zapier Integration - A Solution to Your Problems"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and AI by Zapier offers several benefits and solves various problems"
 leadtext: "By combining the scalability and flexibility of Amazon DynamoDB with the automation and AI capabilities of Zapier, users can optimize their data management, streamline workflows, and enhance data security. Thus, the integration can be a valuable solution for businesses looking to improve their data processes and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

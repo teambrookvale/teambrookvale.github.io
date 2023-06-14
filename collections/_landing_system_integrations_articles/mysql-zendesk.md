@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/zendesk
 author: Edward Saunders
 title: "MySQL and Zendesk Integration"
+topic: System Integration
 leadhead: "Integrating MySQL and Zendesk can offer a significant improvement in customer support and productivity for businesses"
 leadtext: "By leveraging the power of APIs and SDKs, we can automate the exchange of data between the two platforms, saving time, and improving efficiency. It's a win-win for businesses and their customers alike!"
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/aws-lambda
 author: Edward Saunders
 title: "Amazon S3 and AWS Lambda Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and AWS Lambda through an API or SDK provides a scalable, efficient, and cost-effective way to develop cloud-based, data-intensive applications"
 leadtext: "By incorporating these two services into an application, developers can save time, reduce costs, and create more robust applications."
 image: /assets/images/articles/people-sitting-near-table.webp

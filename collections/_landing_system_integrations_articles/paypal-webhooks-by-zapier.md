@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating PayPal with Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of PayPal with Webhooks by Zapier is a great way to automate your business processes and save time and resources"
 leadtext: "With the integration, you can receive notifications about various events in your PayPal account and use these events to trigger actions in other platforms and apps. This can help you streamline your business and increase efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/amazon-ses
 author: Edward Saunders
 title: "Integration of Quick Base and Amazon SES"
+topic: System Integration
 leadhead: "The integration between Quick Base and Amazon SES can greatly enhance a
       company's communication process"
 leadtext: "By using a centralized platform, a company

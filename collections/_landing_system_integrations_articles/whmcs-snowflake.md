@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/snowflake
 author: Edward Saunders
 title: "WHMCS and Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of WHMCS and Snowflake offers a range of benefits to businesses"
 leadtext: "By leveraging the power of these two tools, businesses can streamline their processes, gain valuable insights into customer behavior, and make data-driven decisions. Overall, this integration is a powerful tool that can help businesses to grow and thrive in an increasingly data-driven world."
 image: /assets/images/articles/people-sitting-near-table.webp

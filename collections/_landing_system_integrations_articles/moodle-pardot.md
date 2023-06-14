@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/pardot
 author: Edward Saunders
 title: "The Integration of Moodle and Pardot: A Game-Changing Collaboration"
+topic: System Integration
 leadhead: "The integration of Moodle and Pardot is one of the best things to ever happen to the education and marketing industries"
 leadtext: "This collaboration has revolutionized how we educate our students and sell our products and services. The ability to collect, analyse and share data between these platforms through APIs has brought efficiency and effectiveness to the whole process."
 image: /assets/images/articles/people-sitting-near-table.webp

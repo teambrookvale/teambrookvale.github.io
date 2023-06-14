@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/snowflake
 author: Edward Saunders
 title: "Marketo and Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Snowflake through APIs or SDKs provides businesses with a powerful toolset for managing, analyzing, and using their customer data"
 leadtext: "By leveraging the power of both platforms, businesses can drive better insights, personalized marketing campaigns, and better outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

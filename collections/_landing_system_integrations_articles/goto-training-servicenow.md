@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/servicenow
 author: Edward Saunders
 title: "GoTo Training and ServiceNow - Integration through API or SDK"
+topic: System Integration
 leadhead: "Integrating GoTo Training with ServiceNow is a powerful combination that can add numerous benefits to your organization"
 leadtext: "It can help you automate processes, increase efficiency, and reduce workload, among other things. But most importantly, it can provide you with the tools and resources needed to stay competitive in the challenging business environment of today. So, if you are looking to streamline your ITSM practices and make them more adept, integrating these two platforms is a smart choice."
 image: /assets/images/articles/people-sitting-near-table.webp

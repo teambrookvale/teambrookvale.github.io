@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/greenhouse
 author: Edward Saunders
 title: "Salesforce and Greenhouse Integration"
+topic: System Integration
 leadhead: "Overall, integrating Salesforce and Greenhouse is an excellent way for businesses to streamline their recruitment process and improve the efficiency of their hiring strategies"
 leadtext: "By automating the flow of information and reducing the need for manual data entry, the integration can save time, reduce errors, and provide better candidate management."
 image: /assets/images/articles/people-sitting-near-table.webp

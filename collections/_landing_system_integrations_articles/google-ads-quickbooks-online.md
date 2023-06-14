@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/quickbooks-online
 author: Edward Saunders
 title: "Integrating Google Ads and QuickBooks Online through API or SDK - The Solution to Your Problems"
+topic: System Integration
 leadhead: "In conclusion, integrating Google Ads and QuickBooks through API or SDK is a strategic decision that will benefit any business"
 leadtext: "It increases productivity and enables businesses to make informed decisions. It simplifies operations, reduces manual entry, and eliminates the risk of errors and improves efficiency. If you haven't already integrated these two systems, it's time to consider the benefits and make this happen to take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/sugarcrm-7-
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and SugarCRM 7+"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and SugarCRM 7+ through API or SDK can provide organizations with significant benefits"
 leadtext: "By eliminating the need for manual data entry and streamlining sales and marketing processes, businesses can gain a more complete picture of their customers and improve their overall operations."
 image: /assets/images/articles/people-sitting-near-table.webp

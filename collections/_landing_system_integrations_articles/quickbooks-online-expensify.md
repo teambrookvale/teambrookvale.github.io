@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/expensify
 author: Edward Saunders
 title: "QuickBooks Online and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Expensify through their API or SDK is a powerful tool for businesses looking to streamline their expense reporting and accounting tasks"
 leadtext: "This integration saves time, reduces manual errors, and improves financial records accuracy. Businesses can focus on their core activities while allowing QuickBooks Online and Expensify to handle the administrative tasks efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

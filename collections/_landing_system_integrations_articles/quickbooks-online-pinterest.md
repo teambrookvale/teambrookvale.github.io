@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/pinterest
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Pinterest"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Pinterest through API or SDK can provide businesses with numerous benefits, such as automated pinning, improved customer engagement, and streamlined financial management"
 leadtext: "By using these two platforms together, businesses can enhance their performance and stay ahead of their competitors."
 image: /assets/images/articles/people-sitting-near-table.webp

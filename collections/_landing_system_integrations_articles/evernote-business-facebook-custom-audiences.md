@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/facebook-custom-audiences
 author: Edward Saunders
 title: "Integration of Evernote Business and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Facebook Custom Audiences is a powerful solution that enables businesses to make smarter decisions by providing valuable information on their audience's behavior and interests"
 leadtext: "With the ability to consolidate information in one place and improve collaboration amongst team members, businesses can develop more effective marketing campaigns and drive growth."
 image: /assets/images/articles/people-sitting-near-table.webp

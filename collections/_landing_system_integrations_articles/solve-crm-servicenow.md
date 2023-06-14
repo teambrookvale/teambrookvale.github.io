@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/servicenow
 author: Edward Saunders
 title: "The Benefits of Integrating Solve CRM and ServiceNow"
+topic: System Integration
 leadhead: "The integration of Solve CRM and ServiceNow can provide a range of benefits for businesses, including improved customer service, streamlined operations, and better IT service management"
 leadtext: "By leveraging the power of these two tools, businesses can gain a competitive edge in their industry and deliver better value to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/pinterest
 author: Edward Saunders
 title: "Improving eCommerce with BigCommerce and Pinterest Integration"
+topic: System Integration
 leadhead: "Overall, integrating BigCommerce with Pinterest through API or SDK provides an excellent opportunity for eCommerce merchants to improve their marketing and sales efforts"
 leadtext: "The integration allows businesses to reach new audiences and provide a seamless shopping experience for their customers. As such, it is a worthy investment for any online business looking to improve its eCommerce strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

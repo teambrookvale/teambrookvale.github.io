@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/upwork
 author: Edward Saunders
 title: "Calldrip and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Upwork is a win-win situation for businesses and freelancers"
 leadtext: "It streamlines communication processes, eliminates manual call routing, and provides a central platform for project management. This integration can be done through API or SDK and is easy to implement. We highly recommend businesses to take advantage of this integration and enjoy the benefits it has to offer."
 image: /assets/images/articles/people-sitting-near-table.webp

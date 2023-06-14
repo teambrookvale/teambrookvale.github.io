@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/calldrip
 author: Edward Saunders
 title: "Amazon SES and Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SES with Calldrip is a powerful tool for businesses looking to streamline their lead response and email campaigns"
 leadtext: "By using the Amazon SES API or SDK, businesses can automate their email campaigns and ensure that all leads receive a personalized email within minutes of filling out a form or submitting a request. This integration solves the problems of lead response time and effectively tracking the success of email campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

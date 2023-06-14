@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/salesforce
 author: Edward Saunders
 title: "How Amazon SQS and Salesforce Integration Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Salesforce can solve several business problems, including efficient communication between systems, increased agility and responsiveness, improved customer experience, and enhanced data security"
 leadtext: "Businesses should consider integrating these two systems to automate their processes, streamline their operations, and achieve their business objectives."
 image: /assets/images/articles/people-sitting-near-table.webp

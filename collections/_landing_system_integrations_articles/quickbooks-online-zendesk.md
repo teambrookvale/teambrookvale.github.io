@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/zendesk
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Zendesk"
+topic: System Integration
 leadhead: "The integration between QuickBooks Online and Zendesk through API or SDK can be incredibly beneficial for businesses"
 leadtext: "It streamlines communication between finance and customer support teams, saves time, and reduces the risk of errors. Overall, integrating QuickBooks Online and Zendesk can help businesses provide better customer service, which leads to higher customer satisfaction and retention."
 image: /assets/images/articles/people-sitting-near-table.webp

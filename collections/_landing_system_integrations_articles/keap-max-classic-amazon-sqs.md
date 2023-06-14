@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/amazon-sqs
 author: Edward Saunders
 title: "Integration of Keap Max Classic and Amazon SQS"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic with Amazon SQS is an excellent solution for businesses that are looking to scale and build a reliable and scalable messaging system"
 leadtext: "With the use of APIs or SDKs, businesses can connect the two systems seamlessly and enjoy the benefits of a robust messaging service."
 image: /assets/images/articles/people-sitting-near-table.webp

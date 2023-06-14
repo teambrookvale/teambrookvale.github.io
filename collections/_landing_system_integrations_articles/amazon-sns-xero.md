@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/xero
 author: Edward Saunders
 title: "Integrating Amazon SNS and Xero for Seamless Business Operations"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and Xero can be a great way to streamline your business operations and improve your accounting processes"
 leadtext: "By automating certain tasks and eliminating manual work, you can save time and reduce the risk of errors. With the help of the powerful combination of Amazon SNS and Xero, you can take your business to new heights!"
 image: /assets/images/articles/people-sitting-near-table.webp

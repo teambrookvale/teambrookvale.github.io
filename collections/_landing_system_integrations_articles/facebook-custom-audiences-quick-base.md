@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/quick-base
 author: Edward Saunders
 title: "Facebook Custom Audiences and Quick Base Integration"
+topic: System Integration
 leadhead: "Integrating Facebook Custom Audiences and Quick Base is a smart move for businesses looking to improve their marketing efforts"
 leadtext: "By using the information from Facebook to personalize content and offers, businesses can increase engagement and conversions. Additionally, Quick Base can provide deeper insights into customer behavior and preferences, which can be used to inform marketing strategies and tactics."
 image: /assets/images/articles/people-sitting-near-table.webp

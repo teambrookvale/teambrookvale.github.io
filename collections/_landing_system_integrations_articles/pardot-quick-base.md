@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/quick-base
 author: Edward Saunders
 title: "Pardot and Quick Base Integration"
+topic: System Integration
 leadhead: "Pardot and Quick Base integration is an excellent solution for businesses that want to automate their marketing and sales operations, improve collaboration between teams, and gain deeper insights into their buyer's journey"
 leadtext: "By leveraging the power of API and SDK, you can create custom apps that streamline your workflows, reducing manual work and minimizing errors. So what are you waiting for? Try Pardot and Quick Base integration today and unlock its full potential."
 image: /assets/images/articles/people-sitting-near-table.webp

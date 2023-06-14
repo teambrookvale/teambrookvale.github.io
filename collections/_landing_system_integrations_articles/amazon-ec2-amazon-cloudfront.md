@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Amazon CloudFront through API or SDK"
+topic: System Integration
 leadhead: "Amazon EC2 and Amazon CloudFront are powerful web services that provide businesses with scalable compute capacity and content delivery capabilities"
 leadtext: "By integrating these services through API or SDK, businesses can take advantage of their synergies to provide better content delivery performance, and increased security."
 image: /assets/images/articles/people-sitting-near-table.webp

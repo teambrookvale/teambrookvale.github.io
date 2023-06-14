@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/amazon-ec2
 author: Edward Saunders
 title: "Instagram Custom Audiences and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Amazon EC2 is a powerful tool for businesses of all sizes"
 leadtext: "This integration allows businesses to target their audiences with highly personalized ads on Instagram, while also reducing costs and improving efficiency with the use of Amazon EC2. This integration is becoming increasingly important for businesses in the digital age, and those who do not take advantage of it are likely to be left behind."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/goto-training
 author: Edward Saunders
 title: "Quick Base and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Quick Base and GoTo Training is a powerful tool that businesses can use to streamline their operations"
 leadtext: "It enables businesses to automate their training processes, save time and resources, and improve employee performance and productivity. By using this integration, businesses can achieve their objectives faster and more efficiently than ever before."
 image: /assets/images/articles/people-sitting-near-table.webp

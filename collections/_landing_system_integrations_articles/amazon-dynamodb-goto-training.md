@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/goto-training
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and GoToTraining"
+topic: System Integration
 leadhead: "Integrating Amazon DynamoDB and GoToTraining can provide several benefits for businesses and organizations"
 leadtext: "By using Amazon DynamoDB to store data about your training sessions and attendees, you can easily access it when you need it and use it to improve the effectiveness of your training sessions. With these tools, you can take your training sessions to the next level and ensure that your attendees get the most out of their experience."
 image: /assets/images/articles/people-sitting-near-table.webp

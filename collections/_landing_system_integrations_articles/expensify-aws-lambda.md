@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/aws-lambda
 author: Edward Saunders
 title: "Expensify and AWS Lambda Integration"
+topic: System Integration
 leadhead: "Integrating Expensify with AWS Lambda can help businesses improve the efficiency of their expense management process while reducing costs"
 leadtext: "Additionally, the integration allows for real-time analysis and processing of expense data, enabling businesses to make data-driven decisions and improve overall financial management."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/shopify
 author: Edward Saunders
 title: "Integration of Google Ads and Shopify through API/SDK"
+topic: System Integration
 leadhead: "The integration of Google Ads and Shopify through API/SDK is a game-changer for online businesses looking to increase their online presence and drive sales"
 leadtext: "By allowing businesses to streamline their online advertising efforts and track the effectiveness of their ads in real-time, the integration offers a range of benefits for businesses of all sizes. If you are an online business owner looking for ways to improve your online advertising efforts, consider integrating Google Ads and Shopify today."
 image: /assets/images/articles/people-sitting-near-table.webp

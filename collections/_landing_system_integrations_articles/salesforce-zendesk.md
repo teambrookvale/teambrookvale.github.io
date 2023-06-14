@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/zendesk
 author: Edward Saunders
 title: "Integration of Salesforce and Zendesk"
+topic: System Integration
 leadhead: "The integration of Salesforce and Zendesk through API or SDK provides businesses with a powerful tool to streamline their customer service processes and improve customer interactions"
 leadtext: "With the integration, businesses can provide personalized and efficient support, track customer interactions, and gain a complete view of the customer's journey. This integration is a game-changer for businesses looking to enhance their customer support processes."
 image: /assets/images/articles/people-sitting-near-table.webp

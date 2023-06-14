@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/facebook-lead-ads
 author: Edward Saunders
 title: "Instagram and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Instagram and Facebook lead ads through API or SDK provides businesses with a powerful marketing tool"
 leadtext: "By running lead ads on both platforms simultaneously, businesses can reach a wider audience and collect user data from a larger customer base. This integration also allows businesses to manage their campaigns more efficiently, saving time and resources while providing better results."
 image: /assets/images/articles/people-sitting-near-table.webp

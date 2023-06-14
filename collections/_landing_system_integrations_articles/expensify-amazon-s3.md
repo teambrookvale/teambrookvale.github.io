@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/amazon-s3
 author: Edward Saunders
 title: "Expensify and Amazon S3 Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Amazon S3 through API or SDK is beneficial for businesses and individuals who want to efficiently manage their financial data"
 leadtext: "With this integration, users can store and manage financial records securely and have easy access to them at all times. This integration solves problems related to accessibility, security, and storage space, making it a cost-effective and efficient solution for businesses and individuals."
 image: /assets/images/articles/people-sitting-near-table.webp

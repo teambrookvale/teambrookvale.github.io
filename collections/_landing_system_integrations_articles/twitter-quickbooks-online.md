@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/quickbooks-online
 author: Edward Saunders
 title: "Integrating Twitter and QuickBooks Online: A Game Changer for Businesses"
+topic: System Integration
 leadhead: "The integration of Twitter and QuickBooks Online is a game changer for businesses"
 leadtext: "By combining the power of social media and accounting software, businesses can gain valuable insights into their customer base and improve their financial management."
 image: /assets/images/articles/people-sitting-near-table.webp

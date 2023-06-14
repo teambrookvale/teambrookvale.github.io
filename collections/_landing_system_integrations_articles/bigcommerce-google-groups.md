@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/google-groups
 author: Edward Saunders
 title: "BigCommerce and Google Groups Integration"
+topic: System Integration
 leadhead: "Overall, the integration of BigCommerce and Google Groups is a powerful solution for businesses looking to streamline their ecommerce operation and improve their communication and collaboration"
 leadtext: "With the help of API or SDK, businesses can easily connect their online store with Google Groups, enabling them to achieve greater efficiency and productivity. If you are an ecommerce business owner looking to enhance your online store, consider integrating BigCommerce and Google Groups today."
 image: /assets/images/articles/people-sitting-near-table.webp

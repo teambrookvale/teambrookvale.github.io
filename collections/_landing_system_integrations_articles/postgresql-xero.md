@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/xero
 author: Edward Saunders
 title: "Integrating PostgreSQL and Xero for Effortless Accounting"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Xero can bring a wide array of benefits to businesses, including efficient financial management, improved cashflow, and better decision-making"
 leadtext: "Through the API or SDK, developers can easily build applications that use Xero's data and leverage PostgreSQL's powerful features. By streamlining their accounting processes, businesses can focus on growth and achieving their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

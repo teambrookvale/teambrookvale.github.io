@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-s3
 author: Edward Saunders
 title: "Integration of Solve CRM and Amazon S3"
+topic: System Integration
 leadhead: "The integration of Solve CRM and Amazon S3 is a valuable solution for businesses looking to optimize their CRM activities and data storage"
 leadtext: "It offers numerous benefits that help businesses streamline their operations, make informed decisions, and enhance customer interactions. By leveraging this integration, businesses can stay ahead in a competitive market, improve their customer engagement, and increase their revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/shopify
 author: Edward Saunders
 title: "Moodle and Shopify Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Shopify through API or SDK opens up many possibilities for educators and students alike"
 leadtext: "Educators can easily monetize their courses and manage them from a single platform, while students can have a seamless shopping and learning experience. With the right integration, Moodle and Shopify can work together to create a comprehensive e-learning and e-commerce system that benefits everyone involved."
 image: /assets/images/articles/people-sitting-near-table.webp

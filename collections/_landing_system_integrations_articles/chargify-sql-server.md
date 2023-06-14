@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/sql-server
 author: Edward Saunders
 title: "Chargify and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and SQL Server can help businesses to streamline their subscription billing process, improve their data management, and enhance their customer experience"
 leadtext: "By leveraging the powerful capabilities of these two systems, businesses can take their subscription billing processes to the next level, ensuring that they remain competitive in an increasingly crowded marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

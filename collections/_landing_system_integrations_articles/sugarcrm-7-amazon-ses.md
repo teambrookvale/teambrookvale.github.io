@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/amazon-ses
 author: Edward Saunders
 title: "SugarCRM 7+ and Amazon SES Integration"
+topic: System Integration
 leadhead: "SugarCRM 7+ and Amazon SES seamlessly integrate using API or SDK, resulting in a more efficient and targeted email marketing campaign"
 leadtext: "This integration helps businesses better manage their interactions with customers, and ultimately drive more sales. As a result, businesses can increase their customer satisfaction and loyalty by providing a more personalized and timely service."
 image: /assets/images/articles/people-sitting-near-table.webp

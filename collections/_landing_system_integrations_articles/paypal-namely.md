@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/namely
 author: Edward Saunders
 title: "Integration of PayPal and Namely"
+topic: System Integration
 leadhead: "The integration of PayPal and Namely is an excellent choice for businesses that want to simplify their HR and payment processes"
 leadtext: "With the integration, businesses can save time, reduce errors, improve employee satisfaction, and streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

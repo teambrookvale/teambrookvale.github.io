@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/ai-by-zapier
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and AI by Zapier"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and AI by Zapier can provide sellers with a powerful tool to automate tasks and optimize their business"
 leadtext: "With the ability to share data between the two platforms, sellers can have a more efficient and streamlined workflow, leading to increased sales and customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

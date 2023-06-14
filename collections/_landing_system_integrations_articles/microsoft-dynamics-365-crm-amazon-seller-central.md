@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-seller-central
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and Amazon Seller Central"
+topic: System Integration
 leadhead: "Businesses that use both Microsoft Dynamics 365 CRM and Amazon Seller Central platforms can
       maximize their benefits by integrating the two platforms"
 leadtext: "It provides a complete view of

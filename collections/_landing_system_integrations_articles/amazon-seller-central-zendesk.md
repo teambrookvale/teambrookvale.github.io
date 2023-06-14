@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/zendesk
 author: Edward Saunders
 title: "Amazon Seller Central and Zendesk Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Zendesk is a powerful tool that businesses can use to streamline their operations and provide better customer support"
 leadtext: "It allows businesses to view all necessary information in one place, reducing the likelihood of mistakes and increasing efficiency. If your business uses Amazon Seller Central and Zendesk, it is worth considering integrating them using API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

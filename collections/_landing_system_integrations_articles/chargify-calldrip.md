@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/calldrip
 author: Edward Saunders
 title: "Chargify and Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Calldrip provides businesses with a powerful way to manage their subscription billing and lead generation"
 leadtext: "It saves time, resources, and provides valuable insights into customer behavior. The API and SDK integration options make it easy for businesses to connect and automate the two platforms, resulting in a seamless and integrated service for customers."
 image: /assets/images/articles/people-sitting-near-table.webp

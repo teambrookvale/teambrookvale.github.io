@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/zoho-crm
 author: Edward Saunders
 title: "Integration of MySQL and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of MySQL and Zoho CRM is a powerful solution for businesses looking to streamline their customer data management and improve their sales and marketing processes"
 leadtext: "Whether you choose API or SDK integration, you can benefit from the efficiency, consistency, and accuracy of having your customer data in one place. If you are looking to integrate the two systems, be sure to consult with an experienced software developer who can help you choose the best approach and ensure a smooth integration process."
 image: /assets/images/articles/people-sitting-near-table.webp

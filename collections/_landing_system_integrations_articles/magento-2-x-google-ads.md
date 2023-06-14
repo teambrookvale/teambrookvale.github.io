@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/google-ads
 author: Edward Saunders
 title: "Magento 2.X and Google Ads Integration"
+topic: System Integration
 leadhead: "Integrating Magento 2.X and Google Ads is an excellent strategy for online businesses looking to improve the performance of their advertising campaigns and drive more sales"
 leadtext: "By automating campaigns and improving targeting, businesses can drive more traffic and conversions while reducing the workload required to manage ads manually."
 image: /assets/images/articles/people-sitting-near-table.webp

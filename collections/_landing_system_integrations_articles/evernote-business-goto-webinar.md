@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/goto-webinar
 author: Edward Saunders
 title: "Integrating Evernote Business and GoTo Webinar for Seamless Productivity"
+topic: System Integration
 leadhead: "The integration of Evernote Business and GoTo Webinar is an excellent example of how technology can help businesses seamlessly collaborate and be productive"
 leadtext: "By using these tools together, businesses can increase efficiency, streamline workflows, and ultimately achieve their productivity goals."
 image: /assets/images/articles/people-sitting-near-table.webp

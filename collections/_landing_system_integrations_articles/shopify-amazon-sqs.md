@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-sqs
 author: Edward Saunders
 title: "Integrating Shopify and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Shopify and Amazon SQS through API or SDK can provide various benefits, including scalability, reliability, and efficiency"
 leadtext: "Developers can implement event-driven architectures and offload processing from Shopify to Amazon SQS for better performance. As ecommerce continues to grow, the integration of these two platforms can be a valuable addition to businesses striving for success in the modern digital economy."
 image: /assets/images/articles/people-sitting-near-table.webp

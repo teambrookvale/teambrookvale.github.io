@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/sugarcrm-7-
 author: Edward Saunders
 title: "Integration of Pardot and SugarCRM 7+"
+topic: System Integration
 leadhead: "Integrating Pardot and SugarCRM 7+ can be a game-changer for businesses looking to streamline their sales and marketing processes"
 leadtext: "With seamless data transfer and automation, businesses can improve lead nurturing, maintain data accuracy, and gain deeper insights into their sales funnel and marketing ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

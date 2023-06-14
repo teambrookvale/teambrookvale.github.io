@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/shopify
 author: Edward Saunders
 title: "Pardot and Shopify: The Benefits of Integration"
+topic: System Integration
 leadhead: "Integrating Pardot and Shopify through their API or SDK can offer a range of benefits for businesses seeking to improve their e-commerce capabilities and marketing effectiveness"
 leadtext: "By automating data syncing and improving lead generation and sales visibility, businesses can not only save time and resources, but also improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

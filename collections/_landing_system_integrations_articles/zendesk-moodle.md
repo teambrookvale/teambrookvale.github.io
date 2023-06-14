@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/moodle
 author: Edward Saunders
 title: "Zendesk and Moodle Integration: A Perfect Match"
+topic: System Integration
 leadhead: "Integrating Zendesk and Moodle is a simple yet effective way for businesses to improve their customer support processes and provide a better experience for their students"
 leadtext: "By using Zendesk's API or SDK, businesses can create a seamless experience that allows both customers and educators to access information from both platforms in one place."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/instagram-custom-audiences
 author: Edward Saunders
 title: "Google BigQuery and Instagram Custom Audiences: A Power Combo"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Instagram Custom Audiences is an innovative and powerful way for businesses to analyze their data and use it for advertising purposes"
 leadtext: "This integration provides a cost-effective and efficient way to target audience to businesses. As businesses navigate through the digital landscape, they will need innovative technology solutions to analyze data and make informed decisions. The integration of Google BigQuery and Instagram Custom Audiences provides a powerful solution to this problem."
 image: /assets/images/articles/people-sitting-near-table.webp

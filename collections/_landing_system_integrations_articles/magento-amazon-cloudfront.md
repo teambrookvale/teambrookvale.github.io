@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of Magento with Amazon CloudFront"
+topic: System Integration
 leadhead: "Integrating Magento with Amazon CloudFront through API or SDK can help businesses improve their website's speed and reliability, reduce server costs, and enhance its security"
 leadtext: "CloudFront is a highly reliable CDN built on the AWS infrastructure, and integrating it with Magento can enable businesses to provide a better user experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

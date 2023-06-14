@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/ai-by-zapier
 author: Edward Saunders
 title: "Integration of Instagram Custom Audiences and AI by Zapier"
+topic: System Integration
 leadhead: "Integrating Instagram Custom Audiences and AI by Zapier can significantly boost businesses' social media marketing efforts"
 leadtext: "By automating advertising campaigns, improving customer data management, optimizing campaigns in real-time, and driving traffic and brand awareness, businesses can efficiently and effectively market their brands on Instagram. Therefore, it is optimal for businesses to explore and utilize this integration for their digital marketing advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

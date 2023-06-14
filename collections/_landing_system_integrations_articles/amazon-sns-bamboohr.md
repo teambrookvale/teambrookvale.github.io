@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/bamboohr
 author: Edward Saunders
 title: "Integration of Amazon SNS and BambooHR: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and BambooHR through API or SDK can offer significant benefits for businesses looking to streamline their HR functions"
 leadtext: "With automated notifications, businesses can reduce manual effort and improve communication, resulting in enhanced data accuracy and improved efficiency. In conclusion, integrating Amazon SNS and BambooHR is a sound decision for businesses looking to optimize their HR management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

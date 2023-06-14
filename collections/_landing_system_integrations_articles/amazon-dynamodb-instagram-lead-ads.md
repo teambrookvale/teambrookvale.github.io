@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/instagram-lead-ads
 author: Edward Saunders
 title: "Amazon DynamoDB and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Instagram Lead Ads can help businesses efficiently manage their leads data and improve their lead follow-up strategies"
 leadtext: "With real-time data syncing and a scalable and efficient database, businesses can focus on what matters most - converting leads into paying customers. Therefore, if you are a business owner looking to optimize your lead generation efforts, consider integrating Amazon DynamoDB and Instagram Lead Ads today."
 image: /assets/images/articles/people-sitting-near-table.webp

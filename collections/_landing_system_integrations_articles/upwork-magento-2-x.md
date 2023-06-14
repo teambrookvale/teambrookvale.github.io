@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/magento-2-x
 author: Edward Saunders
 title: "Upwork and Magento 2.X Integration"
+topic: System Integration
 leadhead: "Upwork and Magento 2.X are two powerful platforms that complement each other when integrated through API or SDK"
 leadtext: "This integration can help businesses find the right talent for their eCommerce projects and streamline their workflows. As a result, businesses can save time and money while improving overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

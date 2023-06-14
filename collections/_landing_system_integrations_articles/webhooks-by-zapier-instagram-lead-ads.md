@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/instagram-lead-ads
 author: Edward Saunders
 title: "Integration of Webhooks by Zapier with Instagram Lead Ads"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier with Instagram Lead Ads is a powerful tool for marketers looking to streamline their lead generation process and personalize their communications"
 leadtext: "By using the API or SDK, you can create a seamless workflow that saves time and reduces the risk of errors. Whether you're a small business or a large enterprise, this integration can help you optimize your marketing efforts and drive conversions."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/facebook-custom-audiences
 author: Edward Saunders
 title: "Why Facebook Lead Ads and Custom Audiences Integration is a Game Changer"
+topic: System Integration
 leadhead: "If you are looking to generate more leads and target the right audience on Facebook, integrating Facebook Lead Ads and Custom Audiences through API or SDK is a game changer"
 leadtext: "It can help you achieve better results, while also simplifying the process for both you and your potential customers. Make sure to consider this integration for your next Facebook advertising campaign."
 image: /assets/images/articles/people-sitting-near-table.webp

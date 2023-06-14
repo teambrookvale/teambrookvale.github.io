@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/aws-lambda
 author: Edward Saunders
 title: "Integrating PostgreSQL and AWS Lambda - Solutions and Benefits"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and AWS Lambda offers solutions and benefits for developers looking to handle large amounts of data without having to worry about scaling and downtime"
 leadtext: "By using an API or SDK, developers can easily access data stored in PostgreSQL databases and use AWS Lambda to process that data in a cost-effective and efficient way."
 image: /assets/images/articles/people-sitting-near-table.webp

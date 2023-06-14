@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/instagram-custom-audiences
 author: Edward Saunders
 title: "How Twitter and Instagram Integration through API/SDK Helps with Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Twitter and Instagram through API or SDK is a powerful tool for businesses looking to expand their reach and target specific audiences"
 leadtext: "By leveraging the two platforms, businesses can create Custom Audiences and enhance their social media marketing efforts. As social media continues to evolve, the integration of various platforms will become increasingly important for businesses to succeed in their marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

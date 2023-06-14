@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/instagram-custom-audiences
 author: Edward Saunders
 title: "Integration of Upwork and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Upwork and Instagram Custom Audiences is a great solution for businesses that want to maximize the benefits of both platforms"
 leadtext: "It offers a more streamlined process for managing projects and advertising products or services. Additionally, it allows businesses to reach a specific set of people that are more likely to engage with their content, resulting in better conversions and higher ROI. Overall, it's a win-win for businesses that are looking for more efficient and effective ways to market their offerings."
 image: /assets/images/articles/people-sitting-near-table.webp

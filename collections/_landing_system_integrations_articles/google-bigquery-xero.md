@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/xero
 author: Edward Saunders
 title: "Integration of Google BigQuery and Xero through API or SDK"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Xero through API or SDK is a valuable tool for businesses looking to streamline their financial processes and analyze data in real-time"
 leadtext: "With this integration, businesses can access and manipulate their financial data with ease, improving decision-making and saving time."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/servicenow
 author: Edward Saunders
 title: "Twitter and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of Twitter and ServiceNow through API or SDK brings many benefits to organizations, including improved customer satisfaction, streamlined processes, real-time monitoring, and better data analysis"
 leadtext: "This integration can help businesses to stay ahead of the competition and provide exceptional customer service. Therefore, if you are looking for a way to improve your customer service and streamline your processes, consider integrating Twitter and ServiceNow together."
 image: /assets/images/articles/people-sitting-near-table.webp

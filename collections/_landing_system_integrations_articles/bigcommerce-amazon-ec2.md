@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-ec2
 author: Edward Saunders
 title: "BigCommerce and Amazon EC2 Integration via API/SDK"
+topic: System Integration
 leadhead: "In conclusion, the integration of BigCommerce and Amazon EC2 via API/SDK can provide businesses with a range of benefits"
 leadtext: "It can enable businesses to manage their online store more efficiently, automate tasks, and gain valuable data insights. The use of API/SDK allows for seamless communication between the two platforms, making the integration process straightforward and accessible to businesses of all sizes. As such, if you are looking to improve the management of your online store, consider integrating BigCommerce with Amazon EC2 via API/SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

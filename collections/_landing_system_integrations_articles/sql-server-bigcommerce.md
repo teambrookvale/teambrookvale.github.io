@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/bigcommerce
 author: Edward Saunders
 title: "Integrating SQL Server with BigCommerce – Benefits and Advantages"
+topic: System Integration
 leadhead: "Integrating SQL Server with BigCommerce is a powerful solution for businesses looking to streamline their e-commerce operations"
 leadtext: "By centralizing data management, automating data transfer, and accessing advanced reporting and analytics, businesses can improve operational efficiency and gain a competitive advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/instagram-custom-audiences
 author: Edward Saunders
 title: "Integration of Amazon SNS and Instagram Custom Audiences - A Game Changer"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Instagram Custom Audiences is a game changer for digital marketers"
 leadtext: "By leveraging these tools, businesses can reach their target audience with relevant messages and promotions, improve brand awareness and engagement, and increase conversions. With their integration, you can now send targeted messages to your Instagram custom audience using Amazon SNS. This can help you to stay ahead of the competition and achieve your marketing goals."
 image: /assets/images/articles/people-sitting-near-table.webp

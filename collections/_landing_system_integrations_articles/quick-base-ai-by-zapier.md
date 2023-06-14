@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/ai-by-zapier
 author: Edward Saunders
 title: "Quick Base and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Quick Base and AI by Zapier enables businesses to improve their operations and streamline their workflows"
 leadtext: "It eliminates the need for coding knowledge and reduces the workload by automating repetitive tasks. With this integration, businesses can focus on their core operations and achieve their goals efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

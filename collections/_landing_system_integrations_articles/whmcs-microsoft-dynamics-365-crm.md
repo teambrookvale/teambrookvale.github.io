@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "WHMCS and Microsoft Dynamics 365 CRM Integration - Benefits and Solutions"
+topic: System Integration
 leadhead: "Integrating WHMCS and Dynamics 365 CRM can offer various benefits to businesses, including efficient data management, better customer experience, automated invoicing and billing, and improved sales process"
 leadtext: "The integration of these two powerful tools through API or SDK is simple, and businesses can get started quickly."
 image: /assets/images/articles/people-sitting-near-table.webp

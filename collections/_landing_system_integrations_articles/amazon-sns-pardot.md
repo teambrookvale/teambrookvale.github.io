@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/pardot
 author: Edward Saunders
 title: "Amazon SNS and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Pardot is a game-changer for businesses looking to streamline their marketing efforts, generate more leads, and improve their communication strategies"
 leadtext: "Whether you are a small business owner or a marketer working for a large corporation, integrating Amazon SNS and Pardot can help you achieve your marketing goals and drive revenue growth."
 image: /assets/images/articles/people-sitting-near-table.webp

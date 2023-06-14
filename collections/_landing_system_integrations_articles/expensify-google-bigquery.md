@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/google-bigquery
 author: Edward Saunders
 title: "Integrating Expensify and Google BigQuery for Better Business Insights"
+topic: System Integration
 leadhead: "The integration of Expensify and Google BigQuery is a powerful tool for businesses looking to streamline their expense management and gain better insights into their spending"
 leadtext: "By transferring data from Expensify to Google BigQuery, businesses can automate reporting, gain greater visibility, and make more informed decisions based on data analysis."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/paypal
 author: Edward Saunders
 title: "Solving CRM and PayPal Integration with API/SDK"
+topic: System Integration
 leadhead: "The integration of CRM and PayPal can help businesses streamline payment management processes and improve the overall customer experience"
 leadtext: "The integration process is typically achieved through using an API or SDK that links the two platforms. With increased payment accuracy, reduced manual labor and real-time tracking, businesses can improve their workflows and focus more on their core operations."
 image: /assets/images/articles/people-sitting-near-table.webp

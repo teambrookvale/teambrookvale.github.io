@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/facebook-lead-ads
 author: Edward Saunders
 title: "Microsoft Dynamics 365 CRM and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Facebook Lead Ads through API or SDK provides businesses with an efficient and effective way to manage leads and customer relationships"
 leadtext: "By eliminating manual data entry, businesses can save time and reduce errors while improving their sales team's efficiency. If you haven't already done so, consider integrating these two powerful tools today."
 image: /assets/images/articles/people-sitting-near-table.webp

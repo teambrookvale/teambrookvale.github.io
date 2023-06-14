@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/zendesk
 author: Edward Saunders
 title: "PayPal and Zendesk Integration - The Solution to Your E-commerce Support"
+topic: System Integration
 leadhead: "Integrating PayPal and Zendesk is a wise investment for any e-commerce business"
 leadtext: "By seamlessly connecting these two platforms, businesses can improve the efficiency of their support operations and enhance the customer experience. With an easy integration process and numerous benefits, it's clear that PayPal and Zendesk integration is the solution to your e-commerce support needs."
 image: /assets/images/articles/people-sitting-near-table.webp

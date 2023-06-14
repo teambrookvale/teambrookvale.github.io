@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/postgresql
 author: Edward Saunders
 title: "Integrating Amazon Polly with PostgreSQL"
+topic: System Integration
 leadhead: "Integrating Amazon Polly with PostgreSQL provides developers with a powerful toolset to build intelligent text-to-speech applications"
 leadtext: "The integration through API or SDK unlocks scalability and efficiency, while improving the user experience. Developers can leverage the power of these two technologies to build high-quality speech applications that are customer-centric and modern."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/magento-2-x
 author: Edward Saunders
 title: "Snowflake and Magento 2.X Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Magento 2.X provides retailers with a powerful tool for managing and analyzing e-commerce data"
 leadtext: "It offers numerous benefits, including real-time data, improved customer insights, and enhanced scalability. As online retail continues to grow, this integration will become increasingly important for retailers looking to stay competitive."
 image: /assets/images/articles/people-sitting-near-table.webp

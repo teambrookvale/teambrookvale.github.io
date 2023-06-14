@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/marketo
 author: Edward Saunders
 title: "How Integration of Twitter and Marketo through API Solves Problems"
+topic: System Integration
 leadhead: "Integrating Twitter and Marketo through API or SDK comes with several benefits"
 leadtext: "The integration enables businesses to monitor their Twitter engagement, manage their social media accounts, generate leads, and track their ROI. Businesses that use Marketo and Twitter should consider integrating the two to achieve their marketing goals more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

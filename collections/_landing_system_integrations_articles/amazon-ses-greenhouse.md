@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/greenhouse
 author: Edward Saunders
 title: "Amazon SES and Greenhouse Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SES and Greenhouse through API or SDK can provide significant benefits to businesses looking to streamline their communication with candidates and improve their hiring processes"
 leadtext: "By automating candidate communication, businesses can provide a better candidate experience while saving recruiters time and effort."
 image: /assets/images/articles/people-sitting-near-table.webp

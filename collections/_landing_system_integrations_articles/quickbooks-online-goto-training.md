@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/goto-training
 author: Edward Saunders
 title: "Integration of QuickBooks Online and GoTo Training"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and GoTo Training can help businesses to efficiently manage their training programs and improve their financial management processes"
 leadtext: "This integration provides a seamless flow of data, allowing businesses to analyze the impact of training on financial performance and measure its ROI. Overall, integration of these two platforms can help businesses to make more informed decisions and steer their business towards success."
 image: /assets/images/articles/people-sitting-near-table.webp

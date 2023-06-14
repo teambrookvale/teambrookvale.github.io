@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/shopify
 author: Edward Saunders
 title: "Microsoft Dynamics 365 CRM and Shopify Integration"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Shopify can provide numerous benefits to businesses, such as improved customer experience, efficient order management, and streamlined sales processes"
 leadtext: "By leveraging the power of API or SDK, businesses can synchronize data between the two systems and optimize their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/snowflake
 author: Edward Saunders
 title: "Facebook Custom Audiences and Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Snowflake is an amazing tool for businesses"
 leadtext: "It allows them to use the power of Snowflake's data warehousing and analytics capabilities to gain insights about their Facebook Custom Audiences. This integration also ensures that their ad campaigns are always targeting the right people. In short, businesses can take advantage of Snowflake's advanced data warehousing and analytics capabilities to create more effective Facebook ad campaigns and drive better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

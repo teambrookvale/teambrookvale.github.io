@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/google-groups
 author: Edward Saunders
 title: "Integrating Instagram Lead Ads and Google Groups"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Google Groups through an API or SDK is a powerful tool for businesses to generate leads and network"
 leadtext: "It streamlines the transfer of data and saves businesses time and effort. By using these two tools in combination, businesses can maximize their online presence and increase their revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

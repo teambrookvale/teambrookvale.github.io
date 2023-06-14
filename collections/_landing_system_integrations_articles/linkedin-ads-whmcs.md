@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/whmcs
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and WHMCS with API or SDK"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and WHMCS can provide businesses with many benefits, from automating tedious processes to streamlining workflows and increasing ROI"
 leadtext: "Whether you choose to integrate the two platforms through API or SDK, it's important to work with a developer or integrator who understands the specific needs of your business to ensure a successful integration."
 image: /assets/images/articles/people-sitting-near-table.webp

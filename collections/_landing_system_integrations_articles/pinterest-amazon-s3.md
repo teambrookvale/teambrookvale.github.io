@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/amazon-s3
 author: Edward Saunders
 title: "Integrating Pinterest with Amazon S3"
+topic: System Integration
 leadhead: "Integrating Pinterest with Amazon S3 can provide many benefits for individuals and businesses who want to store, manage, and share visual content online"
 leadtext: "It enables users to have a more streamlined workflow, improved collaboration and sharing, and increased storage capacity. Amazon S3's cost-effectiveness and reliability make it an ideal platform for storing and retrieving massive amounts of data."
 image: /assets/images/articles/people-sitting-near-table.webp

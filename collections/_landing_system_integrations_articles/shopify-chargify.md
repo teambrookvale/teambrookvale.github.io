@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/chargify
 author: Edward Saunders
 title: "Shopify and Chargify Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Chargify through API or SDK offers businesses a powerful toolset for managing their online store, subscriptions, and payments"
 leadtext: "By syncing customer data, products, orders, and billing information, businesses can reduce errors, streamline billing, and offer flexible pricing models to their customers. This integration can help businesses save time and money, improve customer experience, and unlock new revenue streams."
 image: /assets/images/articles/people-sitting-near-table.webp

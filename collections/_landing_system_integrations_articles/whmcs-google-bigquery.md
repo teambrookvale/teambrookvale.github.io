@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/google-bigquery
 author: Edward Saunders
 title: "WHMCS and Google BigQuery Integration: Problem Solver"
+topic: System Integration
 leadhead: "The integration of WHMCS and Google BigQuery through API or SDK can solve several problems faced by businesses"
 leadtext: "It allows for real-time data analysis, centralized data management, and personalized experiences for clients. More and more businesses are now adopting this integration to stay ahead of their competition and provide a better customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

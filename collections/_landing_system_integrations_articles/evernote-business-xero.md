@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/xero
 author: Edward Saunders
 title: "Integration of Evernote Business and Xero | Blog Post"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Xero can significantly improve the productivity of businesses by simplifying financial management, reducing manual data entry, and improving accuracy in financial reporting"
 leadtext: "As more and more businesses move towards automation, the integration of these powerful tools can play a vital role in streamlining financial processes and achieving business success."
 image: /assets/images/articles/people-sitting-near-table.webp

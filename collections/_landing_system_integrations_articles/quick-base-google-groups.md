@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/google-groups
 author: Edward Saunders
 title: "Integration of Quick Base and Google Groups"
+topic: System Integration
 leadhead: "Overall, the integration of Quick Base and Google Groups is a powerful way to improve team productivity and communication"
 leadtext: "By automating tasks related to data management and group creation, teams can focus on their work rather than wasting time on manual processes. If you're looking for a way to streamline your team's workflows and communication, consider integrating Quick Base and Google Groups."
 image: /assets/images/articles/people-sitting-near-table.webp

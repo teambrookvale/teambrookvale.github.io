@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/whmcs
 author: Edward Saunders
 title: "Integration of AWS Lambda and WHMCS"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and WHMCS can streamline many business processes and improve customer experience"
 leadtext: "With the availability of API and SDK, integrating the two is a simple process that can provide great benefits to your business."
 image: /assets/images/articles/people-sitting-near-table.webp

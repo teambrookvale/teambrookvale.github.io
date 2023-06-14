@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/bamboohr
 author: Edward Saunders
 title: "CRM and BambooHR Integration"
+topic: System Integration
 leadhead: "The integration of Solve CRM and BambooHR provides significant benefits to businesses, including better efficiency, accurate data, and improved customer interactions"
 leadtext: "It is essential to note that the integration process will vary depending on the business needs and goals."
 image: /assets/images/articles/people-sitting-near-table.webp

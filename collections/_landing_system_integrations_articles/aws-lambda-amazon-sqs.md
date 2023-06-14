@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/amazon-sqs
 author: Edward Saunders
 title: "Integrating AWS Lambda and Amazon SQS"
+topic: System Integration
 leadhead: "Integrating AWS Lambda and Amazon SQS can help you to develop scalable and reliable applications without having to worry about servers or infrastructure"
 leadtext: "By using Amazon SQS to buffer requests, you can decouple and scale your Lambda functions and ensure that they are only triggered when there are messages to process. This can help you to avoid throttling or errors due to high traffic or high volume of messages, and can help you to build more efficient and reliable applications."
 image: /assets/images/articles/people-sitting-near-table.webp

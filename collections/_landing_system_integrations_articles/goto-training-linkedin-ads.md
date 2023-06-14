@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/linkedin-ads
 author: Edward Saunders
 title: "How Integration of GoTo Training and LinkedIn Ads can Benefit Marketers"
+topic: System Integration
 leadhead: "Integrating GoTo Training with LinkedIn Ads is a smart move for marketers who desire to maximize their ad spend and drive more revenue"
 leadtext: "By harnessing the power of both tools, marketers can take their training and advertising efforts to the next level. It's time to take advantage of these powerful tools and integrate them for better results."
 image: /assets/images/articles/people-sitting-near-table.webp

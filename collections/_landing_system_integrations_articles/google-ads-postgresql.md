@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/postgresql
 author: Edward Saunders
 title: "Google Ads and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads and PostgreSQL offers businesses several valuable benefits"
 leadtext: "It enables a more efficient and effective advertising strategy, including improved data analysis and tracking capabilities. Overall, this integration presents a valuable opportunity for businesses to enhance their advertising operations and drive better results."
 image: /assets/images/articles/people-sitting-near-table.webp

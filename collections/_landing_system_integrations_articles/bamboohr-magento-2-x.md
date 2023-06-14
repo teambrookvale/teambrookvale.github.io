@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/magento-2-x
 author: Edward Saunders
 title: "Integrating BambooHR and Magento 2.X"
+topic: System Integration
 leadhead: "The integration of BambooHR and Magento 2.X is beneficial for businesses looking to streamline their HR and eCommerce operations"
 leadtext: "With the right integration, businesses can reduce data entry errors, improve employee management, and enhance the customer experience. The integration could be achieved through an API or SDK, and businesses should choose the one that suits their needs and requirements."
 image: /assets/images/articles/people-sitting-near-table.webp

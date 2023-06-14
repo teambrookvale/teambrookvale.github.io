@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/pinterest
 author: Edward Saunders
 title: "How Instagram Lead Ads and Pinterest Integration can help your Business"
+topic: System Integration
 leadhead: "Instagram Lead Ads and Pinterest are both powerful tools for businesses to enhance their marketing strategies"
 leadtext: "But when integrated through an API or SDK, they become even more powerful. This integration would solve several problems for businesses, including time and resource management, increased reach, and better measurement. With the integration, businesses will be able to reach a wider audience and generate leads more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

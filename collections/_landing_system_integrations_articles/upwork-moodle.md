@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/moodle
 author: Edward Saunders
 title: "Upwork and Moodle Integration"
+topic: System Integration
 leadhead: "Upwork and Moodle are two platforms that serve different purposes, but they can be seamlessly integrated through the use of APIs or SDKs"
 leadtext: "This integration can solve a number of problems for businesses and educators, including talent sourcing and administrative tasks. By streamlining workflows and automating certain tasks, businesses and educators can free up time and resources to focus on more important tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/snowflake
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and Snowflake"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Snowflake is a powerful combination that offers organizations a scalable, secure, and efficient solution for data storage and delivery"
 leadtext: "This integration can help organizations save time and money, and improve the overall user experience. With the power of Amazon CloudFront and Snowflake, organizations can improve their data analytics capabilities and make more informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/google-bigquery
 author: Edward Saunders
 title: "Integrating Marketo and Google BigQuery"
+topic: System Integration
 leadhead: "Integrating Marketo and Google BigQuery allows businesses to gain deeper insights into their marketing data"
 leadtext: "By eliminating manual processes and gaining real-time access to their data, businesses can make data-driven decisions that will drive growth and success. If you use Marketo, consider integrating it with Google BigQuery to unlock the true potential of your marketing data."
 image: /assets/images/articles/people-sitting-near-table.webp

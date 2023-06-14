@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/amazon-ses
 author: Edward Saunders
 title: "Integration of Xero and Amazon SES"
+topic: System Integration
 leadhead: "The integration of Xero and Amazon SES can have significant benefits for businesses"
 leadtext: "The integration saves time, improves efficiency, reduces costs, and enables businesses to send personalized emails to their customers. The integration can be achieved using API or SDK, allowing businesses to choose the integration method that best suits their needs."
 image: /assets/images/articles/people-sitting-near-table.webp

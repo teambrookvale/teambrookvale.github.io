@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/amazon-sqs
 author: Edward Saunders
 title: "Google BigQuery and Amazon SQS Integration"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Amazon SQS through API or SDK is a powerful solution for businesses that need to manage and analyze large volumes of data"
 leadtext: "
       This integration solves several problems that businesses may face, including the need to process data quickly, handle large volumes of data, and gain a unified 

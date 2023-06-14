@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/expensify
 author: Edward Saunders
 title: "Integrating Amazon EC2 and Expensify"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and Expensify through API or SDK can help businesses to automate their expense management process, reduce errors, and optimize their expenses"
 leadtext: "This integration can help businesses to streamline their approval process and make it more efficient. By doing so, businesses can focus on their core operations, rather than spending time and resources on managing their expenses manually."
 image: /assets/images/articles/people-sitting-near-table.webp

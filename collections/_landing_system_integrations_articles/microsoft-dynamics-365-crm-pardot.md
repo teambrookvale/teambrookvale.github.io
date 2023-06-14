@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/pardot
 author: Edward Saunders
 title: "Maximizing Customer Relationship Management with Microsoft Dynamics 365 and Pardot"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Pardot provides businesses with a powerful tool for enhancing their customer relationship management and marketing automation capabilities"
 leadtext: "By eliminating data silos, streamlining sales processes, and providing more targeted and personalized campaigns, businesses can improve their ROI and gain a competitive advantage in today's marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

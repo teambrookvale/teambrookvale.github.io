@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/chargify
 author: Edward Saunders
 title: "The Benefits of Integrating BigCommerce and Chargify"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Chargify is a game-changer for ecommerce businesses that offer subscription-based products or services"
 leadtext: "By combining the power of these two platforms, businesses can streamline their billing, customer management, inventory management, and data synchronization, giving them more time to focus on growing their business. If you're an ecommerce business owner, it's worth considering integrating BigCommerce and Chargify to take advantage of these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

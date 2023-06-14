@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/bamboohr
 author: Edward Saunders
 title: "Google Ads and BambooHR Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Google Ads and BambooHR can provide many benefits to businesses"
 leadtext: "By combining the power of advertising with HR data, businesses can create more targeted campaigns that drive better results. Whether you're a small business or a large corporation, this integration can help you optimize your advertising efforts and improve your overall business operations."
 image: /assets/images/articles/people-sitting-near-table.webp

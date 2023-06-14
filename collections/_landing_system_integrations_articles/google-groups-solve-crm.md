@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/solve-crm
 author: Edward Saunders
 title: "Google Groups and Solve CRM Integration"
+topic: System Integration
 leadhead: "Integrating Google Groups and Solve CRM can be a game-changer for businesses looking to streamline their communication and customer relationship management processes"
 leadtext: "By leveraging the power of both platforms through an API or SDK, businesses can improve their collaboration, productivity, and customer satisfaction. If you're interested in integrating Google Groups and Solve CRM, consult with your IT team or contact a software developer for assistance."
 image: /assets/images/articles/people-sitting-near-table.webp

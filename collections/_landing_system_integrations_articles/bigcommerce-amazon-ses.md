@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-ses
 author: Edward Saunders
 title: "BigCommerce Integration with Amazon SES: The Ultimate Solution"
+topic: System Integration
 leadhead: "Integrating BigCommerce with Amazon SES through API or SDK is a powerful solution that benefits businesses and their customers"
 leadtext: "It allows businesses to send targeted emails and automate their email campaigns, saving time and effort while providing personalized communication with customers. With tracking and delivery status, businesses can evaluate the effectiveness of their email campaigns and make changes that boost their ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

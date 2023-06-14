@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/magento
 author: Edward Saunders
 title: "Integrating Zendesk and Magento: A Powerful Solution for E-Commerce"
+topic: System Integration
 leadhead: "The integration of Zendesk and Magento is a powerful solution for e-commerce businesses looking to improve customer support and streamline their workflows"
 leadtext: "By syncing customer data, order information, and support tickets, businesses can provide personalized and efficient support that leads to better customer satisfaction. The benefits of the integration extend beyond customer support, with insights from Zendesk being used to improve the overall e-commerce experience. If you're looking to take your e-commerce operations to the next level, consider integrating Zendesk and Magento."
 image: /assets/images/articles/people-sitting-near-table.webp

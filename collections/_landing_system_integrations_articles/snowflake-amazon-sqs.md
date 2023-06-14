@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/amazon-sqs
 author: Edward Saunders
 title: "Integration of Snowflake and Amazon SQS through API or SDK"
+topic: System Integration
 leadhead: "Integrating Snowflake and Amazon SQS can offer a lot of benefits for businesses in terms of faster data processing, improved data security, and easier data movement between systems"
 leadtext: "You can achieve this integration through API or SDK and make use of Amazon SQS's message queue to achieve decoupling and improve system scalability. This integration can offer a lot of value to businesses looking to derive insights from their data quickly and securely."
 image: /assets/images/articles/people-sitting-near-table.webp

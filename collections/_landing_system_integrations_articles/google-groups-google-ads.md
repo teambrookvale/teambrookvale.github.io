@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/google-ads
 author: Edward Saunders
 title: "How to integrate Google Groups and Google Ads using API or SDK"
+topic: System Integration
 leadhead: "Integrating Google Groups and Google Ads can be a powerful tool for businesses to reach their target audience and drive traffic to their websites"
 leadtext: "By using API or SDK, businesses can easily manage their advertising campaigns directly from their Google Group, streamlining communication and collaboration between team members while improving speed and efficiency in ad creation and management."
 image: /assets/images/articles/people-sitting-near-table.webp

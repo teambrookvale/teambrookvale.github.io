@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/amazon-s3
 author: Edward Saunders
 title: "Amazon CloudWatch & Amazon S3 Integration"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch with Amazon S3 can provide a wealth of benefits for AWS users, from increased visibility into their infrastructure to improved automation and management capabilities"
 leadtext: "By leveraging the power of these two services together through API or SDK, you can detect and resolve issues faster, secure and optimize your data storage, and gain insights that can help you improve the performance and efficiency of your application."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/xero
 author: Edward Saunders
 title: "Integrating Amazon SQS and Xero - A Powerful Business Solution"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Xero through the use of API or SDK can offer significant benefits to businesses looking to streamline their operations and improve efficiency while reducing errors"
 leadtext: "By automating tasks and workflows, businesses can focus on growth, achieve better outcomes and drive success."
 image: /assets/images/articles/people-sitting-near-table.webp

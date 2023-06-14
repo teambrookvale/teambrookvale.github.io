@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/google-groups
 author: Edward Saunders
 title: "Integrating Moodle and Google Groups"
+topic: System Integration
 leadhead: "Integrating Moodle and Google Groups through APIs or SDKs offers a range of benefits for educators and learners alike"
 leadtext: "From a unified user experience to centralized administration and enhanced collaboration, the integration solves many problems that existed before. It's no wonder that so many educational institutions and organizations are adopting this integration, and it's likely that the trend will continue in the years to come."
 image: /assets/images/articles/people-sitting-near-table.webp

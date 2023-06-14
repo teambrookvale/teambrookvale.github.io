@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/ai-by-zapier
 author: Edward Saunders
 title: "Integrating Google BigQuery and AI by Zapier"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and AI by Zapier is a powerful tool for automating data processing and analysis"
 leadtext: "By combining the power of these two platforms, you can save time, streamline your business operations, and gain valuable insights into your data."
 image: /assets/images/articles/people-sitting-near-table.webp

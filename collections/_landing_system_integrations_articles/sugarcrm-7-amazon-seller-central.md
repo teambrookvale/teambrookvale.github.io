@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/amazon-seller-central
 author: Edward Saunders
 title: "SugarCRM 7+ and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "Businesses that integrate SugarCRM 7+ and Amazon Seller Central can gain a competitive advantage by leveraging the power of both applications"
 leadtext: "Through real-time tracking of customer behavior and sales performance, businesses can make informed decisions that drive growth and profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

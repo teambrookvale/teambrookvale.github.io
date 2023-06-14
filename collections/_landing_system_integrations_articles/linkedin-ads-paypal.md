@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/paypal
 author: Edward Saunders
 title: "LinkedIn Ads and PayPal Integration"
+topic: System Integration
 leadhead: "By integrating LinkedIn Ads and PayPal, you can streamline your online marketing and payment processes, resulting in a more efficient and profitable business"
 leadtext: "Make sure to explore the available APIs and SDKs to find the integration solution that best fits your needs."
 image: /assets/images/articles/people-sitting-near-table.webp

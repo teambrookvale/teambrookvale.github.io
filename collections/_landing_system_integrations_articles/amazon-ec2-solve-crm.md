@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/solve-crm
 author: Edward Saunders
 title: "Amazon EC2 and Solve CRM Integration"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and Solve CRM is an excellent way to streamline your business workflows, reduce manual data entry, and drive sales"
 leadtext: "It's essential to evaluate your business needs and objectives before deciding on the best integration approach for your organization. Still, with the powerful API and SDK offered by Amazon and Solve CRM, you can automate and enhance your business processes easily."
 image: /assets/images/articles/people-sitting-near-table.webp

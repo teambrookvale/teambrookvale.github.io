@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/amazon-s3
 author: Edward Saunders
 title: "AI by Zapier and Amazon S3 Integration"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Amazon S3 is a game-changer for businesses and individuals alike"
 leadtext: "It enables efficient and automated file management and intelligent file processing. With the ease of use and flexibility of API or SDK, users can easily connect to their Amazon S3 storage and automate tasks to streamline their workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

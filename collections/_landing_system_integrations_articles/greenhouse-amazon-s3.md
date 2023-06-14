@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-s3
 author: Edward Saunders
 title: "Greenhouse and Amazon S3 Integration"
+topic: System Integration
 leadhead: "Integrating Amazon S3 with your greenhouse system is an excellent solution for managing and analyzing your data"
 leadtext: "By automating the data storage process, you save time and effort, while gaining greater accessibility and scalability. Whether you use an API or SDK, Amazon S3 makes it easy to integrate with your system and streamline your data management."
 image: /assets/images/articles/people-sitting-near-table.webp

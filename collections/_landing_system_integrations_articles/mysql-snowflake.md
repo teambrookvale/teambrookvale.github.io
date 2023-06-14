@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/snowflake
 author: Edward Saunders
 title: "Integrating MySQL and Snowflake through API/SDK"
+topic: System Integration
 leadhead: "Integrating MySQL and Snowflake through API/SDK can provide a lot of benefits for businesses"
 leadtext: "It can help businesses keep their costs low, manage data more efficiently, and enable real-time data synchronization. Integration of MySQL with Snowflake can also be used to analyze massive amounts of data, paving the way for businesses to make smarter and more informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/bigcommerce
 author: Edward Saunders
 title: "AWS Lambda and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and BigCommerce is an ideal solution for businesses looking to streamline their eCommerce operations"
 leadtext: "By automating tasks and processes, you can focus on growing your business and providing a better experience for your customers."
 image: /assets/images/articles/people-sitting-near-table.webp

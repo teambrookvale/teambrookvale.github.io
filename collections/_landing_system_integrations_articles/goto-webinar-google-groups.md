@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/google-groups
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Google Groups"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Google Groups can improve the online event experience for organizers and attendees"
 leadtext: "The seamless transfer of data, automated communication, and easy sharing of links create a more collaborative, efficient, and interactive environment. With this integration, users can focus on delivering high-quality content, creating engaging sessions, and building better relationships with their audiences."
 image: /assets/images/articles/people-sitting-near-table.webp

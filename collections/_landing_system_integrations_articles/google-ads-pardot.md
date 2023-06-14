@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/pardot
 author: Edward Saunders
 title: "Benefits of Integrating Google Ads and Pardot"
+topic: System Integration
 leadhead: "The integration of Google Ads and Pardot offers a powerful marketing tool for businesses focused on lead generation and conversion"
 leadtext: "By applying data insights from Google Ads campaigns to automate and personalize email and social advertising, businesses can drive more leads, better targeting and optimized performance for ads."
 image: /assets/images/articles/people-sitting-near-table.webp

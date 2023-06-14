@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/pardot
 author: Edward Saunders
 title: "Instagram Custom Audiences and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Pardot is a powerful tool for marketers looking to increase their reach and visibility on Instagram"
 leadtext: "By using targeted audiences and automating marketing tasks, this integration can help to streamline campaigns and increase the ROI of marketing efforts. The use of an API or SDK makes it easy and convenient to integrate the two platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

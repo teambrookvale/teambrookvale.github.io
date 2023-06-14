@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/webhooks-by-zapier
 author: Edward Saunders
 title: "Amazon CloudFront and Webhooks by Zapier: The Perfect Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Webhooks by Zapier is a powerful combination that can solve a lot of common problems"
 leadtext: "By leveraging the speed and reliability of CloudFront and the automation capabilities of Webhooks by Zapier, you can build robust and efficient content delivery workflows that will improve the performance and security of your applications and APIs."
 image: /assets/images/articles/people-sitting-near-table.webp

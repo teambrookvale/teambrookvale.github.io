@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/zendesk
 author: Edward Saunders
 title: "Upwork and Zendesk Integration"
+topic: System Integration
 leadhead: "Integrating Upwork and Zendesk through their APIs or SDKs is an efficient way for businesses to streamline their customer support processes"
 leadtext: "This integration helps businesses improve their customer support experience by assigning tickets to freelancers with the necessary skills and expertise. Additionally, businesses can save time and resources by not having to switch between different platforms to manage support tasks. Therefore, businesses looking to improve their customer support processes should consider integrating Upwork and Zendesk."
 image: /assets/images/articles/people-sitting-near-table.webp

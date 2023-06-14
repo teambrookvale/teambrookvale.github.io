@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/amazon-ses
 author: Edward Saunders
 title: "Keap Max Classic and Amazon SES Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Keap Max Classic and Amazon SES is a powerful combination that enables businesses to improve their customer engagement, deliverability, and efficiency"
 leadtext: "By leveraging the strengths of both platforms, businesses can create personalized and targeted email campaigns that drive sales and revenue. So if you're looking to take your email marketing to the next level, consider integrating Keap Max Classic and Amazon SES."
 image: /assets/images/articles/people-sitting-near-table.webp

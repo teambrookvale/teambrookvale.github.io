@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/aws-lambda
 author: Edward Saunders
 title: "Integrating Zendesk with AWS Lambda"
+topic: System Integration
 leadhead: "Integration of Zendesk with AWS Lambda can be a powerful tool that increases efficiency, automates tasks, and enhances customer experiences"
 leadtext: "By leveraging data obtained from the Zendesk platform, businesses can build custom workflows to provide solutions using AWS Lambda. Integration through the Zendesk API or AWS SDK offers a flexible, scalable solution to meet the needs of businesses of any size."
 image: /assets/images/articles/people-sitting-near-table.webp

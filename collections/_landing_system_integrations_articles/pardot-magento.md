@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/magento
 author: Edward Saunders
 title: "Integrating Pardot and Magento through API/SDK"
+topic: System Integration
 leadhead: "Integrating Pardot and Magento through API/SDK can be extremely beneficial for businesses"
 leadtext: "It enables them to streamline their marketing and sales processes, automate their workflows, and gain deeper insights into their customers' behavior and preferences. Therefore, businesses looking to improve their marketing and sales processes should consider integrating Pardot and Magento through API/SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

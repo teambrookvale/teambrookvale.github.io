@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/namely
 author: Edward Saunders
 title: "Upwork and Namely Integration"
+topic: System Integration
 leadhead: "The integration between Upwork and Namely is a game-changer for businesses looking for a more efficient way to manage HR operations"
 leadtext: "With features such as automated payroll processing, improved visibility, and real-time tracking of employee data, businesses can streamline their HR operations and focus on growth. The use of APIs or SDKs makes the integration process seamless, providing a better experience for both businesses and employees."
 image: /assets/images/articles/people-sitting-near-table.webp

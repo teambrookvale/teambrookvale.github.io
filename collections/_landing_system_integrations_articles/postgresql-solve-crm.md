@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/solve-crm
 author: Edward Saunders
 title: "Integrating PostgreSQL and Solve CRM"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Solve CRM can provide businesses with a powerful and scalable solution for managing their customer data and improving their sales and customer experience"
 leadtext: "By using the API or SDK provided by each platform, developers can create customized and automated workflows that can save time, reduce errors, and improve overall efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

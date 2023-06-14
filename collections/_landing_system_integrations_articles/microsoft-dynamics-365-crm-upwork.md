@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/upwork
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM with Upwork"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM with Upwork is a smart move for businesses that want to streamline their processes and manage their projects more efficiently"
 leadtext: "Whether it's API integration or SDK integration, the benefits of integration are numerous, including better project management, improved customer relationships, and more efficient workflows."
 image: /assets/images/articles/people-sitting-near-table.webp

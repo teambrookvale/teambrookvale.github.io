@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/amazon-s3
 author: Edward Saunders
 title: "Integrating Google BigQuery and Amazon S3"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Amazon S3 through API or SDK allows for a streamlined and cost-effective data management process"
 leadtext: "This integration helps businesses save time and reduce costs by eliminating the need for duplicate data storage and management. By implementing this integration, businesses can focus on analyzing data and gaining valuable insights rather than worrying about data management."
 image: /assets/images/articles/people-sitting-near-table.webp

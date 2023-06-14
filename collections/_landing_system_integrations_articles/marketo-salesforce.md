@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/salesforce
 author: Edward Saunders
 title: "Marketo and Salesforce Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Salesforce is a powerful tool for businesses looking to streamline sales and marketing operations"
 leadtext: "With the ability to automate workflows and share data seamlessly, this integration helps reduce errors and increase success rates. If you're a business looking to take your sales and marketing efforts to the next level, integrating Marketo and Salesforce should be at the top of your to-do list."
 image: /assets/images/articles/people-sitting-near-table.webp

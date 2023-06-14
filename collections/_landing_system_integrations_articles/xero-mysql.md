@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/mysql
 author: Edward Saunders
 title: "Integrating Xero and MySQL for Streamlined Data Management"
+topic: System Integration
 leadhead: "Integrating Xero and MySQL can help businesses automate their data management processes, reduce errors, and gain valuable insights into their financial performance"
 leadtext: "By utilizing Xero’s APIs and SDKs, developers can easily integrate the two systems without the need for manual data entry or duplicate data entry. Overall, integrating Xero and MySQL can help businesses save time, reduce errors, and improve efficiency, ultimately leading to improved financial performance."
 image: /assets/images/articles/people-sitting-near-table.webp

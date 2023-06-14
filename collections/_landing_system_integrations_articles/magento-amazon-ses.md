@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-ses
 author: Edward Saunders
 title: "Integrating Magento and Amazon SES"
+topic: System Integration
 leadhead: "The integration of Magento and Amazon SES through API or SDK provides businesses with a powerful email solution that can improve customer engagement and optimize marketing efforts"
 leadtext: "By ensuring reliable email delivery and providing valuable insights into email performance, businesses can enhance their online presence and increase revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

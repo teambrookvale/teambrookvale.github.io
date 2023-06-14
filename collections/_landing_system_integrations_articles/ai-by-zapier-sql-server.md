@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/sql-server
 author: Edward Saunders
 title: "Integrating AI by Zapier with SQL Server through API or SDK: A Solution to Your Problems"
+topic: System Integration
 leadhead: "Integrating AI by Zapier with SQL Server through API or SDK is a powerful solution that solves various business problems"
 leadtext: "From automating repetitive tasks to real-time data synchronization, their integration ensures that crucial data is available to stakeholders in real-time, driving better decision-making."
 image: /assets/images/articles/people-sitting-near-table.webp

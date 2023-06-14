@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/servicenow
 author: Edward Saunders
 title: "Expensify and ServiceNow Integration"
+topic: System Integration
 leadhead: "Expensify and ServiceNow can work together to streamline expense management and IT service management processes"
 leadtext: "Their integration through API or SDK can transform the way companies manage expenses, making it faster, more efficient, and more compliant. In a modern, fast-paced business environment, such integration can significantly reduce workloads, errors, and costs, freeing up resources and allowing businesses to focus on more critical tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

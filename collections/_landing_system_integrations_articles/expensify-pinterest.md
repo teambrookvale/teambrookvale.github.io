@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/pinterest
 author: Edward Saunders
 title: "Expensify and Pinterest Integration: The Benefits"
+topic: System Integration
 leadhead: "The integration between Expensify and Pinterest is a significant productivity enhancement for businesses"
 leadtext: "It allows for seamless tracking of expenses across all platforms, reducing redundancy and errors. This integration saves time, money, and simplifies the expense reporting process. In conclusion, the integration between the two platforms is a no-brainer for businesses looking to streamline their finances and operate more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

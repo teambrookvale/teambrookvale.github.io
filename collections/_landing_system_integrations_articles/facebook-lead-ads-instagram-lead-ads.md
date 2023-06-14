@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/instagram-lead-ads
 author: Edward Saunders
 title: "Facebook and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Facebook and Instagram Lead Ads has streamlined the lead generation process for businesses"
 leadtext: "By creating a single lead ad, businesses can reach a larger potential audience while capturing leads from both Facebook and Instagram. This integration has also solved several problems, making lead generation more effective and efficient. As social media becomes an increasingly important part of a business's marketing strategy, it is important to take advantage of such integration and make the most of lead generation opportunities."
 image: /assets/images/articles/people-sitting-near-table.webp

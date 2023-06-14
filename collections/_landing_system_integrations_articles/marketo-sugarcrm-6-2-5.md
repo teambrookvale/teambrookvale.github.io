@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Marketo and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of Marketo and SugarCRM 6.2-5 is a powerful solution for businesses to streamline their marketing and sales processes, and gain a more complete view of their customers and prospects"
 leadtext: "By eliminating data silos, automating lead management, and improving lead quality, businesses can improve their marketing ROI and increase sales efficiency, ultimately leading to higher revenue and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

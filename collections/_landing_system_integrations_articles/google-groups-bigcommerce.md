@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/bigcommerce
 author: Edward Saunders
 title: "Integration of Google Groups and BigCommerce"
+topic: System Integration
 leadhead: "The integration of Google Groups and BigCommerce is beneficial to businesses of all sizes"
 leadtext: "It streamlines customer support and communication, improves data management, and enhances the shopping experience for customers. Business owners should consider integrating these two platforms to enhance efficiency and customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

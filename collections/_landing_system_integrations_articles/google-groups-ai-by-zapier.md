@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/ai-by-zapier
 author: Edward Saunders
 title: "Integrating Google Groups and AI by Zapier"
+topic: System Integration
 leadhead: "Integrating Google Groups and AI by Zapier can help you streamline workflows, improve collaboration, and gain better insights"
 leadtext: "By using API or SDK, you can automate some of the more mundane tasks associated with managing your Google Groups, allowing you to focus on more strategic tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/keap-max-classic
 author: Edward Saunders
 title: "Marketo and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Keap Max Classic provides businesses with a complete solution for managing customer relationships and automating marketing campaigns"
 leadtext: "By syncing lead data and automating targeted campaigns, businesses can streamline their marketing and sales efforts for more effective strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

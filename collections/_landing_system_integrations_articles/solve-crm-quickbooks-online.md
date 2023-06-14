@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/quickbooks-online
 author: Edward Saunders
 title: "How Solve CRM and QuickBooks Online Integration Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Solve CRM and QuickBooks Online can streamline business operations, save time and reduce errors, provide a more accurate view of customer financial status, and increase security"
 leadtext: "If you are a business owner looking to optimize your CRM and accounting processes, consider integrating the two systems through API or SDKs."
 image: /assets/images/articles/people-sitting-near-table.webp

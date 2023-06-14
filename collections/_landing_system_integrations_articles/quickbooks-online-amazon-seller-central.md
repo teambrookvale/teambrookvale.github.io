@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/amazon-seller-central
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Amazon Seller Central"
+topic: System Integration
 leadhead: "Integrating QBO and Amazon Seller central can provide several benefits to sellers, such as reducing manual data entry, improving accuracy and speed, managing inventory, and saving time and resources"
 leadtext: "Using APIs or SDKs, sellers can automate financial processes, enabling them to focus more on growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

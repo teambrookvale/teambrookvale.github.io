@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/twitter
 author: Edward Saunders
 title: "Integrating WHMCS and Twitter through API or SDK"
+topic: System Integration
 leadhead: "The integration of WHMCS and Twitter through API or SDK simplifies social media marketing and customer support"
 leadtext: "By scheduling tweets, providing customer support on Twitter, and promoting products and services, businesses can increase their online presence and engage with customers in meaningful ways."
 image: /assets/images/articles/people-sitting-near-table.webp

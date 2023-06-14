@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/facebook-custom-audiences
 author: Edward Saunders
 title: "PayPal and Facebook Custom Audiences Integration: Your Ultimate Marketing Tool"
+topic: System Integration
 leadhead: "Integrating PayPal and Facebook Custom Audiences through API or SDK is a game-changing marketing strategy for businesses of all sizes"
 leadtext: "The integration allows businesses to harness the power of Facebook Custom Audiences while maximizing the value of their marketing spend and optimizing their marketing strategies to target high-intent customers."
 image: /assets/images/articles/people-sitting-near-table.webp

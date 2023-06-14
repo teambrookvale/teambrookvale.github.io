@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/greenhouse
 author: Edward Saunders
 title: "WHMCS and Greenhouse Integration"
+topic: System Integration
 leadhead: "Integrating WHMCS and Greenhouse through API or SDK results in an improved recruitment process for web hosting companies"
 leadtext: "The integration solves various issues faced in the recruitment process, such as manual data entry, inefficient processes and lack of visibility, and provides a more seamless and efficient workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

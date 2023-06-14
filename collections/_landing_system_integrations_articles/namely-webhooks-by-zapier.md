@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/webhooks-by-zapier
 author: Edward Saunders
 title: "Integration of Namely and Zapier Webhooks"
+topic: System Integration
 leadhead: "The integration of Namely and Zapier Webhooks is a smart move for businesses who want to streamline HR processes and automate repetitive tasks"
 leadtext: "Depending on the user's preference, API or SDK Integration can be used to achieve this integration. The benefits that come with this integration are numerous and will increase efficiency, collaboration and improve the overall employee experience."
 image: /assets/images/articles/people-sitting-near-table.webp

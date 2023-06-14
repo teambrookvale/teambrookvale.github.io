@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/magento
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM with Magento"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM with Magento using API or SDK brings efficiency and speed to your business processes"
 leadtext: "You can save time and reduce errors by automating tasks that were previously manual. You can also improve customer service by having access to a unified view of all customer interactions. Integrating the two platforms should be a priority for every business that wants to improve its processes and customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

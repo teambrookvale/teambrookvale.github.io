@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/goto-webinar
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with GoTo Webinar"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads with GoTo Webinar through API or SDK can be a gamechanger for businesses looking to grow their customer base and increase engagement"
 leadtext: "By automating the process of collecting leads and registering them for webinars, businesses can save time and resources while collecting valuable information from potential customers."
 image: /assets/images/articles/people-sitting-near-table.webp

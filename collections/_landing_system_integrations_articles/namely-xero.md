@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/xero
 author: Edward Saunders
 title: "How Xero Integration Benefits Namely Users"
+topic: System Integration
 leadhead: "The integration of Namely and Xero through API or SDK provides a powerful solution that streamlines human resource, payroll, and finance management for businesses"
 leadtext: "The integration provides real-time data transfer, eliminates manual data entry, and offers a comprehensive view of all financial and employee data in one place. The integration improves decision-making and makes managing human resource and payroll transactions more manageable for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

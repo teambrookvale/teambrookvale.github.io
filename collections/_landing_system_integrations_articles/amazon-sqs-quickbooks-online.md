@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/quickbooks-online
 author: Edward Saunders
 title: "Integration of Amazon SQS and QuickBooks Online for Efficient Business Operations"
+topic: System Integration
 leadhead: "Amazon SQS and QuickBooks Online are powerful tools that can help businesses streamline their operations"
 leadtext: "By integrating the two through API or SDK, businesses can create a highly efficient and automated system that can solve many of the problems they face today. The integration enables businesses to automate accounting tasks, process transactions quickly, and ensure data accuracy, improving their overall performance and enabling them to focus on their core activities."
 image: /assets/images/articles/people-sitting-near-table.webp

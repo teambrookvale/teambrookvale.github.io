@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/amazon-polly
 author: Edward Saunders
 title: "Xero and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Amazon Polly combines two powerful tools to help businesses manage their financial documents efficiently"
 leadtext: "By leveraging the automation provided by Amazon Polly, businesses can save time and money while making their documents more accessible. With the power of APIs and SDKs, Xero and Amazon Polly can be integrated effortlessly, making it the perfect solution for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

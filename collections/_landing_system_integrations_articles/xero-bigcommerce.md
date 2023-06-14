@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/bigcommerce
 author: Edward Saunders
 title: "Exploring Xero and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Xero and BigCommerce through API or SDK provides a powerful solution for businesses looking to streamline their operations and grow their sales"
 leadtext: "With the ability to automate financial processes, get a complete view of their financials, and save time and money, businesses can focus on what they do best; selling products and services to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

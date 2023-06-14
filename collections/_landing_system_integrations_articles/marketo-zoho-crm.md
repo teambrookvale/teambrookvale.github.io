@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/zoho-crm
 author: Edward Saunders
 title: "Integrating Marketo and Zoho CRM"
+topic: System Integration
 leadhead: "Integrating Marketo and Zoho CRM can provide businesses with several benefits, including better lead management, improved marketing insights, and streamlined workflows"
 leadtext: "Whether using API or SDK, the integration can be achieved with ease, providing businesses with even more value as they seek to grow and scale their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

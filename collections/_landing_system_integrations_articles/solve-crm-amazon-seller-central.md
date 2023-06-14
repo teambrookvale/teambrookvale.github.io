@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-seller-central
 author: Edward Saunders
 title: "How Integration of Solve CRM and Amazon Seller Central Can Benefit Your Business"
+topic: System Integration
 leadhead: "Integration of Solve CRM and Amazon Seller Central can provide businesses with a range of benefits, including improved efficiency, better customer management, and streamlined operations"
 leadtext: "By using an SDK or API to integrate the two platforms, businesses can create a more seamless experience for their customers while also improving their own processes and workflows."
 image: /assets/images/articles/people-sitting-near-table.webp

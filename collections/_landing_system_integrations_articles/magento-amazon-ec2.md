@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/amazon-ec2
 author: Edward Saunders
 title: "Benefits of Integrating Magento with Amazon EC2"
+topic: System Integration
 leadhead: "Integrating Magento with Amazon EC2 is a winning combination for eCommerce store owners, offering a scalable and reliable platform that can handle everything from product management to order fulfillment"
 leadtext: "By taking advantage of the benefits provided by both Magento and Amazon EC2, you can ensure that your eCommerce store runs smoothly and provides an exceptional shopping experience for your customers."
 image: /assets/images/articles/people-sitting-near-table.webp

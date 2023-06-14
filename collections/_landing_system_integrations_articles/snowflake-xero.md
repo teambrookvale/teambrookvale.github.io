@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/xero
 author: Edward Saunders
 title: "Snowflake and Xero Integration for Seamlessly Managing Finances"
+topic: System Integration
 leadhead: "The integration of Snowflake and Xero can revolutionize the way businesses manage their finances"
 leadtext: "By automating the data transfer process and eliminating manual labor, businesses can streamline their financial operations and improve their data accuracy. Moreover, the detailed reports provided by the integration can help businesses make better-informed decisions and drive growth."
 image: /assets/images/articles/people-sitting-near-table.webp

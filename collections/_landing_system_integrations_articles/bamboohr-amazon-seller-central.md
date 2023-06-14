@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/amazon-seller-central
 author: Edward Saunders
 title: "Integration of BambooHR and Amazon Seller Central"
+topic: System Integration
 leadhead: "The integration of BambooHR and Amazon Seller Central can be a powerful tool for businesses seeking to streamline their processes and improve their accuracy"
 leadtext: "By using API or SDK, businesses can reduce the risk of errors and free up time for more important tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating SQL Server and Webhooks by Zapier"
+topic: System Integration
 leadhead: "Integrating SQL Server and Webhooks by Zapier is a powerful way to automate data transfer between applications"
 leadtext: "The integration allows you to create workflows based on database events in SQL Server and trigger actions in Zapier. This results in a seamless data flow and reduces the manual effort required to perform various tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

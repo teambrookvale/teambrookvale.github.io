@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/paypal
 author: Edward Saunders
 title: "Integrating Evernote Business and PayPal"
+topic: System Integration
 leadhead: "The integration of Evernote Business and PayPal through API or SDK can help businesses stay organized and process payments seamlessly"
 leadtext: "By streamlining their workflow and automating some tasks, businesses can save time and reduce the risk of errors. Whether businesses are sending invoices or keeping track of payments, Evernote Business and PayPal can work together to simplify their workflow."
 image: /assets/images/articles/people-sitting-near-table.webp

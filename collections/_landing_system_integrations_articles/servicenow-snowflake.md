@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/snowflake
 author: Edward Saunders
 title: "ServiceNow and Snowflake Integration"
+topic: System Integration
 leadhead: "Combining the power of ServiceNow and Snowflake through API or SDK integration brings numerous benefits for businesses"
 leadtext: "Whether it be improving data visibility or enabling faster decision-making, integration helps make data management smoother and more efficient. Therefore, it's no surprise that many businesses are adopting this integration for their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

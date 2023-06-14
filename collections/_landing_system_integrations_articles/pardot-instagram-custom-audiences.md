@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/instagram-custom-audiences
 author: Edward Saunders
 title: "Why Integrating Pardot and Instagram Custom Audiences is Essential for Marketers"
+topic: System Integration
 leadhead: "Integrating Pardot and Instagram Custom Audiences is essential for marketers who want to reach their target audience more effectively and generate more leads"
 leadtext: "By taking advantage of the integration through APIs or SDKs, you can create personalized, efficient, and ROI-driven marketing campaigns that help your business thrive."
 image: /assets/images/articles/people-sitting-near-table.webp

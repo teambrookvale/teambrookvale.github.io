@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/bigcommerce
 author: Edward Saunders
 title: "Zoho CRM and BigCommerce Integration - Benefits and Solutions"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and BigCommerce can provide businesses with several benefits, including real-time updates, customer data sync, workflow automation, and elimination of manual entry errors"
 leadtext: "The combination can help businesses deliver excellent customer service and improve customer retention rates. If you’re running an eCommerce business and managing customer relations seems challenging, then integrating Zoho CRM and BigCommerce can be the solution to your problems."
 image: /assets/images/articles/people-sitting-near-table.webp

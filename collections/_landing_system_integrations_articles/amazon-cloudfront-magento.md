@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/magento
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and Magento | Blog Post"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon CloudFront and Magento can enhance the performance and security of your eCommerce website"
 leadtext: "By leveraging the power of the leading CDN, you can have faster website loading speed, better user experience, and improved website security. The integration solves various website-related issues, resulting in a better online presence and customer engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Facebook Lead Ads"
+topic: System Integration
 leadhead: "Integrating QuickBooks Online and Facebook Lead Ads can provide numerous benefits for businesses"
 leadtext: "By automating lead data transfer and providing real-time insights, businesses can streamline their operations and make informed decisions. Integration can be achieved through API or SDK, and it can solve several problems that businesses face. In today's digital age, businesses that integrate these two platforms can gain a competitive advantage and stay ahead of the curve."
 image: /assets/images/articles/people-sitting-near-table.webp

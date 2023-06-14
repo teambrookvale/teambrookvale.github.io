@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/whmcs
 author: Edward Saunders
 title: "Integration of Pinterest and WHMCS through API or SDK"
+topic: System Integration
 leadhead: "Pinterest and WHMCS integration is a powerful tool that can benefit any business looking to expand their online presence and streamline their operations"
 leadtext: "By leveraging the strengths of both platforms, you can create a more efficient and effective marketing strategy, reach a wider audience, and increase your overall revenue. So, why not give it a try and see the difference it can make for your business?"
 image: /assets/images/articles/people-sitting-near-table.webp

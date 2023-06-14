@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/whmcs
 author: Edward Saunders
 title: "Integrating Zoho CRM and WHMCS - The Benefits"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and WHMCS is a no-brainer for businesses that want to streamline their customer management and billing processes"
 leadtext: "It provides a seamless experience for both businesses and their customers, making it easier to manage customer data and provide better customer support. With this integration, businesses can take their customer relationship management to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

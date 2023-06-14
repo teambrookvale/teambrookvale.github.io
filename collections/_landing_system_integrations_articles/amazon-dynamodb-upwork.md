@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/upwork
 author: Edward Saunders
 title: "Integration of Amazon DynamoDB and Upwork"
+topic: System Integration
 leadhead: "Both Amazon DynamoDB and Upwork are powerful tools that can help businesses achieve more in less time"
 leadtext: "By integrating the two through API or SDK, businesses can streamline their workflows, improve their productivity, and achieve better results. The integration solves many common problems that businesses face in managing their projects and operations, and enables them to focus on what they do best."
 image: /assets/images/articles/people-sitting-near-table.webp

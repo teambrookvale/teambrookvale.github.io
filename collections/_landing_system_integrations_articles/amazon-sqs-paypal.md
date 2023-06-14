@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/paypal
 author: Edward Saunders
 title: "Amazon SQS and PayPal Integration: A Perfect Combination"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and PayPal provides a win-win situation for all parties involved"
 leadtext: "It enables businesses to process transactions seamlessly while providing customers with a secure and rapid payment experience. Additionally, this integration helps to eliminate unnecessary administrative tasks and reduces the likelihood of errors in the transaction process. As with any integration, thorough testing and careful implementation are essential to ensuring a smooth experience for the end users."
 image: /assets/images/articles/people-sitting-near-table.webp

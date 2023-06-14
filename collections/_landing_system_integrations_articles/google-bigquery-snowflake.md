@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/snowflake
 author: Edward Saunders
 title: "Integration of Google BigQuery and Snowflake"
+topic: System Integration
 leadhead: "Google BigQuery and Snowflake are two powerful cloud data warehousing solutions that can be integrated to create a more comprehensive data system"
 leadtext: "Through API or SDK, users can combine the strengths of each platform and solve common data management and analysis problems. This integration can help organizations gain insights from their data more efficiently and make better decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

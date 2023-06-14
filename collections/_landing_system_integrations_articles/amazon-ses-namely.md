@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/namely
 author: Edward Saunders
 title: "Amazon SES and Namely Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Namely can automate and streamline various HR functions, reducing HR administrative tasks, improving employee engagement and satisfaction, reducing errors and inconsistencies, enhancing brand reputation, and complying with HR regulations and policies"
 leadtext: "Organizations can use the integration to send personalized and timely communication to employees related to HR tasks, making them feel welcome and included in the company culture."
 image: /assets/images/articles/people-sitting-near-table.webp

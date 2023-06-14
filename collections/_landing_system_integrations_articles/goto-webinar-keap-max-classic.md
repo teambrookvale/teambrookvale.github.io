@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/keap-max-classic
 author: Edward Saunders
 title: "Integrating GoTo Webinar with Keap Max Classic"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar with Keap Max Classic can provide many benefits to businesses"
 leadtext: "Whether it's streamlining follow-up processes, tracking the effectiveness of webinars, or better understanding the audience, the integration can help businesses make data-driven decisions and improve their overall marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

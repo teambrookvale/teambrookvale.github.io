@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/evernote-business
 author: Edward Saunders
 title: "Instagram Custom Audiences and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Evernote Business through API or SDK is a game-changer for marketers and businesses"
 leadtext: "It saves time, minimizes errors, and allows you to reach the right audience with your ads. If you're looking to optimize your campaigns and streamline your processes, this integration is a must-have."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/pardot
 author: Edward Saunders
 title: "Solving CRM with Pardot Integration"
+topic: System Integration
 leadhead: "Integrating a CRM platform with Pardot is a powerful way to streamline marketing efforts, boost lead generation, and personalize customer engagement"
 leadtext: "With the use of an API or SDK, businesses can gain a more complete picture of their customers and prospects and create targeted campaigns that resonate with their target audience."
 image: /assets/images/articles/people-sitting-near-table.webp

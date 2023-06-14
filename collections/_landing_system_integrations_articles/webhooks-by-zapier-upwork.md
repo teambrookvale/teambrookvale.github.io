@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/upwork
 author: Edward Saunders
 title: "Webhooks by Zapier and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Upwork can help businesses to save time and streamline their operations by automating their workflows"
 leadtext: "Whether they use the dedicated Zapier integration or build a custom integration with the Upwork API or SDK, businesses can benefit from the powerful automation capabilities that this integration provides."
 image: /assets/images/articles/people-sitting-near-table.webp

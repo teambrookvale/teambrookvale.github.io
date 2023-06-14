@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/xero
 author: Edward Saunders
 title: "Integration Between SQL Server and Xero"
+topic: System Integration
 leadhead: "The integration of SQL Server and Xero through API or SDK can provide businesses with several benefits, such as increased productivity, reduced errors, and improved financial insights"
 leadtext: "Businesses that use both systems can benefit from this integration to automate their accounting processes and streamline their operations. With the help of developers or third-party integration tools, businesses can easily connect their SQL Server data to Xero and enjoy the advantages of this powerful integration."
 image: /assets/images/articles/people-sitting-near-table.webp

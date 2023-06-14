@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/solve-crm
 author: Edward Saunders
 title: "Integrating Amazon SQS and Solve CRM: A Solution to Efficient Communication"
+topic: System Integration
 leadhead: "In summary, integrating Amazon SQS and Solve CRM can provide businesses with a robust solution to improve their communication processes"
 leadtext: "With the combination of these two powerful systems, businesses can ensure that their customer data is managed seamlessly and effectively. Moreover, this integration can lead to increased productivity and more efficient workflows."
 image: /assets/images/articles/people-sitting-near-table.webp

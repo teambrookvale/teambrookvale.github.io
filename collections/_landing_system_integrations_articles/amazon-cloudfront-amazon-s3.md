@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/amazon-s3
 author: Edward Saunders
 title: "How Amazon CloudFront and Amazon S3 Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "The Amazon CloudFront and Amazon S3 integration provides businesses with a scalable and cost-effective infrastructure for storing and delivering content"
 leadtext: "The integration ensures faster content delivery, better user experience, and reduced latency. Businesses can leverage the integration to improve their infrastructure and provide a seamless experience to their users."
 image: /assets/images/articles/people-sitting-near-table.webp

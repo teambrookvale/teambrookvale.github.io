@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-cloudwatch
 author: Edward Saunders
 title: "Improving E-commerce Performance: Integrating BigCommerce and Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating BigCommerce and Amazon CloudWatch is a game-changer for online businesses"
 leadtext: "It allows you to monitor your e-commerce operations in real-time, gain valuable insights, and optimize your customer experiences. By leveraging the flexibility of API or SDK, you can tailor the integration to your business's unique requirements and processes. Thus, making your online business scalable, reliable, and secure."
 image: /assets/images/articles/people-sitting-near-table.webp

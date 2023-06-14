@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/linkedin-ads
 author: Edward Saunders
 title: "How Amazon Seller Central and LinkedIn Ads Integration Can Benefit Businesses"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and LinkedIn Ads can be a game-changer for businesses looking to increase their revenue and reach their target audience more effectively"
 leadtext: "By leveraging the data from their Amazon sales and using it to target relevant LinkedIn Ads, businesses can achieve higher conversion rates and easier management of their online presence."
 image: /assets/images/articles/people-sitting-near-table.webp

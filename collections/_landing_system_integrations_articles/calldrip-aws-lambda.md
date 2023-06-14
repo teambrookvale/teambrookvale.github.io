@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/aws-lambda
 author: Edward Saunders
 title: "Calldrip and AWS Lambda Integration"
+topic: System Integration
 leadhead: "Integrating Calldrip and AWS Lambda can help businesses increase efficiency, save costs, and empower data-driven decision making"
 leadtext: "AWS Lambda's scalability and Calldrip's automation can elevate the sales process to new heights, ensuring that businesses are gaining the full potential of their sales reps. As businesses look for technology solutions to increase productivity while reducing labor costs, integrating Calldrip and AWS Lambda should be high on their list."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/quickbooks-online
 author: Edward Saunders
 title: "Integration of Amazon EC2 and QuickBooks Online"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and QuickBooks Online is a great way for small businesses to streamline their accounting processes"
 leadtext: "By using API or SDK, businesses can automate their accounting, reduce errors, monitor their financial status in real-time, and save time and effort. With these benefits, it's no wonder why more and more businesses are integrating these two tools."
 image: /assets/images/articles/people-sitting-near-table.webp

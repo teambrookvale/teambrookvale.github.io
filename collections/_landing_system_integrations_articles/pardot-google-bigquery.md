@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/google-bigquery
 author: Edward Saunders
 title: "Integration of Pardot and Google BigQuery"
+topic: System Integration
 leadhead: "The integration of Pardot and Google BigQuery through API or SDK is a powerful tool for businesses looking to improve their marketing strategies and gain actionable insights from their data"
 leadtext: "With this integrated approach, businesses can combine data from multiple sources to gain a more complete understanding of their customers, identify trends, and make data-driven decisions. As businesses continue to rely on data to make critical decisions, the integration of Pardot and Google BigQuery is becoming increasingly important."
 image: /assets/images/articles/people-sitting-near-table.webp

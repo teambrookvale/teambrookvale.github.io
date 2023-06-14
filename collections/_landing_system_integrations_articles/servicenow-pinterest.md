@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/pinterest
 author: Edward Saunders
 title: "ServiceNow and Pinterest Integration"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Pinterest can help organizations to transform their business operations and create value"
 leadtext: "By streamlining processes and improving efficiency, companies can save time and resources while improving customer satisfaction and relationships. The integration combines the power of ServiceNow's workflow management capabilities with Pinterest's massive user base, offering businesses a unique opportunity to transform their processes and enhance their customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

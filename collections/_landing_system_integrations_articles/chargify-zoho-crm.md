@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/zoho-crm
 author: Edward Saunders
 title: "How Integrating Chargify and Zoho CRM Can Boost Your Business"
+topic: System Integration
 leadhead: "Integrating Chargify and Zoho CRM is a smart move for businesses that want to streamline their operations and improve the customer experience"
 leadtext: "By automating billing and subscription processes and managing customer interactions more efficiently, businesses can save time and reduce errors while gaining valuable insights into customer behavior."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/quickbooks-online
 author: Edward Saunders
 title: "Integrating Amazon SNS with QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of Amazon SNS with QuickBooks Online is a powerful tool for businesses looking to streamline their financial processes and stay on top of their finances"
 leadtext: "By receiving real-time notifications about payments, invoices, and other financial transactions, businesses can ensure they are always up to date with their finances and make informed decisions about their future. So, bring your business finances into the future by integrating Amazon SNS with QuickBooks Online."
 image: /assets/images/articles/people-sitting-near-table.webp

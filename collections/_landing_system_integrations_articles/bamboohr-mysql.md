@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/mysql
 author: Edward Saunders
 title: "Integration of BambooHR and MySQL: A Solution to Your HR Woes"
+topic: System Integration
 leadhead: "BambooHR and MySQL integration is a solution that businesses need to streamline their HR operations, reduce labor costs, and increase productivity"
 leadtext: "The integration of these two platforms presents businesses with a secure and scalable HR system, enabling HR staff to focus on critical HR activities that boost the workforce's productivity and contribution to the business. Make your HR woes disappear by integrating BambooHR and MySQL today!"
 image: /assets/images/articles/people-sitting-near-table.webp

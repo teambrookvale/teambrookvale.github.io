@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/mysql
 author: Edward Saunders
 title: "Zoho CRM and MySQL Integration"
+topic: System Integration
 leadhead: "Zoho CRM and MySQL are two powerful tools that businesses can use to manage their operations more effectively"
 leadtext: "Integrating the two platforms can provide even greater benefits, enabling businesses to improve their customer relationships, streamline their operations, and save time and money in the process."
 image: /assets/images/articles/people-sitting-near-table.webp

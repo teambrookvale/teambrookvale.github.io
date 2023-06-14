@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/bigcommerce
 author: Edward Saunders
 title: "Amazon SNS and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and BigCommerce is a powerful tool for businesses looking to streamline their operations and improve their customer experience"
 leadtext: "By leveraging the power of both platforms, businesses can automate tasks, receive real-time alerts, and engage their customers in a more meaningful way. With easy-to-use APIs and SDKs, integrating Amazon SNS and BigCommerce is a straightforward process that can provide businesses with a competitive advantage in the e-commerce landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

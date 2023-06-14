@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/amazon-seller-central
 author: Edward Saunders
 title: "How Integration of Facebook Custom Audiences and Amazon Seller Central can Benefit Your Business"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Amazon Seller Central is a no-brainer for any business looking to boost their sales and build a loyal customer base"
 leadtext: "By leveraging the power of both platforms, you can create targeted ads that reach the right people at the right time and improve your overall sales performance."
 image: /assets/images/articles/people-sitting-near-table.webp

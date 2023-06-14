@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/expensify
 author: Edward Saunders
 title: "Integration of Solve CRM and Expensify"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Expensify can provide significant benefits to organizations by streamlining the expense reporting process, providing real-time expense data, and ensuring that customer information is up-to-date"
 leadtext: "The integration can be customized to fit the specific needs of the organization, providing a seamless experience for all users. If your organization uses Solve CRM and Expensify, consider integrating the two for a more efficient and effective way of managing customer relationships and expenses."
 image: /assets/images/articles/people-sitting-near-table.webp

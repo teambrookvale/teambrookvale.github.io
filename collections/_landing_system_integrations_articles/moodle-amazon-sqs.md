@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-sqs
 author: Edward Saunders
 title: "Benefits of Integrating Moodle and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Moodle and Amazon SQS provides a range of benefits, including improved scalability, reduced latency, enhanced availability, and streamlined workflows"
 leadtext: "By leveraging this integration, educators and institutions can create a more efficient and effective learning environment, leading to better educational outcomes for students. Ensure your institution can take advantage of this integration today."
 image: /assets/images/articles/people-sitting-near-table.webp

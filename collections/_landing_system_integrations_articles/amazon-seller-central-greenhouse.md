@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/greenhouse
 author: Edward Saunders
 title: "Amazon Seller Central and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Greenhouse can provide significant benefits for sellers on Amazon's marketplace"
 leadtext: "By automating and streamlining the hiring process, sellers can save time and improve the quality of their hires. As businesses continue to invest in talent and staffing, integrations like this will become increasingly valuable."
 image: /assets/images/articles/people-sitting-near-table.webp

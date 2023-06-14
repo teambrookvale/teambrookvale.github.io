@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/goto-training
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and GoTo Training through API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and GoTo Training can provide businesses with tremendous opportunities to improve their operations"
 leadtext: "As businesses are increasingly relying on online communication and collaboration tools, this integration can help them reach their customers effectively while also offering tailored and efficient training sessions. With the rich features of GoTo Training and the robust selling tools of Amazon, businesses can benefit from the integration, automate tasks, reduce errors, and increase their revenue potential."
 image: /assets/images/articles/people-sitting-near-table.webp

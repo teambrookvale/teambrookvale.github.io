@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Amazon Polly and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Integrating Amazon Polly and SugarCRM 6.2-5 through API or SDK can be a great way for businesses to improve their customer service and streamline their operations"
 leadtext: "Whether you’re looking to add speech to your website or automate certain processes within your CRM system, this integration can help you achieve your goals."
 image: /assets/images/articles/people-sitting-near-table.webp

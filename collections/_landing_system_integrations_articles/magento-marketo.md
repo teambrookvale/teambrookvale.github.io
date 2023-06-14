@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/marketo
 author: Edward Saunders
 title: "Magento and Marketo integration: Solving e-commerce and marketing problems"
+topic: System Integration
 leadhead: "The integration of Magento and Marketo provides businesses with a powerful tool that can help them achieve their e-commerce and marketing goals"
 leadtext: "By syncing customer data between the two platforms, businesses can personalize their marketing campaigns, automate their lead generation process, and improve their e-commerce operations. With Magento and Marketo working together, businesses can streamline their operations and achieve success in the highly competitive e-commerce industry."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/marketo
 author: Edward Saunders
 title: "WHMCS and Marketo Integration – The Ultimate Marketing Solution"
+topic: System Integration
 leadhead: "Integrating WHMCS and Marketo can help businesses streamline their marketing and sales processes, improve lead nurturing, increase sales, and reduce manual work"
 leadtext: "By automating the workflow, businesses can save time and resources, allowing them to focus on what really matters – growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

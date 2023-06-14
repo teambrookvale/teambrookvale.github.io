@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/instagram-lead-ads
 author: Edward Saunders
 title: "Integrating Amazon Polly and Instagram Lead Ads"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Instagram Lead Ads offers many benefits for businesses looking to improve their marketing efforts"
 leadtext: "By using the power of AI-generated speech and the popularity of social media, businesses can create more engaging and effective Lead Ads that reach a wider audience."
 image: /assets/images/articles/people-sitting-near-table.webp

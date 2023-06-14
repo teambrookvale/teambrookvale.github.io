@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/amazon-polly
 author: Edward Saunders
 title: "Webhooks by Zapier and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Amazon Polly is a powerful combination that can help you create audio versions of your written content and reach a wider audience"
 leadtext: "By automating the process, you can save time and effort while making your content more accessible to all. Give it a try and see how it can improve your workflow!"
 image: /assets/images/articles/people-sitting-near-table.webp

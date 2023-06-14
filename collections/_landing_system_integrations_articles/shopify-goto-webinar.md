@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/goto-webinar
 author: Edward Saunders
 title: "How Shopify and GoTo Webinar Integration Benefit E-commerce Businesses"
+topic: System Integration
 leadhead: "The integration of Shopify and GoTo Webinar is a game-changer for e-commerce businesses"
 leadtext: "By connecting two powerful platforms together, businesses can automate workflows, reduce workload, and improve marketing strategies. With the right tools in place, businesses can focus on what they do best – growing their business and serving their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

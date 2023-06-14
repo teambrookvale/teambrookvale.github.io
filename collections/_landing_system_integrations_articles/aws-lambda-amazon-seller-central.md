@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/amazon-seller-central
 author: Edward Saunders
 title: "AWS Lambda and Amazon Seller Central API Integration"
+topic: System Integration
 leadhead: "Integrating AWS Lambda with Amazon Seller Central through API or SDK can provide many benefits to third-party sellers, and help them to automate their selling process"
 leadtext: "By doing so, they can save time, reduce errors, and improve their efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

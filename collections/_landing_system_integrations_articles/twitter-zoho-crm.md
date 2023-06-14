@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/zoho-crm
 author: Edward Saunders
 title: "Twitter and ZohoCRM Integration"
+topic: System Integration
 leadhead: "Integrating Twitter and ZohoCRM provides businesses with a practical solution to improve their customer service, lead generation, and targeted marketing"
 leadtext: "The integration enables businesses to streamline their processes, improve their customer relationships, and ultimately increase their revenue. With the help of APIs or SDKs, integration can be achieved efficiently and quickly, providing businesses with a competitive edge."
 image: /assets/images/articles/people-sitting-near-table.webp

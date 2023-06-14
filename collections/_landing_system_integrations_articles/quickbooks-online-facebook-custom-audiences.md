@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/facebook-custom-audiences
 author: Edward Saunders
 title: "Integrating QuickBooks Online with Facebook Custom Audiences"
+topic: System Integration
 leadhead: "Integrating QuickBooks Online with Facebook Custom Audiences can be a game-changer for businesses looking to improve their ad targeting and gain insights into their customer data"
 leadtext: "With the help of APIs or SDKs, businesses can automate their ad targeting process, save time and money, and create highly effective ads that resonate with their target audience."
 image: /assets/images/articles/people-sitting-near-table.webp

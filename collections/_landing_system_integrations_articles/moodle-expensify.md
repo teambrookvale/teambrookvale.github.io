@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/expensify
 author: Edward Saunders
 title: "Moodle and Expensify Integration: A Solution to Streamline Workflow"
+topic: System Integration
 leadhead: "Integrating Moodle and Expensify can provide businesses with numerous benefits and simplify the process of managing various tasks"
 leadtext: "By automating the workflow, businesses can save time and ensure accurate accounting of expenses. They can also prevent fraudulent activities and reduce accounting errors. With these benefits, integrating these two applications is an excellent solution for businesses to manage their workflow more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

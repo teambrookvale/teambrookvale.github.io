@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/instagram-custom-audiences
 author: Edward Saunders
 title: "Google Groups and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Google Groups and Instagram Custom Audiences is a powerful tool for marketers"
 leadtext: "By using an API or SDK, marketers can connect the two platforms and increase the effectiveness of their ads. This integration solves the problem of audience targeting and can help businesses reach a highly engaged and interested audience."
 image: /assets/images/articles/people-sitting-near-table.webp

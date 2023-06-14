@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/calldrip
 author: Edward Saunders
 title: "Instagram Custom Audiences Integration with Calldrip"
+topic: System Integration
 leadhead: "Instagram Custom Audiences and Calldrip are both powerful tools"
 leadtext: "When combined through API or SDK integration, they can create a streamlined and automated lead management system. This can help businesses to reach their target audience more effectively, respond promptly to leads, and significantly increase conversions. Businesses that integrate Instagram Custom Audiences with Calldrip are sure to take a significant step towards improving their digital marketing strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

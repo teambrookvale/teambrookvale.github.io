@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/evernote-business
 author: Edward Saunders
 title: "AI by Zapier and Evernote Business: A Powerful Integration"
+topic: System Integration
 leadhead: "AI by Zapier and Evernote Business are two powerful tools that can be even more effective when integrated through API or SDK"
 leadtext: "By connecting these tools, you can streamline your workflows, save time, and boost productivity. Whether you're managing a team or working solo, AI by Zapier and Evernote Business are invaluable tools that can help you stay organized, focused, and on top of your work."
 image: /assets/images/articles/people-sitting-near-table.webp

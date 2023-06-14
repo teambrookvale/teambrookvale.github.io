@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/twitter
 author: Edward Saunders
 title: "Amazon SES and Twitter Integration: A Powerful Combination"
+topic: System Integration
 leadhead: "Overall, integrating Amazon SES and Twitter can be a powerful combination for businesses looking to engage with their customers more effectively"
 leadtext: "By using the right APIs and SDKs, businesses can send personalized emails and tweets to their audience, strengthen their brand, and boost their sales. So if you haven't already, it's time to start exploring the benefits of Amazon SES and Twitter integration today!"
 image: /assets/images/articles/people-sitting-near-table.webp

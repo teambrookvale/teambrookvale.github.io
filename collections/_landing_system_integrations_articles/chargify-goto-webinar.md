@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/goto-webinar
 author: Edward Saunders
 title: "Chargify and GoTo Webinar Integration: Solving Problems"
+topic: System Integration
 leadhead: "The integration of Chargify and GoTo Webinar provides businesses with a seamless solution for managing their subscription billing and webinar attendance"
 leadtext: "This integration automates tasks, eliminates errors, and improves the overall customer experience, making it a valuable tool for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

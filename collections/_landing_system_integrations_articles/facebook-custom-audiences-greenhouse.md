@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/greenhouse
 author: Edward Saunders
 title: "Integrating Facebook Custom Audiences with Greenhouse"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences with Greenhouse is a game-changer for recruiters who want to target their job ads to specific groups of people"
 leadtext: "By tapping into Facebook's vast audience data, recruiters can ensure that their job ads are seen by the right people, resulting in more qualified applicants and a more efficient hiring process."
 image: /assets/images/articles/people-sitting-near-table.webp

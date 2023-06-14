@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/postgresql
 author: Edward Saunders
 title: "Instagram Custom Audiences with PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of ICA with PostgreSQL is a powerful tool that can help businesses target the right audience with the right message"
 leadtext: "It allows businesses to efficiently manage their data, create better-targeted ads, and increase their ROI. Developers can integrate ICA with PostgreSQL through API or SDK. With this integration, businesses can gain a competitive advantage by reaching the right people with the right message."
 image: /assets/images/articles/people-sitting-near-table.webp

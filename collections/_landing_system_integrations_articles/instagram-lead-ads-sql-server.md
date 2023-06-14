@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/sql-server
 author: Edward Saunders
 title: "Instagram Lead Ads and SQL Server Integration"
+topic: System Integration
 leadhead: "Instagram Lead Ads is becoming an important tool for businesses to generate quality leads"
 leadtext: "However, integrating these leads into your CRM system is equally important. SQL Server provides the perfect relational database management system for storing and managing leads. By integrating Instagram Lead Ads with SQL Server through API or SDK, businesses can easily manage, analyze, and follow-up with their leads, improving their lead generation process and conversion rates."
 image: /assets/images/articles/people-sitting-near-table.webp

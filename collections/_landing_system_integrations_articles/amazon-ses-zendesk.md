@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/zendesk
 author: Edward Saunders
 title: "Integrating Amazon SES and Zendesk: A Perfect Solution to Email Management"
+topic: System Integration
 leadhead: "In conclusion, the integration between Amazon SES and Zendesk provides businesses with a perfect solution to email management"
 leadtext: "It saves time, improves efficiency, and ensures that all emails are handled professionally. If you are looking for a way to manage your email communication more effectively, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

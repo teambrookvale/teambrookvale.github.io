@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/mysql
 author: Edward Saunders
 title: "SugarCRM 7+ and MySQL: Integration Made Easy"
+topic: System Integration
 leadhead: "Integrating SugarCRM 7+ and MySQL is a smart move for businesses that want to improve their customer relations and data management"
 leadtext: "It is a simple process that can be done through an API or SDK, and it solves several business problems. By integrating the two systems, businesses can improve data security, streamline data flow, and drive growth through data analysis and reporting."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/quickbooks-online
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and QuickBooks Online is essential in the optimization of business processes and data management"
 leadtext: "The two systems complement each other and improve productivity across teams. Businesses should leverage API or SDK integration to electronic data transfer, reduce errors, and improve customer service. A successful integration of both systems provides the following benefits: efficient data exchange, real-time updates across systems, improved decision-making from having access to comprehensive data and a better understanding of resources allocation."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/upwork
 author: Edward Saunders
 title: "Integration of GoToWebinar and Upwork"
+topic: System Integration
 leadhead: "The integration of GoToWebinar and Upwork offers numerous benefits to both businesses and freelancers"
 leadtext: "By leveraging the power of a vast user base, businesses can find their ideal audience, while freelancers can find more work opportunities. This integration is a win-win situation for both parties, making it an ideal solution for anyone looking to grow their business or freelance career."
 image: /assets/images/articles/people-sitting-near-table.webp

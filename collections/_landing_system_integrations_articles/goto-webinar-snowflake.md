@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/snowflake
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Snowflake"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Snowflake through API or SDK is a valuable tool for businesses seeking to optimize their marketing strategies and data analysis capabilities"
 leadtext: "By leveraging these two platforms together, businesses can streamline their data collection and analysis processes to gain valuable insights and make data-driven decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

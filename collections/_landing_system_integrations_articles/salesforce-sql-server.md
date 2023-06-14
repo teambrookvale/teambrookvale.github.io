@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/sql-server
 author: Edward Saunders
 title: "Salesforce and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Salesforce and SQL Server is a powerful solution for businesses seeking a more efficient way to manage their data"
 leadtext: "Through the integration, businesses can improve their data management capabilities, gain better insights into their operations, and make informed decisions that drive growth and profitability. As such, businesses should consider integrating their Salesforce and SQL Server systems to achieve these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

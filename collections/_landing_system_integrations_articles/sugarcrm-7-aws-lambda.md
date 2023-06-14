@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/aws-lambda
 author: Edward Saunders
 title: "SugarCRM 7+ and AWS Lambda Integration"
+topic: System Integration
 leadhead: "SugarCRM 7+ and AWS Lambda integration can provide businesses with improved workflow automation, scalability, and cost savings"
 leadtext: "The integration can be done through the API or SDK provided by SugarCRM, which allows developers to interact with SugarCRM 7+ and perform actions within the CRM. By leveraging the power of AWS Lambda, businesses can improve their CRM capabilities and streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/paypal
 author: Edward Saunders
 title: "Integrating QuickBooks Online and PayPal"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and PayPal through API or SDK is a significant development for small businesses"
 leadtext: "It allows users to streamline their accounting process, saving them time and reducing errors. With this integration, small businesses can focus on what they do best: growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

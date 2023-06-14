@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/facebook-lead-ads
 author: Edward Saunders
 title: "Integration of PayPal and Facebook Lead Ads"
+topic: System Integration
 leadhead: "Overall, integrating PayPal and Facebook Lead Ads can help you streamline your marketing and payment processes, ultimately leading to more sales and happier customers"
 leadtext: "By utilizing APIs or SDKs, you can take advantage of two powerful platforms and create a winning combination for your online business."
 image: /assets/images/articles/people-sitting-near-table.webp

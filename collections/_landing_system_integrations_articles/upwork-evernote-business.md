@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/evernote-business
 author: Edward Saunders
 title: "Upwork and Evernote Business Integration - A Powerful Solution"
+topic: System Integration
 leadhead: "Upwork and Evernote Business integration is a powerful solution that enables businesses to streamline their workflow, increase productivity, and collaborate more effectively"
 leadtext: "The integration solves several challenges that businesses face, making it an excellent investment for any remote team looking to boost productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

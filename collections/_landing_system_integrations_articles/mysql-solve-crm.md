@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/solve-crm
 author: Edward Saunders
 title: "Integrating MySQL with Solve CRM"
+topic: System Integration
 leadhead: "Integrating MySQL with Solve CRM can have significant benefits for businesses"
 leadtext: "By enabling more efficient data management, improved decision-making, and automated processes, businesses can streamline their operations and improve their bottom line. With the use of an API or SDK, businesses can customize the integration to meet their specific needs and requirements."
 image: /assets/images/articles/people-sitting-near-table.webp

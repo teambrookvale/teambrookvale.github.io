@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/namely
 author: Edward Saunders
 title: "Integrating Amazon S3 and Namely"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Namely through API or SDK is a powerful way to enhance business operations, improve data security, and streamline HR and employee management processes"
 leadtext: "However, to ensure a successful integration, it’s important to consult with a cloud computing and storage expert. They will guide you on how to leverage Namely and Amazon S3 integration to help meet your specific business needs."
 image: /assets/images/articles/people-sitting-near-table.webp

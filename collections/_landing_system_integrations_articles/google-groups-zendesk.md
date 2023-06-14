@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/zendesk
 author: Edward Saunders
 title: "Google Groups and Zendesk Integration: A Seamless Experience"
+topic: System Integration
 leadhead: "Integration of Google Groups and Zendesk through API or SDK is a smart solution for organizations looking to enhance internal collaboration for their teams and improve customer service experience"
 leadtext: "With this integration, teams can communicate efficiently, work collaboratively, and provide prompt responses to customers' needs. This seamless experience can enable organizations to gain a competitive edge in the market."
 image: /assets/images/articles/people-sitting-near-table.webp

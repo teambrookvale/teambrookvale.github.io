@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/calldrip
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and Calldrip"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Calldrip is a powerful combination that can help businesses improve their customer service and monitor their cloud infrastructure"
 leadtext: "Whether you are a small business or a large enterprise, this integration can help you track the performance of your customer service team and identify areas for improvement, while at the same time allowing you to monitor the performance of your cloud resources."
 image: /assets/images/articles/people-sitting-near-table.webp

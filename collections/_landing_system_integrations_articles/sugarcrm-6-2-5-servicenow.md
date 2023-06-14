@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/servicenow
 author: Edward Saunders
 title: "SugarCRM and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM and ServiceNow can benefit businesses by providing an end-to-end service management solution that streamlines customer service and automates IT service management tasks"
 leadtext: "Implementing the integration enables businesses to access real-time customer data, which can dramatically improve customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

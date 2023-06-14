@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/namely
 author: Edward Saunders
 title: "The Integration of Facebook Custom Audiences with Namely"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences with Namely offers companies a powerful solution to their HR and marketing needs"
 leadtext: "By leveraging the data in Namely, companies can create targeted campaigns that are more likely to resonate with their target audience. This integration can help improve recruitment, retention, and overall business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/zendesk
 author: Edward Saunders
 title: "Zoho CRM and Zendesk: A Comprehensive Integration"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and Zendesk is a smart move for businesses that want to improve their customer experience, streamline their workflow, and boost sales"
 leadtext: "With the integration, customer information is automated and can be accessed in one place, which leads to better customer engagement, faster sales processes, and more efficient use of company resources. If you're using both platforms, it's definitely worth considering integrating them."
 image: /assets/images/articles/people-sitting-near-table.webp

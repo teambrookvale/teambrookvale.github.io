@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/amazon-cloudwatch
 author: Edward Saunders
 title: "Facebook Custom Audiences and Amazon CloudWatch: Integration with API or SDK"
+topic: System Integration
 leadhead: "Facebook Custom Audiences and Amazon CloudWatch are powerful tools on their own, but their integration through an API or SDK can enhance businesses' marketing and monitoring strategies"
 leadtext: "By leveraging the monitoring capabilities of Amazon CloudWatch and personalized advertising features of Facebook Custom Audiences, businesses can make data-driven decisions that improve the effectiveness of their advertising campaigns and their overall customer experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

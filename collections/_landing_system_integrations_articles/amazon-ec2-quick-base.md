@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/quick-base
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Quick Base through API/SDK | Blog Post"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Quick Base through API/SDK is an innovative solution that businesses can use to manage their databases efficiently"
 leadtext: "With the ease of integrating the two, businesses can focus on their core functionalities while leaving the management of their infrastructure to these tools, saving time, and increasing efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

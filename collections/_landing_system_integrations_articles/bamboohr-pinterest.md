@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/pinterest
 author: Edward Saunders
 title: "BambooHR and Pinterest Integration"
+topic: System Integration
 leadhead: "The integration of BambooHR and Pinterest is a valuable development for any organization"
 leadtext: "By streamlining the recruitment process and making it easier for employees to access important resources, the integration offers a great deal of value and efficiency. Whether through API or SDK, the integration is easy to set up and offers a number of advantages to organizations of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/google-bigquery
 author: Edward Saunders
 title: "Upwork and Google BigQuery Integration: A Solution for Big Data Analysis"
+topic: System Integration
 leadhead: "Upwork and Google BigQuery integration is a powerful solution for businesses looking to analyze large datasets quickly and cost-effectively"
 leadtext: "By leveraging the strengths of both platforms, businesses can gain valuable insights that can help them make better-informed decisions. With the continued growth of big data, the integration of Upwork and Google BigQuery is sure to become even more popular in the years to come."
 image: /assets/images/articles/people-sitting-near-table.webp

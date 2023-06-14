@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/instagram-custom-audiences
 author: Edward Saunders
 title: "How Instagram Lead Ads and Custom Audiences Can Boost Your Marketing"
+topic: System Integration
 leadhead: "Instagram Lead Ads and Custom Audiences are powerful marketing tools on their own, but when integrated through API or SDK, they can provide even greater benefits for businesses"
 leadtext: "By using Lead Ads to collect potential customer data and then using Custom Audiences to create personalized ad campaigns, businesses can generate more leads, increase conversions, and ultimately boost their bottom line. If you're not already using Instagram Lead Ads and Custom Audiences, now is the time to start!"
 image: /assets/images/articles/people-sitting-near-table.webp

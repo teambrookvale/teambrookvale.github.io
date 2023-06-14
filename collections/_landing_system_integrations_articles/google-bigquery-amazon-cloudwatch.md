@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of Google BigQuery and Amazon CloudWatch"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Amazon CloudWatch is a powerful solution for businesses looking to take advantage of the benefits of both services"
 leadtext: "By combining the real-time monitoring and management capabilities of CloudWatch with the scalable analytics and data warehousing capabilities of BigQuery, businesses can gain insights into their operations, optimize resource utilization, and improve customer satisfaction. If you are looking for a powerful, cloud-based solution for managing and analyzing your data, integrating Google BigQuery and Amazon CloudWatch is a great place to start."
 image: /assets/images/articles/people-sitting-near-table.webp

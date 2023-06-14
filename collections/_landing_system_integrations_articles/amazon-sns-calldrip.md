@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/calldrip
 author: Edward Saunders
 title: "Amazon SNS and Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Calldrip provides businesses with a powerful tool for managing messaging across different channels, reducing lead response time, and increasing conversion rates"
 leadtext: "Whether through API or SDK, developers can easily incorporate this integration into their applications to deliver a more seamless and personalized experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/whmcs
 author: Edward Saunders
 title: "Amazon SQS and WHMCS Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SQS and WHMCS through APIs or SDKs provides an efficient and scalable solution to processing large volumes of data and tasks"
 leadtext: "This integration can help automate the workload of WHMCS and increase productivity. It's worth considering for businesses looking to improve their performance, processing time, and scalability."
 image: /assets/images/articles/people-sitting-near-table.webp

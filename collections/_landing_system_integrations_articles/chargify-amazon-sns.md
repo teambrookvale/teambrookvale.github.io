@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-sns
 author: Edward Saunders
 title: "How Chargify and Amazon SNS Integration Beneifts Your Business"
+topic: System Integration
 leadhead: "Integrating Chargify and Amazon SNS is a sure way to streamline your business processes and improve customer experience"
 leadtext: "Your business can benefit by enjoying real-time payment processing, automated subscription renewal, and real-time notifications of system events. With the integration of these two platforms, you can be sure of better business efficiency and improved revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

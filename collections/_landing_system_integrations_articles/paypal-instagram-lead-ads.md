@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/instagram-lead-ads
 author: Edward Saunders
 title: "Integrating PayPal and Instagram Lead Ads"
+topic: System Integration
 leadhead: "The integration of PayPal and Instagram Lead Ads can be a powerful tool for online businesses"
 leadtext: "It can increase efficiency, convenience, and conversion rates, which can ultimately lead to increased sales and revenue. If you are an online business owner, consider integrating these two services to streamline your payment process and improve your customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

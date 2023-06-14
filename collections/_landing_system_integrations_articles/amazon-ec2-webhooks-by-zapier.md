@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/webhooks-by-zapier
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Webhooks by Zapier is a powerful tool that can help organizations automate processes and scale resources based on demand"
 leadtext: "It is easy to set up and can be done using an API or SDK. By taking advantage of this integration, users can save time, money, and resources and focus on more important tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

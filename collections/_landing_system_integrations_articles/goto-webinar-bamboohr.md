@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/bamboohr
 author: Edward Saunders
 title: "Integrating GoTo Webinar and BambooHR: A Solution to Your Problems"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and BambooHR can provide a range of benefits to businesses, from efficient workforce management to improved communication with employees"
 leadtext: "The integration can help companies streamline their workflow, save time, and increase employee engagement, which can lead to a happier and more productive workforce. If you're considering integrating the two platforms, make sure to consult with your IT team and software providers to ensure that the integration is smooth and effective."
 image: /assets/images/articles/people-sitting-near-table.webp

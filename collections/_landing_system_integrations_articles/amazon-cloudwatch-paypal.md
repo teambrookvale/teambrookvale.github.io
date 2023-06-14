@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/paypal
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and PayPal"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and PayPal is a crucial step for businesses that depend on payment transactions"
 leadtext: "With an efficient and effective integration, businesses can monitor their payments in real-time and respond to any issues that may arise. Amazon CloudWatch provides businesses with the necessary tools for visibility and monitoring, while PayPal enables businesses to receive and send payments effortlessly."
 image: /assets/images/articles/people-sitting-near-table.webp

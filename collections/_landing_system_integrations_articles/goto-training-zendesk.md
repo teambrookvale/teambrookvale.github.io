@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/zendesk
 author: Edward Saunders
 title: "Integration of GoTo Training and Zendesk - A Comprehensive Guide"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Zendesk leads to an improved platform that offers efficient training management and effective customer support"
 leadtext: "This integration also saves businesses time and helps them avoid manual communication processes that are prone to human error. As such, businesses that integrate these tools through API or SDK have better chances of achieving their operational goals than those that use them separately."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/facebook-lead-ads
 author: Edward Saunders
 title: "ServiceNow and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Facebook Lead Ads can prove to be of immense help to businesses that rely on lead generation for their growth"
 leadtext: "It can help in automating workflow processes, reducing manual errors, and ultimately leads to increased lead conversion rates. With the availability of SDK and API, integration becomes more accessible, and businesses should take advantage of this opportunity to enhance their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

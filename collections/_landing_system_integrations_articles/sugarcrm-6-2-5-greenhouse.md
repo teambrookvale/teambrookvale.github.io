@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/greenhouse
 author: Edward Saunders
 title: "Integration of SugarCRM and Greenhouse | Blog Post"
+topic: System Integration
 leadhead: "The integration of SugarCRM and Greenhouse is a powerful tool that businesses can use to make their operations more efficient and effective"
 leadtext: "With this integration, businesses can improve their lead generation and follow-up process, candidate tracking and management, communication between teams, and avoid duplication of data entry. As companies continue to seek ways to streamline their operations, integrating tools like SugarCRM and Greenhouse has become a necessity to stay competitive in the market."
 image: /assets/images/articles/people-sitting-near-table.webp

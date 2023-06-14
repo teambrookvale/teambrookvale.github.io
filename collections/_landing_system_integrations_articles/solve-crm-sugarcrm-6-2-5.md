@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Solve CRM with SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Overall, integrating Solve CRM with SugarCRM 6.2-5 through API or SDK can offer significant benefits for businesses looking to streamline their operations and improve their customer relationship management"
 leadtext: "By automating data sharing and eliminating manual processes, businesses can save time, reduce errors, and provide better customer service. If you're considering integrating these two powerful systems, it's important to work with a team of experienced developers who can help ensure a smooth, successful integration."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/upwork
 author: Edward Saunders
 title: "Integrating Upwork with Salesforce"
+topic: System Integration
 leadhead: "Integrating Upwork with Salesforce can be a game changer for businesses that rely on freelance talent and need to manage complex projects and workflows"
 leadtext: "While there are some challenges to overcome, the benefits of integration far outweigh the costs. By automating tasks, improving collaboration, and streamlining workflows, businesses can focus on what they do best and grow faster."
 image: /assets/images/articles/people-sitting-near-table.webp

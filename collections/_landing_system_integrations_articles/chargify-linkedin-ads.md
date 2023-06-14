@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/linkedin-ads
 author: Edward Saunders
 title: "Integrating Chargify and LinkedIn Ads"
+topic: System Integration
 leadhead: "Integrating Chargify and LinkedIn Ads is an excellent way to enhance your subscription-based business by automating business processes and eliminating repetitive tasks"
 leadtext: "APIs and SDKs provided by both platforms make the integration of the two solutions seamless. A more streamlined process and accurate analytics will be beneficial to you and your business."
 image: /assets/images/articles/people-sitting-near-table.webp

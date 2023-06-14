@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/namely
 author: Edward Saunders
 title: "Magento 2.X and Namely Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Namely offers a range of benefits to ecommerce businesses, allowing them to manage their employees more efficiently and automate their HR-related processes"
 leadtext: "Developers can leverage the available APIs and SDKs to build custom applications and add-ons that improve the integration and address specific business needs."
 image: /assets/images/articles/people-sitting-near-table.webp

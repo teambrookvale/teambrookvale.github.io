@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/servicenow
 author: Edward Saunders
 title: "AI by Zapier and ServiceNow Integration"
+topic: System Integration
 leadhead: "The AI by Zapier and ServiceNow Integration is an excellent solution for businesses looking to save time and automate processes"
 leadtext: "The integration provides endless possibilities to streamline tasks, create digital workflows, and improve overall performance. By leveraging the APIs or SDKs, companies can reap significant benefits, such as reduced costs, improved customer satisfaction, and optimized productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

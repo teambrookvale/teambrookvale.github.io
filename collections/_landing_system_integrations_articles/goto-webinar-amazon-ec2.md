@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/amazon-ec2
 author: Edward Saunders
 title: "Integrating GoTo Webinar with Amazon EC2"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar with Amazon EC2 is a smart move for businesses that want to streamline their webinar processes and run their webinars more efficiently"
 leadtext: "By using an API or SDK, businesses can automate their webinar processes and run their webinars on virtual machines in the cloud, which saves time and effort and makes it easier to scale their webinars. Overall, this integration is a win-win for businesses that are looking to optimize their webinar strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

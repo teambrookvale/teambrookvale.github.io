@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/keap-max-classic
 author: Edward Saunders
 title: "Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Zapier offers businesses a powerful solution for streamlining their sales and marketing operations"
 leadtext: "By leveraging the power of webhooks and custom workflows, businesses can save time, reduce costs, and improve their overall efficiency and effectiveness."
 image: /assets/images/articles/people-sitting-near-table.webp

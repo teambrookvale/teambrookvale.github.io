@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating QuickBooks Online with Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Webhooks by Zapier is a powerful tool for small businesses that want to automate their financial workflows"
 leadtext: "With this integration, businesses can save time, reduce errors, and improve productivity. If you're a small business owner looking for ways to streamline your accounting processes, consider integrating QuickBooks Online with Webhooks by Zapier."
 image: /assets/images/articles/people-sitting-near-table.webp

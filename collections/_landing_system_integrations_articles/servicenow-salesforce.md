@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/salesforce
 author: Edward Saunders
 title: "ServiceNow and Salesforce Integration"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Salesforce is a powerful tool for businesses"
 leadtext: "It allows for improved collaboration and communication between teams while reducing manual data entry and minimizing errors. As a result, organizations can improve their efficiency and provide better service to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

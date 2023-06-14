@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/zendesk
 author: Edward Saunders
 title: "Instagram Lead Ads and Zendesk Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Zendesk through API or SDK provides businesses with a powerful customer service tool that can help improve the customer experience, streamline customer service processes, and capture valuable customer information"
 leadtext: "By automating the ticket creation process and capturing customer data directly from social media, businesses can better understand their target audience and create more targeted marketing campaigns. The integration solves common customer service problems and ultimately helps businesses increase customer satisfaction and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

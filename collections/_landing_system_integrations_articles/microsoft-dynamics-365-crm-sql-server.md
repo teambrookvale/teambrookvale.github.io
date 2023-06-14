@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/sql-server
 author: Edward Saunders
 title: "Microsoft Dynamics 365 CRM and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and SQL Server is essential to achieving an efficient workflow and data accuracy in a business"
 leadtext: "The integration API or SDK provides development tools for creating custom integrations to streamline processes and reduce operational costs. The integration solves many problems, including improved data accuracy, efficient workflow, and better customer insight. Therefore, businesses should consider integrating these two tools to improve their operational excellence."
 image: /assets/images/articles/people-sitting-near-table.webp

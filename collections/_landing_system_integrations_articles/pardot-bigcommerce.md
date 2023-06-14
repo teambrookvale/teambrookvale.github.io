@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/bigcommerce
 author: Edward Saunders
 title: "Integration of Pardot and BigCommerce"
+topic: System Integration
 leadhead: "The integration of Pardot and BigCommerce offers many benefits to businesses, including streamlined operations, increased productivity, and improved customer experiences"
 leadtext: "Businesses can automate their marketing and sales processes, personalize marketing campaigns, and get insights into customer behavior through a seamless integration. Overall, businesses that use Pardot and BigCommerce together can gain a competitive advantage in the market and achieve their growth objectives."
 image: /assets/images/articles/people-sitting-near-table.webp

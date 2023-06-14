@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/bamboohr
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads and BambooHR"
+topic: System Integration
 leadhead: "In conclusion, the integration of Facebook Lead Ads and BambooHR offers a powerful solution for lead generation and HR management"
 leadtext: "By automating data transfer, businesses can streamline the hiring process and generate more qualified leads for recruitment."
 image: /assets/images/articles/people-sitting-near-table.webp

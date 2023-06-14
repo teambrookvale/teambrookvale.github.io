@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-ec2
 author: Edward Saunders
 title: "Exploring Integration of Moodle and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of Moodle and Amazon EC2 is a powerful combination that enables institutions and businesses to create and share digital learning resources at scale"
 leadtext: "With the flexibility and cost-effectiveness provided by Amazon EC2, coupled with the robustness of Moodle, the integration of the two platforms is a win-win situation for all stakeholders."
 image: /assets/images/articles/people-sitting-near-table.webp

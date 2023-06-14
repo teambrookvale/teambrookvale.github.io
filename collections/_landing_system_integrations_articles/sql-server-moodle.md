@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/moodle
 author: Edward Saunders
 title: "Integration of SQL Server and Moodle through API or SDK"
+topic: System Integration
 leadhead: "The integration of SQL Server and Moodle through API or SDK provides a seamless and efficient way to manage data and user accounts in educational institutions and other organizations"
 leadtext: "It can save time and effort for administrators and instructors, improve data accuracy and consistency, and enhance the user experience for students and learners."
 image: /assets/images/articles/people-sitting-near-table.webp

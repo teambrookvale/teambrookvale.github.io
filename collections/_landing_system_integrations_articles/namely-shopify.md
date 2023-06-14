@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/shopify
 author: Edward Saunders
 title: "Namely and Shopify: Streamlining HR and eCommerce"
+topic: System Integration
 leadhead: "The integration of Namely and Shopify through APIs and SDKs allows businesses to streamline their HR and eCommerce processes"
 leadtext: "With automatic data transfer, streamlined payroll, and improved reporting, companies can save time and reduce the risk of errors. Overall, this integration can help businesses operate more efficiently and effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/servicenow
 author: Edward Saunders
 title: "Integrating Keap Max Classic and ServiceNow"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and ServiceNow through API or SDK can offer businesses numerous benefits, including increased efficiency, improved customer service, and faster resolution times for support tickets"
 leadtext: "By choosing the right integration method and customizations for their business needs, organizations can optimize their workflow and improve their overall operations."
 image: /assets/images/articles/people-sitting-near-table.webp

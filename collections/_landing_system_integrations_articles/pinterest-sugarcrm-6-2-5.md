@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of Pinterest and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of Pinterest and SugarCRM 6.2-5 through API or SDK can provide several benefits for marketers and small business owners"
 leadtext: "By tracking engagement, capturing lead data, and targeting marketing efforts, businesses can increase their online presence and ultimately boost sales."
 image: /assets/images/articles/people-sitting-near-table.webp

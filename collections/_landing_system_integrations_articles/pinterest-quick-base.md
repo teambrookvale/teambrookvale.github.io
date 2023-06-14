@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/quick-base
 author: Edward Saunders
 title: "Integration of Pinterest and Quick Base"
+topic: System Integration
 leadhead: "The integration of Pinterest and Quick Base via API or SDK allows for better workflows, organization, and collaboration for users"
 leadtext: "The combined strengths of both platforms provide a robust toolset for businesses and organizations to streamline processes and stay on top of trends while achieving their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

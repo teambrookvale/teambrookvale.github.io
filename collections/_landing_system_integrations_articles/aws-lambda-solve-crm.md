@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/solve-crm
 author: Edward Saunders
 title: "AWS Lambda and Solve CRM Integration"
+topic: System Integration
 leadhead: "By integrating AWS Lambda and Solve CRM, organizations can automate their customer interactions, increase productivity, and improve customer satisfaction"
 leadtext: "The integration can be done through the use of APIs or SDKs and can be tailored to meet specific business needs."
 image: /assets/images/articles/people-sitting-near-table.webp

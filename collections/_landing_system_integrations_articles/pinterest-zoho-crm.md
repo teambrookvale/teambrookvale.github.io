@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/zoho-crm
 author: Edward Saunders
 title: "Integrating Pinterest and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of Pinterest and Zoho CRM through API or SDK offers several benefits for businesses"
 leadtext: "From lead generation to workflow automation, this integration enables businesses to improve their marketing, sales, and customer service processes. By embracing this integration, businesses can stay ahead of the competition and deliver better value to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

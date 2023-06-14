@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-ses
 author: Edward Saunders
 title: "SugarCRM 6.2-5 Integration with Amazon SES"
+topic: System Integration
 leadhead: "Integrating SugarCRM 6.2-5 with Amazon SES offers businesses a powerful tool to improve their email marketing automation, email delivery and manage their customer relationships from a unified platform"
 leadtext: "By using Amazon SES, businesses can optimize their email deliverability rates, while SugarCRM helps them manage their customer and email data centrally. Overall, this integration can help businesses streamline their email marketing campaigns and improve their chances of success."
 image: /assets/images/articles/people-sitting-near-table.webp

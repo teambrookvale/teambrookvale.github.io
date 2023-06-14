@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/amazon-s3
 author: Edward Saunders
 title: "Integrating GoTo Webinar with Amazon S3 - A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar with Amazon S3 can enhance your webinar experience by providing a secure, scalable, and reliable way to store and manage your webinar recordings and files"
 leadtext: "It can help you overcome the limitations of GoTo Webinar and benefit from the features of Amazon S3. So, why not give it a try and see how it can benefit your business and customers?"
 image: /assets/images/articles/people-sitting-near-table.webp

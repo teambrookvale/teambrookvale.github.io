@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/moodle
 author: Edward Saunders
 title: "Integrating Pinterest and Moodle"
+topic: System Integration
 leadhead: "The integration of Pinterest and Moodle can significantly enhance the learning experience for students and simplify content creation for educators"
 leadtext: "By leveraging both platforms' capabilities, learners can access different resources and learning activities that enhance their skills and knowledge. Meanwhile, educators can create interactive learning materials and efficiently curate educational resources using Pinterest and Moodle together."
 image: /assets/images/articles/people-sitting-near-table.webp

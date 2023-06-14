@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/sql-server
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and SQL Server"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and SQL Server can be very beneficial for organizations running their databases in the AWS cloud"
 leadtext: "By monitoring and tracking database resources and metrics in real-time, organizations can identify and troubleshoot performance issues quickly. Additionally, the ability to set up alarms and notifications can help ensure that these issues are addressed before they become major problems."
 image: /assets/images/articles/people-sitting-near-table.webp

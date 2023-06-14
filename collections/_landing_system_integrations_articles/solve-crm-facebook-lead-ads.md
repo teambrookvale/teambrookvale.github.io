@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating Solve CRM and Facebook Lead Ads"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Facebook Lead Ads is a smart move for businesses looking to streamline their lead collection process and improve the accuracy of their customer data"
 leadtext: "By automating the transfer of information, businesses can save time and ensure that their CRM system is always up-to-date."
 image: /assets/images/articles/people-sitting-near-table.webp

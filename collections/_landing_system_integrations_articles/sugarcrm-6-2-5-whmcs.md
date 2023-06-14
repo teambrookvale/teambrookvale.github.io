@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/whmcs
 author: Edward Saunders
 title: "Integrating SugarCRM 6.2-5 and WHMCS"
+topic: System Integration
 leadhead: "In conclusion, integrating SugarCRM 6.2-5 and WHMCS through API or SDKs results in a more efficient business operation, improved customer experiences, and increased revenue"
 leadtext: "The integration process involves the use of professional services and may require technical support from experts."
 image: /assets/images/articles/people-sitting-near-table.webp

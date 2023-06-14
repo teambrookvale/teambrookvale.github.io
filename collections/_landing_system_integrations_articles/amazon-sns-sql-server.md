@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/sql-server
 author: Edward Saunders
 title: "Amazon SNS and SQL Server Integration: A Powerful Combination for Smooth Operations"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and SQL Server is a powerful combination that can transform the way you manage your applications and data"
 leadtext: "With real-time notifications, you can stay ahead of the game and offer your users a seamless experience. So, if you're looking to streamline your operations, consider integrating Amazon SNS and SQL Server today!"
 image: /assets/images/articles/people-sitting-near-table.webp

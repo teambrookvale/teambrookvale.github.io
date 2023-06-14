@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Calldrip with SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "In conclusion, integrating Calldrip with SugarCRM 6.2-5 provides numerous benefits for businesses"
 leadtext: "It allows for seamless lead management, improved customer interaction and relationship management, as well as better lead prioritization. The integration may require some technical expertise, but it is definitely worth the effort. By implementing this integration, businesses can improve their customer acquisition and retention rate, leading to increased revenue and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/amazon-s3
 author: Edward Saunders
 title: "The Importance of Integrating Amazon Seller Central and Amazon S3"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and Amazon S3 is an essential step for any seller who wants to succeed on Amazon"
 leadtext: "It can help sellers manage their inventory more efficiently, keep their product listings up to date, and ensure that they never run out of stock. With the right tools and the right mindset, any seller can harness the power of Amazon's vast customer database and take their business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

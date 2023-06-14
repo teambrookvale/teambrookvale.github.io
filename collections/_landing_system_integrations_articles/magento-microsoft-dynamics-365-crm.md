@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "The Benefits of Integrating Magento and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "Integrating Magento and Microsoft Dynamics 365 CRM can provide businesses with many benefits, including increased efficiency, improved customer experience, and better decision-making capabilities"
 leadtext: "By leveraging the powerful features of both platforms, businesses can streamline their operations and enhance their overall performance."
 image: /assets/images/articles/people-sitting-near-table.webp

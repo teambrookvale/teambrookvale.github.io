@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integration of Chargify and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "Overall, the integration of Chargify and Microsoft Dynamics 365 CRM is a powerful way for businesses to streamline their processes and improve efficiency"
 leadtext: "Whether you're looking for better subscription management or improved customer insights, this integration can help you achieve your goals."
 image: /assets/images/articles/people-sitting-near-table.webp

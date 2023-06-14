@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-dynamodb
 author: Edward Saunders
 title: "Namely Integration with Amazon DynamoDB - Solving Business Problems"
+topic: System Integration
 leadhead: "Integrating Namely with Amazon DynamoDB can provide numerous benefits to organizations in streamlining HR processes"
 leadtext: "The integration can be done seamlessly through API or SDK, and it helps in improving HR process flow, streamlining payroll processes, and enhancing data security. Therefore, if you are looking to improve your HR processes, integrating Namely with Amazon DynamoDB is an excellent option to consider."
 image: /assets/images/articles/people-sitting-near-table.webp

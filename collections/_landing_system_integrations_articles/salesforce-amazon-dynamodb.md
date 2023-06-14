@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Salesforce and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of Salesforce and Amazon DynamoDB offers several benefits to businesses, including improved data management, scalability, and real-time updates"
 leadtext: "By connecting these two platforms using APIs or SDKs, businesses can get a complete picture of their customers and make informed decisions based on data-driven insights."
 image: /assets/images/articles/people-sitting-near-table.webp

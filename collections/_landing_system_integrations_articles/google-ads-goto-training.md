@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/goto-training
 author: Edward Saunders
 title: "Google Ads and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads and GoTo Training through their respective developer platforms can provide businesses with numerous benefits"
 leadtext: "By automating training sessions through GoTo Training, businesses can reduce training costs and time, increase efficiency of ad campaigns, and improve employee skills for optimal ad performance. Additionally, the integration provides a unified platform for data analysis. The integration presents solutions to various problems, making it a great choice for businesses striving for improved ad campaign performance and cost savings."
 image: /assets/images/articles/people-sitting-near-table.webp

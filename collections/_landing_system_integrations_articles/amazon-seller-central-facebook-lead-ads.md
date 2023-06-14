@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/facebook-lead-ads
 author: Edward Saunders
 title: "Amazon Seller Central and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Facebook Lead Ads through API or SDK can be a game-changer for businesses"
 leadtext: "It allows sellers to efficiently manage their leads and potentially increase sales. By simplifying the integration process, businesses can save time and resources, and focus on what really matters, growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

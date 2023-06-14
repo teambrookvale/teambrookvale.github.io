@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/pardot
 author: Edward Saunders
 title: "Keap Max Classic and Pardot Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Pardot through API or SDK provides businesses with a streamlined solution for managing their sales and marketing processes"
 leadtext: "The two platforms complement each other and can greatly benefit businesses by automating processes, improving lead tracking and management, and providing robust reporting features. If your business is looking for a complete CRM and marketing automation solution, Keap Max Classic and Pardot are worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-cloudfront
 author: Edward Saunders
 title: "Chargify and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "Chargify and Amazon CloudFront are two leading solutions in their respective categories, billing and content delivery network"
 leadtext: "By integrating these two platforms, businesses can create a powerful solution that helps them handle their billing and content delivery needs efficiently. The integration provides businesses with an opportunity to enhance customer experience, reduce churn rate, and improve website speed, handling high traffic volumes with ease. It's an ideal combination that empowers businesses to achieve their desired outcomes and take advantage of the explosive growth in digital commerce."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/facebook-lead-ads
 author: Edward Saunders
 title: "SugarCRM 7+ and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Facebook Lead Ads through API or SDK provides businesses with an efficient and streamlined way to manage leads, improve lead management, and better analyze customer data"
 leadtext: "By leveraging the power of these two platforms together, businesses can gain a competitive advantage and grow their customer base."
 image: /assets/images/articles/people-sitting-near-table.webp

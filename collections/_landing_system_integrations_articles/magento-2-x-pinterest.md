@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/pinterest
 author: Edward Saunders
 title: "How to Integrate Pinterest with Magento 2.X using API or SDK"
+topic: System Integration
 leadhead: "Integrating Magento 2.X with Pinterest using API or SDK is a great way to enhance your social media marketing efforts and attract more customers to your online store"
 leadtext: "By doing so, you can improve overall sales and revenue and build a strong online presence for your brand."
 image: /assets/images/articles/people-sitting-near-table.webp

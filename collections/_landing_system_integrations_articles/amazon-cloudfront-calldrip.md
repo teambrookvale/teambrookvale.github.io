@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/calldrip
 author: Edward Saunders
 title: "Integrating Amazon CloudFront and Calldrip"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Calldrip can provide significant benefits for businesses"
 leadtext: "By enabling real-time lead response, efficient lead management, and faster website speed, businesses can improve their conversion rates, save time and resources, and engage their website visitors better. With the Calldrip API and SDK, integrating Amazon CloudFront and Calldrip has become simpler and more accessible for businesses, making it an attractive option worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

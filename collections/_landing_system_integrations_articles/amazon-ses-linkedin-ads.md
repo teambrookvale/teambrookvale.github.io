@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/linkedin-ads
 author: Edward Saunders
 title: "Amazon SES and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SES and LinkedIn Ads is a valuable tool for businesses looking to improve their marketing strategy, increase conversions, and save money"
 leadtext: "By using the APIs or SDKs of both platforms, businesses can seamlessly integrate their email marketing campaigns with their advertising efforts and drive better results. Therefore, businesses should consider incorporating this integration into their overall marketing strategy and reap the benefits of two platforms working together."
 image: /assets/images/articles/people-sitting-near-table.webp

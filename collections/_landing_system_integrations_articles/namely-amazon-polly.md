@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-polly
 author: Edward Saunders
 title: "Namely and Amazon Polly Integration"
+topic: System Integration
 leadhead: "Namely and Amazon Polly integration is essential for companies looking to enhance their HR processes and improve communication with employees"
 leadtext: "With the help of this integration, HR departments can create personalized voice messages, alerts, and notifications and improve the overall employee experience. By embracing this technology, companies can improve workplace inclusion and foster a more engaged and productive workforce."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/quickbooks-online
 author: Edward Saunders
 title: "Magento and QuickBooks Online Integration – A Comprehensive Solution"
+topic: System Integration
 leadhead: "The integration of Magento and QuickBooks Online through API or SDK is a comprehensive solution that can benefit businesses of all sizes"
 leadtext: "It helps to eliminate manual data entry, reduces the chances of errors, and enables real-time synchronization of data between the two platforms. It also improves the accuracy and efficiency of financial reporting. If you are using both Magento and QuickBooks Online, integrating them can help you save time, reduce costs, and improve the overall management of your online store operations and accounting requirements."
 image: /assets/images/articles/people-sitting-near-table.webp

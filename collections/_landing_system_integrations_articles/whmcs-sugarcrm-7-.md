@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/sugarcrm-7-
 author: Edward Saunders
 title: "The Benefits of Integrating WHMCS and SugarCRM 7+"
+topic: System Integration
 leadhead: "Integrating WHMCS and SugarCRM 7+ can bring many benefits to your business"
 leadtext: "By consolidating customer data and improving communication between teams, you can provide better service and support to your customers. Whether you choose to integrate through API or SDK, the process is simple, and the results are worth it."
 image: /assets/images/articles/people-sitting-near-table.webp

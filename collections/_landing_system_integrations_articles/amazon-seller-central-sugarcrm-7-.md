@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/sugarcrm-7-
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and SugarCRM 7+"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and SugarCRM 7+ can bring several benefits to businesses"
 leadtext: "It can help them streamline their operations, improve their customer experience, and provide them with valuable insights to make informed decisions. With the help of API or SDK, businesses can achieve a seamless integration that enhances their overall performance."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/paypal
 author: Edward Saunders
 title: "GoTo Webinar and PayPal Integration"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and PayPal through API or SDK can be a game-changer for your business"
 leadtext: "By automating your registration and payment processes, you'll save time and reduce the risk of errors. Plus, the frictionless registration and payment process will improve the customer experience and increase attendance and revenue for your webinars."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/quickbooks-online
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "Integrating SugarCRM 6.2-5 and QuickBooks Online through API or SDK can bring significant improvements to a business's operations"
 leadtext: "The streamlined transfer of important data across platforms allows for better customer relationship management and increased accuracy in financial reporting. Businesses should consider implementing this integration to improve their efficiency and competitiveness."
 image: /assets/images/articles/people-sitting-near-table.webp

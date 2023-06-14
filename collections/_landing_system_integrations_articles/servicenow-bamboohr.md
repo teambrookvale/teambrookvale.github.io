@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/bamboohr
 author: Edward Saunders
 title: "ServiceNow and BambooHR Integration"
+topic: System Integration
 leadhead: "Integrating ServiceNow and BambooHR can provide numerous benefits to organizations"
 leadtext: "The integration can help businesses streamline their workflows, eliminate data duplication, and provide a better experience for their employees. The integration can be achieved through APIs or SDKs, depending on the specific needs of the organization. By leveraging both systems, businesses can optimize their IT service management and human resources processes, leading to increased productivity and efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

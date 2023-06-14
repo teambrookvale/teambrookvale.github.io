@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/amazon-ses
 author: Edward Saunders
 title: "Marketo and Amazon SES: Effective Marketing Integration"
+topic: System Integration
 leadhead: "The integration between Marketo and Amazon SES is a powerful combination that businesses can use to effectively engage their audiences while reducing costs"
 leadtext: "Using API or SDK, businesses can seamlessly integrate the two tools and enjoy the benefits of improved deliverability, reduced costs, and enhanced campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/whmcs
 author: Edward Saunders
 title: "Integrating Amazon CloudFront with WHMCS"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront with WHMCS through API or SDK can help web hosting companies improve their website performance, scalability, security, and cost efficiency"
 leadtext: "By implementing CloudFront, web hosting companies can ensure their websites are delivered quickly and securely, while also reducing the cost of delivery."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-ses
 author: Edward Saunders
 title: "Integrating Amazon SQS and Amazon SES"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Amazon SES is an excellent solution for businesses and developers looking for a reliable, scalable, and efficient way to handle their message queuing and email sending needs"
 leadtext: "By combining the two services through API or SDK integration, businesses can streamline their email campaigns and message processing, saving time, resources, and costs."
 image: /assets/images/articles/people-sitting-near-table.webp

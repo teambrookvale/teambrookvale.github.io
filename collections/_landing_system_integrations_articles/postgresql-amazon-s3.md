@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/amazon-s3
 author: Edward Saunders
 title: "Integrating PostgreSQL and Amazon S3"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Amazon S3 provides businesses with a powerful data management solution that is scalable, cost-effective, and flexible"
 leadtext: "By leveraging the power of cloud storage, businesses can store and access their data in a more efficient and secure manner."
 image: /assets/images/articles/people-sitting-near-table.webp

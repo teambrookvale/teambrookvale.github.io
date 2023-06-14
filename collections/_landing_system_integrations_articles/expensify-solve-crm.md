@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/solve-crm
 author: Edward Saunders
 title: "Expensify and Solve CRM Integration"
+topic: System Integration
 leadhead: "Expensify and Solve CRM are great tools on their own, but when integrated, they become an unbeatable duo"
 leadtext: "The integration through API or SDK offers immense benefits to businesses by reducing workload, providing a holistic view of customer interactions, and improving collaboration between departments. If you’re looking to streamline your business processes, you should definitely consider integrating Expensify and Solve CRM."
 image: /assets/images/articles/people-sitting-near-table.webp

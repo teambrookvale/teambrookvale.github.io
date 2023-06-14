@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/google-ads
 author: Edward Saunders
 title: "Amazon Polly and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Google Ads can offer businesses a powerful tool for creating engaging and effective ads"
 leadtext: "The natural-sounding voiceovers created by Amazon Polly can help to capture the attention of potential customers and improve the overall effectiveness of ad campaigns. Additionally, the integration can solve common problems that businesses face when creating ads, such as finding high-quality voice talent or coordinating the recording and editing process. Overall, this integration is a valuable tool for businesses looking to enhance their advertising efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

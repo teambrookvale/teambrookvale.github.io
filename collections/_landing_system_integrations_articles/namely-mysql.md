@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/mysql
 author: Edward Saunders
 title: "Integration of Namely and MySQL"
+topic: System Integration
 leadhead: "The integration of Namely and MySQL is a potent combination that can help businesses manage their HR needs more efficiently and accurately"
 leadtext: "The use of API or SDK makes it possible to connect these two technologies, allowing for seamless data synchronization, better management of employee information, and improved accuracy and timeliness of data processing."
 image: /assets/images/articles/people-sitting-near-table.webp

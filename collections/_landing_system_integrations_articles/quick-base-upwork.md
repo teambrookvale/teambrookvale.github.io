@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/upwork
 author: Edward Saunders
 title: "Quick Base and Upwork Integration"
+topic: System Integration
 leadhead: "Quick Base and Upwork integration can be a valuable tool for streamlining your business workflows"
 leadtext: "By using their APIs and SDKs, you can connect the two platforms and take advantage of their benefits together. With Quick Base, you can create custom applications and manage your data and workflows, and with Upwork, you can find freelance talent for your projects. This integration can help you automate tasks, track time and expenses, and manage your projects more effectively, saving you time and resources in the process."
 image: /assets/images/articles/people-sitting-near-table.webp

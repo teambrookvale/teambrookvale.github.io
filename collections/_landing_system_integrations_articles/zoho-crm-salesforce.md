@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/salesforce
 author: Edward Saunders
 title: "Zoho CRM vs Salesforce: The Integration"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Salesforce is a smart move for any business looking to enhance their CRM capabilities"
 leadtext: "Through APIs or SDKs, businesses can tailor the integration to their specific needs and enjoy the benefits of a seamless data sharing experience."
 image: /assets/images/articles/people-sitting-near-table.webp

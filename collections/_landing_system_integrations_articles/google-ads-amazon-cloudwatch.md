@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of Google Ads and Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating Google Ads with Amazon CloudWatch is a step towards better campaign performance management"
 leadtext: "As a result of this integration, advertisers can now access campaign data more efficiently, track campaign performance in real-time, and take necessary actions to solve issues quickly. The benefits are undeniable, and I would encourage you to consider integrating these two tools in your advertising strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

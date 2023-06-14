@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/snowflake
 author: Edward Saunders
 title: "Integrating Google Ads and Snowflake"
+topic: System Integration
 leadhead: "Integrating Google Ads and Snowflake can enable you to better harness the power of your advertising data and drive more revenue growth and ROI"
 leadtext: "By unifying your advertising data across channels, optimizing your campaigns based on performance and ROI, and analyzing customer behavior and demographics, you can better target and message your audience, as well as increase revenue growth, and improve your ROI. Overall, the integration of these two powerful platforms can provide a competitive edge and help you stay ahead of the curve in the digital advertising landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

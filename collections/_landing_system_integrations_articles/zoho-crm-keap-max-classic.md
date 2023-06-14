@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/keap-max-classic
 author: Edward Saunders
 title: "Integration of Zoho CRM and Keap Max Classic"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Keap Max Classic provides businesses with a powerful solution for managing customer relationships"
 leadtext: "The use of APIs or SDKs allows data to be transferred seamlessly between the two platforms, providing businesses with a complete view of their customers. This integration solves many problems for businesses, including reducing manual errors, providing personalized services, and automating sales and marketing processes. For businesses looking to streamline their CRM process, integrating Zoho CRM and Keap Max Classic is a match made in heaven."
 image: /assets/images/articles/people-sitting-near-table.webp

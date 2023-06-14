@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/twitter
 author: Edward Saunders
 title: "Facebook and Twitter Integration"
+topic: System Integration
 leadhead: "Facebook Lead Ads and Twitter are two powerful tools in social media advertising"
 leadtext: "By integrating these two through an API or SDK, businesses can increase their efficiency, reach, and visibility, as well as improve their lead generation efforts. This integration is an excellent opportunity for businesses looking to get the most out of their social media marketing strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

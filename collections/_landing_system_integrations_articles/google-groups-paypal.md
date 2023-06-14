@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/paypal
 author: Edward Saunders
 title: "Google Groups & PayPal Integration"
+topic: System Integration
 leadhead: "Integrating Google Groups and PayPal can provide many benefits, including streamlined communications, simplified finances, and increased efficiency"
 leadtext: "As more businesses and organizations move online, integrating different platforms will become increasingly important. By using APIs or SDKs, developers can create custom integrations that meet the specific needs of their clients or organizations."
 image: /assets/images/articles/people-sitting-near-table.webp

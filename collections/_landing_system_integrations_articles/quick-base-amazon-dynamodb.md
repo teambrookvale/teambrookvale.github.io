@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/amazon-dynamodb
 author: Edward Saunders
 title: "Quick Base and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "Combining the power of Quick Base's low-code platform and Amazon DynamoDB's scalable NoSQL database can offer businesses a robust and flexible solution for managing data"
 leadtext: "The integration of these two platforms enables organizations to automate data management tasks, reduce the risk of errors, and improve productivity. By leveraging the benefits of Quick Base and DynamoDB, businesses can enhance their data management capabilities and achieve better insights, improving their overall operations and bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

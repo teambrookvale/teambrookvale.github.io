@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/amazon-dynamodb
 author: Edward Saunders
 title: "MySQL and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and Amazon DynamoDB provides a powerful solution for applications that require high scalability, low latency, and cost-effective storage and management of data"
 leadtext: "By using the API or SDK provided by AWS and MySQL, applications can benefit from the strengths of both databases and solve common problems related to scalability, performance, and cost."
 image: /assets/images/articles/people-sitting-near-table.webp

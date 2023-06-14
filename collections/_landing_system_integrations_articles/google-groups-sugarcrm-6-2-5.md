@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of Google Groups and SugarCRM 6.2-5 through API or SDK"
+topic: System Integration
 leadhead: "The integration of Google Groups and SugarCRM 6.2-5 through API or SDK can provide businesses with a powerful communication and collaboration tool"
 leadtext: "By centralizing communication channels and enhancing collaboration, businesses can improve their operations. Additionally, by linking customer communication to customer profiles, businesses can provide personalized and efficient customer service. Overall, this integration can help businesses achieve their goals by providing a seamless experience."
 image: /assets/images/articles/people-sitting-near-table.webp

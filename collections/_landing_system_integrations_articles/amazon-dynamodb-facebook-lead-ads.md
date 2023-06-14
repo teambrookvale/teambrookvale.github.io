@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/facebook-lead-ads
 author: Edward Saunders
 title: "Amazon DynamoDB and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Facebook Lead Ads is an excellent way for businesses to streamline their lead generation process, improve data management, and gain valuable insights"
 leadtext: "With the help of API or SDK, businesses can easily connect their Facebook Lead Ads account with their DynamoDB table and automate the transfer of lead data. So, if you're using Facebook as a marketing channel and want to strengthen your data infrastructure, consider integrating with DynamoDB."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/amazon-cloudwatch
 author: Edward Saunders
 title: "Amazon CloudFront and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Amazon CloudWatch can provide a comprehensive and efficient monitoring solution for website owners and developers"
 leadtext: "By leveraging the real-time insights and automation capabilities of these services, businesses can optimize their content delivery and resource usage, improve their user experience, and reduce their operational costs. To take advantage of this integration, businesses can explore the AWS SDK or the CloudWatch API, and configure alarms and triggers that suit their specific needs and goals."
 image: /assets/images/articles/people-sitting-near-table.webp

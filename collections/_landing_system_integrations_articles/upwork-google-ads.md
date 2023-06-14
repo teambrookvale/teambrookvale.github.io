@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/google-ads
 author: Edward Saunders
 title: "Benefits of Integrating Upwork and Google Ads"
+topic: System Integration
 leadhead: "The integration of Upwork and Google Ads is a powerful combination that can help businesses save time and resources while also boosting their advertising campaigns' success"
 leadtext: "By utilizing API or SDK integration, businesses can obtain professional services from Upwork, manage their advertising campaigns directly from Upwork, and access talented freelancers to create effective advertisements. This collaboration can help businesses achieve their advertising goals and increase their ROI (return on investment)."
 image: /assets/images/articles/people-sitting-near-table.webp

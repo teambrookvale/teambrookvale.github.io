@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/greenhouse
 author: Edward Saunders
 title: "Integration of AWS Lambda and Greenhouse"
+topic: System Integration
 leadhead: "Integration of AWS Lambda and Greenhouse is a game-changer for recruiting teams seeking to streamline their recruitment process"
 leadtext: "The integration solves several problems, including improved efficiency, streamlined communication, and faster recruitment processes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/moodle
 author: Edward Saunders
 title: "Integrating Amazon S3 and Moodle"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and Moodle is a smart move for educators and administrators who want to provide an exceptional learning experience for their students"
 leadtext: "The integration solves a variety of problems that educators face, such as slow website load times and data loss. By using an API or SDK, administrators can allow Moodle users to access and manage the resources available on Amazon S3, making it an excellent tool for any educational institution."
 image: /assets/images/articles/people-sitting-near-table.webp

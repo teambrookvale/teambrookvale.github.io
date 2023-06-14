@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/evernote-business
 author: Edward Saunders
 title: "Twitter and Evernote Business Integration"
+topic: System Integration
 leadhead: "Twitter and Evernote Business are powerful tools that provide valuable features and capabilities"
 leadtext: "However, when combined through API or SDK, they can optimize workflows and significantly improve productivity and collaboration. The integration of these two tools solves several problems that users face, making it an excellent choice for businesses and individuals seeking to streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

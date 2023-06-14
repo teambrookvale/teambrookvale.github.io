@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/goto-webinar
 author: Edward Saunders
 title: "Facebook Custom Audiences and GoTo Webinar Integration: A Complete Guide"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and GoTo Webinar is a game-changer for digital marketing"
 leadtext: "It allows you to reach the right audience, generate more leads, and save time and money. To get the most out of this integration, it is recommended to work with a developer who can help you to set everything up correctly and maximize your ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

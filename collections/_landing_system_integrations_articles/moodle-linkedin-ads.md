@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/linkedin-ads
 author: Edward Saunders
 title: "Moodle and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and LinkedIn Ads through API or SDK is a powerful tool for educators, trainers, and businesses alike"
 leadtext: "It allows them to leverage the strengths of both platforms to reach a larger audience and achieve their goals. Whether it's driving more enrollment or finding the right employees, the integration of these two platforms can help businesses and educators achieve success."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/whmcs
 author: Edward Saunders
 title: "MySQL and WHMCS Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and WHMCS is a game-changer for web hosting businesses"
 leadtext: "It provides a range of benefits, including automation, efficiency, and improved customer experience. By integrating the two platforms using API or SDK, businesses can streamline their operations, reduce costs, and grow their customer base. If you're running a web hosting business, consider integrating MySQL and WHMCS to unlock its full potential."
 image: /assets/images/articles/people-sitting-near-table.webp

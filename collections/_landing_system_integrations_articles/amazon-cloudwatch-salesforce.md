@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/salesforce
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Salesforce to Streamline Business Processes"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Salesforce provides businesses with a powerful toolset to monitor, analyze and optimize their workflows"
 leadtext: "By combining real-time monitoring and actionable insights from CloudWatch with the automation and optimization capabilities of Salesforce, businesses can streamline processes, improve performance, and make data-driven decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

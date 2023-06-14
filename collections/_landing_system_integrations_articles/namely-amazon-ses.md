@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-ses
 author: Edward Saunders
 title: "Integrating Namely and Amazon SES for Simpler Communication"
+topic: System Integration
 leadhead: "Integrating Namely and Amazon SES is a smart move for any business looking to streamline their communication processes"
 leadtext: "Whether you use the API or the SDK, you can easily automate email communication to employees, customers, and other stakeholders. And with the ability to send high-quality, personalized email at scale, your business can stay connected and engaged with those who matter most."
 image: /assets/images/articles/people-sitting-near-table.webp

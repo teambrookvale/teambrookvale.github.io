@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/postgresql
 author: Edward Saunders
 title: "BigCommerce and PostgreSQL Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating BigCommerce and PostgreSQL through APIs or SDKs provides businesses with a range of benefits, including more customized and secure ecommerce data management, better data-driven decision making, and more effective inventory management"
 leadtext: "With the help of skilled developers and the right tools, businesses can take advantage of this integration and become more successful in the ever-evolving world of ecommerce."
 image: /assets/images/articles/people-sitting-near-table.webp

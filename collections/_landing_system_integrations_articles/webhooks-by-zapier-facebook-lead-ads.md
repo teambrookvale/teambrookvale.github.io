@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/facebook-lead-ads
 author: Edward Saunders
 title: "The Power of Webhooks by Zapier and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "Integration between Zapier and Facebook Lead Ads through API or SDK offers businesses a powerful tool for automating lead generation and management"
 leadtext: "With seamless data transfer, automatic workflows, and the ability to connect with other apps and services, this integration has the potential to transform the way businesses do business online. By leveraging this power, businesses can increase efficiency, reduce errors, and ultimately boost their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

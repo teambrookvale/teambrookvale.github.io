@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/amazon-sqs
 author: Edward Saunders
 title: "Integrating Pinterest and Amazon SQS: Solving Communication Problems"
+topic: System Integration
 leadhead: "Integrating Pinterest and Amazon SQS can provide developers with a powerful toolset to enable real-time and scalable communication between their applications and the Pinterest platform"
 leadtext: "By leveraging APIs and SDKs, developers can build innovative and efficient solutions that solve various communication problems and unlock new opportunities."
 image: /assets/images/articles/people-sitting-near-table.webp

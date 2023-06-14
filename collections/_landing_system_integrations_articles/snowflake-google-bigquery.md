@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/google-bigquery
 author: Edward Saunders
 title: "The Power of Integration: Snowflake and Google BigQuery"
+topic: System Integration
 leadhead: "The integration of Snowflake and Google BigQuery is a game-changer for businesses that want to leverage data to gain a competitive edge"
 leadtext: "Both platforms are highly scalable, efficient, and cost-effective, and when integrated, provide businesses with a powerful solution for managing and analyzing large amounts of data. With their respective strengths and the power of collaboration, Snowflake and Google BigQuery are transforming the future of data warehousing and analytics."
 image: /assets/images/articles/people-sitting-near-table.webp

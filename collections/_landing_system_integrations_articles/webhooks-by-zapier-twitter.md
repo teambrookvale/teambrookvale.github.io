@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/twitter
 author: Edward Saunders
 title: "Integrating Twitter and Webhooks by Zapier"
+topic: System Integration
 leadhead: "Integrating Twitter and Webhooks by Zapier is a great way to streamline your social media strategy and automate tasks between different web apps and services"
 leadtext: "By taking advantage of the powerful automation tools provided by Webhooks by Zapier, you can save time, improve productivity, and focus on what matters most to your business or organization."
 image: /assets/images/articles/people-sitting-near-table.webp

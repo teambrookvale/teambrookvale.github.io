@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/namely
 author: Edward Saunders
 title: "Xero and Namely Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Namely is a powerful solution for managing your business"
 leadtext: "It saves time, reduces errors, and provides businesses with a complete view of their financial and HR information. Whether you are a small or mid-sized business, integrating Xero and Namely is a smart decision that will help you manage your business more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

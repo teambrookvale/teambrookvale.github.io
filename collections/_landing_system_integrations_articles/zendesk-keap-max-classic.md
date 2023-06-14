@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/keap-max-classic
 author: Edward Saunders
 title: "Zendesk and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The Zendesk and Keap Max Classic integration is an excellent choice for businesses looking to streamline their customer support and sales operations"
 leadtext: "By integrating these two powerful applications, businesses can save time and money, automate their workflows, and focus on delivering exceptional customer service while growing their revenue at the same time."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-ec2
 author: Edward Saunders
 title: "Upwork and Amazon EC2 Integration: A Powerful Combination"
+topic: System Integration
 leadhead: "The integration of Upwork and Amazon EC2 can be a game-changer for businesses of all sizes and types"
 leadtext: "By leveraging the strengths of these platforms, companies can reduce costs, increase agility, and access a vast pool of talent. They can take on complex projects, meet tight deadlines, and deliver high-quality products and services to their customers. It's time for businesses to explore the benefits of this powerful combination."
 image: /assets/images/articles/people-sitting-near-table.webp

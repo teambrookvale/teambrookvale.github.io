@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/amazon-polly
 author: Edward Saunders
 title: "PayPal and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Amazon Polly can provide a number of benefits to users, including improved accessibility, efficiency, and user experience"
 leadtext: "By using API or SDK to connect these two services, developers can create a more seamless and intuitive experience for their users."
 image: /assets/images/articles/people-sitting-near-table.webp

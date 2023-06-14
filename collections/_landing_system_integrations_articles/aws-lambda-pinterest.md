@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/pinterest
 author: Edward Saunders
 title: "How AWS Lambda and Pinterest Integration Can Solve Your Problems"
+topic: System Integration
 leadhead: "In conclusion, AWS Lambda and Pinterest integration is a powerful tool that can help businesses and individuals solve a wide range of problems related to content sharing, marketing, and customer engagement"
 leadtext: "By leveraging the strengths of both services, developers can create custom solutions that are tailored to their specific needs, without having to worry about server administration, maintenance, or scaling."
 image: /assets/images/articles/people-sitting-near-table.webp

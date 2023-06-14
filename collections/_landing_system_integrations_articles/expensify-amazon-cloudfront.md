@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/amazon-cloudfront
 author: Edward Saunders
 title: "Expensify and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Amazon CloudFront is a great solution for businesses that need to manage expenses and reimbursements quickly, securely, and efficiently"
 leadtext: "With the integration, businesses can ensure fast delivery of content, while also being protected by robust security features. The API and SDK make it easy to integrate the two systems, so businesses of all sizes can benefit from this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

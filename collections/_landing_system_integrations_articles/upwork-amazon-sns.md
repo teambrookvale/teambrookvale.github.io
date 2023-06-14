@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-sns
 author: Edward Saunders
 title: "Upwork and Amazon SNS Integration | Blog Post"
+topic: System Integration
 leadhead: "The integration of Upwork and Amazon SNS provides many benefits to businesses and freelancers"
 leadtext: "It streamlines the messaging process, improves collaboration, and provides real-time updates on project statuses. To integrate Upwork and SNS, businesses can use their APIs or SDKs. Overall, this integration is a win for all parties involved."
 image: /assets/images/articles/people-sitting-near-table.webp

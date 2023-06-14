@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/zendesk
 author: Edward Saunders
 title: "Chargify and Zendesk Integration"
+topic: System Integration
 leadhead: "The integration of Chargify and Zendesk is a game-changer for businesses looking to streamline their operations and provide better customer support"
 leadtext: "By using APIs or SDKs to connect the two platforms, businesses can manage their recurring billing operations and customer support from a single platform. This, in turn, allows for more personalized customer support, faster response times, and greater efficiencies across the board."
 image: /assets/images/articles/people-sitting-near-table.webp

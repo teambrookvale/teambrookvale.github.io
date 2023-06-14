@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/moodle
 author: Edward Saunders
 title: "Marketo and Moodle Integration: Solving E-Learning Problems"
+topic: System Integration
 leadhead: "The integration of Marketo and Moodle is a powerful tool for businesses and educators looking to improve their e-learning outcomes"
 leadtext: "By leveraging the power of marketing automation and learning management, businesses can improve lead nurturing and revenue, while educators can deliver personalized learning experiences tailored to the needs and preferences of individual learners."
 image: /assets/images/articles/people-sitting-near-table.webp

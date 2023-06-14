@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/bigcommerce
 author: Edward Saunders
 title: "GoTo Training & BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of GoTo Training and BigCommerce through API or SDK is an effective way for businesses to manage and streamline their operations"
 leadtext: "By connecting the two tools, businesses can automatically sync data, reduce administrative costs, and gain better insights into their operations. Ultimately, this integration can help businesses grow and achieve their long-term objectives."
 image: /assets/images/articles/people-sitting-near-table.webp

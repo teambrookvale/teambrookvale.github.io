@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating Salesforce and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Salesforce and Webhooks by Zapier through API or SDK can provide significant benefits to any business looking for an efficient and automated workflow"
 leadtext: "By automating certain business processes, you can save time and reduce manual errors. Additionally, Salesforce can help you manage your customer interactions in a more organized and streamlined manner."
 image: /assets/images/articles/people-sitting-near-table.webp

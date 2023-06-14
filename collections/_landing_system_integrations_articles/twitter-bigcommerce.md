@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/bigcommerce
 author: Edward Saunders
 title: "Integration of Twitter and BigCommerce through API or SDK"
+topic: System Integration
 leadhead: "The integration of Twitter and BigCommerce through API or SDK provides businesses with many benefits"
 leadtext: "It helps businesses to promote their brand and products on Twitter, reach a wider audience, and engage with their customers. The integration solves many problems for businesses and saves time and effort in promoting products on Twitter. It is a great way for businesses to grow their online presence and increase their customer base."
 image: /assets/images/articles/people-sitting-near-table.webp

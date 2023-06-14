@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/aws-lambda
 author: Edward Saunders
 title: "How Amazon EC2 and AWS Lambda Work Together for Efficient Computing: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Amazon EC2 and AWS Lambda are two of the most popular services in Amazon's cloud computing ecosystem"
 leadtext: "Their integration provides businesses with increased flexibility, reduced overhead costs, and the ability to build serverless architectures that scale up and down automatically based on user demand. With the use of APIs or SDKs, developers can easily build and deploy applications that utilize the scalability and flexibility of both Amazon EC2 and AWS Lambda."
 image: /assets/images/articles/people-sitting-near-table.webp

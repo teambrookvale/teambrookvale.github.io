@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/namely
 author: Edward Saunders
 title: "Integrating Marketo and Namely: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating Marketo and Namely is a smart move for businesses looking to streamline their marketing and HR automation processes and improve employee engagement and retention rates"
 leadtext: "With various integration options available, you can easily find the solution that works best for your business, automate processes, and focus on more strategic initiatives."
 image: /assets/images/articles/people-sitting-near-table.webp

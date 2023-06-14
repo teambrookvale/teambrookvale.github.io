@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/chargify
 author: Edward Saunders
 title: "BambooHR and Chargify Integration for a Smooth HR and Billing Process"
+topic: System Integration
 leadhead: "The integration of BambooHR and Chargify can help businesses simplify and streamline their HR and billing processes"
 leadtext: "The integration can be done through API or SDK, depending on the business needs. By eliminating manual data entry, streamlining billing processes, improving data accuracy, and enhancing visibility, businesses can save time and money, and focus on growing their core operations."
 image: /assets/images/articles/people-sitting-near-table.webp

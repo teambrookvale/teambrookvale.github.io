@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/amazon-sqs
 author: Edward Saunders
 title: "Integrating Amazon Polly and Amazon SQS"
+topic: System Integration
 leadhead: "Integrating Amazon Polly and Amazon SQS provides a powerful solution to speech processing challenges that are commonly encountered in building speech-enabled applications"
 leadtext: "It enables you to decouple and scale components of your application to be more efficient and optimize resource utilization to reduce cloud computing costs."
 image: /assets/images/articles/people-sitting-near-table.webp

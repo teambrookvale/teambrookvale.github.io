@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/ai-by-zapier
 author: Edward Saunders
 title: "Integrating Pardot and AI by Zapier: Solving Problems Made Easy"
+topic: System Integration
 leadhead: "The integration of Pardot and AI by Zapier creates a powerful duo that can help businesses improve their marketing strategies"
 leadtext: "It allows for easy transfer of data between platforms and the creation of custom applications without the need for coding skills. This integration solves several problems encountered by businesses, making marketing automation and task automation easier and more efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

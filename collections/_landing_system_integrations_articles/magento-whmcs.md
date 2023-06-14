@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/whmcs
 author: Edward Saunders
 title: "Integration of Magento and WHMCS through API or SDK"
+topic: System Integration
 leadhead: "The integration of Magento and WHMCS through API or SDK can help businesses automate their store and billing management processes"
 leadtext: "It can bring several benefits, including improved accuracy, faster order processing, and centralization of data. By using the right tools and resources, businesses can seamlessly integrate the two platforms and enjoy the advantages of streamlined operations and increased customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

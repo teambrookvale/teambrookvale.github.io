@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/pardot
 author: Edward Saunders
 title: "How Webhooks by Zapier and Pardot integration solves problems"
+topic: System Integration
 leadhead: "Webhooks by Zapier and Pardot integration through API or SDK can help companies automate repetitive tasks in the sales and marketing process, enhance lead monitoring, shorten sales cycles, and save valuable time that can be allocated to value-added tasks"
 leadtext: "Integrating Webhooks and Pardot is an excellent strategy for businesses that want to streamline their workflows, increase efficiency, and grow their sales revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

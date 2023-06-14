@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/quickbooks-online
 author: Edward Saunders
 title: "Moodle and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "Integrating Moodle and QuickBooks Online through API or SDK can provide many benefits for businesses and educational institutions"
 leadtext: "The seamless data transfer between the two platforms can save time and reduce errors, while the creation of custom reports can provide a more comprehensive view of operations. Overall, integrating these two platforms is a smart move for those looking to streamline their accounting and educational processes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/instagram-lead-ads
 author: Edward Saunders
 title: "Integration of Expensify and Instagram Lead Ads"
+topic: System Integration
 leadhead: "The integration of Expensify and Instagram Lead Ads through API or SDK is a valuable tool for businesses looking to streamline their expense management and lead generation processes"
 leadtext: "The integration not only saves time but also ensures accuracy and consistency, leading to better decision-making and impactful marketing campaigns. Whether you are a small business or a large corporation, integrating these two tools will undoubtedly be a game-changer."
 image: /assets/images/articles/people-sitting-near-table.webp

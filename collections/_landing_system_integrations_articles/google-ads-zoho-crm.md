@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/zoho-crm
 author: Edward Saunders
 title: "Google Ads & Zoho CRM Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads and Zoho CRM through API or SDK can bring several benefits that can streamline your advertising, sales, and customer management processes"
 leadtext: "By integrating Google Ads and Zoho CRM, you can optimize your ad campaigns and make more informed decisions based on the data you have collected."
 image: /assets/images/articles/people-sitting-near-table.webp

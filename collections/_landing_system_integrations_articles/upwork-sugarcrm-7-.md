@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/sugarcrm-7-
 author: Edward Saunders
 title: "Integrating Upwork and SugarCRM 7+"
+topic: System Integration
 leadhead: "The integration of Upwork and SugarCRM 7+ is a useful tool for businesses looking to boost productivity and improve customer experiences"
 leadtext: "By using the SugarCRM 7+ API or SDK to integrate the two platforms, businesses can save time, increase efficiency and manage their clients' interactions and data more effectively. As businesses continue to look for ways to streamline their operations, this integration is likely to become more widespread and popular."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/xero
 author: Edward Saunders
 title: "Integrating Zendesk and Xero through API or SDK"
+topic: System Integration
 leadhead: "Integrating Zendesk and Xero can bring a number of benefits to businesses, including improved workflow management, better financial reporting, and improved customer service"
 leadtext: "By leveraging the APIs and SDKs provided, businesses can automate certain processes and improve data flow between the two systems. Overall, the integration of Zendesk and Xero is a step towards greater efficiency and productivity for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

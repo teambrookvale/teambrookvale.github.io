@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/magento-2-x
 author: Edward Saunders
 title: "Microsoft Dynamics 365 CRM and Magento 2.X Integration"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Magento 2.X through API or SDK is a great way to improve business operations and provide a better experience for customers"
 leadtext: "By having centralized data management, promoting customer personalization, and increasing efficiency, businesses can see increased profitability and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

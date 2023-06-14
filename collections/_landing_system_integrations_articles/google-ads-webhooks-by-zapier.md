@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/webhooks-by-zapier
 author: Edward Saunders
 title: "Google Ads and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads with Webhooks by Zapier is a powerful way to streamline your marketing campaign and automate various tasks"
 leadtext: "It can help you save time, improve your reporting capabilities, and enhance your overall marketing performance. If you are looking to get the most out of your Google Ads campaigns, consider integrating it with Webhooks by Zapier today."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/amazon-polly
 author: Edward Saunders
 title: "MySQL and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and Amazon Polly provides developers with a powerful tool for improving the functionality and user experience of applications and systems"
 leadtext: "Whether using API or SDK integration, this integration can help to solve a range of problems and provide new opportunities for innovation and automation."
 image: /assets/images/articles/people-sitting-near-table.webp

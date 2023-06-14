@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/solve-crm
 author: Edward Saunders
 title: "Integration of Chargify and Solve CRM"
+topic: System Integration
 leadhead: "The integration of Chargify and Solve CRM through API or SDK offers a seamless solution for managing subscriptions and recurring revenue"
 leadtext: "By syncing customer and subscription data between the two platforms, businesses can save time and resources, improve their operations, and grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

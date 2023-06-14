@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/webhooks-by-zapier
 author: Edward Saunders
 title: "Greenhouse and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Greenhouse and Webhooks by Zapier can bring significant benefits to your recruitment process by improving efficiency, reducing manual work, and increasing candidate engagement"
 leadtext: "By automating workflows and leveraging powerful APIs and SDKs, you can create a seamless and efficient hiring process that will help you attract and hire the best talent for your company."
 image: /assets/images/articles/people-sitting-near-table.webp

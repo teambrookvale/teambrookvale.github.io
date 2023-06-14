@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/amazon-ses
 author: Edward Saunders
 title: "Pardot and Amazon SES Integration"
+topic: System Integration
 leadhead: "Integrating Pardot and Amazon SES is a straightforward process that pays off in dividends"
 leadtext: "Combining Pardot’s automation system with Amazon SES’s email infrastructure enables businesses to streamline their marketing and email campaigns effortlessly. Organizations can create engaging email content and ensure email deliverability by leveraging Amazon SES’s highly scalable infrastructure. By doing so, businesses can save money, boost customer engagement, and drive revenue growth."
 image: /assets/images/articles/people-sitting-near-table.webp

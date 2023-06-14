@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/twitter
 author: Edward Saunders
 title: "Snowflake and Twitter Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Twitter can provide businesses with a powerful tool for data analysis and decision-making"
 leadtext: "With the use of API or SDK, businesses can extract valuable insights from Twitter data and use it to improve their offerings and services. As such, it is essential for businesses to consider the integration of these two platforms to achieve their goals and stay competitive."
 image: /assets/images/articles/people-sitting-near-table.webp

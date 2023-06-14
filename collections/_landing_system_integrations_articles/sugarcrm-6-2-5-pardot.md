@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/pardot
 author: Edward Saunders
 title: "Integrating SugarCRM 6.2-5 with Pardot"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 with Pardot through API or SDK provides businesses with a comprehensive marketing automation and customer relationship management solution"
 leadtext: "It streamlines sales and marketing operations, enables businesses to get a 360-degree view of their customers, and solves a host of problems faced by businesses in these areas."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/aws-lambda
 author: Edward Saunders
 title: "Shopify and AWS Lambda Integration - A Solution to E-Commerce Woes"
+topic: System Integration
 leadhead: "Shopify and AWS Lambda integration is a brilliant solution for e-commerce sellers looking to streamline their business operations, automate tasks, and minimize workload"
 leadtext: "The combination brings powerful functionalities to Shopify stores, ensuring that they can handle the traffic of a successful online business. The possibilities for growth and innovation are endless with this integration, making it a promising solution for any e-commerce seller."
 image: /assets/images/articles/people-sitting-near-table.webp

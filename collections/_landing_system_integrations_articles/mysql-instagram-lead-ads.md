@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/instagram-lead-ads
 author: Edward Saunders
 title: "Integration of MySQL and Instagram Lead Ads"
+topic: System Integration
 leadhead: "The integration of MySQL and Instagram Lead Ads through API or SDK has numerous benefits for businesses that use the platforms for lead generation and data management"
 leadtext: "By simplifying the process of data transfer and storage, businesses can save time, resources, and money while improving data accuracy and accessibility."
 image: /assets/images/articles/people-sitting-near-table.webp

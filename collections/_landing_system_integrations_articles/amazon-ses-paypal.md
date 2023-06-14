@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/paypal
 author: Edward Saunders
 title: "Integration of Amazon SES and PayPal"
+topic: System Integration
 leadhead: "The integration of Amazon SES and PayPal is a game-changer in ecommerce"
 leadtext: "It has eliminated a lot of problems associated with sending email notifications and secured payment processes. Businesses can now enjoy a seamless and efficient ecommerce experience when they integrate these two services. Therefore, it's high time businesses integrate these two services to maximize their return on investment and improve customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/calldrip
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM and Calldrip"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Calldrip can lead to increased efficiency and better lead management for businesses"
 leadtext: "Whether through an API or SDK integration, this solution can help businesses stay on top of their leads and provide better customer experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

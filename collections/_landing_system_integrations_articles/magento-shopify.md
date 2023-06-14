@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/shopify
 author: Edward Saunders
 title: "Magento vs Shopify and Their Integration"
+topic: System Integration
 leadhead: "While both Magento and Shopify have their unique strengths and benefits, integrating the two can provide a solution that combines the best of both worlds"
 leadtext: "This allows businesses to reach a wider audience, streamline their operations, and improve their sales and revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

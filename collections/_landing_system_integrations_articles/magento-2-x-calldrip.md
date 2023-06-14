@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/calldrip
 author: Edward Saunders
 title: "Magento 2.X and Calldrip Integration: A Complete Guide"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Calldrip is an excellent opportunity for eCommerce businesses to improve their customer service experience, increase efficiency, and gain a competitive edge"
 leadtext: "With Calldrip's automatic phone call response and data analytics tools, businesses can deliver an excellent customer service experience that helps them stand out from their competition. Magento's versatile integration capabilities mean that businesses can easily integrate Calldrip into their existing systems to start delivering top-notch customer service immediately."
 image: /assets/images/articles/people-sitting-near-table.webp

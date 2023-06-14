@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating Pardot and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration of Pardot and Microsoft Dynamics 365 CRM is a powerful tool for businesses that want to streamline their marketing and sales operations"
 leadtext: "By exchanging data between the two platforms, businesses can improve their lead management process, increase lead conversion rates, and measure marketing ROI. Whether through APIs or SDKs, integrating Pardot and Microsoft Dynamics 365 CRM is a smart investment for any business looking to grow its revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

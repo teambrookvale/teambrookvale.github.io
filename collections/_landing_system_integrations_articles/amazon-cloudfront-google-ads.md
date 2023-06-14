@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/google-ads
 author: Edward Saunders
 title: "Amazon CloudFront and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Google Ads is a game changer for businesses that rely on Google Ads for their digital marketing campaigns"
 leadtext: "With faster delivery of advertisement content, businesses can enhance their user experience, and avoid negative impacts on their rank in Google searches."
 image: /assets/images/articles/people-sitting-near-table.webp

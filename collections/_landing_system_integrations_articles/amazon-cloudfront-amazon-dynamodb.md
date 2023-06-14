@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/amazon-dynamodb
 author: Edward Saunders
 title: "Integrating Amazon CloudFront and DynamoDB"
+topic: System Integration
 leadhead: "Integration of Amazon CloudFront and DynamoDB is an effective way to optimize your application's performance and enhance user experience"
 leadtext: "By leveraging these services together, businesses can provide quick and reliable access to content, leading to increased user satisfaction and retention."
 image: /assets/images/articles/people-sitting-near-table.webp

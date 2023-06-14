@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/quick-base
 author: Edward Saunders
 title: "The Benefits of Integrating Zendesk and Quick Base"
+topic: System Integration
 leadhead: "Integrating Zendesk and Quick Base through API or SDK can provide businesses with several benefits, including centralized data management, automated workflows, custom reporting, and improved customer experience"
 leadtext: "By leveraging the strengths of both platforms, businesses can create a robust support system that can help them better understand their customers and provide timely, personalized support."
 image: /assets/images/articles/people-sitting-near-table.webp

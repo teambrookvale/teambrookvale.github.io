@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/webhooks-by-zapier
 author: Edward Saunders
 title: "How to Integrate Shopify and Webhooks by Zapier"
+topic: System Integration
 leadhead: "Integrating Shopify with Webhooks by Zapier is a simple and effective way to automate tasks and streamline your business processes"
 leadtext: "By utilizing the powerful tools available, you can increase productivity, save time, and focus on growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/evernote-business
 author: Edward Saunders
 title: "Webhooks by Zapier and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Evernote Business can help you save time and increase productivity by automating routine tasks"
 leadtext: "By leveraging the power of API or SDK, you can streamline your workflow and focus on what matters most: growing your business. Try the integration today and experience the benefits for yourself!"
 image: /assets/images/articles/people-sitting-near-table.webp

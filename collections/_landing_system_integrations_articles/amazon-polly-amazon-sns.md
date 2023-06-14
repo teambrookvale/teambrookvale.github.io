@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/amazon-sns
 author: Edward Saunders
 title: "Amazon Polly and Amazon SNS: The Ultimate Speech-To-Text Solution"
+topic: System Integration
 leadhead: "The integration of Amazon Polly with Amazon SNS is a potent combination that satisfies voice notification needs for companies in today's fast-paced and connected world"
 leadtext: "Its customer-centric approach provides businesses with a solution that can help streamline communication and enhance user satisfaction. I strongly recommend that organizations use this service duo to deliver exceptional user experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-cloudfront
 author: Edward Saunders
 title: "Upwork & Amazon CloudFront Integration: A Solution to Your Problems"
+topic: System Integration
 leadhead: "The integration of Upwork with Amazon CloudFront through API or SDK is a great way for businesses to get their work done faster and more efficiently"
 leadtext: "With the help of top-rated freelancers from Upwork, businesses can ensure that their content is delivered securely and efficiently, resulting in a better user experience. So, if you are a business looking for a flexible and secure way to distribute your content and do not want to overspend, then the Upwork and Amazon CloudFront integration is the way to go."
 image: /assets/images/articles/people-sitting-near-table.webp

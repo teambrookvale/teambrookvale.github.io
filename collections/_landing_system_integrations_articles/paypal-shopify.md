@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/shopify
 author: Edward Saunders
 title: "PayPal and Shopify Integration: A Seamless Solution for E-commerce"
+topic: System Integration
 leadhead: "In conclusion, integrating PayPal and Shopify is a seamless solution for e-commerce"
 leadtext: "The integration simplifies the sales process, consolidates payment and inventory management, and improves the customer experience. Merchants who have not integrated PayPal and Shopify should consider doing so to enjoy the benefits of a streamlined e-commerce process."
 image: /assets/images/articles/people-sitting-near-table.webp

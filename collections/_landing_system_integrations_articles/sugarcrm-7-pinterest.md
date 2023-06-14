@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/pinterest
 author: Edward Saunders
 title: "SugarCRM 7+ and Pinterest Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Pinterest may not be an obvious solution for businesses, but it can provide many benefits that can help them improve their marketing efforts"
 leadtext: "By automating social media postings and analyzing customer interests, businesses can create more effective and efficient marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

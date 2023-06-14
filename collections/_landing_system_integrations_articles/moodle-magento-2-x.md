@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/magento-2-x
 author: Edward Saunders
 title: "Integrating Moodle and Magento 2.X"
+topic: System Integration
 leadhead: "Integrating Moodle and Magento 2.X can bring numerous benefits to educational institutions and online businesses alike"
 leadtext: "With the right integration strategy, businesses can automate processes, reduce manual data entry, and gain valuable insights through comprehensive reporting. By making use of the API or SDK provided by both platforms, developers can create custom integrations that suit their specific business needs."
 image: /assets/images/articles/people-sitting-near-table.webp

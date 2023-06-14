@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Upwork and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of Upwork and Amazon DynamoDB has proved to be a very efficient and secure way to manage projects"
 leadtext: "Businesses and freelancers can now have a reliable database that scales automatically, while ensuring data integrity and security. Integration can be achieved through API or SDK, depending on the preference of the user, and current limitations are addressed effectively. The use of both platforms together provides benefits for both freelancers and businesses alike."
 image: /assets/images/articles/people-sitting-near-table.webp

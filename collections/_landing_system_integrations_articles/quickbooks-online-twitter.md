@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/twitter
 author: Edward Saunders
 title: "Integration of QuickBooks Online and Twitter"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Twitter is a powerful tool that small business owners can use to streamline their social media activities"
 leadtext: "By automating your tweets and messages and tracking your performance, you can focus on growing your business without worrying about your social media presence."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/webhooks-by-zapier
 author: Edward Saunders
 title: "Improving Customer Support with Zendesk and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Zendesk and Webhooks by Zapier provides businesses with countless opportunities to improve their customer support workflow"
 leadtext: "By automating some repetitive tasks, businesses can improve their response time to customer requests and increase customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

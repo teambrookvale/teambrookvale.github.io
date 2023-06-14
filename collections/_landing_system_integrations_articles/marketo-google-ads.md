@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/google-ads
 author: Edward Saunders
 title: "Marketo Integration with Google Ads: A Game-Changer for Digital Marketers"
+topic: System Integration
 leadhead: "The Marketo-Google Ads integration is a game-changer for digital marketers"
 leadtext: "By integrating these two powerful tools, you can create more targeted and effective marketing campaigns, track customer engagement across all channels, and improve your overall ROI. Whether you're a small business owner or a large enterprise, the Marketo-Google Ads integration can help you take your marketing efforts to the next level and achieve your business goals."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/amazon-sns
 author: Edward Saunders
 title: "Integration of Expensify and Amazon SNS"
+topic: System Integration
 leadhead: "The integration of Expensify and Amazon SNS can significantly benefit businesses"
 leadtext: "It can help increase efficiency, productivity and save time and effort. By providing instant notifications, dynamic expense management is made possible, making expense tracking much easier for a business. Businesses who implement this integration can streamline their expense management process, thus helping them achieve their short and long term goals."
 image: /assets/images/articles/people-sitting-near-table.webp

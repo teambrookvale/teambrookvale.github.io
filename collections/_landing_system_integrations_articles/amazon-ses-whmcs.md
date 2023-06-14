@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/whmcs
 author: Edward Saunders
 title: "Amazon SES and WHMCS Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SES and WHMCS is a powerful solution for web hosting companies looking to improve their email deliverability and reduce costs"
 leadtext: "By using Amazon SES to send email notifications, web hosts can ensure that important messages reach their customers' inboxes and avoid the issues associated with traditional email delivery methods. This integration is easy to set up and can provide significant benefits for both web hosts and their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

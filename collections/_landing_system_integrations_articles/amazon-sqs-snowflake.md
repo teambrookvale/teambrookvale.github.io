@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/snowflake
 author: Edward Saunders
 title: "Integration of Amazon SQS and Snowflake"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Snowflake provides businesses with a powerful toolset for managing and analyzing their data efficiently"
 leadtext: "By using these two services together, businesses can improve their data management, speed up their data processing, and ensure scalability as their data needs grow."
 image: /assets/images/articles/people-sitting-near-table.webp

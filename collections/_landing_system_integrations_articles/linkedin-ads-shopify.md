@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/shopify
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and Shopify"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Shopify is a powerful tool for businesses looking to increase their online sales"
 leadtext: "By allowing businesses to track the performance of their ads and create highly targeted campaigns, this integration can help businesses of all sizes increase their revenue and grow their customer base."
 image: /assets/images/articles/people-sitting-near-table.webp

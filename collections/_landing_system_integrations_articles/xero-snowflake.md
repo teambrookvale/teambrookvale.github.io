@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/snowflake
 author: Edward Saunders
 title: "Integrating Xero and Snowflake"
+topic: System Integration
 leadhead: "The integration of Xero and Snowflake is a great way to streamline core business processes and data analyses"
 leadtext: "With the right implementation approach, integrating the two platforms can help businesses make informed decisions, improve their accounting processes, and ultimately grow faster."
 image: /assets/images/articles/people-sitting-near-table.webp

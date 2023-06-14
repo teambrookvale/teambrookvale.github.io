@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/xero
 author: Edward Saunders
 title: "WHMCS and Xero Integration: The Ultimate Solution for Your Billing Needs"
+topic: System Integration
 leadhead: "If you're looking to streamline your billing process, WHMCS and Xero integration is the ultimate solution"
 leadtext: "By automating your billing process and synchronizing data between the two platforms, you can save time, reduce errors, and get paid faster. This enables you to focus on what really matters in your business: providing exceptional service to your customers."
 image: /assets/images/articles/people-sitting-near-table.webp

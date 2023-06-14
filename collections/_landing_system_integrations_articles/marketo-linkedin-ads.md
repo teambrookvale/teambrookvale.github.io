@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/linkedin-ads
 author: Edward Saunders
 title: "Marketo and LinkedIn Ads Integration"
+topic: System Integration
 leadhead: "Marketo and LinkedIn Ads integration is a powerful tool for marketers looking to reach their target audience on LinkedIn"
 leadtext: "By combining Marketo's marketing automation capabilities with LinkedIn Ads' targeting system, businesses can save time, increase efficiency, and see better results from their advertising campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

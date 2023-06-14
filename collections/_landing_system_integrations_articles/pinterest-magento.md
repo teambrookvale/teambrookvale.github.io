@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/magento
 author: Edward Saunders
 title: "Integration of Pinterest and Magento"
+topic: System Integration
 leadhead: "The integration of Pinterest and Magento through API or SDK provides businesses with an effective way to promote their products, increase their reach and visibility, and track the performance of their marketing campaigns"
 leadtext: "This integration is advantageous for businesses looking to boost their online sales and enhance their branding efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

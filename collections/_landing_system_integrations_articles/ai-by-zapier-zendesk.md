@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/zendesk
 author: Edward Saunders
 title: "Integration of AI by Zapier and Zendesk"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Zendesk is a game-changer for businesses looking to provide better customer support through automation"
 leadtext: "It enables businesses to take advantage of AI-powered automation and provide efficient support to their customers. Integration through API or SDK solves several problems and helps businesses stay ahead of the competition in the customer support domain."
 image: /assets/images/articles/people-sitting-near-table.webp

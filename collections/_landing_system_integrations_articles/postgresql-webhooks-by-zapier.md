@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/webhooks-by-zapier
 author: Edward Saunders
 title: "PostgreSQL and Webhooks by Zapier Integration"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Webhooks by Zapier through API or SDK can automate many workflows and save time for businesses"
 leadtext: "It eliminates the need for manual intervention and ensures data accuracy. By using this integration, businesses can stay up-to-date on important data changes and make informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

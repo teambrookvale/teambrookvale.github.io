@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/salesforce
 author: Edward Saunders
 title: "Upwork and Salesforce Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and Salesforce through API or SDK can provide several benefits for businesses"
 leadtext: "It helps to simplify project management, streamline communication, and improve overall efficiency. If you are a business owner who uses Upwork and Salesforce, it is definitely worth considering integrating the two platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

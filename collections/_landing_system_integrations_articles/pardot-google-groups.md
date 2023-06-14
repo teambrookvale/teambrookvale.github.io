@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/google-groups
 author: Edward Saunders
 title: "Benefits of Integrating Pardot with Google Groups"
+topic: System Integration
 leadhead: "Integrating Pardot with Google Groups can bring several benefits to businesses, including streamlined lead generation, targeted email campaigns, and time-saving automation"
 leadtext: "By using the respective APIs or SDKs to integrate these services, businesses can ensure that they make the most of their marketing automation and online discussion group tools."
 image: /assets/images/articles/people-sitting-near-table.webp

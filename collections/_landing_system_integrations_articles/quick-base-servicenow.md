@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/servicenow
 author: Edward Saunders
 title: "Integration of Quick Base and ServiceNow"
+topic: System Integration
 leadhead: "The integration of Quick Base and ServiceNow provides businesses with an effective solution for streamlining processes, reducing manual intervention, and improving workflow automation"
 leadtext: "With the collaborative advantage that the integration brings, businesses can manage different processes with ease, improve visibility into various business functions, and enhance customer service. This integration offers businesses greater flexibility, adaptability, and improved business process automation, which is essential in maximizing efficiency and attaining business goals."
 image: /assets/images/articles/people-sitting-near-table.webp

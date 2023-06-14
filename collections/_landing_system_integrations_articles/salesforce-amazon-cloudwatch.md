@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/amazon-cloudwatch
 author: Edward Saunders
 title: "Integrating Salesforce with Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating Salesforce with Amazon CloudWatch can provide significant benefits for businesses of all sizes"
 leadtext: "By gaining greater visibility into your Salesforce instance, you can identify issues early and optimize your sales pipeline for greater efficiency and productivity. Whether you use the CloudWatch API or Salesforce SDK, integrating the two platforms is a simple yet powerful way to take your sales management to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

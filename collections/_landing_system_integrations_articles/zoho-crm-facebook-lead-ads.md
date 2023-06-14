@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/facebook-lead-ads
 author: Edward Saunders
 title: "Zoho CRM and Facebook Lead Ads: The Perfect Integration"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Facebook Lead Ads is a game-changer for businesses looking to improve their lead generation and management efforts"
 leadtext: "With automation, accuracy, and tracking, the integration can save businesses time, reduce errors, and provide valuable insights that can help them grow and succeed in the marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

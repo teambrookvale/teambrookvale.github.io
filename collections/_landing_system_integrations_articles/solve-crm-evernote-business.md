@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/evernote-business
 author: Edward Saunders
 title: "Solving CRM with Evernote Business Integration"
+topic: System Integration
 leadhead: "If you're looking for a powerful and integrated solution for your CRM and note-taking needs, Solve CRM and Evernote Business are the perfect combination"
 leadtext: "By syncing your customer information and related notes, you can improve organization, increase productivity, and enhance communication with your team."
 image: /assets/images/articles/people-sitting-near-table.webp

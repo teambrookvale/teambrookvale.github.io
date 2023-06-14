@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-dynamodb
 author: Edward Saunders
 title: "Greenhouse and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "Integration of Greenhouse and Amazon DynamoDB can solve many problems related to HR data management"
 leadtext: "With APIs and SDKs, you can easily access and manage candidate data, store it on Amazon DynamoDB, and automate data management tasks. This integration can increase efficiency, accuracy, and accessibility, making it a valuable solution for HR professionals and recruiters."
 image: /assets/images/articles/people-sitting-near-table.webp

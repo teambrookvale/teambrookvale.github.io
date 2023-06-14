@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/goto-webinar
 author: Edward Saunders
 title: "Integration of Salesforce and GoToWebinar through API or SDK"
+topic: System Integration
 leadhead: "The integration of Salesforce and GoToWebinar through an API or SDK offers numerous benefits for businesses looking to streamline their operations and improve their customer engagement"
 leadtext: "It allows for seamless webinar management and lead generation, ultimately leading to more effective marketing efforts and increased ROI. Overall, this integration is a valuable tool for any business using Salesforce and GoToWebinar."
 image: /assets/images/articles/people-sitting-near-table.webp

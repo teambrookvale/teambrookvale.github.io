@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/magento
 author: Edward Saunders
 title: "PostgreSQL and Magento Integration"
+topic: System Integration
 leadhead: "Overall, integrating PostgreSQL and Magento through API or SDK is a great way to improve the functionality and performance of ecommerce websites"
 leadtext: "This integration allows businesses to store data securely, process orders efficiently, and offer personalized recommendations to customers. Additionally, it solves many common problems faced by ecommerce businesses, such as limited storage space, slow website performance, and difficulty managing orders and inventory. By integrating PostgreSQL with Magento, businesses can provide better customer service and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

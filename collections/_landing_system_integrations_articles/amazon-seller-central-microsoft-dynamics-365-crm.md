@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating Amazon Seller Central with Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon Seller Central with Microsoft Dynamics 365 CRM is essential for businesses looking to streamline their operations, make data-driven decisions, and improve customer satisfaction"
 leadtext: "By automating many of their processes, businesses can save time and reduce errors, leading to better efficiency and profitability. With the integration of the two platforms, businesses can achieve better visibility into their sales data and offer their customers a seamless shopping experience."
 image: /assets/images/articles/people-sitting-near-table.webp

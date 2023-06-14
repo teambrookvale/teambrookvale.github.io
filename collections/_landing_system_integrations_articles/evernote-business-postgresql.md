@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/postgresql
 author: Edward Saunders
 title: "Exploring the Integration of Evernote Business and PostgreSQL"
+topic: System Integration
 leadhead: "Integrating Evernote Business with PostgreSQL through API or SDK is a robust solution that streamlines team collaboration and data management"
 leadtext: "It ensures that your team has access to the right information at the right time when working on projects. Also, it can increase your team's productivity by reducing the time spent searching for information, resulting in more time working on core business tasks. Teams should explore this integration to take full advantage of the benefits of both tools seamlessly."
 image: /assets/images/articles/people-sitting-near-table.webp

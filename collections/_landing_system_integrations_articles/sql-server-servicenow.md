@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/servicenow
 author: Edward Saunders
 title: "Integration of SQL Server and ServiceNow"
+topic: System Integration
 leadhead: "In conclusion, integrating SQL Server and ServiceNow through an API or SDK can have many benefits for organizations"
 leadtext: "By automating the flow of data and improving visibility into the entire IT operations process, organizations can significantly reduce the amount of time and potential for errors, as well as improve overall efficiency. If you are using these two tools, it’s highly recommended that you take advantage of their integration capabilities."
 image: /assets/images/articles/people-sitting-near-table.webp

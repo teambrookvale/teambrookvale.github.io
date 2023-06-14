@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/shopify
 author: Edward Saunders
 title: "WHMCS and Shopify Integration: Solving eCommerce Problems"
+topic: System Integration
 leadhead: "Integrating WHMCS and Shopify through API or SDK is a wise move for online businesses in this era of eCommerce"
 leadtext: "It solves numerous problems while enhancing the overall online experience for customers. With the rise of eCommerce, businesses need to evolve and adapt, and this integration is one of the ways to keep up with the industry's ever-changing trends."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/solve-crm
 author: Edward Saunders
 title: "The Benefits of Magento 2.X and Solve CRM Integration"
+topic: System Integration
 leadhead: "Integrating Magento 2.X and Solve CRM can be beneficial for businesses of all sizes"
 leadtext: "By doing this, businesses can streamline their sales and customer service processes, manage their customer data efficiently, and have a better view of their inventory levels. This integration can improve a business's efficiency, productivity, and profitability, making it a smart move for any business that wants to thrive in their industry."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/servicenow
 author: Edward Saunders
 title: "Integrating Amazon SQS and ServiceNow"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and ServiceNow is a great solution for IT organizations looking to streamline their operations"
 leadtext: "It helps automate complex processes, reduce complexity, and enhance visibility. If you're already using AWS and ServiceNow, you should definitely consider integrating them to improve your IT operations."
 image: /assets/images/articles/people-sitting-near-table.webp

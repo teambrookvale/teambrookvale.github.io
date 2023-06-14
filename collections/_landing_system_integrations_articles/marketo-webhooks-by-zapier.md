@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating Marketo and Webhooks by Zapier"
+topic: System Integration
 leadhead: "The integration of Marketo and Webhooks by Zapier can be a game-changer for marketers who want to streamline their processes and automate tasks"
 leadtext: "With the integration, you can enrich leads, trigger automated actions, integrate with other platforms, and create custom workflows. The API and SDK options provide flexibility and customization options, making the integration accessible to businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

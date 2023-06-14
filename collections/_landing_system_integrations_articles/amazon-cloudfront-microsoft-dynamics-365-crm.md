@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Amazon CloudFront and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Microsoft Dynamics 365 CRM can be very beneficial for businesses"
 leadtext: "It improves the performance of content delivery, provides better tracking of user behavior, improves content targeting, and leads to efficient use of resources. Proper integration can lead to increased engagement and conversions, ultimately benefiting the business in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

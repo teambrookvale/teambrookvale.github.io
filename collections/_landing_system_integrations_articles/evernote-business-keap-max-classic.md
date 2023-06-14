@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/keap-max-classic
 author: Edward Saunders
 title: "Integration of Evernote Business and Keap Max Classic"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Keap Max Classic is a powerful solution for small businesses that want to streamline their operations and improve their customer management"
 leadtext: "With this integration, teams can work more efficiently, automate workflows, and have a complete view of customer interactions and history. If you're looking to take your business to the next level, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/expensify
 author: Edward Saunders
 title: "Integration of Amazon S3 and Expensify"
+topic: System Integration
 leadhead: "As we have seen, integrating Amazon S3 and Expensify provides many benefits for expense management"
 leadtext: "By securely storing receipts and documents in Amazon S3, generating reports becomes a breeze. Additionally, it simplifies the process and saves time by eliminating the need to manually upload receipts. It is clear that this integration is a valuable tool for businesses looking to streamline their expense management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/amazon-cloudfront
 author: Edward Saunders
 title: "Integration of Google Ads and Amazon CloudFront"
+topic: System Integration
 leadhead: "The integration of Google Ads and Amazon CloudFront can be highly beneficial for businesses"
 leadtext: "By reducing latency and improving the user experience, businesses can enjoy higher engagement and better conversion rates. Additionally, businesses can benefit from cost savings by using CloudFront for content delivery. By leveraging the APIs and SDKs provided by these two platforms, businesses can achieve a seamless integration and enjoy the benefits of their combined power."
 image: /assets/images/articles/people-sitting-near-table.webp

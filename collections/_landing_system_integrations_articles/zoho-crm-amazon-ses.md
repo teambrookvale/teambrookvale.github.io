@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/amazon-ses
 author: Edward Saunders
 title: "Zoho CRM and Amazon SES Integration"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Amazon SES is a powerful solution for businesses to improve their sales, marketing, and customer support activities"
 leadtext: "It provides businesses with a complete view of their customer interactions and allows them to automate their email marketing campaigns. The integration can be done through API or SDK and solves a number of problems for businesses. By integrating Zoho CRM and Amazon SES, businesses can better serve their customers and improve their overall performance."
 image: /assets/images/articles/people-sitting-near-table.webp

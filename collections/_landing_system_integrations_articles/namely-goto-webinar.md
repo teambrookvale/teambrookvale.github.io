@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/goto-webinar
 author: Edward Saunders
 title: "Namely and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "The integration of Namely and GoTo Webinar is a powerful solution that simplifies HR and training tasks"
 leadtext: "By eliminating manual data entry, increasing accuracy, and improving training efficiency, businesses can save time and effort. With the two tools working seamlessly together, HR managers can have a more streamlined experience."
 image: /assets/images/articles/people-sitting-near-table.webp

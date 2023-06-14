@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/servicenow
 author: Edward Saunders
 title: "How Amazon CloudWatch and ServiceNow Integration Benefit Businesses"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and ServiceNow offers businesses several benefits, including improved IT service delivery, reduced downtime, and faster incident resolution times"
 leadtext: "By integrating the two services, businesses can streamline their IT operations and gain better visibility into their application and infrastructure performance. Companies that take advantage of Amazon CloudWatch and ServiceNow integration can provide better service to their customers and stakeholders, which ultimately leads to increased customer satisfaction and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

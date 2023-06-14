@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating Twitter with Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "Integrating Twitter with Microsoft Dynamics 365 CRM is a powerful way for businesses to gain insights into their customers and provide a more personalized and engaging customer experience"
 leadtext: "By using the Twitter API and Dynamics 365 CRM SDK, businesses can create a more complete view of their customers and take advantage of the power of social media."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/pardot
 author: Edward Saunders
 title: "Blog Post: Integration of Pinterest and Pardot"
+topic: System Integration
 leadhead: "The integration of Pinterest and Pardot is a powerful tool for businesses to create more targeted and effective marketing campaigns"
 leadtext: "By combining the massive audience of Pinterest with the marketing automation capabilities of Pardot, businesses can gather valuable data on their audience, optimize their campaigns, and measure their ROI. When used correctly, this integration can result in increased engagement, leads, and ultimately revenue for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/zoho-crm
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Zoho CRM is a powerful solution that helps businesses monitor and manage their sales, marketing, and customer support activities in real-time, automate their workflows, improve their performance and efficiency, and save costs"
 leadtext: "By using the API or SDK, businesses can connect the two services easily and quickly, and start realizing the benefits of this integration immediately."
 image: /assets/images/articles/people-sitting-near-table.webp

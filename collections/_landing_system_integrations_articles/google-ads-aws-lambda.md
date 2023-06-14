@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/aws-lambda
 author: Edward Saunders
 title: "Integrating Google Ads with AWS Lambda"
+topic: System Integration
 leadhead: "Integrating Google Ads with AWS Lambda can provide businesses with numerous benefits such as cost savings, improved ROI, and more efficient advertising campaigns"
 leadtext: "The integration allows businesses to automate their routine tasks and make data-driven decisions that can help them stay ahead of their competition. Regardless of the size or industry of your business, integrating these two platforms can help you achieve your advertising goals and reach your target audience more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

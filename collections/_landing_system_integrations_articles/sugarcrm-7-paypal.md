@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/paypal
 author: Edward Saunders
 title: "SugarCRM 7+ and PayPal Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and PayPal is an excellent move for businesses looking to streamline their payment processing and take advantage of the benefits that come from integrating customer data"
 leadtext: "By using their APIs or SDKs, businesses can enjoy more accurate data, more secure payment processing, and less time spent on manual data entry. All in all, this integration is a win-win for both businesses and their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

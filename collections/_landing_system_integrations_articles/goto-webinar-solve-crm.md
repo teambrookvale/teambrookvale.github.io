@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/solve-crm
 author: Edward Saunders
 title: "GoTo Webinar and Solve CRM Integration"
+topic: System Integration
 leadhead: "GoTo Webinar and Solve CRM integration offers several benefits to businesses looking to improve their sales and marketing processes"
 leadtext: "Businesses can automate their follow-up processes, create targeted campaigns, and increase lead generation efforts. By syncing attendee data to Solve CRM, businesses can also identify potential leads and improve their customer relationships. Overall, this integration is a valuable solution for businesses looking to streamline their webinar and CRM processes."
 image: /assets/images/articles/people-sitting-near-table.webp

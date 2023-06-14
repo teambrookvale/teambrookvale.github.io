@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/instagram-custom-audiences
 author: Edward Saunders
 title: "The Power of Solve CRM and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of Solve CRM and Instagram Custom Audiences provides businesses with better insights into customer behavior, creating personalized ad campaigns and boosting engagement rates"
 leadtext: "This improved customer experience leads to loyal customers, which translates to increased conversion rates and better ROI for businesses. Overall, this integration improves businesses' marketing efforts and helps them achieve their goals effectively and efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

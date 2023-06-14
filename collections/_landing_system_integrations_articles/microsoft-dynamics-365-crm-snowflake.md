@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/snowflake
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM and Snowflake"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Snowflake can provide businesses with a powerful toolset that can help them manage their customer data and analyze it to make informed business decisions"
 leadtext: "By solving the common problems businesses face, the integration can improve their operational efficiency, customer engagement, and overall business performance."
 image: /assets/images/articles/people-sitting-near-table.webp

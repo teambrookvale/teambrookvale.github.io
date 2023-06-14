@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-sqs
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM with Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM with Amazon SQS is a powerful tool for businesses looking to streamline customer data processing and management"
 leadtext: "By automating data transfer and processing, businesses can improve efficiency, reduce errors, and enhance customer engagement. With the use of APIs or SDKs, developers can easily integrate the two services and take advantage of their functionality."
 image: /assets/images/articles/people-sitting-near-table.webp

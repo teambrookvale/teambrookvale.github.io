@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/servicenow
 author: Edward Saunders
 title: "MySQL and ServiceNow Integration"
+topic: System Integration
 leadhead: "The integration of MySQL and ServiceNow opens up several possibilities and can help organizations in several ways"
 leadtext: "From improved data accuracy to better collaboration between teams, the benefits of the integration are significant. Organizations should explore the integration and see how it can help them in their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

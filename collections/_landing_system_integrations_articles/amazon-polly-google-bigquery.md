@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/google-bigquery
 author: Edward Saunders
 title: "Integrating Amazon Polly and Google BigQuery"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Google BigQuery through API or SDK offers a powerful tool for users looking to summarize their data reports quickly and efficiently"
 leadtext: "By automating the process of generating spoken summaries, users can save valuable time and effort while making their data more accessible and understandable to a wider audience."
 image: /assets/images/articles/people-sitting-near-table.webp

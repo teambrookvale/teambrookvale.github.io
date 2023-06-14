@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/goto-webinar
 author: Edward Saunders
 title: "Integrating Amazon CloudFront with GoTo Webinar"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront with GoTo Webinar is an excellent way for businesses to offer a seamless and excellent customer experience"
 leadtext: "The integration offers many benefits, such as reduced latency, improved security, and reduced infrastructure costs. This integration can be achieved through the use of API or SDK, and it is highly recommended that businesses take advantage of it to improve their webinar experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/servicenow
 author: Edward Saunders
 title: "Zendesk and ServiceNow Integration"
+topic: System Integration
 leadhead: "Zendesk and ServiceNow integration is a powerful tool for businesses that want to improve their customer experience and streamline their customer support process"
 leadtext: "Integrating these two platforms can help businesses save time and money by automating workflows, reducing response time, and ensuring better customer support experiences. Thus, it is highly recommended for businesses to consider Zendesk and ServiceNow integration."
 image: /assets/images/articles/people-sitting-near-table.webp

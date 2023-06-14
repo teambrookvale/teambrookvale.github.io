@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/snowflake
 author: Edward Saunders
 title: "Magento and Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Snowflake can provide merchants with a range of benefits, from improved inventory management to better data analysis"
 leadtext: "Whether you are a small online store or a large enterprise, this integration can help you make smarter business decisions and improve the overall customer experience. If you are interested in integrating Magento and Snowflake, you can use the APIs and SDKs provided by Magento, or work with a third-party integration provider."
 image: /assets/images/articles/people-sitting-near-table.webp

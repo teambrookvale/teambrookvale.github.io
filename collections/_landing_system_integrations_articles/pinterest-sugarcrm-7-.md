@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/sugarcrm-7-
 author: Edward Saunders
 title: "Integration of Pinterest and SugarCRM 7+"
+topic: System Integration
 leadhead: "The integration of Pinterest and SugarCRM 7+ through API or SDK is a powerful tool for businesses looking to improve their customer relationship management practices"
 leadtext: "By using the integration, businesses can gather insights from Pinterest data, track customers' social media activities, and anticipate their needs and behavior. This information can be used to improve marketing and communication strategies, increase customer engagement and loyalty, and ultimately, grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

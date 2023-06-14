@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of GoToWebinar and Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating GoToWebinar and Amazon CloudWatch through API or SDK can provide valuable insights into webinar performance and attendance, allowing for improvements to be made in real-time"
 leadtext: "This integration solves the problem of limited visibility into webinar data and provides a data-driven approach to improving webinars. By using these two services together, users can create and host better webinars that engage viewers and provide value."
 image: /assets/images/articles/people-sitting-near-table.webp

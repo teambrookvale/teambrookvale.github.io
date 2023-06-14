@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/google-ads
 author: Edward Saunders
 title: "Integration of Facebook Lead Ads and Google Ads"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads and Google Ads through API or SDK can be beneficial for businesses"
 leadtext: "By doing so, businesses can save time, avoid losing leads, accurately track lead conversions, and make better optimization decisions. If you are running campaigns on both platforms, consider integrating them today to drive better results."
 image: /assets/images/articles/people-sitting-near-table.webp

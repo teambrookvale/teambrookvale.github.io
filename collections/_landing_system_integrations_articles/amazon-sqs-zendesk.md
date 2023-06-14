@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/zendesk
 author: Edward Saunders
 title: "Integrating Amazon SQS and Zendesk"
+topic: System Integration
 leadhead: "Integrating Amazon SQS and Zendesk is a powerful way to automate the process of creating support tickets for customer inquiries received through different channels"
 leadtext: "This integration saves time and effort, ensures timely and accurate response to customer inquiries, and improves customer satisfaction by providing a unified support experience. Moreover, businesses can monitor support team performance and identify areas for improvement using Zendesk's reporting tools."
 image: /assets/images/articles/people-sitting-near-table.webp

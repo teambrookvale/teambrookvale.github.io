@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/evernote-business
 author: Edward Saunders
 title: "Magento 2.X and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Evernote Business is a powerful tool that can help businesses stay organized, collaborate more efficiently, and increase productivity"
 leadtext: "With the help of their API and SDK, developers can create powerful applications that automate tasks and streamline workflows. By using these two platforms together, businesses can stay ahead of the competition and grow their businesses in a more efficient and effective way."
 image: /assets/images/articles/people-sitting-near-table.webp

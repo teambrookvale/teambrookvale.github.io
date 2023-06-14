@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/amazon-cloudwatch
 author: Edward Saunders
 title: "Google Groups and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "Google Groups and Amazon CloudWatch integration is a powerful tool that adds value to businesses, allowing them to monitor and troubleshoot their AWS resources with greater efficiency and collaboration"
 leadtext: "The integration can help businesses identify and resolve issues quickly and improve overall performance. Utilizing API or SDK integration of Google Groups and Amazon CloudWatch is worth exploring and implementing for those who depend on AWS resources."
 image: /assets/images/articles/people-sitting-near-table.webp

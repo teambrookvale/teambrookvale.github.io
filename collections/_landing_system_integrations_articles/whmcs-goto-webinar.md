@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/goto-webinar
 author: Edward Saunders
 title: "Integrating WHMCS and GoTo Webinar through API or SDK"
+topic: System Integration
 leadhead: "The integration of WHMCS and GoTo Webinar through API or SDK is a game-changer for businesses looking to streamline their workflow and improve their client satisfaction"
 leadtext: "The integration saves time, eliminates errors, and ensures that businesses can effectively manage their webinars and billing process."
 image: /assets/images/articles/people-sitting-near-table.webp

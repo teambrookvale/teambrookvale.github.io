@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/shopify
 author: Edward Saunders
 title: "Instagram Lead Ads and Shopify Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Shopify through API or SDK has become an essential tool for businesses looking to streamline their lead generation process, reach a larger audience, and increase sales"
 leadtext: "By utilizing the power of Instagram and the convenience of Shopify, businesses can create a seamless process that helps them achieve their marketing goals."
 image: /assets/images/articles/people-sitting-near-table.webp

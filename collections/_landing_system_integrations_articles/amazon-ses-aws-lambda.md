@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/aws-lambda
 author: Edward Saunders
 title: "Integration of Amazon SES and AWS Lambda"
+topic: System Integration
 leadhead: "The integration of Amazon SES and AWS Lambda through API or SDK provides a powerful solution for businesses looking to automate their email delivery workflows and save costs in the process"
 leadtext: "The combination of these two services provides a scalable, flexible, and cost-effective solution that is ideal for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

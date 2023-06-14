@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/aws-lambda
 author: Edward Saunders
 title: "ServiceNow and AWS Lambda Integration"
+topic: System Integration
 leadhead: "ServiceNow and AWS Lambda integration is a game-changer for businesses, providing automation and efficiency to various processes"
 leadtext: "By integrating the two, businesses can better manage their data, improve response time, and reduce cost. With the support of API or SDK, the possibilities of their integration are endless, and businesses can truly leverage the benefits of both services."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating Twitter with Facebook Lead Ads: A Better Way to Generate Business Leads"
+topic: System Integration
 leadhead: "Integrating Twitter with Facebook Lead Ads can provide businesses with an effective way to generate leads and streamline their social media marketing efforts"
 leadtext: "The integration can solve problems related to time and resource management, better targeting, and tracking and analysis. By leveraging the strengths of both platforms, businesses can reach their target audience more effectively and generate more business leads."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/ai-by-zapier
 author: Edward Saunders
 title: "How Instagram Lead Ads and AI by Zapier Integration Solves Problems"
+topic: System Integration
 leadhead: "Integrating Instagram Lead Ads with AI by Zapier through API or SDK is an excellent way for businesses to save time, avoid errors and build effective customer relationships"
 leadtext: "By automating the data transfer from Instagram Lead Ads to other apps, businesses can spend their energy growing their business and not entering data. Additionally, an immediate confirmation message to the customer's submission can help to build trust and foster a relationship. Thus, businesses can grow their leads significantly with this easy-to-use integration."
 image: /assets/images/articles/people-sitting-near-table.webp

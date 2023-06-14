@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/google-groups
 author: Edward Saunders
 title: "Integration of WHMCS and Google Groups"
+topic: System Integration
 leadhead: "The integration of WHMCS and Google Groups can bring significant benefits to businesses of all sizes"
 leadtext: "By automating communication and customer management processes, businesses can save time, reduce errors, and improve customer satisfaction. The use of API or SDK provides a flexible integration option that can be tailored to meet the specific needs of any business."
 image: /assets/images/articles/people-sitting-near-table.webp

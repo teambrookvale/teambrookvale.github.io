@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/magento-2-x
 author: Edward Saunders
 title: "Instagram Custom Audiences and Magento 2.X Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Instagram Custom Audiences with Magento 2.X can be highly beneficial for businesses looking to increase their visibility and sales"
 leadtext: "By leveraging the power of Instagram and the customer data stored in Magento 2.X, businesses can create personalized and effective ads that reach the right audience at the right time. With the help of API or SDK integration, businesses can streamline this process and achieve better results in less time."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/calldrip
 author: Edward Saunders
 title: "Integration of Amazon Polly and Calldrip"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Calldrip is a powerful solution that can help businesses improve their services for their customers"
 leadtext: "By leveraging the advanced text-to-speech technology of Amazon Polly and the intelligent call delivery system of Calldrip, businesses can create engaging content and connect with their leads in real-time. This can help them stand out in a crowded marketplace, drive more sales, and improve their overall profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

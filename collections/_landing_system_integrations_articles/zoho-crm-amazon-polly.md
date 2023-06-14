@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/amazon-polly
 author: Edward Saunders
 title: "Integrating Zoho CRM with Amazon Polly"
+topic: System Integration
 leadhead: "The integration of Zoho CRM with Amazon Polly offers businesses a powerful solution to automate the process of converting text into spoken words"
 leadtext: "By leveraging the capabilities of both platforms through APIs or SDKs, developers can create customized applications that can greatly enhance the customer experience and improve business efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

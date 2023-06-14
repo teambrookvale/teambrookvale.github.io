@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/upwork
 author: Edward Saunders
 title: "Namely and Upwork Integration: A Game-Changer in the HR Industry"
+topic: System Integration
 leadhead: "The integration of Namely and Upwork is a game-changer in the HR industry"
 leadtext: "It creates an easy and organized way for HR managers to manage their freelance workers and allows for seamless communication between teams. The benefits of this integration are clear, and it's exciting to see how it will continue to evolve in the future."
 image: /assets/images/articles/people-sitting-near-table.webp

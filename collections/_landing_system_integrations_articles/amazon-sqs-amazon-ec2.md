@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-ec2
 author: Edward Saunders
 title: "Integrating Amazon SQS and EC2 for Seamless Data Exchange"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Amazon EC2 is a powerful tool for building scalable and fault-tolerant systems that can handle large volumes of data exchange seamlessly"
 leadtext: "By leveraging the highly-available and fully-managed services offered by AWS, businesses can focus on their core functionality and growth, without worrying about the underlying infrastructure."
 image: /assets/images/articles/people-sitting-near-table.webp

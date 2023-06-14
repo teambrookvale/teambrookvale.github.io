@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/whmcs
 author: Edward Saunders
 title: "Integrating Magento 2.X and WHMCS for a Seamless E-commerce Experience"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and WHMCS through API or SDK is a great way for businesses to provide a seamless e-commerce experience"
 leadtext: "With this integration, businesses can manage customer accounts and billing more efficiently, reduce errors, and enhance the overall customer experience. If you run an online store or an online service provider, consider integrating these two platforms to further your business goals."
 image: /assets/images/articles/people-sitting-near-table.webp

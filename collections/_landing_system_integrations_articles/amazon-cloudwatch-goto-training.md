@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/goto-training
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and GoTo Training for a Seamless Experience"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and GoTo Training can make remote training sessions easy to manage, monitor, and analyze"
 leadtext: "It provides businesses with valuable insights, enabling them to improve the quality of their training programs. By using the APIs and SDKs provided by AWS and GoTo Training, businesses can seamlessly integrate the two platforms and enjoy a hassle-free training experience."
 image: /assets/images/articles/people-sitting-near-table.webp

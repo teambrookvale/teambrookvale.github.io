@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/instagram-custom-audiences
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Instagram Custom Audiences is a game-changer for businesses looking to improve their webinar attendance and retarget their audience with relevant Instagram ads"
 leadtext: "It enables businesses to create custom lists of webinar attendees and target them with the right message at the right time. By leveraging the power of these two platforms together, businesses can get the most out of their advertising efforts and maximize their ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

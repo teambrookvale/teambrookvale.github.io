@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/quickbooks-online
 author: Edward Saunders
 title: "Marketo and QuickBooks Online Integration for Better Business Management"
+topic: System Integration
 leadhead: "The Marketo and QuickBooks Online integration through API or SDK is a great way to enhance business management"
 leadtext: "It streamlines marketing and accounting processes, reduces manual labor, eliminates errors, and provides real-time insights for more informed decision making. By integrating these two powerful tools, businesses can achieve greater efficiency and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

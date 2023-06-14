@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/facebook-custom-audiences
 author: Edward Saunders
 title: "Integrating Calldrip and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Calldrip and Facebook Custom Audiences is a powerful combination that can help businesses generate more leads and close more sales"
 leadtext: "By responding quickly to inbound phone leads and then targeting those leads with ads on Facebook, businesses can stay top-of-mind and move potential customers closer to a purchase decision. Developers can use API or SDK to create custom integrations that allow Calldrip and Facebook Custom Audiences to work seamlessly together."
 image: /assets/images/articles/people-sitting-near-table.webp

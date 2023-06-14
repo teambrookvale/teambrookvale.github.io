@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/mysql
 author: Edward Saunders
 title: "LinkedIn Ads and MySQL - A Powerful Integration"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads with MySQL can be a powerful tool for businesses looking to improve their online advertising campaigns"
 leadtext: "By using the rich targeting capabilities of LinkedIn Ads and the data management features of MySQL, businesses can reach their target audience more efficiently, improve their ROI, and optimize their ad spend. If you're looking to take your advertising campaigns to the next level, consider integrating LinkedIn Ads with MySQL today!"
 image: /assets/images/articles/people-sitting-near-table.webp

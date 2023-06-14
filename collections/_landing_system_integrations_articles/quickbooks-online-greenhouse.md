@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/greenhouse
 author: Edward Saunders
 title: "QuickBooks Online and Greenhouse Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of QuickBooks Online and Greenhouse is an excellent solution for businesses looking to streamline their recruitment process while also managing their finances"
 leadtext: "By integrating the two platforms, businesses can automate repetitive tasks, gain visibility into their financial and recruitment activities, and make informed decisions. API and SDK ensure that data is synchronized in real-time, providing a more accurate and timely view of the business's performance. In summary, businesses that integrate these two platforms will have a competitive edge in terms of efficiency, cost reduction, and better decision-making."
 image: /assets/images/articles/people-sitting-near-table.webp

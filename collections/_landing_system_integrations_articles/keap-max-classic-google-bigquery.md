@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/google-bigquery
 author: Edward Saunders
 title: "Keap Max Classic and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic with Google BigQuery provides a powerful tool for small businesses to manage, analyze, and understand their customer data"
 leadtext: "By integrating through an API or SDK, businesses can gain insights into customer behaviors, improve marketing strategies, and increase overall sales. This integration is a win-win for businesses, and it is highly recommended for those wanting to gain a competitive edge in their industry."
 image: /assets/images/articles/people-sitting-near-table.webp

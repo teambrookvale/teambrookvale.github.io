@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/amazon-sns
 author: Edward Saunders
 title: "Integration of BambooHR and Amazon SNS: Solving Communication Problems"
+topic: System Integration
 leadhead: "In conclusion, the integration of BambooHR and Amazon SNS can help you to improve communication within your organization"
 leadtext: "By automating communication and streamlining the HR process, you can have more time to focus on important tasks that serve the needs of your customers."
 image: /assets/images/articles/people-sitting-near-table.webp

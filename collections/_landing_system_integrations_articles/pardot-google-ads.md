@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/google-ads
 author: Edward Saunders
 title: "How to Integrate Pardot and Google Ads"
+topic: System Integration
 leadhead: "The integration of Pardot and Google Ads through API or SDK is a great way for businesses to streamline their marketing processes and improve their marketing campaigns"
 leadtext: "It offers businesses a way to track and analyze the performance of their Google Ads campaigns within Pardot, capture leads, and ultimately convert them into customers."
 image: /assets/images/articles/people-sitting-near-table.webp

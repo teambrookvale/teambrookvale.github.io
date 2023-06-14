@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/facebook-lead-ads
 author: Edward Saunders
 title: "Xero and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Facebook Lead Ads is a powerful tool that can help businesses streamline their lead generation and management process"
 leadtext: "By automating the transfer of lead data from Facebook to Xero, businesses can save time, reduce errors, and improve their lead nurturing process. This integration is a must-have for any business looking to grow and succeed in today's digital landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

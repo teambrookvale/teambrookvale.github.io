@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/solve-crm
 author: Edward Saunders
 title: "Marketo and Solve CRM Integration: Solving Your Business Problems"
+topic: System Integration
 leadhead: "In conclusion, the integration of Marketo and Solve CRM is a powerful solution for businesses looking to improve their customer relationship management"
 leadtext: "By automating tasks, providing real-time data, and streamlining workflows, the integration helps businesses stay ahead of the competition and provide an exceptional customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

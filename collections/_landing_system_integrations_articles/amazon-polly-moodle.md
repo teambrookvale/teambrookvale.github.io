@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/moodle
 author: Edward Saunders
 title: "Integration of Amazon Polly and Moodle for Enhanced E-Learning Experience"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Moodle through API or SDK has brought about great improvements to the e-learning experience"
 leadtext: "With the capability of Amazon Polly's text-to-speech service combined with Moodle's interactive features, students can learn at their own pace and style, overcoming language, literacy, and physical barriers. Teachers can also customize their teaching materials with audio files and spoken responses, creating a dynamic and approachable learning environment. As e-learning continues its growth, the integration of Amazon Polly and Moodle sets a standard for optimal online education."
 image: /assets/images/articles/people-sitting-near-table.webp

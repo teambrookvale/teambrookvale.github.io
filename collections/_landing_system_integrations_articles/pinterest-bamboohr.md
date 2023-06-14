@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/bamboohr
 author: Edward Saunders
 title: "Pinterest and BambooHR: Two Powerful Tools That Can Work Together"
+topic: System Integration
 leadhead: "By integrating BambooHR with Pinterest, businesses can create a unique and comprehensive online presence"
 leadtext: "It can streamline operations, save time and improve recruitment efforts. Plus, it can demonstrate an innovative approach to the company's HR strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

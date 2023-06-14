@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/google-bigquery
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Google BigQuery"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Google BigQuery offers a powerful combination of cloud computing platforms that can help you solve problems related to data processing, analysis, and storage"
 leadtext: "With a range of APIs and SDKs available, you can easily move data between the platforms, run compute-intensive workloads on Amazon EC2, and query large datasets on Google BigQuery. Whether you are a data analyst, data scientist, or software developer, the integration of Amazon EC2 and Google BigQuery can help you unlock new insights and accelerate your data-driven initiatives."
 image: /assets/images/articles/people-sitting-near-table.webp

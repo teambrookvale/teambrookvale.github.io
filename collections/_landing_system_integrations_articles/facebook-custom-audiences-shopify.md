@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/shopify
 author: Edward Saunders
 title: "Facebook Custom Audiences Integration with Shopify"
+topic: System Integration
 leadhead: "Integrating Facebook Custom Audiences with Shopify is a game-changer for online businesses"
 leadtext: "The integration enables businesses to target specific customers, increasing the chances of conversion and reducing advertising costs. If you want to grow your online business, it is time to integrate the two and enjoy the benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

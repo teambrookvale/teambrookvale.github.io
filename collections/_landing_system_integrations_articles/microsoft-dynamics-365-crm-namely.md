@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/namely
 author: Edward Saunders
 title: "Microsoft Dynamics 365 CRM and Namely Integration"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Namely using API or SDK provides numerous benefits for businesses"
 leadtext: "It streamlines HR and sales processes, reduces duplication of data, ensures data consistency, and eliminates manual data entry. Overall, the integration of the two platforms improves data accuracy and efficiency, which is essential for business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

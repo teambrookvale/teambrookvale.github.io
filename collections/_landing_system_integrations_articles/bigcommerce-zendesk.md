@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/zendesk
 author: Edward Saunders
 title: "BigCommerce and Zendesk Integration: A Powerful Tool for Business"
+topic: System Integration
 leadhead: "Integrating BigCommerce and Zendesk can drastically improve the customer experience"
 leadtext: "By combining these two platforms, businesses can offer topnotch support, gain deeper insights into customer behavior, and streamline operations. In today's competitive e-commerce landscape, integrating different tools and platforms is essential to stay ahead of the game."
 image: /assets/images/articles/people-sitting-near-table.webp

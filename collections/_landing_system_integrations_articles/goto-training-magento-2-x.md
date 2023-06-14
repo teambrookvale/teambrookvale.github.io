@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/magento-2-x
 author: Edward Saunders
 title: "Integrating GoTo Training with Magento 2.X through API/SDK"
+topic: System Integration
 leadhead: "Integrating GoTo Training with Magento 2.X through API or SDK can provide businesses and trainers with a powerful toolset to organize, manage, and sell their training sessions"
 leadtext: "The integration solves several problems and improves the user experience for both the trainers and attendees."
 image: /assets/images/articles/people-sitting-near-table.webp

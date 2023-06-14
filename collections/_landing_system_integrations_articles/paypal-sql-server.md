@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/sql-server
 author: Edward Saunders
 title: "PayPal and SQL Server Integration: A Solution for Streamlined Transactions"
+topic: System Integration
 leadhead: "The integration of PayPal and SQL Server through API or SDK can bring about significant benefits for businesses of all sizes"
 leadtext: "With streamlined transactions, increased accuracy, and reduced workload, businesses can focus on their core tasks instead of spending time recording and processing payments. Integrating these two systems is a smart move for any business looking to optimize their payment processes."
 image: /assets/images/articles/people-sitting-near-table.webp

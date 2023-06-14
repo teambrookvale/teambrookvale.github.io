@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/upwork
 author: Edward Saunders
 title: "Instagram Lead Ads and Upwork Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Upwork through API or SDK brings together two powerful tools that can help businesses grow and succeed"
 leadtext: "By automating the process of finding and hiring freelancers based on leads generated through Instagram ads, businesses can enjoy a faster and more efficient workflow, which translates to greater productivity and better results."
 image: /assets/images/articles/people-sitting-near-table.webp

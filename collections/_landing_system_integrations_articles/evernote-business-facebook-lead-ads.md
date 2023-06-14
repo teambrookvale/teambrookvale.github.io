@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating Evernote Business and Facebook Lead Ads"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Facebook Lead Ads is a powerful tool that can help businesses improve their marketing efforts and increase their bottom line"
 leadtext: "By automating the transfer of data from Facebook Lead Ads to Evernote Business, businesses can streamline their processes and work more efficiently. If your business is not currently taking advantage of this integration, it is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

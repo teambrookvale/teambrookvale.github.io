@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/shopify
 author: Edward Saunders
 title: "Integrating Pinterest and Shopify: A Perfect Match"
+topic: System Integration
 leadhead: "Integrating Pinterest and Shopify is a powerful way to help businesses grow their online presence and drive more sales"
 leadtext: "With the right approach, businesses can leverage the unique strengths of both platforms to create a seamless customer experience that helps drive results."
 image: /assets/images/articles/people-sitting-near-table.webp

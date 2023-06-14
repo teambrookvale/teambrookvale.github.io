@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/amazon-sqs
 author: Edward Saunders
 title: "Integration of Facebook Lead Ads and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and Amazon SQS provides businesses with an effective and seamless process for managing leads"
 leadtext: "By automating the lead management process, businesses can save time and reduce the risk of data loss."
 image: /assets/images/articles/people-sitting-near-table.webp

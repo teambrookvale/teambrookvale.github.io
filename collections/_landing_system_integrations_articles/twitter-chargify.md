@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/chargify
 author: Edward Saunders
 title: "Twitter and Chargify: Integration Through API or SDK"
+topic: System Integration
 leadhead: "Twitter and Chargify are powerful platforms that can benefit businesses in different ways"
 leadtext: "By integrating Twitter and Chargify through API or SDK, businesses can leverage Twitter's vast audience to promote their subscription-based products or services and manage their recurring billing and subscriptions efficiently. The integration also provides businesses with valuable customer insights, which can help them optimize their marketing and sales strategies. If you are a business that offers subscription-based products or services, consider integrating Twitter and Chargify to take advantage of their combined benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

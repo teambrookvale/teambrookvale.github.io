@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-seller-central
 author: Edward Saunders
 title: "WHMCS and Amazon Seller Central Integration - A Solution to your Business Problems"
+topic: System Integration
 leadhead: "Integrating WHMCS and Amazon Seller Central via API or SDK streamlines the management of your business and improves profitability by saving you time and increasing the accuracy of your data"
 leadtext: "By making use of the integration, your business can seamlessly access the vast customer base on Amazon, sell more products, and deliver better services to your customers. The integration of these two platforms is indeed a solution to your business problems."
 image: /assets/images/articles/people-sitting-near-table.webp

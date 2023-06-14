@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/shopify
 author: Edward Saunders
 title: "BambooHR and Shopify Integration: A Comprehensive Guide"
+topic: System Integration
 leadhead: "The integration of BambooHR and Shopify is an excellent way to streamline your business operations and increase efficiency"
 leadtext: "With this integration, you can reduce manual work, improve visibility, and make data-driven decisions. So if you're looking for a way to improve your HR and e-commerce workflows, consider integrating BambooHR and Shopify today."
 image: /assets/images/articles/people-sitting-near-table.webp

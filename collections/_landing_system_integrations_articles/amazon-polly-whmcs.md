@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/whmcs
 author: Edward Saunders
 title: "Amazon Polly and WHMCS Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and WHMCS can greatly benefit web hosting companies by providing a better user experience to their customers"
 leadtext: "By utilizing the text-to-speech capabilities of Amazon Polly, companies can create audio versions of their content, making it easier for their customers to consume. Moreover, by providing voice-based guides and tutorials, companies can enhance their customers' learning experience, boosting engagement and satisfaction rates."
 image: /assets/images/articles/people-sitting-near-table.webp

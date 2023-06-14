@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/chargify
 author: Edward Saunders
 title: "Integration of Webhooks by Zapier and Chargify"
+topic: System Integration
 leadhead: "In conclusion, integrating Webhooks by Zapier and Chargify is a great way for businesses to streamline their billing processes"
 leadtext: "The use of webhooks ensures that businesses are notified in real-time when events occur, and automation saves time and effort. The integration is easy to set up using their APIs and SDKs, making it accessible to businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

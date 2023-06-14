@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of PostgreSQL and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and SugarCRM 6.2-5 through an API or SDK is an effective way to enhance the management of customer data within an organization"
 leadtext: "By automatically transferring customer information between the two systems, companies can save time and reduce the risk of errors. It can also provide companies with greater insight into customer behavior, helping them to make better-informed decisions and stay competitive in their respective markets."
 image: /assets/images/articles/people-sitting-near-table.webp

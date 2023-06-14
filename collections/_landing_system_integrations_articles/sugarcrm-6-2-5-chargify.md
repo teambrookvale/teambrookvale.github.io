@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/chargify
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Chargify Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and Chargify provides numerous benefits for businesses, from improving customer experience to streamlining billing processes and enhancing business insights"
 leadtext: "With these two platforms working together, businesses can make informed decisions and drive growth while simplifying their processes."
 image: /assets/images/articles/people-sitting-near-table.webp

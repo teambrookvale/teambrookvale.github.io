@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/marketo
 author: Edward Saunders
 title: "Integrating Zendesk and Marketo through API or SDK"
+topic: System Integration
 leadhead: "Integrating Zendesk and Marketo through API or SDK provides businesses with a comprehensive platform for managing their customer support and marketing activities"
 leadtext: "The integration solves problems related to efficiency, customer service, and marketing insights, which can help businesses improve their overall customer experience and increase ROI. Implementing this integration can be a valuable investment for any business looking to take their customer interactions to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

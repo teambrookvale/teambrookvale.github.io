@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/shopify
 author: Edward Saunders
 title: "CRM and Shopify Integration"
+topic: System Integration
 leadhead: "The integration of CRM and Shopify through API or SDK provides businesses with a powerful solution to manage and streamline sales processes for improved productivity and growth"
 leadtext: "This integration solves key problems faced in managing customer data and sales processes on separate systems and ensures that businesses have the accurate information they need to make informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

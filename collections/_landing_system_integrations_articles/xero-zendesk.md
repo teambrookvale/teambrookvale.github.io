@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/zendesk
 author: Edward Saunders
 title: "Xero and Zendesk Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Zendesk is a win-win for businesses and customers alike"
 leadtext: "By integrating these two solutions, businesses can streamline their processes, reduce manual data entry, and gain valuable insights into customer behavior, ultimately improving the overall customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

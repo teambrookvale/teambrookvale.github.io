@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/shopify
 author: Edward Saunders
 title: "Integrating Amazon SNS and Shopify"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and Shopify is a great way for businesses to streamline their operations, communicate with their customers, and reduce errors"
 leadtext: "By using the API or SDK integration, businesses can ensure that their inventory is up-to-date and that their customers are kept informed every step of the way. It is no wonder that many businesses are now taking advantage of this powerful integration."
 image: /assets/images/articles/people-sitting-near-table.webp

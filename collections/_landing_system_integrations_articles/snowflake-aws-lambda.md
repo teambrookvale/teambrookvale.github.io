@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/aws-lambda
 author: Edward Saunders
 title: "Snowflake and AWS Lambda Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and AWS Lambda is an exciting development for data processing and analysis"
 leadtext: "It enables developers to create powerful data workflows that can handle large amounts of data in real-time. It provides greater scalability and flexibility compared to traditional methods of data processing, and it provides businesses with greater insights into data patterns that can be used to make informed decisions. Overall, Snowflake and AWS Lambda integration is a powerful tool for businesses looking to leverage the power of data to stay competitive in today's fast-paced business environment."
 image: /assets/images/articles/people-sitting-near-table.webp

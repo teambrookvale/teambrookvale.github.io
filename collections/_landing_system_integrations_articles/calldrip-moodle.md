@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/moodle
 author: Edward Saunders
 title: "Calldrip and Moodle Integration: A Solution for Better Communication"
+topic: System Integration
 leadhead: "Calldrip and Moodle integration through API or SDK can help businesses and educational institutions improve their communication processes and provide a better learning and customer experience"
 leadtext: "Its benefits are far-reaching and can lead to improved efficiency, better communication, and increased sales and customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

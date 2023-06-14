@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/bigcommerce
 author: Edward Saunders
 title: "Integrating Marketo and BigCommerce"
+topic: System Integration
 leadhead: "Integrating Marketo and BigCommerce can provide many benefits for businesses"
 leadtext: "By automating marketing processes and personalizing the customer experience, businesses can increase revenue and improve their overall marketing efforts. With the availability of SDKs and APIs, integration is now easier than ever before."
 image: /assets/images/articles/people-sitting-near-table.webp

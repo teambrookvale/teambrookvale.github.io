@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/facebook-lead-ads
 author: Edward Saunders
 title: "Integration of PostgreSQL and Facebook Lead Ads"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and Facebook Lead Ads can be a game-changer for businesses looking to optimize their lead generation strategies"
 leadtext: "With the right implementation, businesses can streamline the lead generation process, automate lead management, and improve lead data accuracy. Ultimately, this can lead to increased conversions and better ROI for businesses using Facebook Lead Ads."
 image: /assets/images/articles/people-sitting-near-table.webp

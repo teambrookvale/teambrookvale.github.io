@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/postgresql
 author: Edward Saunders
 title: "How Pinterest and PostgreSQL Integration Can Solve Problems"
+topic: System Integration
 leadhead: "Integrating Pinterest and PostgreSQL can improve both systems and solve various problems"
 leadtext: "Developers can create better applications and provide users with an enhanced experience. With the power of PostgreSQL, Pinterest can improve its data management and analysis capabilities, leading to better features and services for users."
 image: /assets/images/articles/people-sitting-near-table.webp

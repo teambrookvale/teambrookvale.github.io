@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/greenhouse
 author: Edward Saunders
 title: "Instagram Lead Ads and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of Instagram lead ads and Greenhouse is an excellent example of how technology can be used to streamline business processes"
 leadtext: "It has made the recruitment process more efficient, allowing recruiters to focus their time and resources on finding the best candidates. As technology continues to evolve, it is likely that we will see more products and services being integrated to create a more seamless business experience."
 image: /assets/images/articles/people-sitting-near-table.webp

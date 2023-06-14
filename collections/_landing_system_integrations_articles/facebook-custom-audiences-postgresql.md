@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/postgresql
 author: Edward Saunders
 title: "Facebook Custom Audiences and PostgreSQL Integration"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and PostgreSQL provides businesses with an effective way to reach their target audience online while improving their data management"
 leadtext: "Therefore, businesses can expect to see better engagement and conversions while reducing advertising costs. As businesses continue to search for new and innovative ways to stay ahead of the competition, integrating Facebook Custom Audiences and PostgreSQL should be high on their priority list."
 image: /assets/images/articles/people-sitting-near-table.webp

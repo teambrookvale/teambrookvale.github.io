@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/moodle
 author: Edward Saunders
 title: "Instagram Lead Ads and Moodle Integration"
+topic: System Integration
 leadhead: "Integrating Instagram Lead Ads and Moodle through API or SDK can provide several benefits, including automated lead capture and management, personalized learning experiences, and improved conversion rates"
 leadtext: "By reducing the manual effort required for lead management, educators and trainers can focus on providing quality education to their students and driving business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

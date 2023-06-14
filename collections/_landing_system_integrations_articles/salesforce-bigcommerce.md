@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/bigcommerce
 author: Edward Saunders
 title: "Salesforce and BigCommerce Integration"
+topic: System Integration
 leadhead: "The integration of Salesforce and BigCommerce through API or SDK is a game-changer for businesses"
 leadtext: "It automates workflows, increases efficiency, and reduces operational costs. With real-time data transfer, businesses can make informed decisions, and with centralized information, they can access customer, sales, and inventory information easily. Salesforce and BigCommerce integration is a powerful tool that businesses should consider to take their online operations to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating ServiceNow with Amazon CloudFront"
+topic: System Integration
 leadhead: "Integrating ServiceNow with Amazon CloudFront is a valuable addition to any business"
 leadtext: "The integration provides a seamless connection between the IT service management platform and the content delivery network, enhancing the accessibility and performance of IT services."
 image: /assets/images/articles/people-sitting-near-table.webp

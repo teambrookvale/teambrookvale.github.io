@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/amazon-seller-central
 author: Edward Saunders
 title: "Pinterest and Amazon Seller Central Integration: A Game Changer!"
+topic: System Integration
 leadhead: "The integration of Pinterest and Amazon Seller Central is a game-changer for businesses looking to expand their reach and sales potential"
 leadtext: "With shoppable pins and the ability to track their Pinterest analytics, businesses can now effectively leverage the benefits of both platforms. By automating the product management process across multiple sales channels, businesses can save time and resources, and focus on driving more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/salesforce
 author: Edward Saunders
 title: "The Power of Integrating Pinterest with Salesforce"
+topic: System Integration
 leadhead: "The integration of Pinterest with Salesforce provides businesses with an opportunity to take their marketing and sales efforts to the next level"
 leadtext: "By using data from Pinterest to inform their sales and marketing strategies, businesses can improve their customer engagement and increase their revenue. The integration also allows businesses to personalize their marketing efforts and streamline their sales process, making it a valuable tool for any business looking to improve their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

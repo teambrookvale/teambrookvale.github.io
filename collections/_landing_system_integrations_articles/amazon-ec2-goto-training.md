@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/goto-training
 author: Edward Saunders
 title: "Integrating Amazon EC2 and GoTo Training for Seamless Collaboration"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and GoTo Training can provide businesses with a powerful combination of cloud infrastructure and virtual training capabilities"
 leadtext: "This can help ensure seamless collaboration between trainers and learners, while also improving the performance and reliability of virtual training sessions. With the right integration approach, businesses can eliminate the risk of downtime or performance issues, and streamline their learning and development efforts to meet their organizational goals."
 image: /assets/images/articles/people-sitting-near-table.webp

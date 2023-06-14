@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/pardot
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Pardot"
+topic: System Integration
 leadhead: "In conclusion, integrating GoTo Webinar and Pardot through API or SDK can provide businesses with a range of benefits, including better lead capture and tracking, targeted marketing campaigns, and higher conversion rates"
 leadtext: "By taking advantage of the integration between these two powerful tools, businesses can streamline their marketing efforts, save time, and drive better results."
 image: /assets/images/articles/people-sitting-near-table.webp

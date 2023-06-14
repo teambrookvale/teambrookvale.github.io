@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/expensify
 author: Edward Saunders
 title: "Integration of MySQL with Expensify"
+topic: System Integration
 leadhead: "The integration of MySQL with Expensify is a game-changer for businesses"
 leadtext: "By automating expense reporting and providing real-time data, businesses can save time and money while getting better insights into their finances. With the help of APIs or SDKs, the integration of MySQL and Expensify is easy to set up and use."
 image: /assets/images/articles/people-sitting-near-table.webp

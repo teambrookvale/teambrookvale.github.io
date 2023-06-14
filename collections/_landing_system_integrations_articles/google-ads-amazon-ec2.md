@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/amazon-ec2
 author: Edward Saunders
 title: "Google Ads and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads and Amazon EC2 through API or SDK provides businesses with a powerful tool to manage their advertising campaigns and cloud computing infrastructure"
 leadtext: "By automating their advertising campaigns and managing their Amazon EC2 instances from within their Google Ads account, businesses can save time and reduce errors. Additionally, the real-time tracking of advertising campaign performance makes it easier to identify areas that need improvement."
 image: /assets/images/articles/people-sitting-near-table.webp

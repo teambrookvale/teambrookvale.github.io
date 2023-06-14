@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/calldrip
 author: Edward Saunders
 title: "Facebook Custom Audiences and Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Calldrip through API or SDK is a useful tool for businesses that seek to increase their conversions and provide better customer service"
 leadtext: "It helps businesses respond quickly to phone calls from customers who have engaged with them through Facebook ads, and keep track of their customer information. By integrating the two tools, businesses can improve their advertising strategy and increase their conversion rates."
 image: /assets/images/articles/people-sitting-near-table.webp

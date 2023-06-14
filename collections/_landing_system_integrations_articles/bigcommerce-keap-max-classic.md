@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/keap-max-classic
 author: Edward Saunders
 title: "How Integrating BigCommerce with Keap Max Classic Solves Business Problems"
+topic: System Integration
 leadhead: "Integrating BigCommerce with Keap Max Classic can help businesses automate their marketing campaigns, improve customer engagement, and streamline their sales processes"
 leadtext: "By leveraging the power of these two platforms, businesses can create a seamless sales and customer management experience that drives growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/greenhouse
 author: Edward Saunders
 title: "How Pardot and Greenhouse Integrate to Streamline Recruitment"
+topic: System Integration
 leadhead: "Integrating Pardot and Greenhouse through API or SDK can significantly streamline the recruitment process"
 leadtext: "From candidate tracking to personalized communication, recruiters can create a more efficient and positive experience for candidates while making their jobs easier. Pardot and Greenhouse are two powerful tools that can help recruiters find the right talent for their companies, and integrating the two can take their recruitment efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

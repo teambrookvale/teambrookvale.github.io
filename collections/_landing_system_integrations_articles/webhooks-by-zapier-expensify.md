@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/expensify
 author: Edward Saunders
 title: "Integrating Webhooks by Zapier and Expensify"
+topic: System Integration
 leadhead: "Integrating Webhooks by Zapier and Expensify can provide businesses with a powerful expense management solution that can save time and money"
 leadtext: "By automating the expense management process, businesses can reduce errors, improve accuracy, and gain insights into their spending patterns. This integration can be done through API or SDK, making it accessible to businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/amazon-sqs
 author: Edward Saunders
 title: "How Facebook Custom Audiences and Amazon SQS Integration Solves Business Problems"
+topic: System Integration
 leadhead: "Integrating Facebook Custom Audiences with Amazon SQS can help businesses streamline their marketing processes, save time and resources, and improve the accuracy and consistency of their targeting"
 leadtext: "By automating the process of updating custom audiences, businesses can ensure that their ads are always targeted and relevant to their audience, which can lead to better conversion rates and increased revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

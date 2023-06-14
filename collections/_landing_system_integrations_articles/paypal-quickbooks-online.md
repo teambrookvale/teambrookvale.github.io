@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/quickbooks-online
 author: Edward Saunders
 title: "PayPal and QuickBooks Online Integration - A Game Changer"
+topic: System Integration
 leadhead: "The integration of PayPal and QuickBooks Online is a game changer for small business owners"
 leadtext: "It saves time, reduces errors, and provides real-time access to financial data. Small business owners who haven't yet integrated these systems should consider doing so as soon as possible."
 image: /assets/images/articles/people-sitting-near-table.webp

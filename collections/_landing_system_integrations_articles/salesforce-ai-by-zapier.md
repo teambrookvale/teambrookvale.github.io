@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/ai-by-zapier
 author: Edward Saunders
 title: "Salesforce and AI by Zapier Integration: A Game Changer"
+topic: System Integration
 leadhead: "The integration of Salesforce and AI by Zapier is a game changer for businesses looking to streamline their operations, reduce manual data entry, and increase efficiency"
 leadtext: "By leveraging the power of automation, businesses can improve their sales and marketing processes while saving time, effort, and money."
 image: /assets/images/articles/people-sitting-near-table.webp

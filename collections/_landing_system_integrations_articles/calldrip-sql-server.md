@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/sql-server
 author: Edward Saunders
 title: "Calldrip and SQL Server Integration"
+topic: System Integration
 leadhead: "Integrating Calldrip and SQL Server through API or SDK is a smart move for businesses"
 leadtext: "It solves several problems such as eliminating duplicate data entry, ensuring accuracy of data, improving team communication, and increasing response time. This integration helps businesses streamline their processes, improve their customer experience, and ultimately drive growth."
 image: /assets/images/articles/people-sitting-near-table.webp

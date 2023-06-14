@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/sql-server
 author: Edward Saunders
 title: "The Benefits of Integrating Expensify and SQL Server"
+topic: System Integration
 leadhead: "Integrating Expensify and SQL Server delivers many benefits to businesses, including increased efficiency, real-time expense tracking, and better compliance"
 leadtext: "By automating the expense reporting process and removing the need for manual data entry, businesses can save time and reduce errors. With real-time updates on expenses, businesses can track expenses and identify trends, making informed decisions. Finally, by enforcing spending policies through the integration, businesses can improve compliance and reduce fraud. With all these benefits, integrating Expensify and SQL Server is an excellent choice for businesses looking to streamline their expense management processes and improve accuracy."
 image: /assets/images/articles/people-sitting-near-table.webp

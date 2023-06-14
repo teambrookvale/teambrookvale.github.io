@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/sugarcrm-6-2-5
 author: Edward Saunders
 title: "How the Integration of AI by Zapier and SugarCRM 6.2-5 Benefits Your Business"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and SugarCRM 6.2-5 is a powerful tool for businesses looking to improve their efficiency, customer service, and sales processes"
 leadtext: "By automating tasks and analyzing data, businesses can make better decisions and improve their bottom line. With the API and SDK integration, the two tools can work seamlessly together, allowing businesses to focus on what they do best – serving their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

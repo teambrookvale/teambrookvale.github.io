@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/salesforce
 author: Edward Saunders
 title: "Chargify Salesforce Integration - Streamlining Your Subscription Management"
+topic: System Integration
 leadhead: "The integration of Chargify and Salesforce provides subscription businesses with an integrated, powerful platform to manage their customer data, billing, and sales processes"
 leadtext: "It streamlines operations, improves efficiency, and reduces manual errors, ultimately enhancing the customer experience. By leveraging the capabilities of these two platforms, businesses can enhance their subscription management, automate their customer relationship management, and grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

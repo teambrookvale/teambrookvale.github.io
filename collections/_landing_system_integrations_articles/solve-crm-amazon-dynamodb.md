@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/amazon-dynamodb
 author: Edward Saunders
 title: "Solving CRM Problems with Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "Integrating your CRM system with Amazon DynamoDB can help you solve some of the most pressing CRM challenges faced by businesses today"
 leadtext: "By leveraging the power of DynamoDB, you can improve your customer data management, increase customer loyalty and retention, and enhance your overall business performance. So, if you're looking for an effective way to get more out of your CRM system, consider integrating it with DynamoDB and start seeing the benefits for yourself."
 image: /assets/images/articles/people-sitting-near-table.webp

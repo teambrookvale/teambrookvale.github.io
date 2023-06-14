@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-seller-central
 author: Edward Saunders
 title: "Amazon SQS and Seller Central Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SQS and Seller Central can help merchants to achieve greater success and profitability on Amazon, by enabling them to streamline their operations and automate key processes"
 leadtext: "By automating tasks such as order fulfillment, you can reduce costs and improve efficiency, while also improving customer satisfaction and loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

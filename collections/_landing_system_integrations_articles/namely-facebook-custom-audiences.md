@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/facebook-custom-audiences
 author: Edward Saunders
 title: "Namely and Facebook Custom Audiences Integration: Solving Marketing Problems"
+topic: System Integration
 leadhead: "The integration of Namely and Facebook Custom Audiences offers a powerful marketing solution, allowing businesses to reach the right audience with their ads"
 leadtext: "By integrating these two tools through API or SDK, marketers can save money and time by only showing their ads to a select group of people. If you are looking for an effective way to improve your marketing outcomes, consider integrating Namely and Facebook Custom Audiences today!"
 image: /assets/images/articles/people-sitting-near-table.webp

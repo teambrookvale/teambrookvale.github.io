@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/xero
 author: Edward Saunders
 title: "Integrating AWS Lambda with Xero - A Solution for Accounting Automation"
+topic: System Integration
 leadhead: "The integration of AWS Lambda with Xero provides a valuable solution for businesses that require accounting automation"
 leadtext: "The use of APIs or SDKs allows developers to create custom functionality that streamlines accounting processes, saving time and reducing errors. The benefits of this integration include the automation of manual data entry, the generation of invoices, and the handling of payroll tasks. By incorporating these technologies, businesses can increase their efficiency, reduce costs, and improve their overall financial management."
 image: /assets/images/articles/people-sitting-near-table.webp

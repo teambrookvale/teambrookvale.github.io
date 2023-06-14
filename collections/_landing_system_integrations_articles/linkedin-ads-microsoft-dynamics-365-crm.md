@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "How Integration of LinkedIn Ads and Microsoft Dynamics 365 CRM Is Beneficial"
+topic: System Integration
 leadhead: "Integration of LinkedIn Ads and Microsoft Dynamics 365 CRM through API or SDK is a great way for businesses to streamline their marketing and sales processes"
 leadtext: "By resolving the biggest issues faced by companies, the integration of these two tools can save time, improve efficiency, and increase revenue. This integration is a win-win for marketers, sales teams, and ultimately the business."
 image: /assets/images/articles/people-sitting-near-table.webp

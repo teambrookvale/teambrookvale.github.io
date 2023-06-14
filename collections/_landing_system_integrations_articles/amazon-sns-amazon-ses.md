@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-ses
 author: Edward Saunders
 title: "Integrating Amazon SNS and Amazon SES: A Solution to Your Communication Problems"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and Amazon SES can provide businesses with a cost-effective, scalable, and real-time communication solution"
 leadtext: "With the help of an API or SDK, businesses can easily integrate the two services and reap the benefits of a more efficient communication system."
 image: /assets/images/articles/people-sitting-near-table.webp

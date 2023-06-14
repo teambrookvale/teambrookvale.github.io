@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-sqs
 author: Edward Saunders
 title: "Calldrip and Amazon SQS: A Perfect Integration"
+topic: System Integration
 leadhead: "The integration between Calldrip and Amazon SQS is a game-changer for businesses of all sizes"
 leadtext: "The fast integration time, user-friendly API, and security features ensure sales teams do not miss any leads and stay on top of their game. By working together, Calldrip and Amazon SQS ensure better management of leads, improved customer relations, and consistent sales growth."
 image: /assets/images/articles/people-sitting-near-table.webp

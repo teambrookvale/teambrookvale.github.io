@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/marketo
 author: Edward Saunders
 title: "Namely and Marketo Integration: A Match Made in Heaven"
+topic: System Integration
 leadhead: "The integration of Namely and Marketo is a powerful combination that can help businesses streamline their operations and improve their overall performance"
 leadtext: "Whether you're a small startup or a large enterprise, the integration of these two platforms can provide you with the tools you need to succeed in today's competitive marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/sql-server
 author: Edward Saunders
 title: "The Snowflake and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and SQL Server enables businesses that use SQL Server to take advantage of Snowflake’s cloud data warehousing power without requiring a major overhaul of their data architecture"
 leadtext: "The Snowflake Connector for .NET provides businesses with a seamless connection between SQL Server and Snowflake that is easy to set up and use, which ultimately leads to increased efficiency and a better user experience for data analysts and engineers."
 image: /assets/images/articles/people-sitting-near-table.webp

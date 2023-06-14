@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/amazon-sqs
 author: Edward Saunders
 title: "Amazon DynamoDB and Amazon SQS Integration"
+topic: System Integration
 leadhead: "Integrating Amazon DynamoDB and Amazon SQS is a great solution for data processing and keeping data flowing throughout all parts of your application"
 leadtext: "It increases reliability, scalability, and resilience because the data is never lost, and you can easily add more workers to reduce processing time. To sum up, it is an excellent choice for organizations to store and process data virtually in real-time."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/goto-training
 author: Edward Saunders
 title: "Magento and GoToTraining Integration"
+topic: System Integration
 leadhead: "The integration of Magento and GoToTraining provides businesses with numerous benefits, including centralized management, an efficient workflow, a better customer experience, and increased revenue"
 leadtext: "By using the APIs or SDKs provided by the platforms, businesses can easily and effectively integrate the two platforms together."
 image: /assets/images/articles/people-sitting-near-table.webp

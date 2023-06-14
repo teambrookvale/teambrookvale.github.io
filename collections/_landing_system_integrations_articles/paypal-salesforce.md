@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/salesforce
 author: Edward Saunders
 title: "The Power of Integrating PayPal and Salesforce"
+topic: System Integration
 leadhead: "As we can see, the integration of PayPal and Salesforce through API or SDK can provide businesses with a number of benefits"
 leadtext: "By streamlining payment processing and CRM processes, improving data accuracy and security, and reducing human error, integration can help businesses save time and money while improving the customer experience. With the power of these two platforms working together, there's no limit to what businesses can achieve."
 image: /assets/images/articles/people-sitting-near-table.webp

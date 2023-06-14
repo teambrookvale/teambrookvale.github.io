@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/aws-lambda
 author: Edward Saunders
 title: "Integration of Facebook Lead Ads with AWS Lambda"
+topic: System Integration
 leadhead: "Overall, the integration of Facebook Lead Ads with AWS Lambda is a powerful solution for businesses looking to streamline their lead generation process"
 leadtext: "With the ability to automate the process, track and analyze data, and handle lead processing with ease, this integration is a must-have for any business looking to stay ahead of the competition in today's digital landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

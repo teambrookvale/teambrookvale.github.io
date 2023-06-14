@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/calldrip
 author: Edward Saunders
 title: "Integrating Zoho CRM with Calldrip"
+topic: System Integration
 leadhead: "Integrating Zoho CRM with Calldrip is a smart move for businesses that want to automate their sales calls, capture leads in real-time, and track their sales funnel more efficiently"
 leadtext: "With the power of an API or SDK, businesses can easily integrate these two platforms and improve their workflows. The problems that their integration solves are real-time call routing, automatic lead capture, easy recording of call details and notes and automated follow-up emails and tasks. This integration can be beneficial for businesses of all sizes and can help them grow and succeed."
 image: /assets/images/articles/people-sitting-near-table.webp

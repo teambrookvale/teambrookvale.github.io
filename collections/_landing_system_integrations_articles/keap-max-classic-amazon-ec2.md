@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/amazon-ec2
 author: Edward Saunders
 title: "Keap Max Classic and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Amazon EC2 through API or SDK provides businesses with a powerful solution to their CRM and marketing automation needs"
 leadtext: "By leveraging the scalability, security, and efficiency of Amazon EC2 and the advanced features of Keap Max Classic, businesses can improve their marketing and sales processes and grow their businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

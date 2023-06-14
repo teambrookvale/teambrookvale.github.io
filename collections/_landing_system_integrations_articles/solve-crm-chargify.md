@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/chargify
 author: Edward Saunders
 title: "Solving CRM Problems with Chargify Integration"
+topic: System Integration
 leadhead: "Managing customer relationships and subscription billing can be a daunting task for businesses"
 leadtext: "However, integrating Solve CRM with Chargify through their APIs or SDKs can help streamline these processes, saving time and reducing errors. This integration ensures accurate and up-to-date customer data and provides better insights that can help businesses make informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

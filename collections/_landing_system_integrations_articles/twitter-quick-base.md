@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/quick-base
 author: Edward Saunders
 title: "Twitter and Quick Base Integration"
+topic: System Integration
 leadhead: "Twitter and Quick Base integration can be a powerful tool for businesses looking to improve their productivity and stay on top of their social media presence"
 leadtext: "By integrating the two platforms through API or SDK, you can automate tasks and eliminate manual data entry, saving you time and effort. You can also use the integration to monitor social media for customer complaints, allowing you to respond quickly and address issues before they become major problems."
 image: /assets/images/articles/people-sitting-near-table.webp

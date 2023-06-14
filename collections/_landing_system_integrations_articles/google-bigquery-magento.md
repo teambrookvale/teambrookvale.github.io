@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/magento
 author: Edward Saunders
 title: "Unlock the Power of Magento with Google BigQuery Integration"
+topic: System Integration
 leadhead: "Google BigQuery and Magento integration is a powerful tool that can help businesses gain valuable insights into their operations and customers"
 leadtext: "By leveraging the scalability and speed of Google BigQuery, businesses can quickly analyze their data and optimize their operations to drive growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/amazon-sns
 author: Edward Saunders
 title: "Integrating Marketo and Amazon SNS"
+topic: System Integration
 leadhead: "Integrating Marketo and Amazon SNS can be achieved with ease, providing businesses with an opportunity to improve customer engagement and sales"
 leadtext: "Whether you choose to use an API or an SDK, the benefits are worth the investment. With the two platforms working together, businesses can create personalized and real-time communication with their customers, leading to a great customer experience and increased customer loyalty."
 image: /assets/images/articles/people-sitting-near-table.webp

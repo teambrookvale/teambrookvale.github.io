@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/twitter
 author: Edward Saunders
 title: "Facebook Custom Audiences Integration with Twitter"
+topic: System Integration
 leadhead: "Facebook Custom Audiences Integration with Twitter is an excellent step for businesses looking to maximize their marketing efforts"
 leadtext: "This integration provides businesses with an opportunity to reach out to their targeted audience through multi-channel advertising that is more personalized. Therefore, integrating Facebook Custom Audiences with Twitter is a game-changer for businesses looking for efficient and effective ways to advertise their products and services."
 image: /assets/images/articles/people-sitting-near-table.webp

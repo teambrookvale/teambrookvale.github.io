@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/quickbooks-online
 author: Edward Saunders
 title: "Integrating AI by Zapier and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and QuickBooks Online is a game-changer for businesses looking to streamline their accounting and financial workflows"
 leadtext: "By combining the power of AI automation with the functionality of QuickBooks Online, businesses can save time, reduce errors, and gain accurate insights into their finances."
 image: /assets/images/articles/people-sitting-near-table.webp

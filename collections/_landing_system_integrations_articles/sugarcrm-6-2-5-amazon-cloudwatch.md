@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-cloudwatch
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of SugarCRM 6.2-5 and Amazon CloudWatch using the AWS SDK is a valuable addition for businesses looking to enhance their CRM capabilities"
 leadtext: "It enables better monitoring of their applications and services, facilitating proactive measures to prevent issues before they escalate. Businesses can also create custom metrics, providing more accurate insights into the performance of their applications and services."
 image: /assets/images/articles/people-sitting-near-table.webp

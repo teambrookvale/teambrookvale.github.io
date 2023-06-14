@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-seller-central
 author: Edward Saunders
 title: "Integration of Amazon S3 and Seller Central"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and Seller Central can provide sellers with numerous benefits"
 leadtext: "By storing their data on S3 and accessing it on Seller Central, sellers can easily manage their business activities without worrying about the limitations of Seller Central or the security of their data. Using the Amazon API or SDKs, sellers can integrate the two services seamlessly and improve their overall business efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

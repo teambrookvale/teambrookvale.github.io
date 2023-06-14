@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/postgresql
 author: Edward Saunders
 title: "Integration of Pardot and PostgreSQL"
+topic: System Integration
 leadhead: "The integration of Pardot and PostgreSQL is a powerful tool for businesses that want to streamline their marketing automation and data management processes"
 leadtext: "With a seamless integration mechanism, businesses can improve lead tracking, automate marketing tasks, and store and retrieve data efficiently. Consequently, they can make informed marketing decisions and get better returns on their investments. So, if you're considering automating your marketing tasks while streamlining your data management processes, combining Pardot and PostgreSQL is an excellent solution to consider."
 image: /assets/images/articles/people-sitting-near-table.webp

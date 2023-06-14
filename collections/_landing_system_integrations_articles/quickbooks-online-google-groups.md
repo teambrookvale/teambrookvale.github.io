@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/google-groups
 author: Edward Saunders
 title: "Integrating QuickBooks Online and Google Groups"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Google Groups is a beneficial solution for small businesses"
 leadtext: "As such, businesses can automate various processes and workflows. Plus, it can lead to better communication and collaboration among team members. In conclusion, the integration of QuickBooks Online and Google Groups is a win-win situation that can remove many headaches and streamline processes."
 image: /assets/images/articles/people-sitting-near-table.webp

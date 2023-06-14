@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/quick-base
 author: Edward Saunders
 title: "Instagram Custom Audiences and Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Quick Base is a powerful tool for businesses looking to make their marketing efforts more efficient and effective"
 leadtext: "By automating their ad campaigns and targeting the right audience, businesses can save time and improve ROI. Quick Base's low-code platform makes it easy to connect to Instagram and create custom applications to manage ad campaigns. With this integration, businesses can gain a better understanding of their audience and drive more sales on Instagram."
 image: /assets/images/articles/people-sitting-near-table.webp

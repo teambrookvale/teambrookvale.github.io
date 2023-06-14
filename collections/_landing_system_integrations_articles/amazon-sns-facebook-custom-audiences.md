@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/facebook-custom-audiences
 author: Edward Saunders
 title: "Integration of Amazon SNS and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Facebook Custom Audiences is a powerful tool for businesses looking to improve their marketing efforts"
 leadtext: "By leveraging the strengths of both services, businesses can automate their custom audience creation while ensuring that their notifications are delivered to the right people. This integration helps improve engagement and conversion rates and ultimately leads to increased revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

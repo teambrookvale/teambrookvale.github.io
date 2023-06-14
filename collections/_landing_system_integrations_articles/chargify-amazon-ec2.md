@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-ec2
 author: Edward Saunders
 title: "Chargify and Amazon EC2 Integration: A Solution to Your Payment Processing Problems"
+topic: System Integration
 leadhead: "Integrating Chargify and Amazon EC2 through API or SDK is an excellent solution for businesses looking to improve their payment processing capabilities and manage their computing resources more efficiently"
 leadtext: "By using these platforms together, businesses can manage recurring payments, scale their computing resources, and reduce the risk of downtime and lost revenue. If you’re looking for a reliable payment processing solution with scalable computing resources, consider integrating Chargify and Amazon EC2."
 image: /assets/images/articles/people-sitting-near-table.webp

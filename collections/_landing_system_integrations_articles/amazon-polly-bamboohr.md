@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/bamboohr
 author: Edward Saunders
 title: "Integration of Amazon Polly and BambooHR"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and BambooHR can bring significant advantages to HR teams"
 leadtext: "By automating routine tasks, this technology can improve efficiency and free up time for HR professionals to focus on more important work. Additionally, it can improve accessibility for individuals with disabilities. Consider integrating these tools to improve your HR processes."
 image: /assets/images/articles/people-sitting-near-table.webp

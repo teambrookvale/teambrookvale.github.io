@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads and Amazon CloudWatch is a valuable strategy for businesses looking to optimize their advertising performance"
 leadtext: "By monitoring their ad performance in real-time, improving their ad targeting, and optimizing their ad spend, businesses can improve their ROI and drive more leads and sales. With the available API and SDK, businesses can easily integrate the two platforms and start reaping the benefits of their integration."
 image: /assets/images/articles/people-sitting-near-table.webp

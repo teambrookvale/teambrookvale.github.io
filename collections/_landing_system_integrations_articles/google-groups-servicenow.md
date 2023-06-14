@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/servicenow
 author: Edward Saunders
 title: "Integrating Google Groups and ServiceNow"
+topic: System Integration
 leadhead: "Integrating Google Groups and ServiceNow can be a game-changer for organizations, improving collaboration and workflow efficiency"
 leadtext: "
          By using API or SDK integration, it's possible to automate ticketing, streamline communication, and gain better visibility into IT issues. 

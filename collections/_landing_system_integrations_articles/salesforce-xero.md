@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/xero
 author: Edward Saunders
 title: "Integration of Salesforce and Xero"
+topic: System Integration
 leadhead: "The integration of Salesforce and Xero is a boon for businesses that deal with frequent customer transactions and require a streamlined process"
 leadtext: "It enhances productivity, minimizes errors, ensures data accuracy, and improves the overall functioning of the organization. The API and SDK make the integration easy and hassle-free, and with the help of a reliable integration tool, businesses can automate their processes, reduce manual efforts, and focus on growth. So, if you are struggling to manage your customer relationships and finances separately, it's time to bring them together."
 image: /assets/images/articles/people-sitting-near-table.webp

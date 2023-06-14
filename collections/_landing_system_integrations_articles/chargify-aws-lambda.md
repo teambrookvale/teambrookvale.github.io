@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/aws-lambda
 author: Edward Saunders
 title: "Chargify and AWS Lambda Integration for Better Business Management"
+topic: System Integration
 leadhead: "Chargify and AWS Lambda are two powerful tools that businesses can use to manage their billing and payment processes"
 leadtext: "By integrating these tools, businesses can automate their billing and payment management processes, which saves time, reduces errors, and can help to reduce operational costs. If you are looking for a way to improve your billing and payment management processes, you should definitely consider integrating Chargify and AWS Lambda."
 image: /assets/images/articles/people-sitting-near-table.webp

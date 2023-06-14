@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/upwork
 author: Edward Saunders
 title: "Integrating SugarCRM 7+ with Upwork through API/SDK"
+topic: System Integration
 leadhead: "Integrating SugarCRM 7+ with Upwork through API or SDK is an excellent solution for businesses that want to manage their customer relationships and freelancer projects in one place"
 leadtext: "It provides businesses with the benefit of improved efficiencies, accurate data, and streamlined workflows. Any business that values time, accuracy and quality would find it a worthwhile investment."
 image: /assets/images/articles/people-sitting-near-table.webp

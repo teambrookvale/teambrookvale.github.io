@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/goto-training
 author: Edward Saunders
 title: "Integration of BigCommerce and GoTo Training"
+topic: System Integration
 leadhead: "The integration of BigCommerce and GoTo Training is a powerful combination that can help your business in many ways"
 leadtext: "From seamless onboarding to continuous training and upskilling, this integration ensures that your employees have what they need to succeed. Ultimately, this leads to satisfied employees and customers, and a more successful business overall."
 image: /assets/images/articles/people-sitting-near-table.webp

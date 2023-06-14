@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/zoho-crm
 author: Edward Saunders
 title: "Integrating Pardot and Zoho CRM for Better Sales Efficiency"
+topic: System Integration
 leadhead: "Integrating Pardot and Zoho CRM is a smart solution for managing your sales process more efficiently"
 leadtext: "This integration ensures accurate, timely data transfer between sales and marketing departments, which helps improve your team's productivity. Consider integrating Pardot and Zoho CRM today to enhance your lead generation, lead management, and sales processes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/whmcs
 author: Edward Saunders
 title: "Integrating Twitter and WHMCS through API/SDK"
+topic: System Integration
 leadhead: "In conclusion, integrating Twitter and WHMCS through API/SDK provides a range of benefits for website owners"
 leadtext: "By automating tweets related to billing activity, you can save time and increase your social media presence. This, in turn, can lead to increased website traffic and more customers. If you haven't already, consider integrating Twitter and WHMCS into your website today!"
 image: /assets/images/articles/people-sitting-near-table.webp

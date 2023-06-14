@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/goto-training
 author: Edward Saunders
 title: "Integrating Greenhouse and GoTo Training"
+topic: System Integration
 leadhead: "The integration of Greenhouse and GoTo Training is a wise decision for organizations that want to streamline their recruitment and training process"
 leadtext: "With data transfer taking place seamlessly between the two platforms, new hires will be onboarded efficiently and trained effectively. The real-time analytical insights also allow organizations to identify and address issues during the training process. This integration can go a long way in addressing the needs of organizations and ensuring a successful recruitment process."
 image: /assets/images/articles/people-sitting-near-table.webp

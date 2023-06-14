@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/goto-training
 author: Edward Saunders
 title: "Integrating BambooHR and GoTo Training for a Smooth HR Experience"
+topic: System Integration
 leadhead: "Integrating BambooHR and GoToTraining is an effective way to streamline HR processes and improve the efficiency of employee training and development"
 leadtext: "Through API or SDK integration, users can experience a more unified and accessible HR experience. If you're looking to simplify your HR processes, consider integrating these two popular platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

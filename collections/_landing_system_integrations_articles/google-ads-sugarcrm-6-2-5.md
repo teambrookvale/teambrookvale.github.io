@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating Google Ads with SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "Integrating Google Ads with SugarCRM 6.2-5 offers businesses a powerful tool for managing their online advertising campaigns and customer relationships"
 leadtext: "By leveraging the power of these two platforms, businesses can create targeted marketing strategies, streamline their sales process, and improve their ROI. If you're interested in integrating these platforms, consider consulting with a qualified developer or provider who can help you get started."
 image: /assets/images/articles/people-sitting-near-table.webp

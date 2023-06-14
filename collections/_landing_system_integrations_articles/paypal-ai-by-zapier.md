@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/ai-by-zapier
 author: Edward Saunders
 title: "PayPal and AI by Zapier Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and AI by Zapier is an excellent way to streamline business processes and increase productivity by removing manual tasks"
 leadtext: "The two technologies complement each other in many ways and their integration can bring significant benefits to individuals and businesses. With the use of API or SDK, the integration process is seamless and efficient, making it easy for users to take advantage of the benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

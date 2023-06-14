@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/bamboohr
 author: Edward Saunders
 title: "Twitter and BambooHR Integration"
+topic: System Integration
 leadhead: "The integration of Twitter and BambooHR can provide many benefits for businesses, including increased efficiency and improved communication"
 leadtext: "By using an API or SDK, businesses can streamline processes and reduce errors. Overall, integrating these two platforms can help businesses better manage their employees and promote their brand on social media."
 image: /assets/images/articles/people-sitting-near-table.webp

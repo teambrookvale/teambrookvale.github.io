@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/amazon-dynamodb
 author: Edward Saunders
 title: "Integrating Amazon EC2 and DynamoDB"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and DynamoDB can help businesses manage their applications and data more efficiently"
 leadtext: "By leveraging the EC2 API or SDK and DynamoDB's flexible data model, businesses can dynamically adjust their infrastructure based on demand and ensure that their applications can handle increased loads without impacting performance. This can help businesses save money, improve performance, and deliver a better customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

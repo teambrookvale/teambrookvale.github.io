@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/quickbooks-online
 author: Edward Saunders
 title: "Zoho CRM and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and QuickBooks Online can help businesses improve their sales and financial processes, while reducing the risk of errors"
 leadtext: "If you're interested in integrating these two systems, consider working with a qualified developer who can ensure that the integration is done correctly and securely."
 image: /assets/images/articles/people-sitting-near-table.webp

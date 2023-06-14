@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/snowflake
 author: Edward Saunders
 title: "Webhooks by Zapier and Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of Webhooks by Zapier and Snowflake offers users a powerful data warehousing and automation platform"
 leadtext: "With this integration, users can easily manage and analyze large amounts of data in real-time, achieving higher efficiency and productivity. The integration can help organizations in various industries to streamline their operations, making data-driven decisions, and ultimately increasing their profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -109,6 +109,7 @@ for html_file in html_files:
 permalink: /landings/system-integrations/{url_safe(platform_combination[0])}/{url_safe(platform_combination[1])}
 author: Edward Saunders
 title: "{title}"
+topic: System Integration
 leadhead: "{conclusion_first_sentence}"
 leadtext: "{conclusion_remaining}"
 image: /assets/images/articles/people-sitting-near-table.webp
@@ -119,4 +120,4 @@ image: /assets/images/articles/people-sitting-near-table.webp
         md_file.write(md_header_lines)
         md_file.writelines(body_lines)
 
-    #print(f'Wrote {file_name}')
+    print(f'Wrote {file_name}')

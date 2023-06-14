@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/snowflake
 author: Edward Saunders
 title: "Expensify and Snowflake Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Snowflake provides companies with a powerful tool for expense management and data analytics"
 leadtext: "With its automation and scalability features, it can help businesses of any size to manage their expenses more effectively, identify trends and insights, and make data-driven decisions. Overall, it is a highly recommended integration for any company that wants to streamline its expense management process and optimize its financial performance."
 image: /assets/images/articles/people-sitting-near-table.webp

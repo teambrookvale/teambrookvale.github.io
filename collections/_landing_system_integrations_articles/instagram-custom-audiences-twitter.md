@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/twitter
 author: Edward Saunders
 title: "How Integrating Instagram Custom Audiences and Twitter can Benefit Your Business"
+topic: System Integration
 leadhead: "Integrating Instagram Custom Audiences and Twitter can benefit businesses by expanding their reach, increasing engagement, and ensuring consistent messaging across all channels"
 leadtext: "By using an API or SDK, businesses can target the same group of people on both platforms and avoid duplicate targeting."
 image: /assets/images/articles/people-sitting-near-table.webp

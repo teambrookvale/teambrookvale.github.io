@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/pinterest
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Pinterest"
+topic: System Integration
 leadhead: "The integration of GoTo Webinar and Pinterest is a powerful tool for modern marketers"
 leadtext: "By using it, you can promote your webinars and Pinterest content to a wider audience, build stronger relationships with your attendees, and drive more traffic to your website. Don't miss out on the opportunity to take your marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/zendesk
 author: Edward Saunders
 title: "Greenhouse and Zendesk Integration for Streamlined Workflows"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Zendesk through API or SDK is a powerful way to streamline workflows and improve communication between recruitment and customer support teams"
 leadtext: "By automating tasks and synchronizing data, this integration can save time and prevent errors, resulting in a more efficient and effective hiring and support process."
 image: /assets/images/articles/people-sitting-near-table.webp

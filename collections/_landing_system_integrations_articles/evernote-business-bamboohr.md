@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/bamboohr
 author: Edward Saunders
 title: "The Benefits of Integrating Evernote Business and BambooHR"
+topic: System Integration
 leadhead: "Integrating Evernote Business and BambooHR is a powerful way to streamline your workflow and save time and energy"
 leadtext: "With this integration, you can automate tedious HR tasks, improve collaboration, and make better decisions. If you're looking to take your work life to the next level, consider integrating Evernote Business and BambooHR today."
 image: /assets/images/articles/people-sitting-near-table.webp

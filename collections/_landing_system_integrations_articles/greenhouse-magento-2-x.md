@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/magento-2-x
 author: Edward Saunders
 title: "Integration of Greenhouse and Magento 2.X"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Magento 2.X is a game-changer for online retailers and sellers"
 leadtext: "This integration streamlines the recruitment and staffing process and ensures that your online store runs efficiently. With its advanced features and functionality, Magento 2.X enables you to have a dynamic and intuitive e-commerce store while Greenhouse simplifies the hiring process by providing recruitment tools that enhance the productivity and efficiency of hiring managers. It is the perfect combination for online retailers and sellers looking to scale their business and improve their hiring and staffing process."
 image: /assets/images/articles/people-sitting-near-table.webp

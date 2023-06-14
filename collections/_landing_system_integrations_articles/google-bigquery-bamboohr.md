@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/bamboohr
 author: Edward Saunders
 title: "The Benefits of Integrating Google BigQuery and BambooHR"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and BambooHR can help you make the most of your employee data, allowing you to gain insights that were previously unavailable"
 leadtext: "By combining your HR data with other datasets in BigQuery, you can make data-driven decisions about your hiring, retention, and performance management strategies, ultimately improving your organization's bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

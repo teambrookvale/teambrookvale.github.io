@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/mysql
 author: Edward Saunders
 title: "Integration of Magento 2.X and MySQL"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and MySQL offers a significant advantage to businesses looking to improve their online store performance"
 leadtext: "By integrating these two technologies, businesses can manage large volumes of data, improve inventory management, and increase sales and revenue. Therefore, it is recommended that businesses look into integrating these two technologies through APIs or SDKs to enjoy these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/instagram-lead-ads
 author: Edward Saunders
 title: "Google Ads and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "Google Ads and Instagram Lead Ads are both powerful advertising platforms that offer unique benefits for businesses"
 leadtext: "By integrating the two through API or SDK, businesses can improve their marketing campaigns, increase their audience reach, and generate more leads. By taking advantage of this integration, businesses can stay ahead of their competition and reach their goals faster."
 image: /assets/images/articles/people-sitting-near-table.webp

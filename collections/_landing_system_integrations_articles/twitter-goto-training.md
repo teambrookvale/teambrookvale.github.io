@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/goto-training
 author: Edward Saunders
 title: "Integrating Twitter and GoTo Training for efficient communication: A comprehensive guide"
+topic: System Integration
 leadhead: "The integration of Twitter and GoTo Training is an innovative approach to communication that can help businesses to optimize their communication processes"
 leadtext: "By using both platforms together, businesses can enhance the engagement aspect of their virtual training sessions and improve their customer support. By leveraging the power of API and SDK, businesses can streamline their communication process and achieve better results."
 image: /assets/images/articles/people-sitting-near-table.webp

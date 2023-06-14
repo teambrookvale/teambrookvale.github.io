@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/calldrip
 author: Edward Saunders
 title: "Zendesk and Calldrip Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Zendesk and Calldrip is a move in the right direction for organizations that are serious about improving their customer support and sales effectiveness"
 leadtext: "It is a simple process that can generate significant benefits. Zendesk and Calldrip complement each other, and this integration will likely lead to increased customer satisfaction, quicker resolution of customer complaints, and more sales conversions."
 image: /assets/images/articles/people-sitting-near-table.webp

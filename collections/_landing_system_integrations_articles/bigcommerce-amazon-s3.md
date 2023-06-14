@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-s3
 author: Edward Saunders
 title: "Integration of BigCommerce and Amazon S3 for Enhanced E-commerce Solutions"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Amazon S3 offers many benefits to businesses looking to enhance their e-commerce solutions"
 leadtext: "With the ability to scale up their storage capacity as needed, and the ease of managing and storing product images and media files, businesses can focus on growing their business without worrying about the logistics of managing their online store. With the seamless integration through the API or SDK, it is an easy and powerful solution for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

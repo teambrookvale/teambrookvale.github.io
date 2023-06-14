@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/linkedin-ads
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB with LinkedIn Ads through API or SDK"
+topic: System Integration
 leadhead: "Integrating Amazon DynamoDB with LinkedIn Ads through API or SDK can unlock powerful advertising capabilities for businesses"
 leadtext: "By leveraging customer data to create targeted campaigns and automating advertising efforts, businesses can improve their advertising ROI and reduce manual work."
 image: /assets/images/articles/people-sitting-near-table.webp

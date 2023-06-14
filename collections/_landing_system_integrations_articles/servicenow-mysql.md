@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/mysql
 author: Edward Saunders
 title: "ServiceNow and MySQL Integration: A Powerful Combination"
+topic: System Integration
 leadhead: "The integration of ServiceNow and MySQL through API or SDK is a powerful combination for businesses"
 leadtext: "It offers improved data management, better IT service management, and streamlined business operations, among other benefits. If your business uses these technologies, you should consider integrating them to take advantage of these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

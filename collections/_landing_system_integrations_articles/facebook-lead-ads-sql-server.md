@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/sql-server
 author: Edward Saunders
 title: "How Facebook Lead Ads and SQL Server Integration Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and SQL Server provides businesses with a cost-effective and efficient solution for managing their leads"
 leadtext: "This integration eliminates manual data entry and provides a secure and scalable solution for storing and managing data. With this integration, businesses can quickly and easily access data for analysis and decision-making, leading to better business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

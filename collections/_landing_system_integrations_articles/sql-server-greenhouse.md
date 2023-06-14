@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/greenhouse
 author: Edward Saunders
 title: "SQL Server and Greenhouse Integration - The Solution to Your Hiring Woes"
+topic: System Integration
 leadhead: "Integrating SQL Server and Greenhouse through API or SDK can provide businesses with a powerful recruitment management system"
 leadtext: "The integration can automate tasks, eliminate data silos and provide a comprehensive view of the recruitment process. This solution can save recruiters time, improve outcomes and help businesses find top talent more efficiently."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/sql-server
 author: Edward Saunders
 title: "LinkedIn Ads and SQL Server Integration"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads with SQL Server through API or SDK can provide various benefits for businesses, including real-time data synchronization, rich data analysis, and better performance"
 leadtext: "The integration can help businesses optimize their ad campaigns, resulting in higher ROI. With the increasing importance of data in businesses, integrating LinkedIn Ads with SQL Server can prove to be a valuable investment for any business looking to make data-driven decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

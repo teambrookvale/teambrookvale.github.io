@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/amazon-sqs
 author: Edward Saunders
 title: "Instagram Lead Ads and Amazon SQS Integration"
+topic: System Integration
 leadhead: "Instagram Lead Ads and Amazon SQS are both powerful tools that can help businesses streamline their workflows and increase their efficiency in lead generation and management"
 leadtext: "By integrating the two through an API or SDK, organizations can solve common problems and make the most of these tools. Whether a business is trying to collect more leads, automate processes, or improve overall efficiency, this integration is worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

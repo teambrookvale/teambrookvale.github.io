@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/amazon-dynamodb
 author: Edward Saunders
 title: "BigCommerce and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Amazon DynamoDB provides businesses with a powerful tool for managing their ecommerce operations"
 leadtext: "With the ability to manage product catalogs, orders, and customer data in a single location, businesses can simplify their operations and reduce the risk of errors. Additionally, the scalability of Amazon DynamoDB makes it the perfect solution for businesses that experience rapid growth. Overall, the integration of these two solutions provides businesses with a competitive edge in the ecommerce space."
 image: /assets/images/articles/people-sitting-near-table.webp

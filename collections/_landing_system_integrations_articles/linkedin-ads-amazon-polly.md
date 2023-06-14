@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/amazon-polly
 author: Edward Saunders
 title: "Integration of LinkedIn Ads and Amazon Polly"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Amazon Polly is a powerful tool for marketers who want to enhance their advertising campaigns"
 leadtext: "By using Amazon Polly to create voiceovers for LinkedIn Ads, you can create messages that are more engaging, persuasive, and effective. Moreover, this integration can help you save time and money, while reaching a wider audience. So, if you are looking for new ways to enhance your advertising campaigns, consider using LinkedIn Ads and Amazon Polly together."
 image: /assets/images/articles/people-sitting-near-table.webp

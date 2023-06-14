@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/pardot
 author: Edward Saunders
 title: "Salesforce and Pardot Integration - A Complete Overview"
+topic: System Integration
 leadhead: "The integration of Salesforce and Pardot through API or SDK is a powerful solution for businesses looking to streamline their sales and marketing processes"
 leadtext: "By helping to break down data silos and enabling better collaboration, organizations can drive more sales and create a better customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

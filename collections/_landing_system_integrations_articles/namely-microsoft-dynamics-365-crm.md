@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating Namely and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration of Namely and Microsoft Dynamics 365 CRM through API or SDK helps organizations to streamline their HR and sales/marketing processes while also improving data accuracy"
 leadtext: "It eliminates data duplication and data inconsistencies while making it easier for sales reps to personalize communication with prospects and customers. Organizations that have not yet integrated these systems should consider doing so to take advantage of these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

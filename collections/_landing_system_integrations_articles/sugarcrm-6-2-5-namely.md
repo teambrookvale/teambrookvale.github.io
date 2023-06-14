@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/namely
 author: Edward Saunders
 title: "SugarCRM 6.2-5 and Namely Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and Namely via API or SDK is a sensible decision for companies that use both platforms"
 leadtext: "The integration offers many benefits, including improved data accuracy, better reporting, and increased efficiency. Companies can focus on their core business processes while the integration takes care of managing their employee and customer data."
 image: /assets/images/articles/people-sitting-near-table.webp

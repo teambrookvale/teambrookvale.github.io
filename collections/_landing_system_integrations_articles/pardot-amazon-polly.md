@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/amazon-polly
 author: Edward Saunders
 title: "Pardot and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Pardot and Amazon Polly is a powerful tool that can help businesses automate their marketing processes, improve the quality of their messages, and reach a wider audience"
 leadtext: "By leveraging the advanced technologies of Amazon Polly, businesses can create more engaging and persuasive marketing messages that drive results."
 image: /assets/images/articles/people-sitting-near-table.webp

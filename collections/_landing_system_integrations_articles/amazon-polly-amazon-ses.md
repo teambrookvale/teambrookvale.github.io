@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/amazon-ses
 author: Edward Saunders
 title: "Benefits of Amazon Polly and Amazon SES Integration - A Complete Guide"
+topic: System Integration
 leadhead: "Integrating Amazon Polly and Amazon SES can offer several benefits to businesses, including improving customer engagement, reducing email bounce rates, and providing an alternative communication method for visually impaired individuals"
 leadtext: "By using their APIs or SDKs, businesses can streamline the process of creating and delivering audio emails to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

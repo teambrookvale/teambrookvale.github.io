@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/bamboohr
 author: Edward Saunders
 title: "Integrating Amazon EC2 with BambooHR: Solving HR Management Problems"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and BambooHR is a game-changer for businesses, especially those that handle large volumes of employee data"
 leadtext: "It facilitates HR processes and makes it easy to access important employee-related information, while reducing the workload for HR personnel. As such, it is a step in the right direction for businesses that want to streamline HR management processes and improve overall productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

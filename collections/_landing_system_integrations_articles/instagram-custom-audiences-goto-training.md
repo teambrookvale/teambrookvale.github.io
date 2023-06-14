@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/goto-training
 author: Edward Saunders
 title: "Instagram Custom Audiences and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and GoTo Training is a powerful tool for businesses looking to improve their marketing and training efforts"
 leadtext: "By connecting the two platforms through an API or SDK, you can personalize your training sessions and efficiently target your audience with Instagram ads. This integration solves several problems for businesses, and is a must-have for those looking to stay ahead in the digital marketing game."
 image: /assets/images/articles/people-sitting-near-table.webp

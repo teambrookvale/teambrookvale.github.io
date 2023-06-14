@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/twitter
 author: Edward Saunders
 title: "Integrating Keap Max Classic with Twitter"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Twitter through API or SDK is a great way for small businesses to improve their social media marketing strategy and boost sales"
 leadtext: "It simplifies the lead generation process, enhances customer engagement, and improves social media management. If you're a small business owner, give this integration a try and see how it can benefit your business!"
 image: /assets/images/articles/people-sitting-near-table.webp

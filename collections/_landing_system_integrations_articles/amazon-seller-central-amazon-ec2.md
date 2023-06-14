@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/amazon-ec2
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and EC2"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and EC2 through API or SDK provides a powerful tool for online merchants to manage their products and sales more efficiently"
 leadtext: "It helps to streamline the inventory and order fulfillment process, as well as sales tracking and reporting. By combining the flexibility of EC2 and the functionalities of Seller Central, merchants can customize their online stores to meet their specific business needs."
 image: /assets/images/articles/people-sitting-near-table.webp

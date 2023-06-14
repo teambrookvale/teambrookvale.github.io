@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/snowflake
 author: Edward Saunders
 title: "Integration of Amazon SES and Snowflake"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Snowflake offers a powerful solution for businesses looking to analyze their email data"
 leadtext: "By seamlessly connecting these two platforms through an API or SDK, you can store, track, and analyze email data in real-time, allowing you to make data-driven decisions to improve your email marketing strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/linkedin-ads
 author: Edward Saunders
 title: "Integrating Xero and LinkedIn Ads through API or SDK"
+topic: System Integration
 leadhead: "The integration of Xero and LinkedIn Ads through API or SDK is a powerful solution for businesses looking to streamline their accounting and advertising processes"
 leadtext: "This integration saves time, reduces the risk of error, and allows businesses to create more effective and targeted ads by using real-time financial data. By integrating their advertising data with their accounting data, businesses can gain a more comprehensive view of their financial performance and make more informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

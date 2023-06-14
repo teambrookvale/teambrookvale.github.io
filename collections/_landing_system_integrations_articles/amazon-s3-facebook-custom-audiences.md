@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/facebook-custom-audiences
 author: Edward Saunders
 title: "How Amazon S3 and Facebook Custom Audiences Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and Facebook Custom Audiences through API or SDK provides businesses with a powerful advertising tool that enables businesses to target their ads to specific groups of people"
 leadtext: "The integration also solves crucial problems that businesses face, including accurate data syncing, efficient ad creation, and improved ad targeting."
 image: /assets/images/articles/people-sitting-near-table.webp

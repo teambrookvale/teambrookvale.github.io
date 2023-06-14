@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/amazon-sqs
 author: Edward Saunders
 title: "Zendesk and Amazon SQS Integration Through API or SDK"
+topic: System Integration
 leadhead: "Integrating Zendesk and Amazon SQS through API or SDK can bring many benefits for businesses looking to improve their customer support systems"
 leadtext: "By automating support ticket management and streamlining communication between agents and customers, companies can enhance their customer satisfaction and ultimately grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

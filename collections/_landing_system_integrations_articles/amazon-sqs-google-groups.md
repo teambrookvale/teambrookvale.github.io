@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/google-groups
 author: Edward Saunders
 title: "Integration of Amazon SQS and Google Groups"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Google Groups provides a powerful and efficient solution for distributed systems and team collaboration"
 leadtext: "By leveraging the strengths of both services, developers can build more resilient and scalable systems, while teams can collaborate better and respond faster to system events."
 image: /assets/images/articles/people-sitting-near-table.webp

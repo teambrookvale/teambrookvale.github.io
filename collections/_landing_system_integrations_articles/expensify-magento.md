@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/magento
 author: Edward Saunders
 title: "Expensify and Magento Integration | Benefits and Solutions"
+topic: System Integration
 leadhead: "There are various benefits associated with integrating Expensify and Magento through API or SDK, including reduced errors, time savings, streamlined payments, accountability, transparency, and enhanced financial management"
 leadtext: "Therefore, businesses should consider this integration to improve their e-commerce and financial management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

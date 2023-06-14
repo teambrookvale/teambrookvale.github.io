@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/whmcs
 author: Edward Saunders
 title: "The Benefits of Integrating Snowflake and WHMCS"
+topic: System Integration
 leadhead: "Integrating Snowflake and WHMCS can provide several benefits for businesses of all sizes"
 leadtext: "By using API or SDK, businesses can create a seamless connection between their Snowflake data warehouse and WHMCS automation platform. This integration can solve problems related to billing accuracy, data security, compliance, and more. If your business uses both Snowflake and WHMCS, consider integrating them to streamline your operations and improve your bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

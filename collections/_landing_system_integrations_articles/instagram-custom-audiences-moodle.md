@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/moodle
 author: Edward Saunders
 title: "Instagram Custom Audiences and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Moodle has several benefits for businesses and educators"
 leadtext: "It provides an efficient and effective way of delivering course content to students and increases enrolment rates. The custom audiences feature ensures that ads are only shown to individuals who meet pre-defined criteria, which saves businesses money and increases the chances of conversions. With the use of API or SDK, integrating the two systems is seamless and not as complicated as it may seem. Overall, the integration of Instagram Custom Audiences and Moodle is a no-brainer for businesses and educators who want to increase enrolment and reach the right people."
 image: /assets/images/articles/people-sitting-near-table.webp

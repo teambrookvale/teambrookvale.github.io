@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/facebook-lead-ads
 author: Edward Saunders
 title: "Facebook Custom Audiences and Lead Ads: An Integration Overview"
+topic: System Integration
 leadhead: "Facebook Custom Audiences and Lead Ads offer businesses a powerful way to reach and engage with potential customers"
 leadtext: "By integrating the two tools, businesses can create highly targeted ad campaigns that are designed to reach people who are more likely to convert. This means that businesses can save time and money while achieving better results from their advertising efforts. If you haven't yet tried integrating Facebook Custom Audiences and Lead Ads, it may be worth considering as part of your digital marketing strategy."
 image: /assets/images/articles/people-sitting-near-table.webp

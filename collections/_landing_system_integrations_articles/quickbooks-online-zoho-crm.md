@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/zoho-crm
 author: Edward Saunders
 title: "QuickBooks Online and Zoho CRM Integration"
+topic: System Integration
 leadhead: "Integrating QuickBooks Online and Zoho CRM improves business efficiency, saves time, and reduces errors"
 leadtext: "With the use of APIs and SDKs provided by both software, businesses can seamlessly synchronize customer information, accounting data, and sales processes, enhancing the overall customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

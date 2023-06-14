@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/shopify
 author: Edward Saunders
 title: "Integration of Magento 2.X and Shopify - An Overview"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and Shopify platforms through API or SDK offers online retailers the freedom and flexibility to manage their store operations efficiently while delivering a seamless customer experience"
 leadtext: "By harnessing the unique features of both platforms, online retailers can optimize their operations and scale their businesses to new heights."
 image: /assets/images/articles/people-sitting-near-table.webp

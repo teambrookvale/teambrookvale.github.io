@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/namely
 author: Edward Saunders
 title: "Using Google Ads and Namely Together with API or SDK"
+topic: System Integration
 leadhead: "Integrating Google Ads and Namely together through API or SDK can help you unlock powerful insights and efficiencies in your advertising and HR workflows"
 leadtext: "By automating the process of tracking employee performance and tying it back to your advertising campaigns, you can save time, reduce errors, and get a more holistic view of your business performance. If you're running Google Ads campaigns and using Namely to manage your employees, it's definitely worth considering an integration between the two."
 image: /assets/images/articles/people-sitting-near-table.webp

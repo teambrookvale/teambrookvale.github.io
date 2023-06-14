@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/expensify
 author: Edward Saunders
 title: "Integrating Amazon Polly and Expensify"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Expensify is a great example of how the integration of different tools and technologies can bring about a better user experience and improved efficiency"
 leadtext: "By using Amazon Polly's advanced voice technology, Expensify users not only have an easier time interacting with their expense data, but they can also improve their understanding and analysis of their expenses. This integration is a win-win for both businesses and users alike."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/marketo
 author: Edward Saunders
 title: "Integration of Salesforce and Marketo: Solving Problems and Unlocking Potential"
+topic: System Integration
 leadhead: "The integration of Salesforce and Marketo is a powerful tool for businesses seeking to unlock their full potential"
 leadtext: "By combining the strengths of both platforms, businesses can improve lead management, gain deeper customer insights, and optimize sales processes, ultimately driving revenue growth and improving customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

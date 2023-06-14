@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-cloudfront
 author: Edward Saunders
 title: "Shopify and Amazon CloudFront Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Amazon CloudFront through API or SDK can be a game-changer for businesses looking to improve the performance, speed, and security of their online stores"
 leadtext: "By reducing load times and providing protection against security threats, businesses can improve user experience and ultimately increase sales. If you are looking to improve your online store's performance, consider integrating Shopify with Amazon CloudFront."
 image: /assets/images/articles/people-sitting-near-table.webp

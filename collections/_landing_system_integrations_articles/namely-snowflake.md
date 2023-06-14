@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/snowflake
 author: Edward Saunders
 title: "Namely and Snowflake Integration: Streamlining HR Data Analytics"
+topic: System Integration
 leadhead: "The integration of Namely and Snowflake provides HR professionals with a powerful tool for managing employee data and analytics"
 leadtext: "It enables organizations to streamline workflows, improve data accuracy, and make informed decisions using advanced analytics. By integrating these two platforms, organizations can build a more efficient and effective HR department that benefits both the company and its employees."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/magento
 author: Edward Saunders
 title: "AI and Magento Integration"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Magento is a powerful tool that can help online retailers streamline their e-commerce processes, improve efficiency, and increase sales"
 leadtext: "It allows them to automate tasks such as processing orders, managing inventory, and marketing, thus giving them more time to focus on other important aspects of their business. By using AI, retailers can also provide a more personalized shopping experience for their customers, helping to improve customer satisfaction and loyalty. As the use of AI continues to grow, we can expect to see more businesses integrating it into their operations to improve efficiency and competitiveness in an increasingly digital marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

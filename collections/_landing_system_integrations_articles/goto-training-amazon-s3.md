@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/amazon-s3
 author: Edward Saunders
 title: "Benefits of Integrating GoTo Training and Amazon S3"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Amazon S3 through API or SDK offers users a more efficient and convenient way of sharing files"
 leadtext: "It eliminates the need for manual upload of files, which was tedious and time-consuming. Additionally, users can store their files on Amazon S3, which is a secure and reliable cloud-based storage service. The integration solves many problems for users, making their work much easier."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/amazon-polly
 author: Edward Saunders
 title: "SugarCRM and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Amazon Polly through API or SDK offers businesses a powerful way to generate high-quality audio content based on their CRM data"
 leadtext: "By streamlining communication, improving engagement, and saving time and resources, this integration can help businesses achieve their sales and marketing goals."
 image: /assets/images/articles/people-sitting-near-table.webp

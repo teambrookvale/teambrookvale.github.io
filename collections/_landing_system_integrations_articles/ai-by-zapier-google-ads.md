@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/google-ads
 author: Edward Saunders
 title: "AI by Zapier and Google Ads Integration"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Google Ads is a game-changer for businesses looking to optimize their advertising and marketing efforts"
 leadtext: "By leveraging the power of AI, businesses can automate tasks, reduce errors, and increase efficiency while improving targeting, segmentation, and ad performance. The future of advertising is undoubtedly AI-powered, and businesses that are quick to adopt this technology will have a significant advantage over their competitors."
 image: /assets/images/articles/people-sitting-near-table.webp

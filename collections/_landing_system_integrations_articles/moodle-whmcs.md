@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/whmcs
 author: Edward Saunders
 title: "Integrating Moodle and WHMCS through API"
+topic: System Integration
 leadhead: "The integration of Moodle and WHMCS through an API or SDK is a powerful tool for educators and web hosting companies"
 leadtext: "It simplifies the login process, automates billing processes, and enhances the overall customer experience. By integrating these two platforms, educators can focus on creating great courses, while web hosting companies can focus on delivering great hosting services."
 image: /assets/images/articles/people-sitting-near-table.webp

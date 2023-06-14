@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/facebook-custom-audiences
 author: Edward Saunders
 title: "How Integrating BigCommerce and Facebook Custom Audiences Can Benefit Your Business"
+topic: System Integration
 leadhead: "Integrating BigCommerce with Facebook Custom Audiences can help businesses reach their ideal customers and increase conversions"
 leadtext: "By utilizing the power of Facebook Custom Audiences to create customized campaigns and reach targeted audiences, businesses can improve their marketing strategies and achieve growth goals. So if you are an e-commerce business owner who wants to stay ahead of the competition, consider integrating BigCommerce with Facebook Custom Audiences today!"
 image: /assets/images/articles/people-sitting-near-table.webp

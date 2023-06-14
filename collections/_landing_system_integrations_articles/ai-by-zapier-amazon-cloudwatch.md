@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/amazon-cloudwatch
 author: Edward Saunders
 title: "AI by Zapier and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Amazon CloudWatch offers businesses a powerful tool for monitoring and automating business processes"
 leadtext: "By marrying the capabilities of AI and AWS, the potential for businesses to optimize their processes and increase efficiency is limitless."
 image: /assets/images/articles/people-sitting-near-table.webp

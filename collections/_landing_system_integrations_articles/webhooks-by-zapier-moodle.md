@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/moodle
 author: Edward Saunders
 title: "Webhooks by Zapier and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of Moodle and Webhooks by Zapier is a smart way to streamline processes, automate workflows, and save time"
 leadtext: "The use of API or SDK provides developers with the ability to create custom integrations that suit their institution's needs, making this integration highly flexible."
 image: /assets/images/articles/people-sitting-near-table.webp

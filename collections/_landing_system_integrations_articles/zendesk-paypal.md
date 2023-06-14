@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/paypal
 author: Edward Saunders
 title: "Zendesk and PayPal Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and PayPal through API or SDK offers businesses an efficient way to manage customer support and payment processes"
 leadtext: "This integration is beneficial to businesses of all sizes, and it saves them time and money. In conclusion, businesses can simplify payment and support processes with the integration of Zendesk and PayPal."
 image: /assets/images/articles/people-sitting-near-table.webp

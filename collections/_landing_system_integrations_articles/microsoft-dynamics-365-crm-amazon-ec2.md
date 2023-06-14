@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-ec2
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM with Amazon EC2"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM with Amazon EC2 brings significant benefits to businesses seeking a powerful CRM system that can handle large volumes of data, drive performance, and flexibility"
 leadtext: "By leveraging the strengths of both platforms, businesses can solve common business problems and gain a competitive edge in the marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

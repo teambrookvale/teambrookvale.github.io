@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/expensify
 author: Edward Saunders
 title: "Integrating Shopify and Expensify through API or SDK"
+topic: System Integration
 leadhead: "Integrating Shopify and Expensify can provide significant benefits for businesses that use both tools"
 leadtext: "Whether a business develops the integration in-house or uses a third-party tool, the benefits of reducing manual data entry, minimizing errors, and providing real-time visibility into inventory and expenses can improve efficiency and streamline operations."
 image: /assets/images/articles/people-sitting-near-table.webp

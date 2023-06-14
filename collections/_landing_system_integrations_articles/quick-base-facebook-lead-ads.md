@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/facebook-lead-ads
 author: Edward Saunders
 title: "Integrating Quick Base and Facebook Lead Ads"
+topic: System Integration
 leadhead: "Integrating Quick Base and Facebook Lead Ads can help businesses streamline their workflows, improve lead nurturing, and make data-driven decisions"
 leadtext: "By leveraging the power of these two platforms, businesses can stay competitive in today's fast-paced market."
 image: /assets/images/articles/people-sitting-near-table.webp

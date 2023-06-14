@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/sql-server
 author: Edward Saunders
 title: "Magento 2.X and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and SQL Server through API or SDK provides e-commerce businesses with a powerful, efficient, and reliable solution for managing their data"
 leadtext: "The real-time synchronization of data streamlines data management and eliminates errors, while the analytics and reporting features of SQL Server provide valuable insights to inform business decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

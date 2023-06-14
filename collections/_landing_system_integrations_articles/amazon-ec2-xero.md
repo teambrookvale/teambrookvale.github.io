@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/xero
 author: Edward Saunders
 title: "Xero and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 with Xero provides businesses with a powerful combination of computing resources and accounting software"
 leadtext: "This integration streamlines financial workflows, automates tasks and provides better visibility into the financial performance of the business. The API or SDK makes it possible for developers to create custom integrations that are tailored to their business needs. Combining the capabilities of both Amazon EC2 and Xero offers a significant advantage to businesses seeking to increase their efficiency, productivity, and profitability."
 image: /assets/images/articles/people-sitting-near-table.webp

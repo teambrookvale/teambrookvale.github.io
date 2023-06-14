@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/snowflake
 author: Edward Saunders
 title: "Integrating Pardot and Snowflake"
+topic: System Integration
 leadhead: "Combining Pardot's marketing automation capabilities with Snowflake's powerful analytics and data processing capabilities can provide a real competitive advantage for businesses"
 leadtext: "The integration of the two platforms is a smart investment for those looking to improve their marketing and sales strategies, better understand their customers, and optimize their business processes."
 image: /assets/images/articles/people-sitting-near-table.webp

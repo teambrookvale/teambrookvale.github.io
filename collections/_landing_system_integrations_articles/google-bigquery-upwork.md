@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/upwork
 author: Edward Saunders
 title: "Integrating Google BigQuery and Upwork: A Perfect Match"
+topic: System Integration
 leadhead: "Integrating Google BigQuery and Upwork through API or SDK can help businesses to streamline their workflows and gain deep insights into their Upwork projects"
 leadtext: "It provides a powerful solution to store and analyze data and helps to optimize business processes, save time, and reduce costs. By integrating BigQuery and Upwork, businesses can easily keep track of their freelancers' performance, track progress, and streamline payment processes, ultimately leading to better outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

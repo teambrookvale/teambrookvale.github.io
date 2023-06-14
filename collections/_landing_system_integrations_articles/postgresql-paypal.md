@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/paypal
 author: Edward Saunders
 title: "PostgreSQL and PayPal Integration"
+topic: System Integration
 leadhead: "Integrating PostgreSQL and PayPal is an excellent choice for businesses that want to offer their customers a simple and secure payment experience"
 leadtext: "By using PayPal's APIs and SDKs, developers can easily create custom payment solutions that meet the needs of their businesses. The integration of PostgreSQL and PayPal offers many benefits, including increased security, automation of payments, and easy management of payment data."
 image: /assets/images/articles/people-sitting-near-table.webp

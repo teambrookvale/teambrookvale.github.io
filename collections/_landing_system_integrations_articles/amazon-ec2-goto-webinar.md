@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/goto-webinar
 author: Edward Saunders
 title: "Amazon EC2 and GoTo Webinar Integration using API/SDK"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and GoTo Webinar can provide significant benefits to businesses"
 leadtext: "It can help them streamline the hosting and management of virtual events, increase scalability, and centralize the management of events. By leveraging the API and SDK provided by AWS and GoTo Webinar, businesses can automate the workflow and improve their efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

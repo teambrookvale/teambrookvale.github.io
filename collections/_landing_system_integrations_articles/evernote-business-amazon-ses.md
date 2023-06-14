@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/amazon-ses
 author: Edward Saunders
 title: "Using Evernote Business and Amazon SES for Seamless Integration"
+topic: System Integration
 leadhead: "The combination of Evernote Business and Amazon SES provides businesses with a powerful integration that can enhance communication, data management, and email marketing capabilities"
 leadtext: "The seamless integration saves time, money, and resources while increasing business productivity. With these tools at their disposal, businesses can meet their internal and external communication needs with greater ease and efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

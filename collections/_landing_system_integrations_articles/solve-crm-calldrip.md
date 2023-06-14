@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/calldrip
 author: Edward Saunders
 title: "Solving Customer Relationship Management and Lead Response with Calldrip Integration"
+topic: System Integration
 leadhead: "The integration of Solve CRM and Calldrip provides businesses with a powerful tool for managing leads and customer relationships"
 leadtext: "By automating lead response and syncing call data, businesses can improve their sales and marketing efforts. Furthermore, it can provide valuable insights into which marketing channels are generating the most leads and revenue. Therefore, if your business is struggling with lead management and customer relationship management, this integration is worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

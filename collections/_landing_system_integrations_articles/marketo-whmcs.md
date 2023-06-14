@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/whmcs
 author: Edward Saunders
 title: "Marketo and WHMCS Integration"
+topic: System Integration
 leadhead: "Overall, by integrating Marketo and WHMCS through API or SDK, businesses can streamline their marketing and billing processes, improve their customer experience, and solve several problems"
 leadtext: "With the right integration strategy and expertise from developers and consultants, businesses can achieve optimal results that help them grow and succeed in their industries."
 image: /assets/images/articles/people-sitting-near-table.webp

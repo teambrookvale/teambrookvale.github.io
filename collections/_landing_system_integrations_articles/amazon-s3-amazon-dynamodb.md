@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-dynamodb
 author: Edward Saunders
 title: "Amazon S3 and DynamoDB Integration"
+topic: System Integration
 leadhead: "Amazon S3 and DynamoDB integration is a powerful solution for storing and managing data in the cloud"
 leadtext: "With its API and SDK, developers can build custom applications that combine the strengths of both services, and provide scalable, reliable, and secure infrastructure for their web and mobile applications. The integration solves several problems related to data storage and management, and enables developers to build applications that are more functional, efficient, and user-friendly."
 image: /assets/images/articles/people-sitting-near-table.webp

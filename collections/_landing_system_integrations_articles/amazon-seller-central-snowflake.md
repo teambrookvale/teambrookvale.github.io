@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/snowflake
 author: Edward Saunders
 title: "Integrating Amazon Seller Central with Snowflake"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central with Snowflake is a smart move for many ecommerce businesses"
 leadtext: "By consolidating your data and using Snowflake's advanced analytics capabilities, you can make better business decisions and stay ahead of the competition. If you're interested in learning more about this integration, be sure to check out the documentation and resources available on both Amazon Seller Central and Snowflake's websites."
 image: /assets/images/articles/people-sitting-near-table.webp

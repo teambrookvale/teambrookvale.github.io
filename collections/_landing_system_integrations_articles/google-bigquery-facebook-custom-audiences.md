@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/facebook-custom-audiences
 author: Edward Saunders
 title: "How the Integration of Google BigQuery and Facebook Custom Audiences Solves Marketers' Problems"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Facebook Custom Audiences is a powerful tool for businesses looking to improve their marketing efforts"
 leadtext: "By combining the data analysis capabilities of BigQuery with the targeting abilities of Custom Audiences, businesses can gain valuable insights and improve the effectiveness of their advertising campaigns. This integration can help businesses save time and resources, while still improving their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

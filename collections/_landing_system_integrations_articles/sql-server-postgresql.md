@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/postgresql
 author: Edward Saunders
 title: "Integration of SQL Server and PostgreSQL"
+topic: System Integration
 leadhead: "Integrating SQL Server and PostgreSQL can provide a number of benefits for businesses and organizations, including reduced data redundancy and improved data consistency"
 leadtext: "By using APIs, SDKs, or third-party integration solutions, data can be synced, migrated, or replicated between the two databases, streamlining workflow and improving data management."
 image: /assets/images/articles/people-sitting-near-table.webp

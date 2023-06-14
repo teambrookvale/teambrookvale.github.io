@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/facebook-lead-ads
 author: Edward Saunders
 title: "Marketo and Facebook Lead Ads: The Perfect Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Facebook Lead Ads through an API or SDK is a powerful tool that can help businesses save time and improve their marketing strategy"
 leadtext: "By automating the transfer of data between the two systems, businesses can focus on what they do best - providing value to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

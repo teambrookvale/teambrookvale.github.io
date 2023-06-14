@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/zoho-crm
 author: Edward Saunders
 title: "Calldrip and Zoho CRM: A Powerful Integration"
+topic: System Integration
 leadhead: "The integration of Calldrip and Zoho CRM is a game-changer for businesses that want to streamline their lead management and sales processes"
 leadtext: "By syncing lead data and automating follow-ups, businesses can improve their conversion rates and revenue. If you are using Calldrip or Zoho CRM, it's worth exploring this integration and taking your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

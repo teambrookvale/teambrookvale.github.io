@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/zendesk
 author: Edward Saunders
 title: "The Benefits of Integrating Twitter and Zendesk | Blog Post"
+topic: System Integration
 leadhead: "The integration of Twitter and Zendesk through API or SDK has numerous benefits for businesses"
 leadtext: "It improves customer service, creates a unified support system, improves response times, and reduces workload. By implementing this integration, businesses can keep up with the changing trends in customer communication and ensure they are providing the best possible customer service."
 image: /assets/images/articles/people-sitting-near-table.webp

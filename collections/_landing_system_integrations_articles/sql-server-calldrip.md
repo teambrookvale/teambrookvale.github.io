@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/calldrip
 author: Edward Saunders
 title: "Integration of SQL Server and Calldrip: Solving Your Business Problems"
+topic: System Integration
 leadhead: "The integration of SQL Server and Calldrip can help businesses automate lead assignment, increase lead response time, and improve lead tracking, leading to higher customer satisfaction and ultimately, increased revenue"
 leadtext: "By leveraging the power of APIs and SDKs, businesses can seamlessly integrate the two technologies and reap the rewards of a more efficient organization."
 image: /assets/images/articles/people-sitting-near-table.webp

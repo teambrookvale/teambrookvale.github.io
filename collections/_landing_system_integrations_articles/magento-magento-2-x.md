@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/magento-2-x
 author: Edward Saunders
 title: "Magento and Magento 2.X Integration"
+topic: System Integration
 leadhead: "The integration of Magento and Magento 2.X through API or SDK is a great solution for businesses that use both versions"
 leadtext: "It allows them to streamline their operations, share data across platforms, and improve customer experiences. Developers can use the available tools to automate data transfer, increase efficiency, and save time. As Magento continues to evolve and improve, businesses can rely on the integration to stay ahead of the competition and meet their customers' needs."
 image: /assets/images/articles/people-sitting-near-table.webp

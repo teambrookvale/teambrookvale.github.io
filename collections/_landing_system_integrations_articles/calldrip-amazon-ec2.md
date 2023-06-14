@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/amazon-ec2
 author: Edward Saunders
 title: "Calldrip and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "By integrating Calldrip with Amazon EC2, businesses can take advantage of both platforms' strengths to enhance their communication capabilities"
 leadtext: "They can deploy, scale, and manage Calldrip more efficiently, while ensuring data security and compliance. Moreover, they can optimize performance and reduce downtime, leading to better customer service and increased revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

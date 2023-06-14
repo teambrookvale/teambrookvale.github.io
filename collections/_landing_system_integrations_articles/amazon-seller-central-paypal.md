@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/paypal
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and PayPal"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and PayPal is a valuable tool for sellers who are looking to streamline their e-commerce operations and improve their financial management"
 leadtext: "Whether you sell on Amazon or are a buyer on the platform, integrating Amazon Seller Central and PayPal can be a great way to save time and money while improving your overall e-commerce experience."
 image: /assets/images/articles/people-sitting-near-table.webp

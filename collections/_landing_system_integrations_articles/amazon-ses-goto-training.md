@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/goto-training
 author: Edward Saunders
 title: "Integrating Amazon SES and GoTo Training: A Powerful Combination"
+topic: System Integration
 leadhead: "The integration of Amazon SES and GoTo Training is a powerful combination that can help businesses communicate effectively and efficiently with their customers and employees"
 leadtext: "The seamless integration through API or SDK saves businesses time and ensures that attendees have all the information they need to attend the training session. Furthermore, the integration enables businesses to avoid any misunderstandings or missed sessions by improving email deliverability. Overall, the integration of Amazon SES and GoTo Training is a valuable solution for any businesses looking to streamline their communication and training processes."
 image: /assets/images/articles/people-sitting-near-table.webp

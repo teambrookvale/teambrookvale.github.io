@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/pardot
 author: Edward Saunders
 title: "Integrating Amazon S3 and Pardot to Improve Data Management"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Pardot can provide numerous benefits to businesses, including improved data management, streamlined marketing efforts, and increased sales"
 leadtext: "Whether using the Amazon S3 API or the Pardot SDK, integrating these services can help businesses better manage their data and marketing efforts, resulting in a more successful and profitable business in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

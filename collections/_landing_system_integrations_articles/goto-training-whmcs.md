@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/whmcs
 author: Edward Saunders
 title: "GoTo Training and WHMCS Integration: Solving Problems Through API or SDK"
+topic: System Integration
 leadhead: "Integrating GoTo Training with WHMCS through API or SDK can yield several benefits for businesses, including automating the enrolment process, improving customer experience, and streamlining billing and client management"
 leadtext: "With the automation of these processes, web hosting companies can focus on growing their business and improving their services."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/pardot
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with Pardot"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads with Pardot is a powerful way for businesses to manage their lead generation and nurture efforts in one place"
 leadtext: "With API or SDK integration, businesses can automate their lead generation process and save time and resources. By solving the problems of manual data entry, targeted lead nurturing, and ROI measurement, businesses can have a more effective and efficient lead generation process."
 image: /assets/images/articles/people-sitting-near-table.webp

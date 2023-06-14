@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/xero
 author: Edward Saunders
 title: "Pardot and Xero Integration: Solving Business Woes"
+topic: System Integration
 leadhead: "Pardot and Xero are two powerful business tools that when integrated, enhance the efficiency and accuracy of business operations"
 leadtext: "If you are looking to streamline your operations and increase your profitability, consider integrating Pardot and Xero today."
 image: /assets/images/articles/people-sitting-near-table.webp

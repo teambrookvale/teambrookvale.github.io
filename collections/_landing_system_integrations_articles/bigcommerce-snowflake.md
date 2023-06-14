@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/snowflake
 author: Edward Saunders
 title: "Integration of BigCommerce and Snowflake – A Comprehensive Review"
+topic: System Integration
 leadhead: "Integrating BigCommerce and Snowflake is a powerful solution for ecommerce businesses looking to optimize their operations"
 leadtext: "The integration helps you to access and analyze your data in real-time, giving you a competitive edge. It also streamlines your data management processes, reducing the risk of errors and improving efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

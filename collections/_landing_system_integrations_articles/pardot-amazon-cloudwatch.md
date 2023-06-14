@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of Pardot and Amazon CloudWatch"
+topic: System Integration
 leadhead: "In conclusion, the integration of Pardot and Amazon CloudWatch provides businesses with a powerful tool to monitor their resources and improve their marketing automation efforts"
 leadtext: "The integration through API or SDK provides real-time insights and data that can be used to optimize marketing campaigns, track performance, and make data-driven decisions. As a result, businesses can improve their efficiency, reduce costs, and increase revenue through optimized marketing automation efforts and efficient resource monitoring."
 image: /assets/images/articles/people-sitting-near-table.webp

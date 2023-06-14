@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/sql-server
 author: Edward Saunders
 title: "Integration of Google Ads and SQL Server through API or SDK"
+topic: System Integration
 leadhead: "The integration of Google Ads and SQL Server through API or SDK provides businesses with a powerful tool for optimizing their advertising campaigns based on real-time data"
 leadtext: "The combination of Google Ads' highly targeted advertising capabilities and SQL Server's advanced data management features allows businesses to fully understand their customers and create personalized and effective ad campaigns. By integrating the two systems, businesses can streamline their advertising efforts, saving time and resources while improving customer satisfaction and revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

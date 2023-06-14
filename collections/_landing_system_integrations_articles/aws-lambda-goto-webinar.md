@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/goto-webinar
 author: Edward Saunders
 title: "Integration of AWS Lambda and GoTo Webinar"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and GoTo Webinar can help businesses host successful webinars with less manual intervention and better data insights"
 leadtext: "By automating tasks and integrating with marketing automation tools, businesses can nurture leads after the webinar and improve the overall success of their virtual events."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/magento
 author: Edward Saunders
 title: "Quick Base and Magento Integration"
+topic: System Integration
 leadhead: "Integrating Quick Base and Magento is very important for businesses that want to stay competitive in the digital age"
 leadtext: "By taking advantage of the integration, businesses can streamline their workflows, remove manual data entry, and increase efficiency. Thus, enabling them to focus more on growing their business rather than focusing on mundane tasks."
 image: /assets/images/articles/people-sitting-near-table.webp

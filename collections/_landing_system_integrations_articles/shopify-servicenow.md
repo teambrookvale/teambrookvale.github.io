@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/servicenow
 author: Edward Saunders
 title: "Integration of Shopify and ServiceNow"
+topic: System Integration
 leadhead: "The integration of Shopify and ServiceNow can be highly beneficial for businesses that use both systems"
 leadtext: "By automating tasks, reducing errors, and providing real-time data, businesses can save time and money, and improve customer satisfaction. With API or SDK integration, developers can create custom solutions tailored to the specific needs of the business."
 image: /assets/images/articles/people-sitting-near-table.webp

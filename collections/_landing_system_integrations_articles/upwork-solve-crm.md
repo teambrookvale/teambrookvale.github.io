@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/solve-crm
 author: Edward Saunders
 title: "Integration of Upwork and Solve CRM"
+topic: System Integration
 leadhead: "With the integration of Upwork and Solve CRM, businesses can manage their freelance work with ease and implement a premium CRM, thus increasing productivity, improving workflows, and streamlining project progress"
 leadtext: "Upwork and Solve CRM integration is the perfect technological mix for businesses to enhance efficiency and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

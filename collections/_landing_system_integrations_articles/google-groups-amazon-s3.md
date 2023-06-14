@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/amazon-s3
 author: Edward Saunders
 title: "Google Groups and Amazon S3 Integration"
+topic: System Integration
 leadhead: "The integration of Google Groups and Amazon S3 is a powerful tool that can help organizations manage their files and improve communication and collaboration among team members"
 leadtext: "By connecting these two tools, organizations can create automated workflows that improve efficiency and help teams work together more effectively. Whether you are a small business or a large organization, integrating Google Groups and Amazon S3 can provide numerous benefits that can positively impact your operations."
 image: /assets/images/articles/people-sitting-near-table.webp

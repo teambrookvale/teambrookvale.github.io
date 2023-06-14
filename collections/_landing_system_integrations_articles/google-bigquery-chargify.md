@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/chargify
 author: Edward Saunders
 title: "Integrating Google BigQuery with Chargify"
+topic: System Integration
 leadhead: "Integrating Google BigQuery with Chargify through API or SDK provides businesses with the ability to manage, analyze and report on subscription billing data in real-time"
 leadtext: "This integration ensures that all billing data is stored in a centralized location, simplifying data analysis and management. Predictive modeling can be used to improve retention by identifying factors that lead to churn. Therefore, businesses using Chargify for subscription billing can benefit from integrating it with Google BigQuery."
 image: /assets/images/articles/people-sitting-near-table.webp

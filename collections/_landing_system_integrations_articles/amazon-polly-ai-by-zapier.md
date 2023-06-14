@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/ai-by-zapier
 author: Edward Saunders
 title: "Integrating Amazon Polly and AI by Zapier: A Comprehensive Guide"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and AI by Zapier is a powerful tool for businesses looking to enhance productivity and customer experience while expanding their reach"
 leadtext: "The flexibility of their APIs and SDKs allows for customization and automation of mundane tasks, freeing up resources for more important business functions. By leveraging these technologies, businesses can create engaging content that is easier to consume and share across multiple platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

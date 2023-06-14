@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/amazon-ses
 author: Edward Saunders
 title: "Integrating BambooHR and Amazon SES to Solve Business Problems"
+topic: System Integration
 leadhead: "The integration of BambooHR and Amazon SES can help businesses automate HR-related emails, improve communication and engagement, and avoid the risk of sending emails to inactive employees"
 leadtext: "Using an API or SDK, businesses can easily integrate the two applications and start reaping the benefits of having a streamlined HR and email system."
 image: /assets/images/articles/people-sitting-near-table.webp

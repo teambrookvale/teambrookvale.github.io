@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/magento
 author: Edward Saunders
 title: "Integrating AWS Lambda with Magento: A Winning Combination"
+topic: System Integration
 leadhead: "Integrating AWS Lambda with Magento is a winning combination for businesses looking to optimize their e-commerce operations"
 leadtext: "By leveraging the power and flexibility of AWS Lambda and the customizable and scalable nature of Magento, businesses can streamline their processes and deliver a superior customer experience. As the world of e-commerce continues to evolve, this integration will become increasingly important for businesses looking to stay ahead of their competition."
 image: /assets/images/articles/people-sitting-near-table.webp

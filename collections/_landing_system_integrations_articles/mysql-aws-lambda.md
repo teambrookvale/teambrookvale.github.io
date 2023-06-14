@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/aws-lambda
 author: Edward Saunders
 title: "MySQL and AWS Lambda Integration"
+topic: System Integration
 leadhead: "Integrating MySQL and AWS Lambda is easy and beneficial"
 leadtext: "It reduces cost, improves scalability and availability, and increases speed and performance."
 image: /assets/images/articles/people-sitting-near-table.webp

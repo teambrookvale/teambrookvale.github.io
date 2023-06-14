@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/amazon-seller-central
 author: Edward Saunders
 title: "Amazon Polly and Seller Central Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Amazon Polly and Seller Central is an innovative solution for sellers on Amazon"
 leadtext: "By creating voice-based content, sellers can provide a unique experience for users and potentially increase sales. The two services can be easily integrated through an API or SDK, making it accessible to developers and sellers alike."
 image: /assets/images/articles/people-sitting-near-table.webp

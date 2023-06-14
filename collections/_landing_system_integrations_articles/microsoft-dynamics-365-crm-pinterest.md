@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/pinterest
 author: Edward Saunders
 title: "Integration of Microsoft Dynamics 365 CRM and Pinterest"
+topic: System Integration
 leadhead: "The integration of Microsoft Dynamics 365 CRM and Pinterest can provide businesses with more insights into their customers' behaviors and interests"
 leadtext: "This can help businesses to create more effective marketing campaigns, while also managing their customer data more efficiently. By utilizing the capabilities of both tools through API or SDK integration, businesses can take their sales and marketing efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

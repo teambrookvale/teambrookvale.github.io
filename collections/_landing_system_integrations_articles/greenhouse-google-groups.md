@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/google-groups
 author: Edward Saunders
 title: "Greenhouse and Google Groups Integration for Streamlined Hiring"
+topic: System Integration
 leadhead: "Overall, integrating Greenhouse and Google Groups through API or SDK can make the hiring process much smoother and more efficient for businesses"
 leadtext: "By improving collaboration, candidate tracking, and communication, businesses can make better hiring decisions and find the best candidates for their open positions."
 image: /assets/images/articles/people-sitting-near-table.webp

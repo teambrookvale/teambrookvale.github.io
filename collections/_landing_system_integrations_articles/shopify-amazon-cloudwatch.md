@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/amazon-cloudwatch
 author: Edward Saunders
 title: "Shopify and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Amazon CloudWatch is a valuable step in improving your online business"
 leadtext: "With real-time monitoring and custom dashboards, you can quickly identify and resolve bottlenecks and improve website uptime and performance. Whether you’re a startup or a growing business, the integration of these tools can provide valuable insights to improve your online presence."
 image: /assets/images/articles/people-sitting-near-table.webp

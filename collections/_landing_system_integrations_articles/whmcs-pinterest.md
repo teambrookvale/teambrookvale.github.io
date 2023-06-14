@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/pinterest
 author: Edward Saunders
 title: "Integration of WHMCS and Pinterest through API or SDK"
+topic: System Integration
 leadhead: "Businesses can benefit greatly from integrating WHMCS and Pinterest through API or SDK"
 leadtext: "The collaboration between these two platforms will enable businesses to take advantage of Pinterest's marketing tools while promoting their products or services. By doing so, businesses can increase their brand awareness and improve their marketing efforts. Therefore, integrating WHMCS and Pinterest through API or SDK is a great advantage for businesses looking to expand their marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

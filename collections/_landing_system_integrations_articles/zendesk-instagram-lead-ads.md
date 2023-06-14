@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/instagram-lead-ads
 author: Edward Saunders
 title: "How Zendesk and Instagram Lead Ads Integration Can Make Your Customer Support A Lot Easier?"
+topic: System Integration
 leadhead: "The integration of Zendesk and Instagram Lead Ads can bring many benefits to businesses looking to simplify their support process, improve the customer experience, and create more personalized support"
 leadtext: "By integrating these two platforms through API or SDK, companies can save time, reduce friction in the customer journey, and gain valuable insights into the needs of their customers. Therefore, businesses should consider integrating Zendesk and Instagram Lead Ads to take advantage of these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

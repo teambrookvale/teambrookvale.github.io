@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/pinterest
 author: Edward Saunders
 title: "Upwork and Pinterest Integration: How it Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Upwork and Pinterest is an excellent option for businesses that want to expand their reach and visibility in the digital space"
 leadtext: "By using API or SDK to connect the two platforms, businesses can access a pool of talented freelancers, create stunning visuals, and promote their brand through one of the most popular social media platforms. Whether you're a small business owner or a marketing professional, the Upwork and Pinterest integration can help you achieve your goals and gain a competitive advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

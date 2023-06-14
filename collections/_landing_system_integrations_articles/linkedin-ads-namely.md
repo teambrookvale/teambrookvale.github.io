@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/namely
 author: Edward Saunders
 title: "LinkedIn Ads and Namely Integration"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Namely through API or SDKs provides a more seamless experience for HR and advertising teams"
 leadtext: "By streamlining operations and reducing manual input, it can help businesses to improve their productivity and targeting, leading to better ROI for their advertising campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

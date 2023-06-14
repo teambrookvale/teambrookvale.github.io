@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/instagram-lead-ads
 author: Edward Saunders
 title: "Xero and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration between Xero and Instagram Lead Ads is a powerful tool for businesses looking to automate their financial management and lead generation processes"
 leadtext: "By eliminating manual data entry and simplifying lead generation, businesses can focus more on growing their customer base and increasing their revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

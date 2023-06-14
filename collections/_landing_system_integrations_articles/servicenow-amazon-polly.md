@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/amazon-polly
 author: Edward Saunders
 title: "Integrating ServiceNow and Amazon Polly"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Amazon Polly through API or SDK can deliver many benefits to businesses, including improving customer service operations, enhancing accessibility, and helping in e-learning"
 leadtext: "ServiceNow developers can use Amazon Polly SDK to create custom applications that generate speech from text in real-time, while ServiceNow records can be integrated with Polly through API calls. By integrating the two, businesses can save time, reduce costs, and improve the overall user experience."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/amazon-ec2
 author: Edward Saunders
 title: "Integration of MySQL and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of MySQL and Amazon EC2 through API or SDK is a powerful combination that provides businesses with a cost-effective and scalable solution"
 leadtext: "It enables them to manage their resources and monitor their databases in real-time. Moreover, by using this integration, businesses can scale their application as their traffic grows, which helps them to save money on hardware and software. Overall, the integration of MySQL and Amazon EC2 is a great tool for any business looking to improve their online performance and reduce costs."
 image: /assets/images/articles/people-sitting-near-table.webp

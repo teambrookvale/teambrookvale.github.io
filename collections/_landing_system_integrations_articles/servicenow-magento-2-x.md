@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/magento-2-x
 author: Edward Saunders
 title: "Integrating ServiceNow and Magento 2.X - A Solution to E-commerce Issues"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Magento 2.X is a solution to the problems that e-commerce businesses face"
 leadtext: "By providing efficient tracking, accurate data management, and timely customer service support, businesses can focus on growing their platform, rather than worrying about their back-end processes. This integration is a key driver of e-commerce sales growth and takes businesses to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

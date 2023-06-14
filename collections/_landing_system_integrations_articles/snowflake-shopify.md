@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/shopify
 author: Edward Saunders
 title: "Snowflake and Shopify Integration: How it Solves Problems"
+topic: System Integration
 leadhead: "The integration of Snowflake and Shopify through API or SDK can solve many problems for businesses that use both platforms"
 leadtext: "It enables businesses to use their data stored in Snowflake for their online store on Shopify, which can help them make better decisions about their inventory, pricing, and marketing strategies. This integration also offers personalized offers for customers, efficient inventory management, and a unified view of data across different departments."
 image: /assets/images/articles/people-sitting-near-table.webp

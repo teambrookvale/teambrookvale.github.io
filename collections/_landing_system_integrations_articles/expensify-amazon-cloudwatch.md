@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/amazon-cloudwatch
 author: Edward Saunders
 title: "Expensify and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Amazon CloudWatch is a powerful tool for managing expenses and monitoring financial data"
 leadtext: "It enables users to track their expenses in real-time and provides insights into their financial data. It solves several problems related to expense management, including real-time monitoring, budget monitoring, custom dashboards, and automated alerts. Overall, this integration is a great addition to any expense management system."
 image: /assets/images/articles/people-sitting-near-table.webp

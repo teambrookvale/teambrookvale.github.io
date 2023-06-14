@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/sql-server
 author: Edward Saunders
 title: "Integration of Amazon EC2 and SQL Server"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon EC2 and SQL Server through API or SDK provides businesses with numerous benefits, including increased efficiency, flexibility, and cost optimization"
 leadtext: "The cloud-based solution eliminates the need for businesses to manage their own hardware, and enables them to scale their resources up or down as needed. Overall, integrating EC2 and SQL Server is a great option for businesses looking to streamline their data management processes."
 image: /assets/images/articles/people-sitting-near-table.webp

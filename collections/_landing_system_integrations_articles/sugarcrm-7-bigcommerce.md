@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/bigcommerce
 author: Edward Saunders
 title: "SugarCRM 7+ and BigCommerce Integration | Benefits and Solutions"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and BigCommerce through APIs or SDKs has enabled businesses to maximize their customer relationship management and ecommerce capabilities"
 leadtext: "The integration solves key problems for businesses by improving customer experiences, making order management easier, and providing better marketing strategies. When integrated correctly, businesses have seen significant ROI and growth."
 image: /assets/images/articles/people-sitting-near-table.webp

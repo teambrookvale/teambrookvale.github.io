@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/namely
 author: Edward Saunders
 title: "Moodle and Namely Integration: Better Management"
+topic: System Integration
 leadhead: "It is no longer enough to have silos of information within an organization"
 leadtext: "Integrating Mooel and Namely provides better management of employee data and ensures HR teams have instant access to up-to-date information. Knowing that employee information is accurate, up-to-date, and being tracked by one system, saves time and increase peace of mind."
 image: /assets/images/articles/people-sitting-near-table.webp

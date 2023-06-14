@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/sugarcrm-7-
 author: Edward Saunders
 title: "Evernote Business and SugarCRM 7+ Integration"
+topic: System Integration
 leadhead: "The integration of Evernote Business and SugarCRM 7+ provides businesses with a powerful solution that helps them streamline their workflow, enhance collaboration and productivity, and improve customer satisfaction"
 leadtext: "With this integration, businesses can enjoy the benefits of two powerful tools working seamlessly together."
 image: /assets/images/articles/people-sitting-near-table.webp

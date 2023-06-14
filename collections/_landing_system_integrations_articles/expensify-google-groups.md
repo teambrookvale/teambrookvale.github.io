@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/google-groups
 author: Edward Saunders
 title: "Expensify and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Google Groups through API or SDK provides a powerful solution for managing expenses and communication"
 leadtext: "It simplifies the process of sharing and managing expense data, enables businesses to monitor their expenses and budget more effectively, and ensures consistency in expense policies and categories. By integrating these two platforms, businesses and individuals can save time and resources, and ultimately improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

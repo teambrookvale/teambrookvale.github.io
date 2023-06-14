@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/solve-crm
 author: Edward Saunders
 title: "Snowflake and Solve CRM Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and Solve CRM is a game-changer for businesses"
 leadtext: "By automating the flow of data between both platforms, businesses can improve their decision-making, provide personalized experiences to customers, and ensure consistency in their data. With API and SDK, integration of the two is achievable and can significantly improve the overall performance of a business."
 image: /assets/images/articles/people-sitting-near-table.webp

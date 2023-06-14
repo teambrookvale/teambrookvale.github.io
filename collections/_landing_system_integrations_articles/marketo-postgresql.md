@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/postgresql
 author: Edward Saunders
 title: "Marketo and PostgreSQL Integration"
+topic: System Integration
 leadhead: "Marketo and PostgreSQL are powerful platforms that can transform the marketing process"
 leadtext: "The integration of these two platforms enables businesses to store and manage their marketing data, automate their marketing campaigns, and improve their lead generation process. Developers can use the API and SDK provided by Marketo to connect their platform to PostgreSQL. By doing so, they can create a system that provides valuable insights into customer behavior and engagement, leading to increased conversion rates and business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

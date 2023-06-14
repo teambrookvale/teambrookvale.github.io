@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/xero
 author: Edward Saunders
 title: "Why Moodle and Xero integration is a game-changer for educational institutions"
+topic: System Integration
 leadhead: "The integration of Moodle and Xero through API or SDK is a game-changer for educational institutions"
 leadtext: "It streamlines financial processes, saves time, minimizes errors, and provides real-time data. This integration is a must-have for any educational institution that wants to improve its financial management and allocate resources effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

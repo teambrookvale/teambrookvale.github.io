@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/amazon-s3
 author: Edward Saunders
 title: "How Pardot and Amazon S3 Integration Solves Problems"
+topic: System Integration
 leadhead: "The integration of Pardot and Amazon S3 is a powerful solution for businesses that need to streamline their marketing efforts and centralize their data storage"
 leadtext: "With this integration, businesses can easily store and retrieve data, improving their decision-making process and enhancing their overall marketing performance. If you're looking to improve your marketing automation efforts, consider integrating these two tools today."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-seller-central
 author: Edward Saunders
 title: "Amazon SNS and Seller Central Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SNS with Seller Central can be a game-changer for businesses selling on Amazon"
 leadtext: "By receiving real-time notifications, automating workflows, optimizing inventory management, and enhancing customer experience, businesses can improve their performance and competitiveness on Amazon. The API and SDK provided by Amazon make this integration easy and accessible for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

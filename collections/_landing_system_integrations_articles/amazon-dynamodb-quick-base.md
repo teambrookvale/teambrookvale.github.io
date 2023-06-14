@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/quick-base
 author: Edward Saunders
 title: "Benefits of Integrating Amazon DynamoDB and Quick Base"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Quick Base offers several benefits for businesses"
 leadtext: "By leveraging the scalability, performance, and flexibility of these two systems, businesses can create custom applications and workflows that meet their specific needs. This integration can help improve efficiency, reduce error rates, and create a more streamlined workflow. Overall, businesses that are looking to improve their database management and workflow automation should consider integrating Amazon DynamoDB and Quick Base."
 image: /assets/images/articles/people-sitting-near-table.webp

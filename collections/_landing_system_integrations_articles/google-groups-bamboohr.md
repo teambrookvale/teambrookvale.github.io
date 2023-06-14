@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/bamboohr
 author: Edward Saunders
 title: "Integration of Google Groups and BambooHR"
+topic: System Integration
 leadhead: "The integration of Google Groups and BambooHR is a powerful solution that can help organizations improve communication and HR management"
 leadtext: "With the help of their APIs or SDKs, organizations can easily integrate the two tools and reap the benefits of streamlined processes and improved data accuracy."
 image: /assets/images/articles/people-sitting-near-table.webp

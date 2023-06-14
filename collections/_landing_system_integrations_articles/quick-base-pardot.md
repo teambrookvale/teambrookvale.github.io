@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/pardot
 author: Edward Saunders
 title: "Integrating Quick Base and Pardot: A Winning Combination"
+topic: System Integration
 leadhead: "Integrating Quick Base and Pardot can provide businesses with significant benefits, including increased efficiency, improved lead quality, and better collaboration between marketing and sales teams"
 leadtext: "If you're interested in integrating the two platforms for your business, consider working with a developer or consultant who has experience with API and SDK integration."
 image: /assets/images/articles/people-sitting-near-table.webp

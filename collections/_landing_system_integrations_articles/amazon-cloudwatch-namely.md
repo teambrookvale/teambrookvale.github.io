@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/namely
 author: Edward Saunders
 title: "Integrating Amazon CloudWatch and Namely"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Namely through API or SDK offers organizations a powerful solution for managing employee workflows, resource usage, and HR activities"
 leadtext: "This integration can lead to increased productivity, efficient workflow management, and the ability to make informed decisions based on real-time monitoring data."
 image: /assets/images/articles/people-sitting-near-table.webp

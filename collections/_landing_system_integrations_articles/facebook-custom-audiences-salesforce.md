@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/salesforce
 author: Edward Saunders
 title: "Integration of Facebook Custom Audiences and Salesforce"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences with Salesforce is a powerful way to improve a business's advertising efforts"
 leadtext: "By combining the data from these two tools, businesses can create more targeted ads and track the success of their marketing campaigns more effectively. With the right strategy and approach, this integration can help businesses grow their customer base, increase sales, and improve their overall bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

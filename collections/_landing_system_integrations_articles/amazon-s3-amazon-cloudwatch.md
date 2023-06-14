@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-cloudwatch
 author: Edward Saunders
 title: "Amazon S3 and Amazon CloudWatch Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Amazon CloudWatch is a powerful tool that enables users to optimize their S3 buckets, identify issues, and improve the performance of their applications"
 leadtext: "This integration can significantly reduce the time and effort required to manage and monitor S3 buckets, allowing users to focus on other aspects of their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

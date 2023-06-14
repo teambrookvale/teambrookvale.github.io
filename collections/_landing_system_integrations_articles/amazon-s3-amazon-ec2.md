@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/amazon-ec2
 author: Edward Saunders
 title: "Amazon S3 and EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and EC2 is a powerful combination that enables businesses to store and manage large amounts of data efficiently and scale their computing needs with ease"
 leadtext: "This integration is just one example of how AWS combines different services to offer businesses the tools they need to succeed in today’s digital landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

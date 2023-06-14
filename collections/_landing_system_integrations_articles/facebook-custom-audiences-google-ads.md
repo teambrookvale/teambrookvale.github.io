@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/google-ads
 author: Edward Saunders
 title: "Integration of Facebook Custom Audiences and Google Ads"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and Google Ads is a powerful tool for businesses looking to improve their ad campaigns"
 leadtext: "By combining the data and targeting capabilities of both platforms, businesses can reach their target audience with highly relevant ads and improve their ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

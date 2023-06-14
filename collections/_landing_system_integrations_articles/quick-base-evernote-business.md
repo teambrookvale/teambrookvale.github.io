@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/evernote-business
 author: Edward Saunders
 title: "Quick Base and Evernote Business Integration - A Comprehensive Guide"
+topic: System Integration
 leadhead: "The integration of Quick Base and Evernote Business through API or SDK presents significant benefits for businesses looking to improve their data management, collaboration, and decision-making processes"
 leadtext: "By integrating the two tools, businesses can increase productivity, streamline workflows, and improve collaboration among team members."
 image: /assets/images/articles/people-sitting-near-table.webp

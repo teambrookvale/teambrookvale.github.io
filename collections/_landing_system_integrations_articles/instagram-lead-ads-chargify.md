@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/chargify
 author: Edward Saunders
 title: "Integrating Instagram Lead Ads with Chargify: A Game-Changer for Businesses"
+topic: System Integration
 leadhead: "In conclusion, integrating Instagram Lead Ads with Chargify can be a game-changer for businesses that want to automate their lead and billing management processes"
 leadtext: "By combining the two platforms through an API or SDK, businesses can save time and reduce the risk of errors in their billing and subscription management processes. If you’re looking to streamline your lead and billing management, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

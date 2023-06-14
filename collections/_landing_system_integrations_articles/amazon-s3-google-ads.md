@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/google-ads
 author: Edward Saunders
 title: "Integration of Amazon S3 and Google Ads"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon S3 and Google Ads is a
       powerful tool for marketers"
 leadtext: "It allows you to send large amounts of

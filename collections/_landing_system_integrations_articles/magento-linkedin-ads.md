@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/linkedin-ads
 author: Edward Saunders
 title: "Magento and LinkedIn Ads: A Powerful Integration"
+topic: System Integration
 leadhead: "The integration of Magento and LinkedIn Ads is a powerful tool that enables businesses to be more targeted and effective in their advertising efforts"
 leadtext: "By utilizing the customer data stored on your Magento store, you can reach your target audience on LinkedIn with greater accuracy and track the performance of your campaigns in real-time. This leads to a higher conversion rate and a better ROI for your advertising spend. So, if you're looking to take your advertising efforts to the next level, consider integrating Magento and LinkedIn Ads today."
 image: /assets/images/articles/people-sitting-near-table.webp

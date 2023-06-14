@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/marketo
 author: Edward Saunders
 title: "Upwork and Marketo Integration"
+topic: System Integration
 leadhead: "The Upwork and Marketo integration is a game changer for businesses looking to optimize their project management and marketing strategies"
 leadtext: "If you haven't tried it yet, we highly recommend exploring the possibilities and seeing how it can benefit your business."
 image: /assets/images/articles/people-sitting-near-table.webp

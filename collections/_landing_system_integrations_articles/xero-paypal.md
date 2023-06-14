@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/paypal
 author: Edward Saunders
 title: "Xero and PayPal Integration: Streamline Financial Transactions"
+topic: System Integration
 leadhead: "The integration of Xero and PayPal is a powerful tool that can streamline financial transactions for businesses of all sizes"
 leadtext: "By automating financial data entry and providing real-time updates, businesses can save time and reduce the risk of errors. This integration is a great solution for businesses looking to simplify their financial management and improve their overall operations."
 image: /assets/images/articles/people-sitting-near-table.webp

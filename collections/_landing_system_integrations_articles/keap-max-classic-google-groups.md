@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/google-groups
 author: Edward Saunders
 title: "Integration of Keap Max Classic and Google Groups"
+topic: System Integration
 leadhead: "Integrating Keap Max Classic and Google Groups is an excellent way to improve your communication and collaboration strategies"
 leadtext: "Whether you're part of a team, a community, or a small business, this integration can help you save time, streamline your processes, and increase productivity. Using the API or SDK provided by Keap, you can easily connect your accounts and start reaping the benefits of this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

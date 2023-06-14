@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/amazon-polly
 author: Edward Saunders
 title: "Expensify and Amazon Polly Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Amazon Polly brings enhanced accessibility and convenience to the expense management process"
 leadtext: "By leveraging Amazon Polly's advanced speech capabilities, users can now hear their expense details read out loud, instead of having to read them themselves, saving time and reducing errors. Additionally, this integration highlights the power of cloud-based services and the benefits of integrating them within existing applications."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-dynamodb
 author: Edward Saunders
 title: "SugarCRM and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and Amazon DynamoDB can be a game-changer for your business"
 leadtext: "It provides numerous benefits such as scalability, cost savings, and real-time data access. The integration between these two powerful tools can be accomplished easily through the use of APIs or SDKs, which can improve the efficiency of your business processes. So, if you're looking for a reliable and efficient CRM and database solution, then the integration of SugarCRM and Amazon DynamoDB should be on top of your list."
 image: /assets/images/articles/people-sitting-near-table.webp

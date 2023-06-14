@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/instagram-lead-ads
 author: Edward Saunders
 title: "Shopify and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Shopify and Instagram Lead Ads is a game-changer for businesses"
 leadtext: "It allows for easier monitoring of ad performance and conversions, as well as a more enjoyable shopping experience for customers. The possibilities are endless with this integration, and it’s definitely worth exploring for any business looking to take their online presence to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

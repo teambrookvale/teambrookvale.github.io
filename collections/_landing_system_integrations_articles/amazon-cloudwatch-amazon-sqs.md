@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/amazon-sqs
 author: Edward Saunders
 title: "Integration of Amazon CloudWatch and Amazon SQS"
+topic: System Integration
 leadhead: "The seamless integration of Amazon CloudWatch and Amazon SQS through API or SDK provides a reliable and scalable messaging infrastructure for modern microservices-based architectures"
 leadtext: "It enables monitoring and tracking of performance metrics, and ensures reliable message delivery, even at scale. Companies that leverage the integration of these two services are better equipped to achieve high availability and scalability, which are imperative for modern cloud-native applications."
 image: /assets/images/articles/people-sitting-near-table.webp

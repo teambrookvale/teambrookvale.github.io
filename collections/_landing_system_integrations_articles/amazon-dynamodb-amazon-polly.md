@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/amazon-polly
 author: Edward Saunders
 title: "Amazon DynamoDB and Polly Integration"
+topic: System Integration
 leadhead: "Amazon DynamoDB and Polly are powerful services on their own, but their integration opens up even more potential"
 leadtext: "By using the two together, businesses and developers can overcome various challenges and create unique experiences for their users. It's a testament to the flexibility and scalability of Amazon Web Services."
 image: /assets/images/articles/people-sitting-near-table.webp

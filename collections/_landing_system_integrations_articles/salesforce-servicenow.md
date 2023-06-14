@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/servicenow
 author: Edward Saunders
 title: "Salesforce and ServiceNow Integration"
+topic: System Integration
 leadhead: "Integrating Salesforce and ServiceNow can help businesses improve their processes, streamline their operations, and enhance their customer service"
 leadtext: "APIs and SDKs enable the two platforms to communicate with each other seamlessly, making it easier for businesses to manage their customer data and IT service requests. By integrating Salesforce and ServiceNow, businesses can benefit from increased efficiency, enhanced customer service, better visibility, and improved collaboration."
 image: /assets/images/articles/people-sitting-near-table.webp

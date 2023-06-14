@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/amazon-ec2
 author: Edward Saunders
 title: "Benefits of Amazon CloudFront and EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and EC2 provides businesses with a powerful solution for improving website performance, scalability, and security"
 leadtext: "The benefits of the integration make it an essential tool for businesses that want to stay competitive in the digital age. It's also an excellent example of how AWS services can be combined to deliver a robust and efficient cloud computing infrastructure."
 image: /assets/images/articles/people-sitting-near-table.webp

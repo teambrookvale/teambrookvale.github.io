@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/mysql
 author: Edward Saunders
 title: "Google Ads and MySQL Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads and MySQL through API or SDK can greatly benefit businesses that want to optimize their advertising and data operations"
 leadtext: "By automating their processes and sharing data insights, businesses can achieve better targeting, messaging, and performance in their advertising campaigns. They can also improve their data management and analysis and make informed business decisions based on accurate and up-to-date data."
 image: /assets/images/articles/people-sitting-near-table.webp

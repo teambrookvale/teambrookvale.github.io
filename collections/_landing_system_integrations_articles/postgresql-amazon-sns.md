@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/amazon-sns
 author: Edward Saunders
 title: "PostgreSQL and Amazon SNS Integration"
+topic: System Integration
 leadhead: "PostgreSQL and Amazon SNS integration has become a game-changer for businesses and developers"
 leadtext: "By using the power of both technologies, businesses can easily scale their databases without compromising on performance or functionality. Developers can now create more robust and powerful applications that can handle large amounts of data. If you are a business or developer looking to improve your infrastructure, then PostgreSQL and Amazon SNS integration is the way to go."
 image: /assets/images/articles/people-sitting-near-table.webp

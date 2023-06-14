@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/amazon-s3
 author: Edward Saunders
 title: "PayPal and Amazon S3 Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Amazon S3 can bring many benefits to businesses, including enhanced security, increased functionality, improved productivity, and better customer experience"
 leadtext: "By using the API or SDK provided by both platforms, developers can connect the two platforms efficiently and securely."
 image: /assets/images/articles/people-sitting-near-table.webp

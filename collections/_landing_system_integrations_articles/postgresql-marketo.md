@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/marketo
 author: Edward Saunders
 title: "PostgreSQL and Marketo Integration"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Marketo through API or SDK provides organizations with a seamless and efficient way to manage their data and marketing campaigns"
 leadtext: "It eliminates data silos, improves data accuracy, reduces manual work, and enables organizations to create targeted marketing campaigns that drive results. If you're looking to improve your organization's data and marketing efforts, integrating PostgreSQL and Marketo could be the solution you're looking for."
 image: /assets/images/articles/people-sitting-near-table.webp

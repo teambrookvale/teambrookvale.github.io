@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/chargify
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads and Chargify"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads and Chargify can help businesses simplify their lead generation and subscription billing processes"
 leadtext: "With API or SDK integration, businesses can automate lead information retrieval from Facebook Lead Ads and subscription creation or updates in Chargify. This integration solves the problems of manual lead import and subscription creation, which can result in improved customer experience and increased revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

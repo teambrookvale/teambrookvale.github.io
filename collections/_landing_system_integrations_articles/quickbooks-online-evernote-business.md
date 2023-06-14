@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/evernote-business
 author: Edward Saunders
 title: "Integration of QuickBooks Online and Evernote Business"
+topic: System Integration
 leadhead: "The integration between QuickBooks Online and Evernote Business provides many benefits to businesses, including streamlined operations, improved productivity, better collaboration, and enhanced data security"
 leadtext: "By using the API or SDK to integrate the two software, businesses can create a custom workflow that meets their specific needs."
 image: /assets/images/articles/people-sitting-near-table.webp

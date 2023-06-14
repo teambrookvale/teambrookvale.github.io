@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Instagram Custom Audience and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and Microsoft Dynamics 365 CRM is a powerful tool for businesses looking to streamline their digital marketing efforts"
 leadtext: "By allowing for targeted advertising and data synchronization, this integration helps businesses create more effective marketing campaigns and gain insights into customer behavior. Make sure to consider this integration for your next digital marketing campaign!"
 image: /assets/images/articles/people-sitting-near-table.webp

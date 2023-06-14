@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/mysql
 author: Edward Saunders
 title: "Quick Base and MySQL Integration: An Overview"
+topic: System Integration
 leadhead: "The integration of Quick Base and MySQL can bring numerous benefits to organizations, including improved data quality, increased efficiency, and reduced data discrepancies"
 leadtext: "Whether using the API or SDK, developers can create custom solutions that automate tasks, streamline workflows, and help companies achieve their business goals. As these systems continue to evolve, we can expect to see even more opportunities for integration in the future."
 image: /assets/images/articles/people-sitting-near-table.webp

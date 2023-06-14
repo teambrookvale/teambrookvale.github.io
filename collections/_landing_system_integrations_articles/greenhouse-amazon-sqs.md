@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-sqs
 author: Edward Saunders
 title: "Integrating Greenhouse and Amazon SQS: A Powerful Combination"
+topic: System Integration
 leadhead: "Integrating Greenhouse with Amazon SQS can provide employers with a powerful recruitment solution"
 leadtext: "By automating the flow of data between the systems, employers can streamline their recruitment processes and speed up the hiring process. The Greenhouse API and Amazon SQS SDKs provide a straightforward way to integrate these two systems and take advantage of the benefits they offer."
 image: /assets/images/articles/people-sitting-near-table.webp

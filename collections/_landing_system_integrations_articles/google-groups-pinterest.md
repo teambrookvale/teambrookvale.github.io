@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/pinterest
 author: Edward Saunders
 title: "Google Groups and Pinterest Integration: A Solution to Your Social Media Woes"
+topic: System Integration
 leadhead: "The integration of Google Groups and Pinterest is a valuable tool for businesses to streamline their social media management"
 leadtext: "It solves many of the problems associated with managing multiple social media channels and maximizes the impact of social media content across various platforms. So, if you're looking to optimize your social media management process, give this integration a try!"
 image: /assets/images/articles/people-sitting-near-table.webp

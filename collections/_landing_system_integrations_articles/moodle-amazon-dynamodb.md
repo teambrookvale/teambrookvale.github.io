@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of Moodle and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of Moodle and Amazon DynamoDB provides a robust and efficient data storage solution for educational institutions"
 leadtext: "With the ability to scale, reliable performance, and cost-effectiveness, this integration can help educational institutions to save costs and provide a better user experience for their students and teachers."
 image: /assets/images/articles/people-sitting-near-table.webp

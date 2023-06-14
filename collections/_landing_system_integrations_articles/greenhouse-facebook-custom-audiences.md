@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/facebook-custom-audiences
 author: Edward Saunders
 title: "How Greenhouse and Facebook Custom Audiences Are Powering Marketing"
+topic: System Integration
 leadhead: "The integration of Greenhouse and Facebook Custom Audiences is a powerful combination that can help organizations improve their marketing campaigns"
 leadtext: "By using applicant data from Greenhouse to create highly targeted Facebook ads, organizations can reduce ad spend, increase conversion rates, and improve the applicant experience. If you're looking to power your marketing campaigns, consider integrating Greenhouse and Facebook Custom Audiences through API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

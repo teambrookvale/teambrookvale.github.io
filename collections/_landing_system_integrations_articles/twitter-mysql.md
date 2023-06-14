@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/mysql
 author: Edward Saunders
 title: "Integration of Twitter and MySQL"
+topic: System Integration
 leadhead: "The integration of Twitter and MySQL is a powerful combination that provides businesses with valuable insights into user behavior and preferences"
 leadtext: "This integration enables businesses to store and manage large volumes of data efficiently and reduce the possibility of data loss. With the availability of APIs and SDKs, developers can easily integrate Twitter and MySQL to create custom applications and gain insights into social media trends."
 image: /assets/images/articles/people-sitting-near-table.webp

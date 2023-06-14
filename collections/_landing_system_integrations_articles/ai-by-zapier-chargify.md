@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/chargify
 author: Edward Saunders
 title: "AI by Zapier and Chargify Integration"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and Chargify can provide a range of benefits to organizations, including streamlining workflows, automating tasks, and enhancing fraud detection"
 leadtext: "By enabling the two tools to work together, businesses can improve efficiency and save time, reducing operational costs and freeing up resources to focus on more strategic initiatives."
 image: /assets/images/articles/people-sitting-near-table.webp

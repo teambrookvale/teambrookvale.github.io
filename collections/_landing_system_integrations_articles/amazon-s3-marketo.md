@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/marketo
 author: Edward Saunders
 title: "Amazon S3 and Marketo Integration"
+topic: System Integration
 leadhead: "Amazon S3 and Marketo integration can offer several benefits to businesses of all sizes"
 leadtext: "By leveraging the scalability and flexibility of Amazon S3 and the marketing automation capabilities of Marketo, businesses can optimize their marketing processes and improve their overall efficiency and effectiveness."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/amazon-cloudfront
 author: Edward Saunders
 title: "Integrating MySQL and Amazon CloudFront"
+topic: System Integration
 leadhead: "The integration of MySQL and Amazon CloudFront is a powerful solution for businesses that want to improve website performance, reduce server load and bandwidth usage, and protect their website from DDoS attacks"
 leadtext: "By using APIs or SDKs, developers can easily integrate these two services and benefit from improved website performance, increased conversions, and better SEO rankings."
 image: /assets/images/articles/people-sitting-near-table.webp

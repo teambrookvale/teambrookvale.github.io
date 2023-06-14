@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/evernote-business
 author: Edward Saunders
 title: "Amazon CloudWatch and Evernote Business Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudWatch and Evernote Business can provide significant benefits to developers and IT teams"
 leadtext: "By automating the process of creating and updating notes based on the data received from Amazon CloudWatch, teams can collaborate more effectively and solve problems faster. This integration is easy to implement through their APIs or SDKs and can be customized to meet the unique needs of different teams and organizations."
 image: /assets/images/articles/people-sitting-near-table.webp

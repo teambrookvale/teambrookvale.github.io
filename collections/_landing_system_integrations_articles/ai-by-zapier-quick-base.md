@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/quick-base
 author: Edward Saunders
 title: "Integrating AI by Zapier with Quick Base"
+topic: System Integration
 leadhead: "The integration of AI by Zapier with Quick Base can provide significant benefits for businesses"
 leadtext: "By automating tasks and simplifying workflows, it can save time, reduce errors, and improve efficiency. Additionally, it can provide a centralized platform for managing data and enable data-driven decision making. It is definitely worth exploring for businesses looking to optimize their workflows."
 image: /assets/images/articles/people-sitting-near-table.webp

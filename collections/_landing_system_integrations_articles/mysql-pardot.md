@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/pardot
 author: Edward Saunders
 title: "Integration of MySQL and Pardot"
+topic: System Integration
 leadhead: "The integration of MySQL and Pardot is a powerful tool that can greatly benefit businesses"
 leadtext: "By using an API or SDK, businesses can easily store and manage lead and prospect data in a centralized location. This eliminates the need for manual data entry and allows businesses to make informed decisions about their marketing strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

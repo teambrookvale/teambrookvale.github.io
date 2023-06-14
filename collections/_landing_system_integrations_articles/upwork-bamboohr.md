@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/bamboohr
 author: Edward Saunders
 title: "Upwork and BambooHR Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and BambooHR empowers businesses to manage their HR processes more effectively and efficiently, benefiting both employers and freelancers"
 leadtext: "As technology advances, we can expect more integrations that cater to the needs of businesses and their employees."
 image: /assets/images/articles/people-sitting-near-table.webp

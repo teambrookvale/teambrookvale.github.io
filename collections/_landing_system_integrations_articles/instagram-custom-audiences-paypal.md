@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-custom-audiences/paypal
 author: Edward Saunders
 title: "Instagram Custom Audiences and PayPal Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Custom Audiences and PayPal through API or SDK can provide a range of benefits for businesses"
 leadtext: "From targeted advertising and improved user experience to increased revenue, businesses can leverage the power of these two platforms to achieve their marketing and financial goals."
 image: /assets/images/articles/people-sitting-near-table.webp

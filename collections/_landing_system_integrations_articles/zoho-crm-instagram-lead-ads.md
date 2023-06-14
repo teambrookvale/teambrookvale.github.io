@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/instagram-lead-ads
 author: Edward Saunders
 title: "Zoho CRM and Instagram Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Instagram Lead Ads is a powerful solution for businesses looking to streamline lead generation and management"
 leadtext: "By using APIs or SDKs, businesses can automate the process of capturing and managing leads, improve lead quality and sales team productivity, and increase marketing ROI. If you're not already using these tools, it's time to start!"
 image: /assets/images/articles/people-sitting-near-table.webp

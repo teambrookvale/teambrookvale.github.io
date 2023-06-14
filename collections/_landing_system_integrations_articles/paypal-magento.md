@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/magento
 author: Edward Saunders
 title: "PayPal and Magento Integration"
+topic: System Integration
 leadhead: "Integrating PayPal with Magento can help merchants offer a more seamless and convenient payment experience to their customers"
 leadtext: "PayPal's advanced security measures also help reduce the risk of fraud, which is a concern for online merchants. With the integration, merchants can also reduce cart abandonment and increase the chances of completing the purchase. Therefore, it's a win-win situation for both the merchant and the customer."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/expensify
 author: Edward Saunders
 title: "Amazon SQS and Expensify Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SQS and Expensify through API or SDK provides a simple yet effective way to streamline the expense management process"
 leadtext: "By reducing manual data entry and automating expense report generation, businesses can save time and money while ensuring all expenses are tracked and accounted for."
 image: /assets/images/articles/people-sitting-near-table.webp

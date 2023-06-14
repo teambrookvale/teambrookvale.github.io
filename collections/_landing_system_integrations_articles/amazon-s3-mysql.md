@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/mysql
 author: Edward Saunders
 title: "Integration of Amazon S3 and MySQL"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and MySQL can be a game-changer for your web application development"
 leadtext: "It solves several problems related to scalability, cost-effectiveness, and data redundancy. By leveraging the scalability of Amazon S3 and the reliability of MySQL, we can build highly available and scalable web applications."
 image: /assets/images/articles/people-sitting-near-table.webp

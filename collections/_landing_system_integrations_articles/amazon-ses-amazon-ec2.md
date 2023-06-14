@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/amazon-ec2
 author: Edward Saunders
 title: "Amazon SES and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "Integrating Amazon SES with Amazon EC2 provides businesses and developers with a powerful and flexible way to handle email communication at scale"
 leadtext: "Whether you need to send transactional emails, marketing emails, or other types of emails, Amazon SES and Amazon EC2 can help you do it reliably and cost-effectively. By using the AWS SDKs or API, you can easily integrate the two services and take advantage of their combined benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

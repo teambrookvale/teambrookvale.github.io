@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/magento
 author: Edward Saunders
 title: "Amazon Polly and Magento Integration: Solving Ecommerce Voiceover Issues"
+topic: System Integration
 leadhead: "Amazon Polly and Magento integration is a game-changer for ecommerce stores looking to provide a more engaging and interactive shopping experience to their customers"
 leadtext: "By leveraging Amazon Polly's advanced text-to-speech technology through Magento's comprehensive ecommerce platform, store owners can create voiceovers for their products without investing in heavy equipment or voice actors. This integration serves as an excellent example of how two seemingly disparate technologies can work in tandem to overcome ecommerce challenges and take the online shopping experience to new heights."
 image: /assets/images/articles/people-sitting-near-table.webp

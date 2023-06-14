@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/sugarcrm-7-
 author: Edward Saunders
 title: "Marketo and SugarCRM 7+ Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and SugarCRM 7+ is a powerful combination that can help businesses improve their marketing and sales processes"
 leadtext: "By syncing lead and customer data between the two platforms, businesses can reduce manual data entry, improve lead scoring and nurturing, increase sales productivity, and better track campaign ROI. Whether through API or SDK, integrating Marketo and SugarCRM 7+ is a simple but powerful solution for businesses looking to streamline their marketing and sales processes."
 image: /assets/images/articles/people-sitting-near-table.webp

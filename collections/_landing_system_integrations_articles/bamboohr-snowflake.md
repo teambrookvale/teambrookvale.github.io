@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/snowflake
 author: Edward Saunders
 title: "Integration of BambooHR and Snowflake"
+topic: System Integration
 leadhead: "The integration of BambooHR and Snowflake provides organizations with a powerful tool for analyzing their employee data"
 leadtext: "With this integration, organizations can save time and improve the accuracy of their analysis, leading to better-informed decision-making. As more organizations adopt data-driven approaches to HR, the integration of BambooHR and Snowflake will become increasingly important as a means of gaining insights into workforce dynamics and optimizing HR operations."
 image: /assets/images/articles/people-sitting-near-table.webp

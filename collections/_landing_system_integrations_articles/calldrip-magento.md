@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/magento
 author: Edward Saunders
 title: "The Benefits of Calldrip-Magento Integration | Blog"
+topic: System Integration
 leadhead: "The integration of Calldrip and Magento is a game-changer for e-commerce businesses"
 leadtext: "It's easy to configure and solves numerous problems that plague businesses working in this space. Better lead management, improved response times, and efficient call routing will translate into higher conversion rates, better customer satisfaction, and ultimately, more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

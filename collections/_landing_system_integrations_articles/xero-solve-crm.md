@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/solve-crm
 author: Edward Saunders
 title: "Xero and Solve CRM Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Solve CRM is a practical solution for businesses looking to improve their accounting and CRM processes"
 leadtext: "It offers several benefits, including increased efficiency, accuracy, and real-time reporting. By integrating the two systems, businesses can focus on growth and achieve their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

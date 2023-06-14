@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration of SQL Server with Amazon CloudWatch"
+topic: System Integration
 leadhead: "In conclusion, the integration of SQL Server with Amazon CloudWatch provides a comprehensive monitoring solution for SQL Server
         databases hosted on Amazon Web Services"
 leadtext: "It enables database administrators to gain real-time insights into the health and

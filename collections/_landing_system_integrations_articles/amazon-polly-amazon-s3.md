@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/amazon-s3
 author: Edward Saunders
 title: "Amazon Polly and Amazon S3 Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Amazon S3 is an excellent solution for developers looking to create and store audio content without needing to maintain their own infrastructure"
 leadtext: "By utilizing these services together, developers can create applications that are scalable, secure, and highly efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/magento
 author: Edward Saunders
 title: "Solving CRM and Magento Integration via API or SDK"
+topic: System Integration
 leadhead: "Integrating CRM and Magento through API or SDK is essential for any online store looking to improve customer data management and customer satisfaction"
 leadtext: "The automation of data collection ensures that all customer data is up to date and accurate, preventing wasted opportunities and missed sales."
 image: /assets/images/articles/people-sitting-near-table.webp

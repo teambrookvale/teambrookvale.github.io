@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/google-groups
 author: Edward Saunders
 title: "Integration of Twitter and Google Groups: A Solution to Your Communications Struggles"
+topic: System Integration
 leadhead: "Overall, the integration of Twitter and Google Groups through an API or SDK provides an efficient and convenient communication solution"
 leadtext: "By utilizing the unique features and benefits of both platforms, businesses and organizations can improve collaboration, productivity, and customer engagement."
 image: /assets/images/articles/people-sitting-near-table.webp

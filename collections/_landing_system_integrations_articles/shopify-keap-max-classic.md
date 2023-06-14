@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/keap-max-classic
 author: Edward Saunders
 title: "Integration of Shopify and Keap Max Classic"
+topic: System Integration
 leadhead: "The integration of Shopify and Keap Max Classic offers businesses numerous benefits, such as streamlining the customer journey, personalized marketing efforts, and automation of repetitive tasks"
 leadtext: "As a result, it can lead to increased productivity and profitability for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

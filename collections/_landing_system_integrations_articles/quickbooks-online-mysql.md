@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/mysql
 author: Edward Saunders
 title: "QuickBooks Online and MySQL Integration: A Solution for Small Business"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and MySQL is a solution for small businesses that want to streamline their processes and make their lives easier"
 leadtext: "With this integration, you can automate tasks, reduce errors, and access your data from anywhere. So, if you haven't tried integrating these tools yet, give it a try and see how it can benefit your business."
 image: /assets/images/articles/people-sitting-near-table.webp

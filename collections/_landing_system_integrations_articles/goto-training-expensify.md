@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/expensify
 author: Edward Saunders
 title: "Integrating GoTo Training and Expensify: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating GoTo Training and Expensify is a simple process that can save you time and money in the long run"
 leadtext: "By automating the tracking of your GoTo Training expenses in Expensify, you can reduce errors and create reports quickly and efficiently. If you're someone who uses both applications, we highly recommend integrating them."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Expensify and SugarCRM Integration: Solving Problems Together"
+topic: System Integration
 leadhead: "Expensify and SugarCRM are two powerful tools that can help optimize various aspects of your business"
 leadtext: "However, integrating them together can provide even more benefits. With their seamless API or SDK integration, you can streamline your expense management process, improve communication, and stay organized. The integration of Expensify and SugarCRM is a valuable investment for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

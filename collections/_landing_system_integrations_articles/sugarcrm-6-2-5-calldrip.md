@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/calldrip
 author: Edward Saunders
 title: "Integrating SugarCRM 6.2-5 and Calldrip"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 and Calldrip is a powerful combination that can help businesses improve their sales process and increase their conversion rates"
 leadtext: "By using an API or SDK to link these two tools, businesses can automate their lead follow-up process, reduce response time to leads, and improve tracking and reporting. If you're looking for a way to streamline your sales process and improve your CRM strategy, integrating SugarCRM 6.2-5 and Calldrip should be at the top of your list."
 image: /assets/images/articles/people-sitting-near-table.webp

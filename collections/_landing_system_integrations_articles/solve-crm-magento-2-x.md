@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/magento-2-x
 author: Edward Saunders
 title: "Integrating Solve CRM and Magento 2.X"
+topic: System Integration
 leadhead: "Integrating Solve CRM and Magento 2.X is a smart move for businesses that want to streamline their sales and customer relationship management processes"
 leadtext: "The integration can help businesses save time and improve their customer experience. Businesses can choose the integration method that works best for them and start enjoying the benefits of a unified platform."
 image: /assets/images/articles/people-sitting-near-table.webp

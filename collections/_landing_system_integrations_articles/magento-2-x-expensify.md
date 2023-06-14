@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/expensify
 author: Edward Saunders
 title: "Magento 2.X and Expensify: Integration through API or SDK"
+topic: System Integration
 leadhead: "Integrating Magento 2.X and Expensify through API or SDK enables businesses to streamline their operations and manage their expenses more efficiently"
 leadtext: "The integration process is straightforward, and businesses can start enjoying the benefits of seamless expense management right away."
 image: /assets/images/articles/people-sitting-near-table.webp

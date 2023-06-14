@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/magento
 author: Edward Saunders
 title: "Integrating Zoho CRM with Magento - A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating Zoho CRM with Magento can provide a range of benefits to businesses of all sizes"
 leadtext: "By automating the transfer of customer and order data, providing a 360-degree view of customers across both platforms, and streamlining the sales process, businesses can improve efficiency, reduce errors, and increase customer satisfaction. With the help of APIs or SDKs, integrating Zoho CRM with Magento can be a relatively straightforward process that can have a significant impact on your business."
 image: /assets/images/articles/people-sitting-near-table.webp

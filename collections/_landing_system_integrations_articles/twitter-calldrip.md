@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/calldrip
 author: Edward Saunders
 title: "Integrating Twitter and Calldrip via API or SDK"
+topic: System Integration
 leadhead: "The integration of Twitter and Calldrip via API or SDK is a powerful tool for businesses"
 leadtext: "By capturing leads in real-time and responding to them immediately, businesses can increase their conversion rate and grow their customer base. Furthermore, the automation of this process saves time, increases accuracy, and improves customer satisfaction. As a result, businesses can focus on what they do best: serving their customers and growing their business."
 image: /assets/images/articles/people-sitting-near-table.webp

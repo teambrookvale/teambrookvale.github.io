@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/twitter
 author: Edward Saunders
 title: "Google Groups and Twitter Integration"
+topic: System Integration
 leadhead: "The integration of Google Groups and Twitter can be beneficial for group moderators and members"
 leadtext: "It provides an easy way of sharing group discussions and updates with a wider audience. The integration can be done through API or SDK and requires a few simple steps to set up. By following the steps outlined in this blog post, you can easily integrate your Google Group with Twitter."
 image: /assets/images/articles/people-sitting-near-table.webp

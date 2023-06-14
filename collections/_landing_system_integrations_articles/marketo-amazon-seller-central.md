@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/amazon-seller-central
 author: Edward Saunders
 title: "Marketo and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "Integrating Marketo and Amazon Seller Central is a smart move for businesses that want to streamline their marketing and sales processes"
 leadtext: "By integrating the two platforms through API or SDK, businesses can enhance their marketing strategies, gather insights on customer behavior, and ultimately drive sales."
 image: /assets/images/articles/people-sitting-near-table.webp

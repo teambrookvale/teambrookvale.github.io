@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/google-bigquery
 author: Edward Saunders
 title: "Facebook Lead Ads and Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and Google BigQuery provides businesses with a seamless way to capture leads and analyze their data"
 leadtext: "The API and SDK make it possible to automate the process, which saves time and reduces the risk of human error. By integrating the two platforms, businesses can improve their lead segmentation and targeting, increase lead quality, and enhance their overall marketing strategies."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/aws-lambda
 author: Edward Saunders
 title: "Evernote Business and AWS Lambda Integration: Solving Collaboration Woes"
+topic: System Integration
 leadhead: "In today's work environments, collaboration is essential for great teamwork"
 leadtext: "It has become necessary to bridge gaps between tools to make them work cohesively; hence, the integration of Evernote Business and AWS Lambda is a game-changer. This integration ensures that teams can collaborate effectively and access information seamlessly on both platforms while also guaranteeing data security. It is the perfect solution for companies aiming to foster productivity and teamwork in a cost-efficient and secure way."
 image: /assets/images/articles/people-sitting-near-table.webp

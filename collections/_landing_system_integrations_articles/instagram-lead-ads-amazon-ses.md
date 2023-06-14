@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/amazon-ses
 author: Edward Saunders
 title: "Instagram Lead Ads and Amazon SES: A Powerful Integration"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Amazon SES is a powerful way for businesses to streamline their lead generation and email marketing efforts"
 leadtext: "By automating the transfer of lead information and sending targeted email campaigns, businesses can increase their chances of converting leads into customers. If you're not already using these tools, it's time to start exploring them and their potential for your business."
 image: /assets/images/articles/people-sitting-near-table.webp

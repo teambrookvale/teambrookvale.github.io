@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/twitter
 author: Edward Saunders
 title: "Integrating Evernote Business and Twitter: A Solution to Your Work Woes"
+topic: System Integration
 leadhead: "Integrating Evernote Business and Twitter through API or SDK is an excellent way to streamline your workflow and stay on top of your social media activity"
 leadtext: "By organizing tweets and syncing them with Evernote notes, you can easily collaborate with team members, brainstorm ideas, and engage with your audience on a more personal level. If you're in need of a solution to your work woes, this integration is definitely worth exploring."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/keap-max-classic
 author: Edward Saunders
 title: "Amazon SQS and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Amazon SQS and Keap Max Classic through API or SDK can significantly improve business operations, increase efficiency, and enhance customer experiences"
 leadtext: "This integration is particularly beneficial for small businesses, as it allows them to compete with larger companies by using automation and technology to their advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

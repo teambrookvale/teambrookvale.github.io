@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/facebook-custom-audiences
 author: Edward Saunders
 title: "Integration of Upwork and Facebook Custom Audiences"
+topic: System Integration
 leadhead: "The integration of Upwork and Facebook Custom Audiences is a game-changer for businesses that want to maximize their advertising efforts"
 leadtext: "It allows businesses to leverage the expertise of Upwork contractors and target their ads to specific groups of people with precision. By integrating the two, businesses can take their advertising game to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

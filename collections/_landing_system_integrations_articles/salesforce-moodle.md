@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/moodle
 author: Edward Saunders
 title: "Integrating Salesforce and Moodle: Connect Your CRM and LMS"
+topic: System Integration
 leadhead: "If your organization uses Salesforce and Moodle, integrating these two systems can bring many benefits"
 leadtext: "With a custom integration, you can automate tasks, eliminate data silos, and gain insights into how your educational resources impact your business. Whether you choose to use the APIs or the SDKs, the possibilities are endless."
 image: /assets/images/articles/people-sitting-near-table.webp

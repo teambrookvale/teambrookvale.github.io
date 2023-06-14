@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/goto-webinar
 author: Edward Saunders
 title: "Snowflake and GoTo Webinar Integration"
+topic: System Integration
 leadhead: "The integration of Snowflake and GoTo Webinar provides numerous benefits for organizations"
 leadtext: "It allows them to manage their data and webinars in one place, providing a more effective way to analyze the results of the webinars. Integrating Snowflake and GoTo Webinar can be done through APIs or SDKs depending on the preference of the developers. With this integration, organizations can enhance their productivity and make their work more efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

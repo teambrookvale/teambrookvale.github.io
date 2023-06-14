@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/marketo
 author: Edward Saunders
 title: "Amazon SNS and Marketo Integration"
+topic: System Integration
 leadhead: "The integration between Amazon SNS and Marketo is a powerful tool for businesses to communicate with their customers effectively"
 leadtext: "The integration solves several problems that businesses face when trying to communicate with their customers. By using the data collected in Marketo to create targeted campaigns, businesses can improve the accuracy and effectiveness of their campaigns. Additionally, the ability to send messages through different channels increases the likelihood that the message will reach the customer. Overall, the integration between Amazon SNS and Marketo is a valuable tool for businesses looking to improve their communication with their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

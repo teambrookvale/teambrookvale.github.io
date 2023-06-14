@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/sql-server
 author: Edward Saunders
 title: "Integrating GoTo Training and SQL Server through API/SDK"
+topic: System Integration
 leadhead: "Integrating GoTo Training and SQL Server using an API/SDK is an excellent way to simplify training management, reduce errors, and ensure that all training records are secure and easily accessible"
 leadtext: "The integration is also a great way to streamline business operations and improve the overall performance of your organization."
 image: /assets/images/articles/people-sitting-near-table.webp

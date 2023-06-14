@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-custom-audiences/whmcs
 author: Edward Saunders
 title: "Facebook Custom Audiences & WHMCS Integration"
+topic: System Integration
 leadhead: "The integration of Facebook Custom Audiences and WHMCS is a powerful solution that can help businesses streamline their marketing and billing processes"
 leadtext: "By leveraging the capabilities of both tools, marketers can create highly targeted ads that are shown to the right people, at the right time, improving the effectiveness of their campaigns and ultimately driving more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

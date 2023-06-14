@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/chargify
 author: Edward Saunders
 title: "Greenhouse Chargify Integration: Benefits and Solutions"
+topic: System Integration
 leadhead: "The integration between Greenhouse and Chargify offers several benefits to businesses, from streamlining the recruitment process, automating payments, to effective reporting"
 leadtext: "This integration shows how technology can provide businesses the opportunity to efficiently manage their operations and enrich their client's experience."
 image: /assets/images/articles/people-sitting-near-table.webp

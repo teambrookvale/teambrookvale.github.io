@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/amazon-s3
 author: Edward Saunders
 title: "Integration of Namely and Amazon S3"
+topic: System Integration
 leadhead: "In conclusion, integrating Namely and Amazon S3 can provide many benefits to businesses that rely on the effective management of their HR data"
 leadtext: "Not only does it enable greater flexibility in accessing and sharing HR information, but it also allows for automation of HR processes, which can improve efficiency and reduce errors."
 image: /assets/images/articles/people-sitting-near-table.webp

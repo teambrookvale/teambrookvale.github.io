@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/expensify
 author: Edward Saunders
 title: "SugarCRM 7+ and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Expensify through API or SDK can solve a lot of problems for businesses"
 leadtext: "By automating expense reporting, better expense tracking, and increasing efficiency, businesses can save time and money. If you're not already integrating the two platforms, consider doing so to improve your workflows and reporting."
 image: /assets/images/articles/people-sitting-near-table.webp

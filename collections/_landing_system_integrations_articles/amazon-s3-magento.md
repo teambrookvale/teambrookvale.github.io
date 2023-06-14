@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/magento
 author: Edward Saunders
 title: "Amazon S3 and Magento Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Magento provides many benefits, including better scalability, improved website performance, and increased reliability"
 leadtext: "It also ensures that businesses using Magento have access to unlimited storage space, making it easier to manage their online store more efficiently. Therefore, if you're using Magento for your online store, you should consider integrating it with Amazon S3 to take advantage of these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/namely
 author: Edward Saunders
 title: "Integration of Salesforce and Namely"
+topic: System Integration
 leadhead: "The integration of Salesforce and Namely is a powerful solution for businesses looking to streamline their operations, increase their productivity, and improve their overall efficiency"
 leadtext: "By using the API or SDK integration methods, businesses can ensure that their valuable data is always up-to-date and synced between the two systems."
 image: /assets/images/articles/people-sitting-near-table.webp

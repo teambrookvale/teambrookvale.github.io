@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/amazon-s3
 author: Edward Saunders
 title: "Integrating MySQL and Amazon S3"
+topic: System Integration
 leadhead: "Integrating MySQL and Amazon S3 through API or SDK brings various benefits to businesses"
 leadtext: "It ensures cost-effective and secure data storage while also allowing businesses to scale their storage capacity without data migration issues."
 image: /assets/images/articles/people-sitting-near-table.webp

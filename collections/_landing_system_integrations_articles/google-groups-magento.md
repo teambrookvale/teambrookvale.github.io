@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/magento
 author: Edward Saunders
 title: "Integration of Google Groups and Magento"
+topic: System Integration
 leadhead: "The integration of Google Groups and Magento is beneficial in many ways"
 leadtext: "Through the use of API or SDK, businesses can seamlessly share data between the two platforms, hence improving customer experience, team collaboration, and inventory management. Thus, businesses that seek to maximize their online engagement with customers should consider integrating Magento with Google Groups."
 image: /assets/images/articles/people-sitting-near-table.webp

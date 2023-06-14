@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/twitter
 author: Edward Saunders
 title: "SugarCRM and Twitter Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM and Twitter is a great way for businesses to take their customer interactions to the next level"
 leadtext: "By integrating SugarCRM and Twitter, businesses can manage all customer interactions from a single platform, gain insight into customer behavior and buying patterns, and respond to customer complaints in real-time. This helps businesses to provide personalized service, improve customer satisfaction, and protect their reputation. By embracing this integration, businesses can stay ahead of their competition and build a strong, loyal customer base."
 image: /assets/images/articles/people-sitting-near-table.webp

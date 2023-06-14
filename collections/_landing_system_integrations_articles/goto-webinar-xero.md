@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/xero
 author: Edward Saunders
 title: "Integrating GoTo Webinar and Xero for Better Business Management"
+topic: System Integration
 leadhead: "The GoTo Webinar and Xero integration demonstrates how technology can work together to simplify business processes while providing effective solutions"
 leadtext: "This combinatorial effect saves time and reduces effort while allowing businesses to run smoothly. Companies that integrate these two tools can optimize their operations by streamlining webinars and accounting processes, making it easier to manage their finances and improve their ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

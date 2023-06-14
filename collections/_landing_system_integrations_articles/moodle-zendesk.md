@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/zendesk
 author: Edward Saunders
 title: "Integration of Moodle and Zendesk through API or SDK"
+topic: System Integration
 leadhead: "The integration of Moodle and Zendesk can provide businesses and institutions with a powerful tool to manage their online learning and customer support"
 leadtext: "By utilizing the API or SDK, developers can create customized solutions to meet the unique needs of their organization. This integration can improve the experience for both learners and customers, and ultimately drive greater success for the business or institution as a whole."
 image: /assets/images/articles/people-sitting-near-table.webp

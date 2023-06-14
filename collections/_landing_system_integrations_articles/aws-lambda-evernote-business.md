@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/evernote-business
 author: Edward Saunders
 title: "AWS Lambda and Evernote Business Integration"
+topic: System Integration
 leadhead: "Overall, the integration of AWS Lambda and Evernote Business provides many benefits for businesses looking to improve their productivity and efficiency"
 leadtext: "By automating processes and reducing manual work, businesses can focus on what matters most - growing their business and achieving their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

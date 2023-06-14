@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/sugarcrm-7-
 author: Edward Saunders
 title: "Why Integrating Amazon CloudWatch with SugarCRM 7+ is a Smart Move"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch with SugarCRM 7+ can provide businesses with a powerful set of tools for managing their applications and resources on AWS"
 leadtext: "By leveraging the insights provided by CloudWatch, businesses can optimize their applications for peak performance, reduce downtime, and automate support processes. And by integrating with SugarCRM 7+, businesses can tie these insights into their customer interactions and sales pipelines, creating a more holistic view of their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

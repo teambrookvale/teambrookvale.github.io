@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/amazon-sqs
 author: Edward Saunders
 title: "Integrating Google Ads and Amazon SQS"
+topic: System Integration
 leadhead: "Integrating Google Ads and Amazon SQS through API or SDK offers a powerful solution for businesses looking to streamline their advertising processes and improve the performance of their ads"
 leadtext: "Whether it's automating the process of sending notification emails or analyzing data to make data-driven decisions, this integration offers a variety of benefits for businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/amazon-ec2
 author: Edward Saunders
 title: "Integrating Zoho CRM and Amazon EC2 | Benefits and Importance"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Amazon EC2 provides a powerful combination"
 leadtext: "It enables businesses to manage their data more efficiently, gain valuable customer insights, optimize sales operations, and enhance customer service. Integrating through API or SDK can be done by developers and businesses who want to leverage the potential of both platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

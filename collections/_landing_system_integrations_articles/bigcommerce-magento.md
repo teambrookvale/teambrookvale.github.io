@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/magento
 author: Edward Saunders
 title: "Integrating BigCommerce and Magento"
+topic: System Integration
 leadhead: "Integrating BigCommerce and Magento is a smart decision for businesses that want to expand their online presence and streamline their operations"
 leadtext: "With robust features, enhanced customization capabilities, and improved efficiency, the integration can help businesses grow and succeed in the competitive online marketplace."
 image: /assets/images/articles/people-sitting-near-table.webp

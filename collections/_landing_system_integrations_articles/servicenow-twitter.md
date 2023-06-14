@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/twitter
 author: Edward Saunders
 title: "Integration of ServiceNow and Twitter through API or SDK"
+topic: System Integration
 leadhead: "Integrating ServiceNow and Twitter has proven to be a valuable move for businesses"
 leadtext: "With API or SDK integration, businesses can easily manage their social media presence and enhance customer engagement. Moreover, businesses can leverage social media insights to enhance their services and products."
 image: /assets/images/articles/people-sitting-near-table.webp

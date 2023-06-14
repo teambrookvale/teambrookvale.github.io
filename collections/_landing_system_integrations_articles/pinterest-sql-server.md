@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/sql-server
 author: Edward Saunders
 title: "Pinterest and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Pinterest and SQL Server is a great way for businesses to leverage the power of social media and data analysis"
 leadtext: "It enables businesses to make informed decisions based on data that is relevant to them, as well as automate certain tasks to increase efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

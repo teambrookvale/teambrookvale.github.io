@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/sugarcrm-7-
 author: Edward Saunders
 title: "Expensify and SugarCRM 7+ Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Expensify and SugarCRM 7+ offers numerous benefits to businesses"
 leadtext: "By eliminating manual data entry and making financial data more accessible, businesses can save time and improve their financial accuracy. Furthermore, the integration allows businesses to have a more complete view of their finances and customer behavior, enabling them to make better decisions and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

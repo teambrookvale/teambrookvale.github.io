@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/ai-by-zapier
 author: Edward Saunders
 title: "Zapier's Webhooks and AI Integration"
+topic: System Integration
 leadhead: "Zapier's Webhooks and AI integration offer a powerful suite of tools that can help you automate tasks and enhance your workflows"
 leadtext: "Whether you're a small business owner or a large enterprise, integration with Webhooks and AI can help you save time, increase efficiency and reduce errors. With their API and SDK available, you can customize your integration to suit your specific needs, making it a highly versatile and valuable tool for all manner of businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

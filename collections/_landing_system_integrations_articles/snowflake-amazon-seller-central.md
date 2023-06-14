@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/amazon-seller-central
 author: Edward Saunders
 title: "Integration of Snowflake and Amazon Seller Central through API or SDK"
+topic: System Integration
 leadhead: "The integration of Snowflake and Amazon Seller Central through API or SDK is a game-changer for businesses"
 leadtext: "It enables them to streamline their data warehousing and e-commerce management processes, thus saving them time and resources. The integration provides businesses with a real-time view of their sales data, enabling them to make informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

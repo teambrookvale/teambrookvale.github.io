@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/chargify
 author: Edward Saunders
 title: "Integration of Amazon SES and Chargify"
+topic: System Integration
 leadhead: "Integrating Amazon SES and Chargify can have a significant impact on the efficiency of a business's subscription billing and revenue operations"
 leadtext: "By automating the email sending process, businesses can focus on other areas of their business, while ensuring that their customers receive timely and accurate information related to their subscription billing and revenue operations. Whether you choose to integrate Amazon SES and Chargify through API or SDK, the benefits of this integration are clear and should be considered by businesses looking to improve their operational efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

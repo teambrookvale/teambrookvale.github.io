@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/evernote-business
 author: Edward Saunders
 title: "Integrating Amazon S3 and Evernote Business"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and Evernote Business is a powerful tool for businesses and teams"
 leadtext: "It simplifies the workflow and provides a centralized location for all files. By leveraging these two powerful systems, businesses can improve their efficiency and productivity while maintaining secure file sharing."
 image: /assets/images/articles/people-sitting-near-table.webp

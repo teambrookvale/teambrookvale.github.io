@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/amazon-polly
 author: Edward Saunders
 title: "Twitter and Amazon Polly Integration"
+topic: System Integration
 leadhead: "By integrating Twitter and Amazon Polly, we can add more value to our social media presence, making it more inclusive, accessible, and engaging"
 leadtext: "With millions of users on Twitter, integrating Amazon Polly's text-to-speech capabilities can go a long way in enhancing the user experience and solving various problems. The integration is not only beneficial for individuals but also for businesses and influencers looking to reach a broader audience through more engaging content."
 image: /assets/images/articles/people-sitting-near-table.webp

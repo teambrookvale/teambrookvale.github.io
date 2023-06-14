@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/marketo
 author: Edward Saunders
 title: "Zoho CRM and Marketo: A Powerful Combination"
+topic: System Integration
 leadhead: "Zoho CRM and Marketo are powerful tools for businesses to manage their customer interactions and implement targeted marketing strategies"
 leadtext: "However, by integrating the functionalities of both platforms through API or SDK, businesses can take advantage of their combined functionalities and solve the challenges that arise when using them separately. The integration of Zoho CRM and Marketo provides a comprehensive solution for businesses of all sizes to thrive in today's competitive world."
 image: /assets/images/articles/people-sitting-near-table.webp

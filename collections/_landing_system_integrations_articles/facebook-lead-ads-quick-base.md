@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/quick-base
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads and Quick Base"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and Quick Base is a valuable tool for businesses looking to improve their lead generation and management process"
 leadtext: "By using the API or SDK, businesses can create a custom solution that meets their specific needs. The integration not only saves time and resources, but it also improves data accuracy. Businesses that take advantage of this integration can improve their overall efficiency and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

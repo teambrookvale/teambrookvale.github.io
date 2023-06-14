@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/salesforce
 author: Edward Saunders
 title: "Integration of Google Ads and Salesforce"
+topic: System Integration
 leadhead: "In conclusion, integrating Google Ads and Salesforce can provide businesses with a range of benefits"
 leadtext: "From improved advertising analytics to more targeted campaigns, this integration can help businesses to optimize their marketing strategies and grow their businesses. As such, it is worth considering for any business that wants to improve its advertising and customer management efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

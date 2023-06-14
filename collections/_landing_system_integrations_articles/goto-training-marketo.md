@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/marketo
 author: Edward Saunders
 title: "GoTo Training and Marketo Integration: A Match Made in Heaven"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Marketo is a match made in heaven"
 leadtext: "The two systems complement each other perfectly, providing businesses with a seamless platform to manage their training and marketing campaigns. With the help of APIs or SDKs, businesses can eliminate manual data entry, reduce errors, and make more informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

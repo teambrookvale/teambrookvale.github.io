@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/amazon-polly
 author: Edward Saunders
 title: "Marketo and Amazon Polly Integration"
+topic: System Integration
 leadhead: "Marketing is an ever-changing field, and businesses that fail to adapt can quickly fall behind their competitors"
 leadtext: "By integrating Marketo with Amazon Polly, businesses can stay ahead of the curve and take advantage of two of the most powerful marketing tools available today. Whether you're looking to improve engagement, create more personalized marketing materials, or simply stay ahead of the competition, the combination of Marketo and Amazon Polly is a powerful tool that should not be overlooked."
 image: /assets/images/articles/people-sitting-near-table.webp

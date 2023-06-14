@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/linkedin-ads
 author: Edward Saunders
 title: "Benefits of Integrating BambooHR and LinkedIn Ads through API or SDK"
+topic: System Integration
 leadhead: "Integrating BambooHR and LinkedIn Ads is a smart move for businesses looking to improve their recruitment and advertising efforts"
 leadtext: "By using an API or SDK to connect the two systems, businesses can streamline their processes, save time and money, and make more informed decisions based on their employee data. With benefits like these, it's clear that the integration of BambooHR and LinkedIn Ads is a wise investment for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

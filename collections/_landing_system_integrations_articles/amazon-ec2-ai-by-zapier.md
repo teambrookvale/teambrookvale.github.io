@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/ai-by-zapier
 author: Edward Saunders
 title: "Integrating Amazon EC2 and AI by Zapier for Efficient Workflows"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and AI by Zapier offers businesses a powerful tool to streamline their workflows"
 leadtext: "By automating routine tasks on their EC2 instances with AI by Zapier, businesses can improve their overall efficiency, reduce downtime, and free up their staff to focus on more important tasks. With the ability to scale up or down their instances as needed, businesses can ensure that they always have the computing power they need to handle their workload."
 image: /assets/images/articles/people-sitting-near-table.webp

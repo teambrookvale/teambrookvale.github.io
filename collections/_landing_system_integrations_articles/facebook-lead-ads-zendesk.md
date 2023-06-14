@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/zendesk
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with Zendesk"
+topic: System Integration
 leadhead: "The integration of Facebook Lead Ads and Zendesk is a game-changer for businesses seeking to streamline their lead generation and customer service operations"
 leadtext: "It saves time, prevents data duplication, and helps businesses to easily track and analyze their lead and customer data. By leveraging the power of these two platforms through integration, businesses can enhance their customers' experience, improving their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/amazon-seller-central
 author: Edward Saunders
 title: "Amazon CloudFront and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "The integration of Amazon CloudFront and Amazon Seller Central offers numerous benefits for sellers on the Amazon platform"
 leadtext: "With the ability to store and deliver product images and videos with low latency and high transfer speeds, sellers can significantly improve the customer experience and increase sales. This integration is an excellent opportunity for businesses and individuals to enhance their customer experience and improve their sales performance on Amazon."
 image: /assets/images/articles/people-sitting-near-table.webp

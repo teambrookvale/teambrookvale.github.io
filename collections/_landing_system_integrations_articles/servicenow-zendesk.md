@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/zendesk
 author: Edward Saunders
 title: "ServiceNow and Zendesk Integration: A Seamless Solution for Customer Support"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Zendesk provides a powerful solution to streamline and enhance customer support operations for businesses of all sizes"
 leadtext: "By effectively bringing together two of the best platforms in the market, integration through API or SDK can result in the best customer experience while also providing a significant competitive advantage."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/ai-by-zapier
 author: Edward Saunders
 title: "Calldrip and AI by Zapier: Solving Integration Problems"
+topic: System Integration
 leadhead: "Calldrip and AI by Zapier are two powerful tools that can help businesses grow and succeed"
 leadtext: "The integration of these tools allows businesses to streamline their lead response and nurturing process, save time and resources, and ultimately close more deals. By taking advantage of the integration, businesses can stay ahead of the competition and achieve their growth goals."
 image: /assets/images/articles/people-sitting-near-table.webp

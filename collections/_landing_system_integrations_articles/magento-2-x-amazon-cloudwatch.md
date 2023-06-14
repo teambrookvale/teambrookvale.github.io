@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/amazon-cloudwatch
 author: Edward Saunders
 title: "Magento 2.X Integration with Amazon CloudWatch"
+topic: System Integration
 leadhead: "The integration of Magento 2.X with Amazon CloudWatch is a powerful tool that can help online businesses optimize their website performance and improve customer experience"
 leadtext: "By monitoring and tracking data from Magento 2.X using CloudWatch, website owners can gain valuable insights into their website's performance and take actions to improve customer experience. The integration of these two platforms has significantly simplified the process of tracking and monitoring website performance, making it an essential tool in today's competitive e-commerce landscape."
 image: /assets/images/articles/people-sitting-near-table.webp

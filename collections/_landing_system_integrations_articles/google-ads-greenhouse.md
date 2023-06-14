@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/greenhouse
 author: Edward Saunders
 title: "Google Ads and Greenhouse Integration: Solving Problems and Boosting Recruitment"
+topic: System Integration
 leadhead: "The integration of Google Ads and Greenhouse is a powerful tool that can help businesses manage their recruitment process more efficiently and effectively"
 leadtext: "By using an API or SDK to link these two platforms, businesses can create a seamless process that streamlines the entire recruitment process, from job posting to hiring. This integration saves time, reduces errors, and ensures a consistent candidate experience, all while boosting the ROI on job advertising."
 image: /assets/images/articles/people-sitting-near-table.webp

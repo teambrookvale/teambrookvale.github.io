@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/pardot
 author: Edward Saunders
 title: "Benefits of Integrating Amazon CloudWatch and Pardot"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Pardot can bring several benefits to your business, allowing you to better understand your customers, improve your marketing campaigns and reduce downtime"
 leadtext: "Whether you choose to integrate the two platforms through an API or SDK, the benefits of this integration are undeniable."
 image: /assets/images/articles/people-sitting-near-table.webp

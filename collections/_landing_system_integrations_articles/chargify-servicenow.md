@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/servicenow
 author: Edward Saunders
 title: "Chargify and ServiceNow Integration: A Comprehensive Guide"
+topic: System Integration
 leadhead: "Integrating Chargify and ServiceNow through API or SDK provides organizations with a powerful billing and IT service management solution that helps deliver excellent customer service"
 leadtext: "With this integration, businesses can automate their billing processes, manage customer subscriptions, streamline IT processes, and provide an improved customer experience all in one place. Therefore, it is a valuable investment for any organization looking to enhance their billing and IT service management operations."
 image: /assets/images/articles/people-sitting-near-table.webp

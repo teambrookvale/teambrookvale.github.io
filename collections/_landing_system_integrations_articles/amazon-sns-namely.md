@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/namely
 author: Edward Saunders
 title: "Integrating Amazon SNS and Namely"
+topic: System Integration
 leadhead: "Integrating Amazon SNS and Namely creates a powerful system that enables businesses to automate and streamline their communication and HR management processes"
 leadtext: "By leveraging the capabilities of both platforms, businesses can simplify their workflows, improve employee engagement and retention, and ensure compliance and accuracy."
 image: /assets/images/articles/people-sitting-near-table.webp

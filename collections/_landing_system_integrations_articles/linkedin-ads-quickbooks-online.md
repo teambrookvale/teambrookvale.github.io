@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/quickbooks-online
 author: Edward Saunders
 title: "LinkedIn Ads and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "Integrating LinkedIn Ads and QuickBooks Online can provide businesses with a streamlined process for generating and managing leads, invoicing, and tracking ROI"
 leadtext: "With an API or SDK, businesses can automate manual processes and focus on growing their business. It's a win-win situation for both businesses and their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

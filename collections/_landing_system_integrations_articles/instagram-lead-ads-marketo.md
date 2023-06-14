@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/marketo
 author: Edward Saunders
 title: "Instagram Lead Ads and Marketo Integration: A Perfect Match"
+topic: System Integration
 leadhead: "Integrating Instagram Lead Ads with Marketo is a perfect match for any business looking to improve its lead generation processes"
 leadtext: "It makes the process of capturing and storing leads more efficient while also saving businesses precious time and effort."
 image: /assets/images/articles/people-sitting-near-table.webp

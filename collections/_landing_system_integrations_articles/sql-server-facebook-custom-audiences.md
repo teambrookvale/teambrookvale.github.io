@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/facebook-custom-audiences
 author: Edward Saunders
 title: "Integrating SQL Server with Facebook Custom Audiences"
+topic: System Integration
 leadhead: "Integrating SQL Server with Facebook Custom Audiences can provide businesses with a powerful tool for reaching their target audience on Facebook"
 leadtext: "By leveraging the capabilities of these two technologies, businesses can improve the effectiveness of their advertising campaigns, save time and resources, and gain valuable insights into their customers' behavior. As a result, businesses can achieve better ROI and drive growth in their business."
 image: /assets/images/articles/people-sitting-near-table.webp

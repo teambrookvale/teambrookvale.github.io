@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/whmcs
 author: Edward Saunders
 title: "Zendesk and WHMCS Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and WHMCS through API or SDK is ideal for any business that puts a high value on customer support"
 leadtext: "The seamless ticketing experience, the improved communication between customers and the support team, and the centralized billing and support data make it an efficient and effective solution. Businesses that integrate Zendesk and WHMCS can take their customer satisfaction to another level."
 image: /assets/images/articles/people-sitting-near-table.webp

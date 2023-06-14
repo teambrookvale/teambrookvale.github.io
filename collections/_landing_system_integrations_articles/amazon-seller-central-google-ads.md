@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/google-ads
 author: Edward Saunders
 title: "Integration of Amazon Seller Central and Google Ads"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and Google Ads can provide several benefits for online sellers, including increased visibility, higher conversion rates, and better targeting"
 leadtext: "With the integration through API or SDK, sellers can manage their campaigns more efficiently and solve several problems that they face. It's a strategy worth considering for any online seller looking to grow their business."
 image: /assets/images/articles/people-sitting-near-table.webp

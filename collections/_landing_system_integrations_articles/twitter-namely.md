@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/namely
 author: Edward Saunders
 title: "Integrating Twitter and Namely"
+topic: System Integration
 leadhead: "Integrating Twitter and Namely through API or SDK can greatly benefit businesses by automating several HR processes, enhancing employee engagement, and improving customer support"
 leadtext: "By using these two tools together, businesses can save time and resources while increasing efficiency and productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

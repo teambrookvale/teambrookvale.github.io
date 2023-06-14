@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/goto-training
 author: Edward Saunders
 title: "Magento 2.X and GoTo Training Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and GoTo Training is a smart move for businesses looking to enhance their online store and training capabilities"
 leadtext: "It allows for the automation of training processes and provides businesses with a comprehensive solution to manage their operations. By integrating these two platforms, businesses can optimize their workflow and save time and resources."
 image: /assets/images/articles/people-sitting-near-table.webp

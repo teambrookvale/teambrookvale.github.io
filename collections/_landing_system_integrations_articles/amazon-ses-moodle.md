@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/moodle
 author: Edward Saunders
 title: "Amazon SES and Moodle Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SES and Moodle can offer several benefits to educators and learners"
 leadtext: "It can ensure reliable and secure email communication, reduce email delivery costs, and provide insights into email engagement metrics. There are several ways to integrate these two services, including plugins and APIs. However, it is important to have the necessary technical expertise to successfully implement this integration."
 image: /assets/images/articles/people-sitting-near-table.webp

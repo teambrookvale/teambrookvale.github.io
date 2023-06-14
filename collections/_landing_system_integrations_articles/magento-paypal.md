@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/paypal
 author: Edward Saunders
 title: "Magento and PayPal Integration: An Overview"
+topic: System Integration
 leadhead: "Integrating Magento and PayPal helps businesses enhance their online stores by providing customers with a better checkout experience and secure payment options"
 leadtext: "With the numerous benefits that come with this integration, businesses can improve their reach and increase sales. Furthermore, with the availability of different integration options like APIs and SDKs, businesses can choose the development option that best suits their needs."
 image: /assets/images/articles/people-sitting-near-table.webp

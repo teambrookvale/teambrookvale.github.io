@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/amazon-ses
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and Amazon SES"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and Amazon SES can provide a lot of benefits to businesses"
 leadtext: "It can improve communication with customers, reduce manual effort, and provide valuable analytics. API or SDK integration can be done to exchange data between these two platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

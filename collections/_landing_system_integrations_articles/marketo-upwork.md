@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/upwork
 author: Edward Saunders
 title: "Integrating Marketo and Upwork: A Solution for Businesses"
+topic: System Integration
 leadhead: "The integration of Marketo and Upwork through API or SDK brings a new level of automation and efficiency to the freelancer hiring process"
 leadtext: "Businesses can now enjoy a streamlined process that saves time, money and increases productivity. By utilizing the strengths of both Marketo and Upwork, businesses can focus on growth, increasing profitability while establishing long-lasting relationships with clients and talent."
 image: /assets/images/articles/people-sitting-near-table.webp

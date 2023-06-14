@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/mysql
 author: Edward Saunders
 title: "Integration of AI by Zapier and MySQL"
+topic: System Integration
 leadhead: "The integration of AI by Zapier and MySQL can greatly improve a business's data management and analysis processes"
 leadtext: "By automating workflows and providing accurate insights, businesses can make more informed decisions and save valuable time and resources."
 image: /assets/images/articles/people-sitting-near-table.webp

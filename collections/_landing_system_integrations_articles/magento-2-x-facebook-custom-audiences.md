@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/facebook-custom-audiences
 author: Edward Saunders
 title: "Magento 2.X and Facebook Custom Audiences - The Benefits of Integration"
+topic: System Integration
 leadhead: "Integrating Magento 2.X and Facebook Custom Audiences is a smart move for e-commerce businesses looking to improve their marketing efforts"
 leadtext: "The use of API or SDK to integrate these two platforms can lead to higher ROI, personalized marketing experiences, and increased engagement and conversions. Overall, the benefits of integration make it a worthwhile investment for businesses looking to grow their online presence."
 image: /assets/images/articles/people-sitting-near-table.webp

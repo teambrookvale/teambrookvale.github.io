@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/magento-2-x
 author: Edward Saunders
 title: "Amazon Seller Central and Magento 2.X Integration"
+topic: System Integration
 leadhead: "A business that uses Magento 2.X and Amazon Seller Central can quickly achieve more efficiency in managing their online marketplaces just through integrating the two platforms"
 leadtext: "Utilizing the API or SDK integration saves time, streamline process and reduces manual mistakes, helping the business enhance its overall customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

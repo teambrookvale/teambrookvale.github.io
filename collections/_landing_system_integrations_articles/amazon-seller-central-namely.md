@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/namely
 author: Edward Saunders
 title: "Integrating Amazon Seller Central and Namely"
+topic: System Integration
 leadhead: "Integrating Amazon Seller Central and Namely can be a game-changer for businesses"
 leadtext: "The integration can help them streamline their hiring process and manage their payroll more efficiently. The integration can be done through API or SDK, and there are several options available for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

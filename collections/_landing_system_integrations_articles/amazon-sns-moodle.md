@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/moodle
 author: Edward Saunders
 title: "Integrating Amazon SNS with Moodle for Improved Communication"
+topic: System Integration
 leadhead: "Integrating Amazon SNS with Moodle creates an efficient online learning environment that benefits both learners and course instructors"
 leadtext: "By using Amazon SNS's capabilities for real-time push notifications and event-driven architectures, course instructors can deliver an engaging and scalable learning experience that ensures learners stay informed and motivated throughout their learning journey."
 image: /assets/images/articles/people-sitting-near-table.webp

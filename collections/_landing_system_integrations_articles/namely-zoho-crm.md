@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/zoho-crm
 author: Edward Saunders
 title: "Integrating Namely and Zoho CRM"
+topic: System Integration
 leadhead: "Integrating Namely and Zoho CRM can lead to significant benefits for businesses"
 leadtext: "By leveraging the power of these two platforms, companies can streamline their operations, improve customer relationships, and optimize HR management."
 image: /assets/images/articles/people-sitting-near-table.webp

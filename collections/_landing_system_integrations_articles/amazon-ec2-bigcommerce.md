@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/bigcommerce
 author: Edward Saunders
 title: "Integration of Amazon EC2 with BigCommerce"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 with BigCommerce provides businesses with a powerful solution for managing their ecommerce operations"
 leadtext: "By leveraging the API or SDK provided by the two platforms, businesses can improve their ability to scale compute capacity, optimize costs, and create a seamless customer experience. This integration is a valuable tool for any business looking to take their ecommerce platform to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

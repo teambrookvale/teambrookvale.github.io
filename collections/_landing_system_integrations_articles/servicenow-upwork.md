@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/upwork
 author: Edward Saunders
 title: "Integrating ServiceNow and Upwork through API or SDK"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Upwork is a game-changer for businesses looking to streamline their operations and improve their hiring process"
 leadtext: "By utilizing this integration, companies can hire top talent from Upwork and manage their projects all within the ServiceNow platform, saving time and improving efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

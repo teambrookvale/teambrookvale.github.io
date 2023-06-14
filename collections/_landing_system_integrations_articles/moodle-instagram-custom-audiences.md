@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/instagram-custom-audiences
 author: Edward Saunders
 title: "Moodle and Instagram Custom Audiences Integration"
+topic: System Integration
 leadhead: "The Moodle platform is a fantastic tool for educators to create and manage educational content for their students"
 leadtext: "However, integrating it with Instagram Custom Audiences through API or SDK makes the platform more valuable, especially in the world of digital marketing. With these two platforms working together, educators and brands can create a more personalized learning experience for students and reach new audiences in a more effective and engaging way than ever before."
 image: /assets/images/articles/people-sitting-near-table.webp

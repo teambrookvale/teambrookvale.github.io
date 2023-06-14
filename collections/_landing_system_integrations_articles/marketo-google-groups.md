@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/google-groups
 author: Edward Saunders
 title: "Marketo and Google Groups Integration"
+topic: System Integration
 leadhead: "The integration of Marketo and Google Groups can provide businesses with a powerful marketing automation and collaboration tool"
 leadtext: "By using the two platforms together, businesses can improve their marketing campaigns, gain deeper insights into their audience, and boost their ROI. If you're considering integrating Marketo and Google Groups, be sure to explore the available API and SDK options to find the solution that best suits your needs."
 image: /assets/images/articles/people-sitting-near-table.webp

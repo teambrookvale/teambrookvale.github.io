@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/solve-crm
 author: Edward Saunders
 title: "Shopify and Solve CRM Integration"
+topic: System Integration
 leadhead: "In conclusion, integrating Shopify and Solve CRM can greatly benefit your business"
 leadtext: "With the automatic syncing of customer data, you'll have a complete view of your customers and be able to provide personalized and timely customer service and targeted marketing campaigns. This integration saves time, reduces errors and ultimately helps you to grow your business by improving customer satisfaction and increasing sales and revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

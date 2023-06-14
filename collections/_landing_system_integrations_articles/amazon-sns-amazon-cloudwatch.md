@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/amazon-cloudwatch
 author: Edward Saunders
 title: "Integration Between Amazon SNS and CloudWatch - A Comprehensive Guide"
+topic: System Integration
 leadhead: "By integrating Amazon SNS and CloudWatch, you can leverage the strengths of both services to create a more robust and flexible monitoring and notification system"
 leadtext: "With the ability to notify a broad range of recipients across various channels, you can keep everyone informed and take necessary actions in real-time. If you're not already using both of these services in conjunction with one another, now's the time to start."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/quickbooks-online
 author: Edward Saunders
 title: "Integration of MySQL and QuickBooks Online"
+topic: System Integration
 leadhead: "The integration of MySQL and QuickBooks Online offers significant benefits for businesses, including improved data management and streamlined financial processes"
 leadtext: "Whether you choose to integrate using an API or an SDK, it's important to select a solution that meets your business's specific needs and requirements."
 image: /assets/images/articles/people-sitting-near-table.webp

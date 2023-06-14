@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/sugarcrm-7-
 author: Edward Saunders
 title: "Integrating GoToWebinar with SugarCRM 7+"
+topic: System Integration
 leadhead: "Integrating GoToWebinar with SugarCRM 7+ can help you streamline your workflow, improve your lead nurturing, and increase your conversion rates"
 leadtext: "By automating the lead capture and sharing process, you can save time and focus on what really matters – engaging with your leads and closing more deals."
 image: /assets/images/articles/people-sitting-near-table.webp

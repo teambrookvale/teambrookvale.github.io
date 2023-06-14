@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/evernote-business
 author: Edward Saunders
 title: "Amazon SNS &amp; Evernote Business Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Amazon SNS and Evernote Business can provide significant benefits to your business operations"
 leadtext: "With instant notifications and real-time collaboration, teams can work more efficiently and productively, while reducing the risk of miscommunication and errors. Whether you're a small startup or a large enterprise, integrating these two tools through API or SDK can help take your business to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

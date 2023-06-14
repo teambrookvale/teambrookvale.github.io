@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/sugarcrm-6-2-5
 author: Edward Saunders
 title: "SugarCRM and Namely Integration: Streamline Your HR and CRM Processes"
+topic: System Integration
 leadhead: "Integrating SugarCRM and Namely can help businesses streamline their HR and CRM processes, improve accuracy, and optimize decision-making"
 leadtext: "By leveraging the scalability and flexibility of the two systems, businesses can focus on growth and customer satisfaction while ensuring accurate employee data and compliance with HR regulations."
 image: /assets/images/articles/people-sitting-near-table.webp

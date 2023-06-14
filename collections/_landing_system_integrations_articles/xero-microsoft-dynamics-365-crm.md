@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Xero and Microsoft Dynamics 365 CRM Integration"
+topic: System Integration
 leadhead: "Xero and Microsoft Dynamics 365 CRM integration through API or SDK provides businesses with several benefits, including increased efficiency, real-time data, improved reporting and customer service"
 leadtext: "Businesses that integrate these two systems can streamline their operations and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

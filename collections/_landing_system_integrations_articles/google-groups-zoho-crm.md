@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/zoho-crm
 author: Edward Saunders
 title: "Google Groups and Zoho CRM Integration: Solving Business Problems"
+topic: System Integration
 leadhead: "Google Groups and Zoho CRM integration is a powerful solution for businesses that want to enhance their communication, collaboration, and customer relationship management capabilities"
 leadtext: "Whether you are a small startup or a large enterprise, this integration can help you save time, reduce costs, and increase productivity. To get started, explore the API and SDK documentation of both platforms and reach out to their support teams for assistance and guidance."
 image: /assets/images/articles/people-sitting-near-table.webp

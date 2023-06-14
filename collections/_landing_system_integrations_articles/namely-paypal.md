@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/paypal
 author: Edward Saunders
 title: "How Namely and PayPal Integration Can Benefit You"
+topic: System Integration
 leadhead: "The integration of Namely and PayPal can bring a host of benefits to businesses, from saving time to increasing employee satisfaction"
 leadtext: "By leveraging each other's strengths, Namely and PayPal offer a comprehensive solution for businesses looking to streamline their payroll process."
 image: /assets/images/articles/people-sitting-near-table.webp

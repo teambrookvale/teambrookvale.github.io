@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sns/pinterest
 author: Edward Saunders
 title: "Integration of Amazon SNS and Pinterest"
+topic: System Integration
 leadhead: "The integration of Amazon SNS and Pinterest is a powerful tool for businesses and individuals who want to increase engagement, automate updates, and streamline their workflow"
 leadtext: "It allows for seamless communication between two very different platforms, and opens up a new world of possibilities for users."
 image: /assets/images/articles/people-sitting-near-table.webp

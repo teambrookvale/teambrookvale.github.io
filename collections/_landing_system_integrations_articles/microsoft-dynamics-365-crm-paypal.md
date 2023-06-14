@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/microsoft-dynamics-365-crm/paypal
 author: Edward Saunders
 title: "Integrating Microsoft Dynamics 365 CRM and PayPal for Efficient Business Operations"
+topic: System Integration
 leadhead: "Integrating Microsoft Dynamics 365 CRM and PayPal is an efficient and productive way to run your business"
 leadtext: "It solves many problems and helps in processing financial transactions faster, track payments, and improve productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/keap-max-classic/snowflake
 author: Edward Saunders
 title: "Integration of Keap Max Classic and Snowflake"
+topic: System Integration
 leadhead: "The integration of Keap Max Classic and Snowflake through an API or SDK is a powerful tool for businesses looking to improve their productivity, reduce errors, and gain insights from their data more quickly"
 leadtext: "It is an easy-to-use and efficient way to automate the movement of data between the two systems, and it can help businesses unlock the full power of their data. If you are a business owner looking for a way to improve your workflow and gain insights from your data, then the integration of Keap Max Classic and Snowflake should be on your radar."
 image: /assets/images/articles/people-sitting-near-table.webp

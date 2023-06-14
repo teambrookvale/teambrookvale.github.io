@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/google-ads
 author: Edward Saunders
 title: "Zoho CRM and Google Ads Integration - A Game Changer for Businesses"
+topic: System Integration
 leadhead: "The integration of Zoho CRM and Google Ads is a game changer for businesses looking to improve their marketing and sales performance"
 leadtext: "By bringing together customer data and advertising capabilities in one platform, businesses can now create more effective campaigns, reach a larger audience, and ultimately drive more revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

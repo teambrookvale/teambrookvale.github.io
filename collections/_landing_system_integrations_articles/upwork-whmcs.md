@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/whmcs
 author: Edward Saunders
 title: "How Upwork and WHMCS Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "Integrating Upwork and WHMCS can bring numerous benefits to your business"
 leadtext: "By automating billing and project management tasks, you can focus on the core aspects of your business and increase productivity. With both platforms connected, you can centralize your data and access it easily. So if you're looking for a way to simplify your business operations, integration of Upwork and WHMCS is a great option."
 image: /assets/images/articles/people-sitting-near-table.webp

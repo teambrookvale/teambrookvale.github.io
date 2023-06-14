@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/amazon-seller-central
 author: Edward Saunders
 title: "Twitter and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "In conclusion, the integration of Twitter and Amazon Seller Central through API or SDK is a powerful tool for businesses to streamline their online presence and improve their performance"
 leadtext: "By automating Twitter activity and leveraging Amazon data, businesses can save time and resources, increase visibility and sales, and offer a better customer experience. If you're a business owner looking to improve your online presence, consider integrating Twitter and Amazon Seller Central today."
 image: /assets/images/articles/people-sitting-near-table.webp

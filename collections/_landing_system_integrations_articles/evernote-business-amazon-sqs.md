@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/amazon-sqs
 author: Edward Saunders
 title: "Integrating Evernote Business and Amazon SQS"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Amazon SQS can provide significant benefits for your organization"
 leadtext: "By leveraging their functionality, you can create a more efficient and productive workflow that enhances communication, collaboration, and automation. Whether you're a small business or a large enterprise, this integration can help you achieve your goals and improve your bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

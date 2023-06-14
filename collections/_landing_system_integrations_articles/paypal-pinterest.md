@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/pinterest
 author: Edward Saunders
 title: "Integration of PayPal and Pinterest"
+topic: System Integration
 leadhead: "The integration of PayPal and Pinterest is a powerful tool for businesses and customers alike"
 leadtext: "By allowing users to make purchases directly from Pinterest, businesses can increase sales and improve customer satisfaction. Moreover, the integration solves many of the problems associated with online shopping, such as cart abandonment and checkout efficiency. Overall, the integration of PayPal and Pinterest is a great example of how two popular platforms can work together to create a better user experience."
 image: /assets/images/articles/people-sitting-near-table.webp

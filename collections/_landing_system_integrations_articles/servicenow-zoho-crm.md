@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/servicenow/zoho-crm
 author: Edward Saunders
 title: "Integration of ServiceNow and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of ServiceNow and Zoho CRM can help businesses streamline their operations and provide better customer experiences"
 leadtext: "By exchanging data and communicating with each other, the two systems can provide businesses with valuable insights and improve their overall performance. Whether through API or SDK, integrating ServiceNow and Zoho CRM is a smart move for any business looking to optimize their processes and improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

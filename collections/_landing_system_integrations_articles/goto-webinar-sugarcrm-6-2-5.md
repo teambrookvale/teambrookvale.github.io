@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integrating GoTo Webinar and SugarCRM 6.2-5 through API or SDK"
+topic: System Integration
 leadhead: "Integrating GoTo Webinar and SugarCRM 6.2-5 through API or SDK is a simple and effective way for businesses to improve their business processes and customer experience"
 leadtext: "By syncing customer data with webinar attendance data, businesses can access more information about their customers and provide a better customer experience. Overall, this integration is a great solution for businesses looking to grow their sales and streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

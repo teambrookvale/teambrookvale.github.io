@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/salesforce
 author: Edward Saunders
 title: "Amazon S3 and Salesforce Integration"
+topic: System Integration
 leadhead: "Integrating Amazon S3 and Salesforce can bring great benefits to businesses, such as centralizing data, improving data security, and creating a unique synergy between two of the best cloud services available"
 leadtext: "Businesses that integrate the two services can gain a competitive edge over their competition, making it a worthwhile investment for any business looking to improve their operation."
 image: /assets/images/articles/people-sitting-near-table.webp

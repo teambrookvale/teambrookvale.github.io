@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/amazon-sns
 author: Edward Saunders
 title: "Integration of GoTo Webinar and Amazon SNS through API or SDK"
+topic: System Integration
 leadhead: "In conclusion, the integration of GoTo Webinar and Amazon SNS through API or SDK is a game-changer for users of these two tools"
 leadtext: "It provides a more potent and efficient system that solves some of the problems that may arise while using these tools separately. As such, it is recommended that users take advantage of this integration to enhance their experiences while using these tools."
 image: /assets/images/articles/people-sitting-near-table.webp

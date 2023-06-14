@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/instagram-lead-ads
 author: Edward Saunders
 title: "Integration of Salesforce and Instagram Lead Ads"
+topic: System Integration
 leadhead: "The integration between Salesforce and Instagram Lead Ads is a powerful tool that can enhance a company's sales process and lead generation efforts"
 leadtext: "By utilizing an API or SDK integration, businesses can streamline their data management and achieve a higher ROI on their Instagram marketing campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

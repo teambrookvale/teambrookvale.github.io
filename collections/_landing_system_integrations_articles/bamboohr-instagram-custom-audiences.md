@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/instagram-custom-audiences
 author: Edward Saunders
 title: "Integration of BambooHR and Instagram Custom Audiences"
+topic: System Integration
 leadhead: "The integration of BambooHR and Instagram Custom Audiences can bring many benefits to businesses"
 leadtext: "Through API or SDK, the two platforms can work together to improve personalized advertising and streamline HR processes. As a result, companies can save time and resources while achieving better results in their advertising campaigns."
 image: /assets/images/articles/people-sitting-near-table.webp

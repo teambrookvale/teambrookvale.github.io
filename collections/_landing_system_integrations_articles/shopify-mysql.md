@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/mysql
 author: Edward Saunders
 title: "Shopify and MySQL Integration"
+topic: System Integration
 leadhead: "Overall, the integration of Shopify and MySQL can provide businesses with a valuable set of tools that can improve their e-commerce operations"
 leadtext: "By using an API or SDK, businesses can automate tasks, generate custom reports, and improve the overall shopping experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

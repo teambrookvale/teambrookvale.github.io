@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/aws-lambda
 author: Edward Saunders
 title: "Namely and AWS Lambda Integration"
+topic: System Integration
 leadhead: "The integration of Namely and AWS Lambda is a powerful tool for HR professionals looking to streamline their workflow and automate HR tasks"
 leadtext: "By leveraging the power of AWS Lambda, organizations can create custom HR applications that allow them to manage employees more efficiently and accurately. Additionally, the ability to automate HR tasks helps organizations save time and money, freeing up resources for more strategic initiatives."
 image: /assets/images/articles/people-sitting-near-table.webp

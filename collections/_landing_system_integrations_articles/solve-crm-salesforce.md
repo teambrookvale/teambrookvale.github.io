@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/salesforce
 author: Edward Saunders
 title: "How Solving CRM and Salesforce Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "In conclusion, the integration of Solve CRM and Salesforce can provide a number of benefits for businesses"
 leadtext: "By using API or SDK, businesses can enjoy the simplicity and affordability of Solve CRM while also benefiting from the advanced features of Salesforce. They can also solve a number of problems associated with using different CRM platforms. If you are considering integrating Solve CRM and Salesforce, it is important to work with an experienced team of developers to ensure a smooth integration process."
 image: /assets/images/articles/people-sitting-near-table.webp

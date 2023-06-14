@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/moodle
 author: Edward Saunders
 title: "Integrating Google Groups with Moodle"
+topic: System Integration
 leadhead: "The integration of Google Groups with Moodle is a powerful combination that can help simplify course management and improve overall student engagement"
 leadtext: "By providing a centralized platform for all course related communication, both teachers and students will have an easier time navigating the course. We encourage educators to explore the possibility of integrating Google Groups and Moodle to create a better learning experience for their students."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-ads/expensify
 author: Edward Saunders
 title: "Google Ads and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of Google Ads and Expensify can provide significant benefits to businesses looking to streamline their advertising and financial management processes"
 leadtext: "By automating the process of tracking expenses and providing real-time data, businesses can make better decisions and allocate budgets more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

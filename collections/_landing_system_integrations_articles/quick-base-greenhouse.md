@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/greenhouse
 author: Edward Saunders
 title: "Quick Base and Greenhouse Integration: Solving Recruitment Woes"
+topic: System Integration
 leadhead: "The integration of Quick Base and Greenhouse through API or SDK has significant benefits for organizations"
 leadtext: "By combining the strengths of both platforms, organizations can streamline their recruitment process, improve the candidate experience, and reduce manual labor. The automation of workflows and improved data visibility create better insights into operations and progress. Ultimately, integration provides better control to organizations to achieve their recruitment goals."
 image: /assets/images/articles/people-sitting-near-table.webp

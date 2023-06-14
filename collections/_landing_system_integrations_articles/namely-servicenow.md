@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/servicenow
 author: Edward Saunders
 title: "How Namely and ServiceNow integration can benefit your HR department"
+topic: System Integration
 leadhead: "The integration of Namely and ServiceNow can benefit HR departments in a number of ways"
 leadtext: "By eliminating duplicate data entry, improving record-keeping, and automating workflows, HR departments can become more efficient and productive. Whether you choose to integrate the platforms using APIs or SDKs, the end result will likely be a more streamlined HR department that can better serve your employees."
 image: /assets/images/articles/people-sitting-near-table.webp

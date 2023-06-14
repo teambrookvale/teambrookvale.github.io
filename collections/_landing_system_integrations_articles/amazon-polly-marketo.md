@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/marketo
 author: Edward Saunders
 title: "Amazon Polly and Marketo Integration: A Powerful Solution"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Marketo provides a powerful solution for businesses looking to create engaging and accessible marketing content"
 leadtext: "By automating the process of generating voice recordings and integrating them with Marketo's marketing campaigns, businesses can improve their reach, engagement, and ROI. This integration is a testament to the power and potential of API and SDK integrations in improving marketing automation and personalization."
 image: /assets/images/articles/people-sitting-near-table.webp

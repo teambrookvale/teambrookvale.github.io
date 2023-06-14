@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/pinterest
 author: Edward Saunders
 title: "The Benefits of Integrating LinkedIn Ads and Pinterest through API"
+topic: System Integration
 leadhead: "LinkedIn Ads and Pinterest offer unique advantages to businesses looking to expand their reach and attract new customers"
 leadtext: "By leveraging the power of LinkedIn Ads and Pinterest through integration, businesses can achieve their marketing goals more efficiently and effectively. With the many benefits of integrating these two platforms through API or SDK, businesses can take their advertising campaigns to the next level and increase their overall ROI."
 image: /assets/images/articles/people-sitting-near-table.webp

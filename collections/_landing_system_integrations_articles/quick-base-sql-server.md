@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/sql-server
 author: Edward Saunders
 title: "Integration of Quick Base and SQL Server"
+topic: System Integration
 leadhead: "The integration of Quick Base and SQL Server through API or SDK can bring significant benefits to your business, solving problems such as data accuracy, data manipulation, and data sharing"
 leadtext: "With the ability to create custom applications and dashboards, automate data transfers, and facilitate complex data queries, businesses can streamline their operations and make better decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

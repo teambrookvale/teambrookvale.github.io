@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/marketo
 author: Edward Saunders
 title: "Expensify and Marketo Integration - A Seamless Solution"
+topic: System Integration
 leadhead: "The integration between Expensify and Marketo is a seamless solution that helps businesses automate their processes, improve efficiency, and increase accuracy"
 leadtext: "By leveraging the power of API or SDK integration, businesses can eliminate manual data entry tasks and have access to real-time data on expenses. This helps with decision making and allows businesses to make informed decisions on their marketing activities."
 image: /assets/images/articles/people-sitting-near-table.webp

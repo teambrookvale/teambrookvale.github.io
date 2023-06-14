@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/zendesk
 author: Edward Saunders
 title: "Integrating Amazon EC2 and Zendesk"
+topic: System Integration
 leadhead: "The integration of Amazon EC2 and Zendesk is a robust solution that can help businesses streamline their processes and enhance their overall customer service experience"
 leadtext: "The integration through APIs or SDKs provides a reliable, scalable, and cost-effective solution for businesses and can help them improve their bottom lines. If you're looking for a way to improve your business's customer service offerings, the integration of Amazon EC2 and Zendesk is undoubtedly worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

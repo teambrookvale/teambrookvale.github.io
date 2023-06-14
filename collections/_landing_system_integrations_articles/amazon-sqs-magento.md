@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/magento
 author: Edward Saunders
 title: "Integration of Amazon SQS and Magento"
+topic: System Integration
 leadhead: "In conclusion, integrating Amazon SQS and Magento helps retailers handle large volumes of orders without compromising the efficiency of order fulfilment"
 leadtext: "This integration benefits both retailers and customers, as it can reduce costs, increase profits and ensure timely delivery of orders. Retailers can also save cost by avoiding long-term investments in hardware and infrastructure. Customers will be happy to see timely delivery and accurate order fulfilment."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-dynamodb/chargify
 author: Edward Saunders
 title: "Integrating Amazon DynamoDB and Chargify using API or SDK"
+topic: System Integration
 leadhead: "The integration of Amazon DynamoDB and Chargify using the SDK or API provides a reliable and secure solution for managing subscriptions and billing for businesses"
 leadtext: "The combination of DynamoDB's scalability, low-latency performance, and the Chargify API for billing and subscription management helps businesses to automate their billing process, reduce manual errors, and increase customer satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

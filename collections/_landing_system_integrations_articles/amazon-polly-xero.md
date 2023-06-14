@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/xero
 author: Edward Saunders
 title: "Integrating Amazon Polly and Xero"
+topic: System Integration
 leadhead: "In conclusion, Amazon Polly and Xero are two amazing technologies that when integrated, provide immense value to businesses"
 leadtext: "The integration solves real-world problems faced by many businesses. Therefore, if you’re running a business, it’s recommended that you integrate these two technologies and make your services more efficient, accessible, and user-friendly."
 image: /assets/images/articles/people-sitting-near-table.webp

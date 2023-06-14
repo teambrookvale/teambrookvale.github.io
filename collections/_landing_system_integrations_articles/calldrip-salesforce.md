@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/salesforce
 author: Edward Saunders
 title: "Benefits of Integrating Calldrip with Salesforce"
+topic: System Integration
 leadhead: "Integrating Calldrip with Salesforce through the available SDK or API is an ideal approach to managing leads and sales processes in businesses"
 leadtext: "The integration provides an efficient and effective way to manage leads and customer data in a centralized platform. With Calldrip and Salesforce integration, sales teams can track leads, nurture prospects, and take advantage of lead conversions."
 image: /assets/images/articles/people-sitting-near-table.webp

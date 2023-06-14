@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pinterest/paypal
 author: Edward Saunders
 title: "Pinterest and PayPal Integration"
+topic: System Integration
 leadhead: "Integrating Pinterest and PayPal can make the checkout process easier for both businesses and customers"
 leadtext: "By enabling customers to make purchases using PayPal, you can simplify the checkout process and increase conversions. Pinterest's rich pins can also help showcase your products and drive traffic to your website. If you're an e-commerce business owner, you should consider integrating Pinterest and PayPal to improve your checkout process."
 image: /assets/images/articles/people-sitting-near-table.webp

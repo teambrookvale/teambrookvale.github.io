@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/twitter
 author: Edward Saunders
 title: "Quick Base and Twitter Integration"
+topic: System Integration
 leadhead: "The integration of Quick Base and Twitter can offer numerous benefits, from improving productivity to providing valuable insights"
 leadtext: "By leveraging an API or SDK, businesses can automate tasks and centralize their social media management, streamlining operations and providing a better customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

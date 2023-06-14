@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of Magento 2.X and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and SugarCRM 6.2-5 offers businesses a seamless way to manage their sales and customer relationships"
 leadtext: "By reducing manual data entry tasks, businesses can save valuable time and resources, which can be directed towards other important aspects of their businesses. Additionally, the integration helps businesses make more informed decisions by providing them with a complete view of their customers and sales metrics."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/expensify
 author: Edward Saunders
 title: "SugarCRM and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM and Expensify using API or SDK provides a solution that benefits the financial and customer management of businesses"
 leadtext: "It helps them to simplify their processes and get a better understanding of customer needs and interests, leading to improvements in their interactions with customers."
 image: /assets/images/articles/people-sitting-near-table.webp

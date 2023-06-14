@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/paypal
 author: Edward Saunders
 title: "Marketo and PayPal Integration - Streamlining Your Marketing and Payment Processes"
+topic: System Integration
 leadhead: "The integration of Marketo and PayPal is a powerful tool for online businesses looking to streamline their marketing and payment processes"
 leadtext: "By automating these processes and providing a seamless experience for both you and your customers, you can save time, improve your marketing strategies, and provide a better customer experience overall."
 image: /assets/images/articles/people-sitting-near-table.webp

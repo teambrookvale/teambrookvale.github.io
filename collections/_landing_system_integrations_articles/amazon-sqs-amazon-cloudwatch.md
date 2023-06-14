@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/amazon-cloudwatch
 author: Edward Saunders
 title: "Integrating Amazon SQS and Amazon CloudWatch"
+topic: System Integration
 leadhead: "Integrating Amazon SQS and Amazon CloudWatch helps in monitoring and managing your applications, resources, and services more effectively"
 leadtext: "With this integration, you can identify and address any issues before they impact your customers, ensuring a seamless user experience."
 image: /assets/images/articles/people-sitting-near-table.webp

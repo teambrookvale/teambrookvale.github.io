@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/mysql
 author: Edward Saunders
 title: "Integration of Magento and MySQL through API or SDK"
+topic: System Integration
 leadhead: "The integration of Magento and MySQL through API or SDK is a powerful tool for businesses looking to improve their e-commerce operations"
 leadtext: "By integrating these two systems, businesses can streamline data management, improve scalability, and enhance security, all of which can help drive growth and improve the customer experience. If you're looking to take your e-commerce operations to the next level, consider integrating Magento and MySQL through API or SDK."
 image: /assets/images/articles/people-sitting-near-table.webp

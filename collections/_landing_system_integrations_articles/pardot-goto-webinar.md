@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/goto-webinar
 author: Edward Saunders
 title: "Integration of Pardot and GoTo Webinar through API/SDK"
+topic: System Integration
 leadhead: "The integration of Pardot and GoTo Webinar through API or SDK is a powerful solution for businesses that want to improve their marketing and sales efforts"
 leadtext: "This integration enables businesses to attract more attendees to their webinars, generate better leads, and optimize their marketing campaigns. By leveraging the power of these two marketing tools, businesses can take their marketing and sales efforts to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

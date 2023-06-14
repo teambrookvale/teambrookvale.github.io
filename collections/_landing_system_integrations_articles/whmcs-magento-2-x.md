@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/magento-2-x
 author: Edward Saunders
 title: "WHMCS and Magento 2.X Integration: Solving Problems Together"
+topic: System Integration
 leadhead: "The integration of WHMCS and Magento 2.X is essential for eCommerce businesses"
 leadtext: "It simplifies the billing and invoicing process and ensures timely payments from clients. It also helps business owners manage their inventory and orders efficiently, reducing the chances of errors and delays. With this integration, business owners can focus on scaling their businesses and providing the best possible experience to their clients."
 image: /assets/images/articles/people-sitting-near-table.webp

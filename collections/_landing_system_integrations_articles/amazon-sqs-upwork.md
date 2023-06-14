@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/upwork
 author: Edward Saunders
 title: "Integration of Amazon SQS and Upwork"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Upwork is an excellent solution for businesses and freelancers that want more efficient communication"
 leadtext: "It simplifies workflows, decreases communication delays, and leads to a faster turnaround time for projects. By using API or SDK, this integration is straightforward to implement and offers numerous benefits for freelancers and businesses alike."
 image: /assets/images/articles/people-sitting-near-table.webp

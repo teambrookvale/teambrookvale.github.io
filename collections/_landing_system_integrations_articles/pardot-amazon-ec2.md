@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/amazon-ec2
 author: Edward Saunders
 title: "Pardot and Amazon EC2 Integration"
+topic: System Integration
 leadhead: "The integration of Pardot and Amazon EC2 offers a powerful solution for businesses looking to automate their marketing processes and improve their IT infrastructure"
 leadtext: "By leveraging the APIs and SDKs of these platforms, businesses can reduce costs, improve scalability, streamline processes, and enhance security. It's an innovative solution that's changing the way businesses approach marketing automation and IT infrastructure."
 image: /assets/images/articles/people-sitting-near-table.webp

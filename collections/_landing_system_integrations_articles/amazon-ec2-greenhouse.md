@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/greenhouse
 author: Edward Saunders
 title: "Integration of Amazon EC2 and Greenhouse through API/SDK | Solution Benefits"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and Greenhouse through API/SDK provides organizations with powerful new capabilities to help automate their recruitment process and streamline workflows"
 leadtext: "This integration can help employers to save time, reduce errors, and better focus on developing recruitment strategies and engaging with candidates. No matter how big or small your business is, this integration can make a big difference in your ability to recruit top talent."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/upwork/sql-server
 author: Edward Saunders
 title: "Upwork and SQL Server Integration"
+topic: System Integration
 leadhead: "The integration of Upwork and SQL Server through API or SDK is a powerful solution for businesses seeking to streamline their processes and improve data management"
 leadtext: "By automating the process of tracking and managing freelancers, businesses can focus on core activities while also reducing the potential for errors or data inconsistencies."
 image: /assets/images/articles/people-sitting-near-table.webp

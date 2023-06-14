@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/twitter
 author: Edward Saunders
 title: "Integrating Amazon SQS and Twitter"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and Twitter can provide developers and businesses with a scalable, decoupled, and cost-effective infrastructure for handling tweet data"
 leadtext: "By leveraging Amazon SQS's managed message queuing service and Twitter's APIs, developers can build sophisticated applications that monitor, analyze, and react to tweet data in real-time. Whether you're a social media analyst or a developer building real-time applications, Amazon SQS and Twitter's integration can help you achieve your goals."
 image: /assets/images/articles/people-sitting-near-table.webp

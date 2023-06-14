@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/moodle/sugarcrm-7-
 author: Edward Saunders
 title: "Integration of Moodle and SugarCRM 7+"
+topic: System Integration
 leadhead: "The integration of Moodle and SugarCRM is an effective way to enhance the learning experience and customer relationship management for respective industries"
 leadtext: "Through the use of an API or SDK, the two platforms can interact seamlessly, allowing for a 360-degree view of student and customer data. It's a valuable investment that can bring many benefits to educators, businesses, and overall learner satisfaction."
 image: /assets/images/articles/people-sitting-near-table.webp

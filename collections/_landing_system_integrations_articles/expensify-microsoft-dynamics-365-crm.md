@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating Expensify with Microsoft Dynamics 365 CRM | Blog Post"
+topic: System Integration
 leadhead: "Integrating Expensify with Microsoft Dynamics 365 CRM is a strategic move for businesses looking to streamline their financial management and customer engagement processes"
 leadtext: "The integration provides real-time visibility into customer interactions and financials, eliminating the need for manual data entry and increasing productivity. With the help of API or SDK integration, businesses can build custom integrations that meet their unique needs."
 image: /assets/images/articles/people-sitting-near-table.webp

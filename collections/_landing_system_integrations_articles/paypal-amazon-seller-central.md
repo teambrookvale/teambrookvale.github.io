@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/amazon-seller-central
 author: Edward Saunders
 title: "PayPal and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "Overall, integrating PayPal and Amazon Seller Central through API or SDK is a smart move for businesses looking to streamline their payment and order management processes"
 leadtext: "With improved efficiency and customer satisfaction, businesses can focus on growing their sales and achieving their goals."
 image: /assets/images/articles/people-sitting-near-table.webp

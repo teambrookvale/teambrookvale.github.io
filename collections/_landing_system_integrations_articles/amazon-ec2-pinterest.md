@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/pinterest
 author: Edward Saunders
 title: "Amazon EC2 and Pinterest Integration"
+topic: System Integration
 leadhead: "Integrating Amazon EC2 and Pinterest through API or SDK tools can offer a number of benefits to developers and end-users alike"
 leadtext: "By leveraging Amazon's scalable infrastructure, Pinterest can ensure a high-quality user experience at all times. Meanwhile, developers can use Pinterest data to create new applications that can help them better understand their customers' needs and preferences."
 image: /assets/images/articles/people-sitting-near-table.webp

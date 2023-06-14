@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/sql-server
 author: Edward Saunders
 title: "Integration of Twitter and SQL Server"
+topic: System Integration
 leadhead: "The integration of Twitter and SQL Server can help businesses make more informed decisions, save time, and improve their social media strategy"
 leadtext: "By using APIs or SDKs, businesses can create custom solutions that fit their unique needs. If you're looking to get more value from your Twitter account, consider integrating it with SQL Server."
 image: /assets/images/articles/people-sitting-near-table.webp

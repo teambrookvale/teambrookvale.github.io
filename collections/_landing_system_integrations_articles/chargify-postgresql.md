@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/postgresql
 author: Edward Saunders
 title: "Integrating Chargify and PostgreSQL: A Perfect Match"
+topic: System Integration
 leadhead: "Integrating Chargify and PostgreSQL is a no brainer for businesses who want to streamline their billing and subscription management processes"
 leadtext: "With the right API or SDK, it is straightforward to extract data from Chargify and store it in PostgreSQL, allowing the business to leverage the powerful querying capabilities of the database. This integration also offers financial benefits since PostgreSQL is an open-source database and doesn't require expensive licensing fees. In conclusion, the combination of Chargify and PostgreSQL is a perfect match for businesses who want to grow efficiently while minimizing costs."
 image: /assets/images/articles/people-sitting-near-table.webp

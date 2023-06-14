@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/zoho-crm
 author: Edward Saunders
 title: "Expensify and Zoho CRM Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Zoho CRM brings many benefits to businesses"
 leadtext: "It enables businesses to streamline their expense management and customer relationship management processes. With integration available through API or SDK, it is easy for businesses to set up and manage the integration. Overall, businesses can gain significant insights into customer acquisition and retention by integrating Expensify and Zoho CRM."
 image: /assets/images/articles/people-sitting-near-table.webp

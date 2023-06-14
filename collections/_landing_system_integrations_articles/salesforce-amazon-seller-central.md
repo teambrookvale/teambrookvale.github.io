@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/amazon-seller-central
 author: Edward Saunders
 title: "How Integration of Salesforce and Amazon Seller Central through API/SDK Solves Business Problems"
+topic: System Integration
 leadhead: "The integration of Salesforce and Amazon Seller Central through API or SDK provides companies with numerous benefits, such as improved efficiency and accuracy in data management, targeted marketing campaigns, and better inventory management"
 leadtext: "Salesforce and Amazon Seller Central’s capabilities are enhanced by their integration, with valuable insights gained from customer data, leading to greater sales and profits."
 image: /assets/images/articles/people-sitting-near-table.webp

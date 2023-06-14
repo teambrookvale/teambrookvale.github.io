@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/google-groups
 author: Edward Saunders
 title: "Integration of MySQL and Google Groups"
+topic: System Integration
 leadhead: "The integration of MySQL and Google Groups provides an efficient way to manage data and communication in web applications"
 leadtext: "By using APIs or SDKs, developers can create a seamless integration between these two tools, streamlining workflows and automating tasks. The benefits of this integration make it a valuable resource for developers seeking to improve their web application development process."
 image: /assets/images/articles/people-sitting-near-table.webp

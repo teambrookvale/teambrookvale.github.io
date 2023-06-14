@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/amazon-s3
 author: Edward Saunders
 title: "Quick Base and Amazon S3 Integration"
+topic: System Integration
 leadhead: "Quick Base and Amazon S3 integration provides businesses with a powerful data management solution that streamlines workflows, enhances security, enables collaboration, and supports growth"
 leadtext: "With the right API or SDK integration, businesses can leverage Quick Base's custom application development capabilities and Amazon S3's scalable cloud storage infrastructure to solve complex data management challenges cost-effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/solve-crm
 author: Edward Saunders
 title: "PayPal and Solve CRM Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Solve CRM offers many benefits for businesses of all sizes"
 leadtext: "It improves efficiency, automates processes, and enhances customer experience. With an easy-to-use API or SDK, businesses can seamlessly integrate these two powerful tools and take their customer management to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

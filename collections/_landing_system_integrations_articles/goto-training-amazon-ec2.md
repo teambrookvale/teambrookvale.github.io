@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/amazon-ec2
 author: Edward Saunders
 title: "GoTo Training and Amazon EC2 Integration for Efficient Training"
+topic: System Integration
 leadhead: "In conclusion, the integration of GoTo Training and Amazon EC2 provides a powerful toolset for businesses to efficiently deliver remote training"
 leadtext: "The combination of these two platforms allows businesses to take advantage of the scalability and cost-effectiveness of the cloud while delivering high-quality training to their employees. If you're looking for a way to deliver remote training, or if you need to scale your computing resources, consider using GoTo Training and Amazon EC2 together."
 image: /assets/images/articles/people-sitting-near-table.webp

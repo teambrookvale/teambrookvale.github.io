@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/webhooks-by-zapier
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads with Webhooks by Zapier"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads with Webhooks by Zapier can improve your lead generation strategy by automating the transfer of data from Facebook to other marketing, email, CRM, or automation platforms"
 leadtext: "It's simple, effective, and can save you time and effort. If you're not using these tools, I highly recommend you give them a try."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/sugarcrm-6-2-5
 author: Edward Saunders
 title: "Integration of AWS Lambda and SugarCRM 6.2-5"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and SugarCRM 6.2-5 provides businesses with a powerful toolset for automating their business processes and scaling their operations"
 leadtext: "By leveraging the AWS Lambda event-driven architecture and the SugarCRM REST API, businesses can create workflows that reduce manual intervention and increase efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

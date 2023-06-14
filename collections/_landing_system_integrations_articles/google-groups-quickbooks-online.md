@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-groups/quickbooks-online
 author: Edward Saunders
 title: "Google Groups and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "The integration of Google Groups and QuickBooks Online through API or SDK can be a powerful tool for businesses"
 leadtext: "It can improve communication, save time, and reduce errors, all of which can help businesses improve their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

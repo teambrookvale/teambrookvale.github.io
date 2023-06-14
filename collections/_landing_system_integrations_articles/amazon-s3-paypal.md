@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-s3/paypal
 author: Edward Saunders
 title: "Amazon S3 and PayPal Integration"
+topic: System Integration
 leadhead: "The integration of Amazon S3 and PayPal provides businesses with a powerful solution for managing customer data and payments"
 leadtext: "It enables businesses to securely store and manage customer information while also providing a secure and convenient way to process payments. With this integration, businesses can focus on growing their business while leaving the data and payment management to the experts."
 image: /assets/images/articles/people-sitting-near-table.webp

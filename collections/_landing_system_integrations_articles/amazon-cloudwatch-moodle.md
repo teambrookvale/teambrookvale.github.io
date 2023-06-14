@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/moodle
 author: Edward Saunders
 title: "Using Amazon CloudWatch and Moodle together"
+topic: System Integration
 leadhead: "In conclusion, the integration of Amazon CloudWatch and Moodle provides numerous benefits for educators and their students"
 leadtext: "This integration enables you to monitor the performance of your Moodle application, proactively identify and address performance issues, and track student progress. With this integration, you can provide students with a seamless learning experience and ensure that they have access to course materials whenever they need them."
 image: /assets/images/articles/people-sitting-near-table.webp

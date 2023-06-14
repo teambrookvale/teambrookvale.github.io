@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/mysql
 author: Edward Saunders
 title: "Integration of Instagram Lead Ads and MySQL"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and MySQL is a powerful tool that can help businesses reach highly-targeted audiences, capture, store and manage leads, and build more meaningful relationships with their customers"
 leadtext: "By automating the process, businesses can save time and effort, and focus on other essential tasks. With valuable insights into their target audience's behavior and preferences, businesses can optimize ad campaigns and improve ROI, resulting in a more successful business."
 image: /assets/images/articles/people-sitting-near-table.webp

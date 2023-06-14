@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/google-bigquery/twitter
 author: Edward Saunders
 title: "Integrating Google BigQuery and Twitter to Solve Problems"
+topic: System Integration
 leadhead: "The integration of Google BigQuery and Twitter provides organizations with valuable insights into their business operations, customer behavior, and market trends"
 leadtext: "With a better understanding of customer sentiment and behavior, organizations can make data-driven decisions that lead to improved business outcomes."
 image: /assets/images/articles/people-sitting-near-table.webp

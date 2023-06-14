@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-webinar/microsoft-dynamics-365-crm
 author: Edward Saunders
 title: "Integrating GoToWebinar and Microsoft Dynamics 365 CRM"
+topic: System Integration
 leadhead: "The integration between GoToWebinar and Microsoft Dynamics 365 CRM is a powerful tool for businesses looking to improve their digital marketing strategies and customer relationships"
 leadtext: "By automating key processes and providing powerful insights into customer engagement, businesses can make more informed decisions and provide a better experience for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

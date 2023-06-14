@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/chargify
 author: Edward Saunders
 title: "Integration of Pardot and Chargify: Solving Business Problems"
+topic: System Integration
 leadhead: "The integration of Pardot and Chargify can bring significant benefits to businesses looking to improve their marketing and payment processes"
 leadtext: "By streamlining the customer journey, reducing manual data entry, and improving customer retention, businesses can increase their revenue and grow their customer base."
 image: /assets/images/articles/people-sitting-near-table.webp

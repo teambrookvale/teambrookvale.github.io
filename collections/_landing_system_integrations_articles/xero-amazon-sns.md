@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/amazon-sns
 author: Edward Saunders
 title: "Integration of Xero and Amazon SNS"
+topic: System Integration
 leadhead: "The integration of Xero and Amazon SNS through API or SDK can bring multiple benefits to businesses, including real-time notifications, efficient accounting system, and improved financial management"
 leadtext: "It can help businesses stay on top of their finances, make informed decisions, and achieve their financial goals."
 image: /assets/images/articles/people-sitting-near-table.webp

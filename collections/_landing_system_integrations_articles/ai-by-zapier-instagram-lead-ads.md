@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/ai-by-zapier/instagram-lead-ads
 author: Edward Saunders
 title: "Integrating AI by Zapier with Instagram Lead Ads"
+topic: System Integration
 leadhead: "In today's fast-paced world, AI and automation are critical tools for businesses"
 leadtext: "Integrating AI by Zapier with Instagram Lead Ads is a powerful way to streamline your marketing and lead generation efforts. It's easy to set up, and it delivers results. So, if you're looking for a way to optimize your marketing, increase productivity, and maximize profitability, look no further than the integration of AI by Zapier with Instagram Lead Ads."
 image: /assets/images/articles/people-sitting-near-table.webp

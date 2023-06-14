@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/google-ads
 author: Edward Saunders
 title: "Integrating Shopify and Google Ads for E-commerce Success"
+topic: System Integration
 leadhead: "Integrating Shopify and Google Ads leverages the strengths of each platform for businesses to achieve their marketing goals more effectively and efficiently"
 leadtext: "With Shopify's user-friendly e-commerce tools and Google Ads' advertising capabilities, businesses can reach their target audience, increase sales, and measure their success through relevant metrics. It's a win-win for e-commerce players seeking to enhance their online presence and revenue streams."
 image: /assets/images/articles/people-sitting-near-table.webp

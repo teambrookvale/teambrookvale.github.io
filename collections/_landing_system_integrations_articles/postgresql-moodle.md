@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/moodle
 author: Edward Saunders
 title: "Integrating PostgreSQL and Moodle: An API/SDK Approach"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Moodle through an API or SDK approach is a powerful tool for educational institutions looking to leverage the benefits of both systems"
 leadtext: "It allows for centralized data management, minimizes the risk of data loss or corruption, and streamlines the assessment process. By adopting this approach, educational institutions can create a unified platform that enhances the learning experience for students and improves administrative efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

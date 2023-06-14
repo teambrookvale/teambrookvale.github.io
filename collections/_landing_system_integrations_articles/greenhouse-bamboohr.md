@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/bamboohr
 author: Edward Saunders
 title: "Greenhouse and BambooHR Integration"
+topic: System Integration
 leadhead: "Greenhouse and BambooHR are two powerful systems used by companies for managing their recruitment and employee data"
 leadtext: "Integration of the two systems through API or SDK simplifies the process of managing employee data and provides a comprehensive solution for managing employee lifecycle. This integration helps companies to save time, reduce errors and make informed decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

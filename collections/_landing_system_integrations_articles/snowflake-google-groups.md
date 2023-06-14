@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/google-groups
 author: Edward Saunders
 title: "Integrating Snowflake with Google Groups"
+topic: System Integration
 leadhead: "The integration of Snowflake and Google Groups is an important step towards improved data management and collaboration in organizations"
 leadtext: "By integrating Snowflake with Google Groups, organizations can benefit from efficient group communication and collaborative data management."
 image: /assets/images/articles/people-sitting-near-table.webp

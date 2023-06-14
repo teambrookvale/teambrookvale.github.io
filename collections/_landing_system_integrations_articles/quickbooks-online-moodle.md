@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quickbooks-online/moodle
 author: Edward Saunders
 title: "The Benefits of Integrating QuickBooks Online and Moodle"
+topic: System Integration
 leadhead: "The integration of QuickBooks Online and Moodle is a valuable tool for businesses and organizations"
 leadtext: "It allows for better financial management, reduces the risk of errors, and saves time. Additionally, the integration can be tailored to meet the specific needs of the business or organization, making it even more valuable. So, if you haven't already, consider integrating QuickBooks Online and Moodle today!"
 image: /assets/images/articles/people-sitting-near-table.webp

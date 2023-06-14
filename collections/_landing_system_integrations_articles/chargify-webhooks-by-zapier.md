@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/webhooks-by-zapier
 author: Edward Saunders
 title: "How Chargify and Webhooks by Zapier Integration can Solve Your Business Problems"
+topic: System Integration
 leadhead: "The integration of Chargify and Webhooks by Zapier can offer businesses an efficient and automated way of managing their subscription-related tasks"
 leadtext: "It can help businesses enhance their subscription management process by automating tasks such as payment failure handling and real-time subscription analytics."
 image: /assets/images/articles/people-sitting-near-table.webp

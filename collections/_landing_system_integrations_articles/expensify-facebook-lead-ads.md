@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/facebook-lead-ads
 author: Edward Saunders
 title: "Expensify and Facebook Lead Ads Integration"
+topic: System Integration
 leadhead: "The integration of Expensify and Facebook Lead Ads through API or SDK is a powerful solution for businesses and individuals who want to streamline their expense and lead management processes"
 leadtext: "By automating the transfer of data between the two platforms, users can save time, reduce errors and improve their overall business performance."
 image: /assets/images/articles/people-sitting-near-table.webp

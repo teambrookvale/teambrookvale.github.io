@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/paypal/expensify
 author: Edward Saunders
 title: "PayPal and Expensify Integration"
+topic: System Integration
 leadhead: "The integration of PayPal and Expensify through API or SDK helps businesses streamline their payment and expense reporting processes"
 leadtext: "It eliminates manual data entry and errors, makes expense reporting more accurate and reliable, and provides additional visibility and control over expenses for better financial management. Overall, this integration is a win-win for businesses looking to save time and effort on their expenses."
 image: /assets/images/articles/people-sitting-near-table.webp

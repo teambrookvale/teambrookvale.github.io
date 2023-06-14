@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/twitter/keap-max-classic
 author: Edward Saunders
 title: "Twitter and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of Twitter and Keap Max Classic is a powerful tool for businesses to manage their customer engagement and automate their marketing processes"
 leadtext: "By leveraging the APIs and SDKs of these two technologies, developers can create custom integrations that meet the unique needs of their businesses. With this integration, businesses can stay ahead of the competition and deliver exceptional customer experiences."
 image: /assets/images/articles/people-sitting-near-table.webp

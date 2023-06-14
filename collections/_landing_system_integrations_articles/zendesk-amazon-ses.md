@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/amazon-ses
 author: Edward Saunders
 title: "Zendesk and Amazon SES Integration"
+topic: System Integration
 leadhead: "Zendesk and Amazon SES offer a seamless integration that can be used by businesses of any size to enhance their customer support experience"
 leadtext: "By using the API and SDK provided by Amazon SES, businesses can send emails more efficiently from Zendesk without any delays or issues with deliverability. The combination of Zendesk and Amazon SES using their respective APIs and SDKs is a must-have for any business that wants to provide excellent customer support while minimizing costs and enhancing automation."
 image: /assets/images/articles/people-sitting-near-table.webp

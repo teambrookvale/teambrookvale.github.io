@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/amazon-seller-central
 author: Edward Saunders
 title: "The Benefits of Integrating Xero and Amazon Seller Central"
+topic: System Integration
 leadhead: "The integration of Xero and Amazon Seller Central is an excellent way for businesses to streamline their financial and sales operations"
 leadtext: "By automating the process of data entry and providing businesses with a more complete view of their financial data, the integration can help businesses save time, reduce errors, and make better decisions. Its time that businesses start considering the integration of these two tools."
 image: /assets/images/articles/people-sitting-near-table.webp

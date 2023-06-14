@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/quick-base
 author: Edward Saunders
 title: "Salesforce & Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of Salesforce and Quick Base provides businesses with an added advantage of streamlined processes, increased productivity, and cost savings"
 leadtext: "It's crucial to ensure that you integrate the two applications correctly, and your data is secure. So, carefully consider the integration strategy and solutions before implementation."
 image: /assets/images/articles/people-sitting-near-table.webp

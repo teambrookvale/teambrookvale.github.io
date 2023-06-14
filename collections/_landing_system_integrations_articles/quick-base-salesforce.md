@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/quick-base/salesforce
 author: Edward Saunders
 title: "Integrating Quick Base and Salesforce: A Seamless Solution"
+topic: System Integration
 leadhead: "The integration of Quick Base and Salesforce offers a powerful solution that streamlines business processes, reduces manual tasks, and enables teams to communicate more effectively"
 leadtext: "With both platforms' APIs and SDKs, the integration is a seamless process that can be carried out in a matter of minutes. In today's fast-paced business environment, seamless software applications integration is essential to achieving success and increasing productivity."
 image: /assets/images/articles/people-sitting-near-table.webp

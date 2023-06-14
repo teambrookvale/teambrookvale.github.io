@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/whmcs
 author: Edward Saunders
 title: "Integration of Solve CRM and WHMCS"
+topic: System Integration
 leadhead: "The integration of Solve CRM and WHMCS offers a powerful solution for businesses looking to optimize their customer interactions, streamline their operations, and gain a deeper insight into their business processes"
 leadtext: "Whether through an API or SDK integration, organizations can enjoy the many benefits of these two powerful software platforms working together."
 image: /assets/images/articles/people-sitting-near-table.webp

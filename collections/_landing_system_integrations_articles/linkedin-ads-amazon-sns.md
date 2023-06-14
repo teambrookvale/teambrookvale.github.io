@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/amazon-sns
 author: Edward Saunders
 title: "LinkedIn Ads and Amazon SNS Integration"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Amazon SNS through API or SDK is a powerful tool that can help businesses reach a wider audience and engage with potential customers more effectively"
 leadtext: "By targeting the right audience with LinkedIn Ads and delivering real-time messages through Amazon SNS, businesses can increase conversions and grow their customer base."
 image: /assets/images/articles/people-sitting-near-table.webp

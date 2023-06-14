@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/evernote-business/amazon-cloudfront
 author: Edward Saunders
 title: "Evernote Business and Amazon CloudFront: A Powerful Integration"
+topic: System Integration
 leadhead: "The integration of Evernote Business and Amazon CloudFront is a game-changer for businesses looking to enhance their productivity and efficiency"
 leadtext: "By using API or SDK, businesses can seamlessly connect the two platforms, allowing for efficient storage, fast performance, and easy collaboration across different devices and locations."
 image: /assets/images/articles/people-sitting-near-table.webp

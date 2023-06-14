@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/amazon-dynamodb
 author: Edward Saunders
 title: "Integration of WHMCS and Amazon DynamoDB"
+topic: System Integration
 leadhead: "Overall, the integration of WHMCS and Amazon DynamoDB through API or SDK provides web hosting companies with a more efficient and scalable billing system that can help them to save time and reduce errors"
 leadtext: "By automating tasks such as payment processing and customer management, web hosting companies can focus on growing their business and providing a better customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

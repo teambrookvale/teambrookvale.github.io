@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-seller-central/quick-base
 author: Edward Saunders
 title: "Amazon Seller Central and Quick Base Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Seller Central and Quick Base can help e-commerce businesses streamline their operations, reduce errors, and boost revenue"
 leadtext: "Whether you're a small startup or a large corporation, this integration can transform the way you manage your Amazon sales data. So if you're struggling to keep up with the demands of selling on Amazon, consider integrating Amazon Seller Central and Quick Base today."
 image: /assets/images/articles/people-sitting-near-table.webp

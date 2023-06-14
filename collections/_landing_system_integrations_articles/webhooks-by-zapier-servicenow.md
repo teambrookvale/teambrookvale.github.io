@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/webhooks-by-zapier/servicenow
 author: Edward Saunders
 title: "Using Webhooks by Zapier to Integrate ServiceNow with API/SDK"
+topic: System Integration
 leadhead: "The integration of ServiceNow with Webhooks by Zapier through API/SDK is a powerful tool that can aid in the efficient functioning of ServiceNow as an IT tool"
 leadtext: "With this integration, the communication between web apps and ServiceNow is almost magical as the information and data processing become automated and more efficient."
 image: /assets/images/articles/people-sitting-near-table.webp

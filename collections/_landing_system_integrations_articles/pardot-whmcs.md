@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/whmcs
 author: Edward Saunders
 title: "Pardot and WHMCS Integration"
+topic: System Integration
 leadhead: "Integrating Pardot and WHMCS can help businesses automate various processes, save time and money, and provide a seamless experience to their customers"
 leadtext: "With the help of APIs or SDKs, businesses can easily synchronize their data and streamline their operations. Pardot and WHMCS are two powerful applications on their own, but their integration can take businesses to the next level."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/google-bigquery
 author: Edward Saunders
 title: "The Power of Integrating GoTo Training and Google BigQuery"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Google BigQuery offers a powerful solution to the challenges that come with processing and analyzing large amounts of data"
 leadtext: "It allows for more efficient and accurate insights into user behavior and program performance, leading to better decision making and optimization. With the increasing demand for online training programs, integrating these two platforms can prove to be a valuable asset for businesses and individuals alike."
 image: /assets/images/articles/people-sitting-near-table.webp

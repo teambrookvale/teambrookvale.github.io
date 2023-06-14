@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/marketo/pardot
 author: Edward Saunders
 title: "Marketo vs Pardot: Which One is Better? - Integrate with API/SDK"
+topic: System Integration
 leadhead: "Marketo and Pardot are both powerful marketing automation platforms that can help businesses streamline their marketing efforts"
 leadtext: "However, by integrating the two through API or SDK, businesses can take advantage of the strengths of both platforms and eliminate some of the inefficiencies that can arise when these tools exist in silos. Overall, integration can help businesses generate more leads, gain better insights into their marketing efforts, and ultimately achieve greater success."
 image: /assets/images/articles/people-sitting-near-table.webp

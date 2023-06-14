@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/keap-max-classic
 author: Edward Saunders
 title: "Xero and Keap Max Classic Integration"
+topic: System Integration
 leadhead: "The integration of Xero and Keap Max Classic through API or SDK is a game-changer for businesses looking to streamline their operations and improve their customer experience"
 leadtext: "With the seamless sharing of data between the two systems, businesses can save time, reduce errors, and make better-informed decisions. If you are a business owner or financial professional, consider integrating Xero and Keap Max Classic for a more efficient and effective operation."
 image: /assets/images/articles/people-sitting-near-table.webp

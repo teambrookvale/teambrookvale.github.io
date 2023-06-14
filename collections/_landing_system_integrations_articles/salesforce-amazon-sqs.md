@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/amazon-sqs
 author: Edward Saunders
 title: "Integration of Salesforce and Amazon SQS"
+topic: System Integration
 leadhead: "Integrating Salesforce and Amazon SQS is essential for businesses that want to improve customer service and experience while reducing manual workload"
 leadtext: "The use of API or SDKs allow for seamless communication between the two platforms, providing businesses with real-time automated data transfer and easy monitoring of customer interactions. It is a great way to streamline workflows and stay on top of customer demands in today's fast-paced environment."
 image: /assets/images/articles/people-sitting-near-table.webp

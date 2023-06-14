@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ec2/whmcs
 author: Edward Saunders
 title: "Amazon EC2 and WHMCS Integration through API or SDK"
+topic: System Integration
 leadhead: "Amazon EC2 and WHMCS integration through API or SDK is an effective solution for automating the provisioning and billing of cloud-based services"
 leadtext: "By leveraging the capabilities of these two platforms, web hosting providers and other online businesses can improve their operational efficiency and customer experience."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/servicenow
 author: Edward Saunders
 title: "The Power of Integrating AWS Lambda and ServiceNow"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and ServiceNow is a powerful tool that can help enterprises manage their IT services in an efficient and streamlined manner"
 leadtext: "By enabling seamless communication, automating tasks, and providing a simple way to build custom applications, this integration can provide significant benefits to businesses of all sizes."
 image: /assets/images/articles/people-sitting-near-table.webp

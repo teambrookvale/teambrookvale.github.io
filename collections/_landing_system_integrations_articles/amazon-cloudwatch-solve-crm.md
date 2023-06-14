@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudwatch/solve-crm
 author: Edward Saunders
 title: "How Amazon CloudWatch and Solve CRM Integration add value to your business"
+topic: System Integration
 leadhead: "Integrating Amazon CloudWatch and Solve CRM can add value to your business by providing you with insights into your customer's behavior and the performance of your applications, resources, and services that run on AWS"
 leadtext: "The integration can help you get a holistic view of your business and automate processes. By doing so, you can save time and focus on growing your business."
 image: /assets/images/articles/people-sitting-near-table.webp

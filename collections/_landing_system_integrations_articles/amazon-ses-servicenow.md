@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/servicenow
 author: Edward Saunders
 title: "Integrating Amazon SES and ServiceNow"
+topic: System Integration
 leadhead: "Overall, integrating Amazon SES and ServiceNow is an effective way to improve communication and streamline workflows for businesses"
 leadtext: "With the ability to send and track emails directly from ServiceNow, businesses can ensure that messages are delivered quickly and efficiently. Additionally, the IT service and support ticket management system in ServiceNow allows businesses to resolve issues more efficiently, saving time and resources. The integration of the two platforms provides a cost-effective solution that can help businesses improve their operations and grow their bottom line."
 image: /assets/images/articles/people-sitting-near-table.webp

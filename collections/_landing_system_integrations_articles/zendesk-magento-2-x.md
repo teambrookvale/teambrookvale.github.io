@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zendesk/magento-2-x
 author: Edward Saunders
 title: "Zendesk and Magento 2.X Integration"
+topic: System Integration
 leadhead: "The integration of Zendesk and Magento 2.X provides businesses with a powerful toolset for managing customer support and eCommerce operations"
 leadtext: "By combining the two platforms, businesses can improve the efficiency of their support operations and provide better experiences for their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

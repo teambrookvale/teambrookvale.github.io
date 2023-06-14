@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bamboohr/facebook-custom-audiences
 author: Edward Saunders
 title: "BambooHR and Facebook Custom Audiences Integration"
+topic: System Integration
 leadhead: "The integration of BambooHR and Facebook Custom Audiences is a necessary step for businesses looking to streamline their advertising and communication processes"
 leadtext: "With the use of an API or SDK, companies can improve their communication with employees and customers, resulting in increased efficiency, customer satisfaction, and overall success."
 image: /assets/images/articles/people-sitting-near-table.webp

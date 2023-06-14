@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/calldrip/goto-training
 author: Edward Saunders
 title: "Calldrip and GoTo Training: A Perfect Integration"
+topic: System Integration
 leadhead: "Integrating Calldrip and GoTo Training can be a game-changer for your business"
 leadtext: "By combining the power of sales acceleration and online training, you can improve your customer experience, increase conversions, and boost your team's productivity. Take advantage of their API and SDK to build custom integrations that suit your unique needs and transform the way you do business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/whmcs/zoho-crm
 author: Edward Saunders
 title: "Integration of WHMCS and Zoho CRM"
+topic: System Integration
 leadhead: "The integration of WHMCS and Zoho CRM through API or SDK is a valuable tool for businesses that want to streamline their operations, improve customer experience, and gain better insights into their customer behavior"
 leadtext: "By automating the data transfer and providing a comprehensive view of customer interactions and transactions, businesses can save time, reduce errors, and make informed decisions that align with their customer needs and goals."
 image: /assets/images/articles/people-sitting-near-table.webp

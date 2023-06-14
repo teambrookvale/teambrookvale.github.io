@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/namely
 author: Edward Saunders
 title: "BigCommerce and Namely Integration"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Namely can help businesses save time, increase efficiency, and reduce errors"
 leadtext: "Whether you choose to integrate through API or SDK, the benefits of this integration are clear. With this integration, businesses can easily manage their e-commerce website and their HR system, and focus on running a successful business."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento/solve-crm
 author: Edward Saunders
 title: "Magento and Solve CRM Integration"
+topic: System Integration
 leadhead: "In conclusion, Magento and Solve CRM integration is an excellent way for businesses to improve their e-commerce operations and their customer relationship management"
 leadtext: "It allows businesses to achieve better efficiency, accuracy, and customer engagement. Businesses can choose to integrate the two platforms using an API or an SDK, depending on their specific needs. Overall, the integration of Magento and Solve CRM is a great investment for any business that needs to manage its e-commerce store and customer data more effectively."
 image: /assets/images/articles/people-sitting-near-table.webp

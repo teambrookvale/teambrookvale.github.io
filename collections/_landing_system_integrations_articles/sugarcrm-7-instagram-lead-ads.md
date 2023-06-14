@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/instagram-lead-ads
 author: Edward Saunders
 title: "SugarCRM 7+ and Instagram Lead Ads Integration: Solving Business Problems"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Instagram Lead Ads provides businesses with a seamless and efficient way to collect leads from Instagram"
 leadtext: "It eliminates the need for manual data entry, ensures the accuracy of data, and allows businesses to make data-driven decisions. By using the API or SDK integration, businesses can improve their lead generation efforts, resulting in better customer relationships and increased revenue."
 image: /assets/images/articles/people-sitting-near-table.webp

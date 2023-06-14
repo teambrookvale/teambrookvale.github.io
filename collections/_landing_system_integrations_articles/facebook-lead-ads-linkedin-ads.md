@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/linkedin-ads
 author: Edward Saunders
 title: "The Benefits of Integrating Facebook Lead Ads and LinkedIn Ads"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads and LinkedIn Ads is a smart move for businesses that want to increase the effectiveness of their advertising campaigns and improve the quality of their leads"
 leadtext: "Businesses can benefit from the reach and targeting capabilities of both platforms by syncing leads and managing them in one place. This integration is a win-win for businesses that are looking to increase their reach, improve lead quality, and streamline lead management."
 image: /assets/images/articles/people-sitting-near-table.webp

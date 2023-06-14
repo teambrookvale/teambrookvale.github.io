@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/linkedin-ads/amazon-cloudfront
 author: Edward Saunders
 title: "How LinkedIn Ads and Amazon CloudFront Integration Can Benefit Your Business"
+topic: System Integration
 leadhead: "The integration of LinkedIn Ads and Amazon CloudFront can provide several benefits to businesses"
 leadtext: "By automating the process of creating and managing ads on LinkedIn and speeding up the delivery of web content through CloudFront, businesses can save time and effort while also improving the user experience. This can ultimately lead to higher conversion rates and increased customer satisfaction. So, if you're not already using these services, it's time to start exploring them and see how they can benefit your business."
 image: /assets/images/articles/people-sitting-near-table.webp

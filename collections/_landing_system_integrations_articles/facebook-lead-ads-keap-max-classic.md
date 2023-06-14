@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/facebook-lead-ads/keap-max-classic
 author: Edward Saunders
 title: "Integrating Facebook Lead Ads and Keap Max Classic through API"
+topic: System Integration
 leadhead: "Integrating Facebook Lead Ads and Keap Max Classic through API or SDK is an excellent solution for businesses that want to streamline their lead generation and management processes"
 leadtext: "With this integration, businesses can save time and avoid manual data entry errors, improving their overall efficiency and effectiveness in reaching potential customers."
 image: /assets/images/articles/people-sitting-near-table.webp

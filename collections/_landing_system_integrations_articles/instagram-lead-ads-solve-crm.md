@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/instagram-lead-ads/solve-crm
 author: Edward Saunders
 title: "Integration of Instagram Lead Ads and Solve CRM"
+topic: System Integration
 leadhead: "The integration of Instagram Lead Ads and Solve CRM has become essential for businesses looking to effectively manage their leads and convert them into customers"
 leadtext: "This integration helps in automating lead capture and management, leading to better lead nurturing and increased conversions. If you're looking to maximize the potential of your Instagram lead generation efforts, integrating with Solve CRM should be a top priority."
 image: /assets/images/articles/people-sitting-near-table.webp

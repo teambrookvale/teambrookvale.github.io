@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/keap-max-classic
 author: Edward Saunders
 title: "Benefits of integrating Chargify and Keap Max Classic"
+topic: System Integration
 leadhead: "The integration of Chargify and Keap Max Classic provides businesses with a powerful solution for managing their subscription billing and customer management tasks"
 leadtext: "By automating these processes and providing personalized experiences for customers, businesses can save time, reduce errors, and improve their overall customer management."
 image: /assets/images/articles/people-sitting-near-table.webp

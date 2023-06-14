@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/xero/sugarcrm-7-
 author: Edward Saunders
 title: "Xero and SugarCRM Integration: The Perfect Match"
+topic: System Integration
 leadhead: "The integration of Xero and SugarCRM 7+ is a powerful combination that can offer businesses significant benefits"
 leadtext: "By reducing data entry, improving accuracy, enhancing efficiency, and providing better customer management, the integration can help businesses achieve greater productivity and success. So, if you haven't integrated these two systems yet, it's time to dive in and enjoy the benefits of a perfect match."
 image: /assets/images/articles/people-sitting-near-table.webp

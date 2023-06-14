@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/snowflake/amazon-ec2
 author: Edward Saunders
 title: "Integration of Snowflake and Amazon EC2"
+topic: System Integration
 leadhead: "The integration of Snowflake and Amazon EC2 is a powerful solution that offers businesses scalability, security, and flexibility"
 leadtext: "By leveraging the strengths of these two technologies, businesses can improve their productivity, efficiency, and competitiveness in the market. If you're looking for a way to store and analyze large amounts of data while running your applications and workloads in the cloud, the integration of Snowflake and Amazon EC2 is the solution for you."
 image: /assets/images/articles/people-sitting-near-table.webp

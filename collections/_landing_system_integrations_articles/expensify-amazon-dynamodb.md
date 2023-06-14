@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/amazon-dynamodb
 author: Edward Saunders
 title: "Expensify and Amazon DynamoDB Integration"
+topic: System Integration
 leadhead: "Expensify and Amazon DynamoDB integration is an excellent way to optimize your expense management processes"
 leadtext: "You can store, retrieve, and process all your expense data in real-time and at a scale that suits your business needs. The integration allows you to focus on growing your business by providing an efficient and reliable system to handle expenses."
 image: /assets/images/articles/people-sitting-near-table.webp

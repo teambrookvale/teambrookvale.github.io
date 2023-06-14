@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-7-/google-bigquery
 author: Edward Saunders
 title: "SugarCRM 7+ & Google BigQuery Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM 7+ and Google BigQuery is a powerful solution for businesses seeking to gain a more comprehensive understanding of their customers"
 leadtext: "By leveraging the strengths of these two platforms, businesses can unify their data and gain valuable insights that can drive growth and profits."
 image: /assets/images/articles/people-sitting-near-table.webp

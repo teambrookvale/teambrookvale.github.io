@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/google-groups
 author: Edward Saunders
 title: "PostgreSQL and Google Groups Integration: A Powerful Solution"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Google Groups is a powerful solution for improved communication, collaboration, and data security"
 leadtext: "Its ease of use and automation capabilities make it an excellent choice for teams and enterprises looking for efficient and effective ways to manage their database and online groups."
 image: /assets/images/articles/people-sitting-near-table.webp

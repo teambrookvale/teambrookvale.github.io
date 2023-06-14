@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/xero
 author: Edward Saunders
 title: "SugarCRM and Xero Integration"
+topic: System Integration
 leadhead: "The integration of SugarCRM and Xero is a valuable solution for businesses looking to streamline their sales, marketing, and financial operations"
 leadtext: "Real-time data transfer between these two platforms improves efficiency and accuracy while providing a centralized view of customer data to help businesses make informed decisions. Businesses should consider integrating these platforms to enjoy these benefits."
 image: /assets/images/articles/people-sitting-near-table.webp

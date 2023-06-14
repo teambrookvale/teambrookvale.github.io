@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sql-server/namely
 author: Edward Saunders
 title: "Integration of SQL Server and Namely"
+topic: System Integration
 leadhead: "The integration of SQL Server and Namely through API or SDK provides users with a seamless and efficient way to manage employee data"
 leadtext: "By eliminating manual inputs, reducing data errors, and providing real-time access to information, users are able to increase their productivity, make better decisions, and ultimately, drive business growth."
 image: /assets/images/articles/people-sitting-near-table.webp

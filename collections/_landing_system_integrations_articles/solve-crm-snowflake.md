@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/snowflake
 author: Edward Saunders
 title: "Integrating Solve CRM with Snowflake"
+topic: System Integration
 leadhead: "Integrating Solve CRM with Snowflake through an API or SDK provides businesses with a powerful solution for managing customer relationships and analyzing customer data"
 leadtext: "With this integration, businesses can gain deeper insights into customer behavior, preferences, and needs to make informed business decisions. The benefits of this integration are numerous, and businesses that adopt this solution will have a competitive advantage in their industry."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/namely/bamboohr
 author: Edward Saunders
 title: "Namely BambooHR Integration Benefits"
+topic: System Integration
 leadhead: "The integration of Namely and BambooHR through API or SDK can greatly improve HR functions through automation, compliance, and communication"
 leadtext: "This allows HR departments to focus on more important tasks, like employee engagement and retention, while simultaneously improving accuracy and efficiency. If you're not already using these platforms together, it's definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

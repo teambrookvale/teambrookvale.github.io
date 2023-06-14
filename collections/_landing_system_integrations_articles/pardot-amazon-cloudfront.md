@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/amazon-cloudfront
 author: Edward Saunders
 title: "Pardot and Amazon CloudFront: The Perfect Integration"
+topic: System Integration
 leadhead: "The integration of Pardot and Amazon CloudFront is a powerful tool that can help businesses streamline their marketing and content delivery processes, as well as improve the user experience and increase engagement and conversions"
 leadtext: "If you are looking for the perfect integration to enhance your marketing automation and content delivery efforts, look no further than Pardot and Amazon CloudFront."
 image: /assets/images/articles/people-sitting-near-table.webp

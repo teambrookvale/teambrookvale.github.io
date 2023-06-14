@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/bigcommerce/marketo
 author: Edward Saunders
 title: "BigCommerce and Marketo Integration: A Comprehensive Guide"
+topic: System Integration
 leadhead: "The integration of BigCommerce and Marketo is a powerful ecommerce and marketing solution"
 leadtext: "By integrating the two platforms, businesses can provide customers with a more personalized shopping experience while also improving their marketing campaigns. Whether you choose to use API or SDK, this integration is a must-have for any business looking to streamline their ecommerce and marketing efforts."
 image: /assets/images/articles/people-sitting-near-table.webp

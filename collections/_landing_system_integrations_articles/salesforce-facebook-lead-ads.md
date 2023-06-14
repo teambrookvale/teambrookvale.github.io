@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/salesforce/facebook-lead-ads
 author: Edward Saunders
 title: "Why Salesforce and Facebook Lead Ads Are Better Together"
+topic: System Integration
 leadhead: "Integrating Salesforce and Facebook Lead Ads is a powerful combination that can streamline lead capture and management"
 leadtext: "By automating the process, businesses can save time, reduce errors, and improve follow-up with leads. Whether you choose API or SDK integration, the two tools work seamlessly together to help you grow your business."
 image: /assets/images/articles/people-sitting-near-table.webp

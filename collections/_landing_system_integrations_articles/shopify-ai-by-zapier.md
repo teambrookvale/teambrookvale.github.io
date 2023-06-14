@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/shopify/ai-by-zapier
 author: Edward Saunders
 title: "Shopify and AI Integration by Zapier"
+topic: System Integration
 leadhead: "The integration of Shopify and AI by Zapier offers businesses an opportunity to operate more efficiently, personalize and automate their services"
 leadtext: "The integration solves issues in inventory management, fraud detection, and product recommendations. It creates more frictionless interactions that enhance the customer journey, leads to higher customer retention and revenue for businesses."
 image: /assets/images/articles/people-sitting-near-table.webp

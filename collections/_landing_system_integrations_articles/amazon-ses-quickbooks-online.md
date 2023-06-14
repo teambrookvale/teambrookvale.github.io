@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-ses/quickbooks-online
 author: Edward Saunders
 title: "Amazon SES and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "The integration of Amazon SES and QuickBooks Online can boost your business's efficiency and profitability"
 leadtext: "By automating email communication and syncing data between the two services, you can save time and reduce errors. Whether you choose API or SDK integration, you can enjoy the benefits of a seamless integration to streamline your business processes."
 image: /assets/images/articles/people-sitting-near-table.webp

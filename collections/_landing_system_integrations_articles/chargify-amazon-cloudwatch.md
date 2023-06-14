@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/amazon-cloudwatch
 author: Edward Saunders
 title: "Chargify and Amazon CloudWatch Integration for Better Business Management | Blog"
+topic: System Integration
 leadhead: "The integration of Chargify and Amazon CloudWatch is an effective way for businesses to better manage their financial and operational data in one location"
 leadtext: "Users can monitor their financial transactions and resource usage, correlate data, and set up alarms to address any issues that may arise. This integration offers users better insights into their business operations and enables them to make informed decisions for improved efficiency."
 image: /assets/images/articles/people-sitting-near-table.webp

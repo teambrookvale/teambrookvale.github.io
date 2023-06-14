@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/postgresql/greenhouse
 author: Edward Saunders
 title: "PostgreSQL and Greenhouse Integration"
+topic: System Integration
 leadhead: "The integration of PostgreSQL and Greenhouse is a powerful tool that helps organizations streamline their recruitment processes and improves the accuracy of their data"
 leadtext: "This integration eliminates manual data transfer and reduces errors, resulting in a more efficient recruitment process that saves time and resources. The two systems complement each other, improving data accuracy, enhancing reporting capabilities, and ultimately helping organizations make better hiring decisions."
 image: /assets/images/articles/people-sitting-near-table.webp

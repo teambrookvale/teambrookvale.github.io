@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/quickbooks-online
 author: Edward Saunders
 title: "AWS Lambda and QuickBooks Online Integration"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and QuickBooks Online is a powerful tool for businesses looking to improve their operations"
 leadtext: "By automating data transfer, providing real-time updates, and increasing efficiency, businesses can save time and money, while improving decision making and overall performance. With the continued development of technology, we can only expect further advances in the integration of different software and systems."
 image: /assets/images/articles/people-sitting-near-table.webp

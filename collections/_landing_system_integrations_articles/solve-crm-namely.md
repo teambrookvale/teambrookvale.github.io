@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/solve-crm/namely
 author: Edward Saunders
 title: "Solving CRM Problems with Namely Integration"
+topic: System Integration
 leadhead: "The integration between Solve CRM and Namely is a game-changer for businesses"
 leadtext: "It streamlines operations, eliminates manual data entry, and provides real-time access to accurate information. This results in significant time and cost savings and ensures compliance with HR and sales regulations. Furthermore, it provides employees with an enhanced experience by providing a single platform to access all relevant information. Businesses should consider integrating Namely and Solve CRM to maximize their potential."
 image: /assets/images/articles/people-sitting-near-table.webp

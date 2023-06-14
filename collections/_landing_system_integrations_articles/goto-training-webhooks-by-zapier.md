@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/goto-training/webhooks-by-zapier
 author: Edward Saunders
 title: "How GoTo Training and Webhooks by Zapier Integration Solves Problems"
+topic: System Integration
 leadhead: "The integration of GoTo Training and Webhooks by Zapier via API or SDK provides businesses with a streamlined method for managing training progress"
 leadtext: "The partnership eliminates common problems such as inconsistency in updates, delayed notifications, and manual tracking of training progress. Hence, businesses have a reliable platform that delivers complete and accurate data."
 image: /assets/images/articles/people-sitting-near-table.webp

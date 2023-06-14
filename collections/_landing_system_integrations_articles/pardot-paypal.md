@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/paypal
 author: Edward Saunders
 title: "Integrating Pardot and PayPal for Business Success"
+topic: System Integration
 leadhead: "The integration of Pardot and PayPal is a powerful tool for businesses in today's digital landscape"
 leadtext: "By automating marketing and payment processes, businesses can save time, reduce errors, and ultimately drive more sales. If you're looking to streamline your business processes and improve your customer experience, integrating Pardot and PayPal is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

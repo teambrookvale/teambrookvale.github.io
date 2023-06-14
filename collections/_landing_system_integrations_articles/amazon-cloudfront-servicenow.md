@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-cloudfront/servicenow
 author: Edward Saunders
 title: "Integration of Amazon CloudFront and ServiceNow"
+topic: System Integration
 leadhead: "Integrating Amazon CloudFront and ServiceNow through APIs or SDKs offers several benefits for businesses and organizations, including automation, tracking, reporting, and streamlined workflows"
 leadtext: "By using the two services together, businesses can operate more efficiently and effectively, leading to increased productivity and cost savings in the long run."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/zoho-crm/greenhouse
 author: Edward Saunders
 title: "Integrating Zoho CRM and Greenhouse for Streamlined Business Processes"
+topic: System Integration
 leadhead: "Integrating Zoho CRM and Greenhouse through API or SDK can bring a range of benefits to businesses, including streamlining processes, improving data accuracy, and providing valuable insights"
 leadtext: "By leveraging the power of these platforms together, businesses can improve their efficiency and gain a competitive edge."
 image: /assets/images/articles/people-sitting-near-table.webp

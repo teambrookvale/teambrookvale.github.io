@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/pardot/instagram-lead-ads
 author: Edward Saunders
 title: "Pardot & Instagram Lead Ads - Integration through API/SDK"
+topic: System Integration
 leadhead: "The integration of Pardot and Instagram Lead Ads through API or SDK can bring many benefits to businesses, including increased efficiency, faster lead generation, and better insights into customer interactions"
 leadtext: "It is a valuable tool for companies looking to take their marketing automation to the next level. By streamlining their lead generation process and providing them with a more complete view of their customers, businesses can improve their sales pipeline and drive revenue growth."
 image: /assets/images/articles/people-sitting-near-table.webp

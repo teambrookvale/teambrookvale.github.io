@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/mysql/calldrip
 author: Edward Saunders
 title: "Integration of MySQL and Calldrip"
+topic: System Integration
 leadhead: "Integration of MySQL and Calldrip is a smart choice for businesses that want to improve their lead conversion rates and automate the transfer of data"
 leadtext: "By using an API or SDK, businesses can authenticate and connect the two systems, eliminating data inconsistencies and inaccuracies. This integration can lead to improved data accuracy and efficiency, which can ultimately lead to increased business growth and success."
 image: /assets/images/articles/people-sitting-near-table.webp

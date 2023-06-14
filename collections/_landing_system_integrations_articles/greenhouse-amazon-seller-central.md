@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/greenhouse/amazon-seller-central
 author: Edward Saunders
 title: "Greenhouse and Amazon Seller Central Integration"
+topic: System Integration
 leadhead: "Integrating Greenhouse and Amazon Seller Central can help businesses simplify their hiring process, save valuable time, and improve their workflow"
 leadtext: "By automating job postings and candidate tracking, business owners and hiring managers can focus on finding the best-fit candidates for their organization. So, if you're an online retailer looking to streamline your recruitment process, it may be worth considering integrating these two platforms."
 image: /assets/images/articles/people-sitting-near-table.webp

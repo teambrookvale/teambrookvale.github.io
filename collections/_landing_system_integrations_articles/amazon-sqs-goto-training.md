@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-sqs/goto-training
 author: Edward Saunders
 title: "Integrating Amazon SQS and GoTo Training"
+topic: System Integration
 leadhead: "The integration of Amazon SQS and GoTo Training through API or SDK is a powerful combination that improves the efficiency and effectiveness of online training"
 leadtext: "Whether you're a small business owner conducting online training for employees or a large organization delivering training to clients worldwide, this integration can help you achieve your training goals. With the flexibility and scalability of Amazon SQS and the robust features of GoTo Training, you can create a seamless and engaging training experience that drives results."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/expensify/chargify
 author: Edward Saunders
 title: "Expensify and Chargify Integration: A Solution to Your Business Woes"
+topic: System Integration
 leadhead: "Overall, the integration of Expensify and Chargify is a solution to your business woes"
 leadtext: "It simplifies the expense management and billing process, allowing businesses to be more organized and efficient. If you're looking to streamline your business processes, this integration is definitely worth considering."
 image: /assets/images/articles/people-sitting-near-table.webp

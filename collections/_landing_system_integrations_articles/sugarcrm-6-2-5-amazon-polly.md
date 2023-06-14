@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/sugarcrm-6-2-5/amazon-polly
 author: Edward Saunders
 title: "Integrating SugarCRM 6.2-5 with Amazon Polly using API/SDK"
+topic: System Integration
 leadhead: "The integration of SugarCRM 6.2-5 with Amazon Polly is a game-changer for businesses looking to improve their customer support process"
 leadtext: "By leveraging the power of text-to-speech technologies, businesses can automate their support process, reduce wait times, and provide a better overall experience for their customers. Additionally, generating audio versions of sales proposals and other documents using Polly significantly improves the effectiveness of the sales process. Overall, this integration is highly recommended for businesses looking to stay ahead of the competition and cater to the changing needs of their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

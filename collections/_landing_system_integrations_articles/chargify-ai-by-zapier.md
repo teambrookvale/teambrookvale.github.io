@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/chargify/ai-by-zapier
 author: Edward Saunders
 title: "Chargify and AI by Zapier Integration - A Powerful Duo"
+topic: System Integration
 leadhead: "The integration of Chargify and AI by Zapier can be a game-changer for businesses looking to automate their billing processes, reduce manual tasks, and improve customer support"
 leadtext: "With the power of AI, businesses can deliver personalized experiences that meet individual customer needs, and with Chargify, they can automate their billing processes to save time and boost efficiency. By integrating these two tools, businesses can solve a wide range of problems and streamline their operations."
 image: /assets/images/articles/people-sitting-near-table.webp

@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/aws-lambda/amazon-dynamodb
 author: Edward Saunders
 title: "Empowering your AWS Solution with AWS Lamda and Amazon DynamoDB"
+topic: System Integration
 leadhead: "The integration of AWS Lambda and Amazon DynamoDB is a powerful solution for developers looking to build scalable, cost-effective, and serverless applications"
 leadtext: "With the ability to handle big data, the integration of these two solutions can help developers quickly and easily develop applications that scale to meet the demands of their users. So, start integrating AWS Lambda with Amazon DynamoDB and experience the full power of AWS today!"
 image: /assets/images/articles/people-sitting-near-table.webp

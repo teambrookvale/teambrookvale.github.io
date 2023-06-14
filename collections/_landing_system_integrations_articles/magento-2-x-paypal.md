@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/magento-2-x/paypal
 author: Edward Saunders
 title: "Magento 2.X and PayPal Integration"
+topic: System Integration
 leadhead: "The integration of Magento 2.X and PayPal is a good choice for businesses looking for a reliable and secure payment option for their online store"
 leadtext: "It can help optimize the payment process, reduce errors and delays, and boost customer satisfaction. Additionally, it allows merchants to offer various payment options to their customers."
 image: /assets/images/articles/people-sitting-near-table.webp

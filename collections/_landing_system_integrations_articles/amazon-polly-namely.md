@@ -2,6 +2,7 @@
 permalink: /landings/system-integrations/amazon-polly/namely
 author: Edward Saunders
 title: "Amazon Polly and Namely Integration"
+topic: System Integration
 leadhead: "The integration of Amazon Polly and Namely brings with it many benefits"
 leadtext: "With audio files, HR communication becomes more effective and efficient. It also improves accessibility and engagement towards employees. Overall, this integration enhances the overall employee experience at an organization."
 image: /assets/images/articles/people-sitting-near-table.webp
