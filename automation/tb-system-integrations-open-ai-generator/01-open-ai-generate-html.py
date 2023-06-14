@@ -9,7 +9,7 @@ import os
 ROOT_FOLDER = 'automation/tb-system-integrations-open-ai-generator'
 HTML_FOLDER = f'{ROOT_FOLDER}/html'
 JSON_FOLDER = f'{ROOT_FOLDER}/json'
-MD_FOLDER = f'{ROOT_FOLDER}/md'
+MD_FOLDER = f'collections/_landing_system_integrations_articles'
 
 md_files = os.listdir(MD_FOLDER)
 md_file_names = [os.path.splitext(x)[0] for x in md_files]
@@ -24,7 +24,7 @@ print(f'{len(set(md_file_names).intersection(html_file_names))} of {len(html_fil
 conn = sqlite3.connect('open-ai-generator-sqlite.db')
 conn.execute('CREATE TABLE IF NOT EXISTS posts (id INTEGER PRIMARY KEY, platform_1 TEXT, platform_2 TEXT, file_name TEXT, html TEXT, response TEXT, created_at DATETIME DEFAULT CURRENT_TIMESTAMP)')
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 def generate_open_ai_messages(platfrom_1, platform_2):
     prompt = f'''
@@ -48,18 +48,24 @@ def insert_blog_post(platform_1, platform_2, file_name, html, response):
     conn.execute("INSERT INTO posts (platform_1, platform_2, file_name, html, response) values (?, ?, ?, ?, ?)", (platform_1, platform_2, file_name, html, response))
     conn.commit()
 
+def url_safe(s):
+    return re.sub(r'\W+', '-', s).lower()
+
+def url_safe_platform_combination(pc):
+    return pc[0] + '-' + pc[1]
+
 platforms = []
 
 with open(f'{ROOT_FOLDER}/zapier-premier-platforms.txt', 'r') as file:
     platforms = [x.strip() for x in file.readlines()]
 
-platform_permutations = list(itertools.product(platforms, platforms))
+platform_combinations = list(itertools.product(platforms, platforms))
 
-for p in platform_permutations:
+for p in platform_combinations:
     #if p[0] == p[1] or is_generated(p[0], p[1]):
     #    continue
 
-    file_name = re.sub(r'\W+', '-', p[0] + '-' + p[1]).lower()
+    file_name = url_safe_platform_combination(p)
 
     if file_name in md_file_names:
         continue
