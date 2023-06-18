@@ -49,24 +49,32 @@ technologies = [
     'Python',
     'React',
     'Ruby on Rails',
+    'Rust',
     'Scala',
     'Svelte',
     'Vue.js',
 ]
 
 locations = [
-    'Sydney',
     'Adelaide',
     'Auckland',
     'Australia',
     'Brisbane',
     'Cairns',
+    'Canberra',
+    'Christchurch',
     'Darwin',
     'Gold Coast',
+    'Hobart',
     'Melbourne',
+    'Newcastle',
     'New Zealand',
     'Perth',
     'Singapore',
+    'Sunshine Coast',
+    'Sydney',
+    'Wellington',
+    'Wollongong'
 ]
 
 def tech_lower_url_safe(tech):
