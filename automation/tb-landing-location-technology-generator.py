@@ -58,6 +58,7 @@ technologies = [
     'Scala',
     'Svelte',
     'Vue.js',
+    'Zig'
 ]
 
 locations = [
