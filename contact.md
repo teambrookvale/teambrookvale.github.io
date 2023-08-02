@@ -18,61 +18,7 @@ description: "We develop software products and provide digital platform engineer
             </div>
         </div>
     </div>
-    <div class="inner flex sb">
-        <div style="width: 659px">
-            <h2>Sign up for your Project Discovery Workshop</h2>
-            <div class="mid gray">
-                Team Brookvale helps you improving business efficiency through implementing automation solutions,
-                system integrations and mobile technologies. From React front-end through .NET Core backend development to 
-                iOS business apps Team Brookvale provides a full consulting and development service.
-                Take advantage of working with a local development team!
-            </div>
-            <div class="contact semibold" style="margin: 30px 0 40px 0">
-                <div class="floleft" style="width: 150px">Phone:</div>
-                <div class="bluetext"><a class="phone-number" href="tel:{{ site.data.text.footer.phone }}">{{
-                        site.data.text.footer.phone }}</a></div>
-                <div class="floleft" style="width: 150px">Email:</div>
-                <div class="bluetext">{{ site.data.text.footer.email }}</div>
-            </div>
-            <div>
-                <a href="https://www.linkedin.com/company/team-brookvale/" class="socialmedia tw"><i
-                        class="fab fa-linkedin"></i></a>
-                <a href="https://www.facebook.com/teambrookvale" class="socialmedia fb"><i
-                        class="fab fa-facebook-f"></i></a>
-                <a href="http://twitter.com/teambrookvale" class="socialmedia tw"><i class="fab fa-twitter"></i></a>
-            </div>
-        </div>
-        <div style="width: 460px">
-            <form id="contactForm" style="margin-bottom: 20px" onsubmit="sendEmail();return false">
-                <input class="d-none" name="additional_field" type="text" />
-                <div class="row">
-                    <label>Name</label>
-                    <input type="text" required name="name" placeholder="Name">
-                </div>
-                <div class="flex sb">
-                    <div style="width: 48%">
-                        <div class="row">
-                            <label>Email</label>
-                            <input type="email" required name="from_email" placeholder="Email">
-                        </div>
-                    </div>
-                    <div style="width: 48%">
-                        <div class="row">
-                            <label>Phone number</label>
-                            <input type="text" required name="phone" placeholder="Phone number">
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <label>Message</label>
-                    <textarea name="message" required placeholder="Your message here..."></textarea>
-                </div>
-                <div class="row buttons">
-                    <button id="submit-button" type="submit">Send message</button>
-                </div>
-            </form>
-        </div>
-    </div>
+    {% include contact.html %}
     <div class="container">
         <hr class="separator" />
     </div>
