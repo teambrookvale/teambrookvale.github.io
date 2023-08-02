@@ -97,14 +97,4 @@ description: "We develop software products and provide digital platform engineer
     </div>
 </div>
 
-<div class="projects">
-    <div class="flex">
-        <div>
-            <h2>{{ site.data.text.home.doyouliketitle }}</h2>
-            <p class="gray">{{ site.data.text.home.doyoulikedescription }}</p>
-        </div>
-        <div>
-            <button onclick="top.location.href = '/contact'">{{ site.data.text.home.letsmakebuttontext}}</button>
-        </div>
-    </div>
-</div>
+{% include contact.html %}
