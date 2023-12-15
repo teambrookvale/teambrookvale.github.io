@@ -47,3 +47,45 @@
         </div>
     </div>
 </div>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
+<script type="text/javascript">
+    (function () {
+        emailjs.init("user_knG2BzWL3cFIviNKOkKF5");
+    })();
+</script>
+<script type="text/javascript">
+    function getIp(json) {
+        window.ipAddress = json.ip;
+    }
+
+    function sendEmail(event) {
+        var button = document.getElementById("submit-button");
+        var service_id = 'service_n2jn6bm';
+        var template_id = 'contact_form';
+        var form = document.forms['contactForm'];
+        var templateParams = {
+            name: form["name"].value,
+            from_email: form["from_email"].value,
+            phone: form["phone"].value,
+            message: form["message"].value,
+            ip: window.ipAddress != null && window.ipAddress != undefined ? window.ipAddress : "N/A"
+        };
+
+        if (form["additional_field"].value != "") {
+            return;
+        }
+
+        button.innerHTML = '<span><i class="fas fa-spinner fa-spin"></i> Sending...</span>';
+        button.disabled = true;
+
+        emailjs.send(service_id, template_id, templateParams)
+            .then(function (response) {
+                button.innerHTML = '<span><i class="fas fa-check"></i> Message sent!</span>';
+            }, function (error) {
+                button.disabled = false;
+                button.innerHTML = 'Send message';
+                alert("We are terribly sorry, but we have not been able to send your message. Please try again or contact us via email: sales@teambrookvale.com.au. Thank you!")
+            });
+    }  
+</script>
+<script type="text/javascript" src="https://api.ipify.org?format=jsonp&callback=getIp"></script>
