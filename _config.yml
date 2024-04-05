@@ -66,6 +66,7 @@ url: https://teambrookvale.com.au
 plugins:
     - jekyll-sitemap
     - jekyll-last-modified-at
+    - jekyll-redirect-from
 
 description: "Team Brookvale has extensive experience in social media API integration and developing automation software. We provide complete software development services from idea through development to maintenance."
 
