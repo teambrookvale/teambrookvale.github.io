@@ -50,24 +50,9 @@
       "ledAssesment": "Explore our hands-on, expert led assessment, review and best practice workshop."
     }
   },
-  "nuix": {
-    "nuixAutomation": {
-      "header": "Nuix Automation",
-      "text": "We develop Nuix Automation Solutions and provide digital platform engineering services worldwide."
-    },
-    "nuixAutomationConsulting": {
-      "header": "Automation Consulting",
-      "text": "We build Automation Solutions through designing and implementing bespoke Nuix scripts and Java extensions and integrations."
-    },
-    "nuixAutomationSoftwareAndApiIntegration": {
-      "header": "Automation software and API integration",
-      "text": "Team Brookvale has extensive experience in API integration and developing automation software. We provide complete software development services from concept through development to maintenance."
-    }
-  },
   "nav": {
     "home": "Home",
     "articles": "Articles",
-    "nuix": "Nuix Partner",
     "contact": "Contact"
   },
   "footer": {
