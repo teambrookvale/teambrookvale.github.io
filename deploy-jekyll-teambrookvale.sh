@@ -1,5 +1,6 @@
 #!/bin/bash
 # Install Ruby Gems to ~/gems
+sudo rsync --recursive --progress --delete /var/www/teambrookvale.com.au/html/ /home/ubuntu/teambrookvale.github.io/_site_backup/ 
 export GEM_HOME="$HOME/gems"
 export PATH="$HOME/gems/bin:$PATH"
 cd /home/ubuntu/teambrookvale.github.io
