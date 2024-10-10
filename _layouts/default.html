@@ -148,6 +148,12 @@
                 return;
             }
 
+            if (form["from_email"].value.includes('gary.charles@dominatingkeywords.com')) {
+                button.disabled = true;
+                button.innerHTML = '<span><i class="fas fa-check"></i> Message sent!</span>';
+                return;
+            }
+
             button.innerHTML = '<span><i class="fas fa-spinner fa-spin"></i> Sending...</span>';
             button.disabled = true;
 
