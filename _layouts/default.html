@@ -136,9 +136,10 @@
             var service_id = 'service_n2jn6bm';
             var template_id = 'contact_form';
             var form = document.forms['contactForm'];
+            var email = form["from_email"].value;
             var templateParams = {
                 name: form["name"].value,
-                from_email: form["from_email"].value,
+                from_email: email,
                 phone: form["phone"].value,
                 message: form["message"].value,
                 ip: window.ipAddress != null && window.ipAddress != undefined ? window.ipAddress : "N/A"
@@ -148,7 +149,9 @@
                 return;
             }
 
-            if (form["from_email"].value.includes('dominatingkeywords.com')) {
+            if (email.includes('dominatingkeywords.com') ||
+                email.includes('alabamahomenetwoks.com'))
+            {
                 button.disabled = true;
                 button.innerHTML = '<span><i class="fas fa-check"></i> Message sent!</span>';
                 return;
