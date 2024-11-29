@@ -5,7 +5,7 @@ boxclassname: black
 author: "Thomas Saunders"
 topic: "Development"
 title: "Playwright vs Selenium: A Comparison for Modern Web Testing"
-leadhead: "When it comes to end-to-end (E2E) testing of web applications, two names dominate the conversation: Playwright** and Selenium."
+leadhead: "When it comes to end-to-end (E2E) testing of web applications, two names dominate the conversation: Playwright and Selenium."
 leadtext: "Both are powerful testing frameworks used for automating browsers, but they differ in many aspects. Choosing the right tool for your testing needs depends on various factors such as performance, ease of use, community support, and the specific requirements of your project."
 image: /assets/images/articles/Playwright.webp
 date: '2024-11-16 12:01:00'
@@ -133,7 +133,7 @@ Selenium also integrates well with CI/CD pipelines, and it’s supported by most
 | **Cross-browser Support**| Chromium, Firefox, WebKit    | Chrome, Firefox, Safari, Edge |
 | **Ease of Setup**       | Easy, automatic browser install | Requires separate driver setups |
 | **Feature Set**         | Headless, auto-waiting, network interception, multiple contexts | Basic functionality, limited built-in features |
-| **Community & Ecosystem**| Growing quickly, backed by Microsoft | Large, established community |
+| **Community**| Growing quickly, backed by Microsoft | Large, established community |
 | **Language Support**    | JS/TS, Python, C#, Java      | Java, Python, JS, C#, Ruby    |
 | **CI/CD Integration**   | Seamless, faster execution   | Widely supported, but slower  |
 
