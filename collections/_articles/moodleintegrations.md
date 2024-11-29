@@ -7,13 +7,13 @@ topic: "Development"
 title: "Unlocking the Power of Moodle: Use Cases and Key Integrations"
 leadhead: "Moodle (Modular Object-Oriented Dynamic Learning Environment) is one of the most widely used open-source learning management systems (LMS) worldwide."
 leadtext: "Known for its flexibility and scalability, Moodle empowers educators, businesses, and organizations to create personalized learning environments tailored to their specific needs"
-image: /assets/images/articles/machine-learning.webp
+image: /assets/images/articles/Moodle-Integration.webp
 date: '2024-11-17 12:01:00'
 ---
 
 <div class="arttext" style="text-align:justify;" markdown="1">
 
-<img style="padding-bottom:2.5em;width:100%;" src="/assets/images/articles/machine-learning.webp" alt="Moodle" />
+<img style="padding-bottom:2.5em;width:100%;" src="/assets/images/articles/Moodle-Integration.webp" alt="Moodle" />
 
 Moodle's true potential lies in how it can be extended and enhanced with integrations. Let’s explore Moodle’s use cases and how strategic integrations can transform it into a robust e-learning powerhouse.
 
