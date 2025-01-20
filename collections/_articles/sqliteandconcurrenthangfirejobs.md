@@ -11,6 +11,8 @@ image: /assets/images/articles/sqliteandconcurrenthangfirejobs.webp
 date: '2025-01-05 12:01:00'
 ---
 
+<div class="arttext" style="text-align:justify;" markdown="1">
+
 <img style="padding-bottom:2.5em;width:100%;" src="/assets/images/articles/sqliteandconcurrenthangfirejobs.webp" alt="Moodle" />
 
 ### Understanding SQLite’s Concurrency Model
