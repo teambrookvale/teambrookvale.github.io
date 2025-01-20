@@ -9,14 +9,11 @@ leadhead: "If you’re using Hangfire for background job processing and have cho
 leadtext: "The symptoms might include jobs getting stuck, slow performance, or the infamous ""database is locked"" errors. In this post, we’ll explore why SQLite struggles under concurrent Hangfire jobs and how you can resolve these issues."
 image: /assets/images/articles/sqliteandconcurrenthangfirejobs.webp
 date: '2025-01-05 12:01:00'
-
 ---
 
 <div class="arttext" style="text-align:justify;" markdown="1">
 
 <img style="padding-bottom:2.5em;width:100%;" src="/assets/images/articles/sqliteandconcurrenthangfirejobs.webp" alt="Moodle" />
-
----
 
 ### 1. **Understanding SQLite’s Concurrency Model**
 SQLite is a **lightweight, file-based database** that is designed for simplicity and portability. It operates with a **single-writer, multiple-reader** concurrency model, which means:
@@ -26,8 +23,6 @@ SQLite is a **lightweight, file-based database** that is designed for simplicity
 
 To enforce this model, SQLite uses **database-level locking**. When a write operation is initiated, SQLite locks the entire database file, preventing other writes until the first write completes. While this behavior works well for low-throughput applications, it becomes a bottleneck in scenarios where many concurrent writes occur, such as with Hangfire.
 
----
-
 ### 2. **How Hangfire Uses the Database**
 Hangfire is a popular library for background job processing in .NET. It relies heavily on the database to manage its job queue, state transitions, and scheduling. Specifically:
 
@@ -36,8 +31,6 @@ Hangfire is a popular library for background job processing in .NET. It relies h
 - **Managing Recurring Jobs**: Periodic jobs trigger database writes as their schedules are updated.
 
 When multiple Hangfire workers execute jobs concurrently, they frequently **read from and write to the database**. This can overwhelm SQLite’s concurrency model, as SQLite cannot handle multiple simultaneous write operations.
-
----
 
 ### 3. **Why SQLite Struggles with Hangfire’s Workload**
 Here are the specific reasons SQLite struggles when Hangfire jobs are executed concurrently:
@@ -59,8 +52,6 @@ Here are the specific reasons SQLite struggles when Hangfire jobs are executed c
 
 The result? **"Database is locked" errors**, slow job execution, and overall degraded performance.
 
----
-
 ### 4. **Symptoms of SQLite Struggling with Hangfire**
 When SQLite cannot handle the concurrent Hangfire jobs, you might observe the following:
 
@@ -70,8 +61,6 @@ When SQLite cannot handle the concurrent Hangfire jobs, you might observe the fo
 - The system experiences timeouts due to long-running transactions.
 
 These issues occur because SQLite cannot efficiently handle the contention caused by multiple workers trying to write to the database at the same time.
-
----
 
 ### 5. **How to Resolve These Issues**
 The good news is that there are solutions to address SQLite’s concurrency limitations with Hangfire. Here are your options:
@@ -116,8 +105,6 @@ Minimize unnecessary writes to the database. For example:
 - Combine related jobs into a single job to reduce enqueuing overhead.
 - Reduce the frequency of job status updates.
 
----
-
 ### 6. **Conclusion**
 SQLite is an excellent database for lightweight applications, but it is not designed for high-concurrency workloads like those created by Hangfire. Its file-level locking and single-writer limitations make it a poor fit for scenarios where multiple jobs execute concurrently and perform frequent database writes.
 
@@ -127,11 +114,7 @@ If you’re unable to switch databases, reducing worker concurrency and enabling
 
 By understanding SQLite’s limitations and Hangfire’s behavior, you can make informed decisions to improve the performance and reliability of your background job processing system.
 
----
-
 **Have you faced similar issues with SQLite and Hangfire? How did you resolve them? Share your experiences in the comments below!**
-
-
 
 If you would rather have a professional team do the heavy lifting for you, or have any questions please feel free to contact Team Brookvale [here](https://teambrookvale.com.au/contact).
 </div>
